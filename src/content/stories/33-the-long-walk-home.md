@@ -90,13 +90,19 @@ And Gunner stayed.
 
 Tiger watched all of this from his usual perch on the porch railing.
 
-Tiger had always understood Bear differently than Gunner did. Where Gunner saw the alpha, the boss, the old king to be respected, Tiger saw something simpler: a warm, grumpy surface to sleep on. Tiger had been sleeping on Bear since he was a kitten — one of the only creatures in the world Bear had never once growled at. Maybe because Tiger was too small to be a threat. Maybe because Tiger never asked for anything. He just showed up, curled into a ball on Bear's back, and stayed.
+Tiger had never liked Bear. This was mutual and well-documented. Bear had chased Tiger off the porch, out of the kitchen, away from food bowls, and once straight up a fence post that Tiger stayed on for two hours out of spite. Bear didn't want Tiger in his space, and Tiger — who had survived coyotes and cold nights and the disappearance of his mother — was not about to take orders from a grumpy old mutt with bad hips and worse manners.
 
-Now Tiger did something he rarely did. He jumped down from the railing, crossed the porch, and curled up against Bear's other side. Bear between Gunner and Tiger, bookended by the two animals who had, in their own very different ways, loved him best.
+They coexisted the way countries coexist when they share a border and don't like each other — with distance, suspicion, and the occasional territorial dispute that ended with a growl and a hiss and someone leaving the room.
+
+So what Tiger did next surprised everyone. Including Tiger.
+
+He jumped down from the railing, crossed the porch, and curled up against Bear's other side. Not on Bear — Tiger had never slept on Bear, never wanted to, never would. But beside him. Close enough to touch. Close enough to feel the old dog's ribs rise and fall.
+
+Bear between Gunner and Tiger, bookended by the two animals who had spent years avoiding each other but who understood, in this moment, that some things are bigger than old grudges.
 
 Bear's tail moved. Just once. Just barely. A single slow wag against the porch boards.
 
-That was as close to affection as Bear ever got. For him, it was practically a love letter.
+Tiger would never admit why he did it. He'd deny it if cats could deny things. But he stayed.
 
 ---
 
@@ -128,7 +134,7 @@ The boys came too. All three of them, quieter than usual, because kids understan
 
 Tiger followed at a distance, doing that cat thing where he appeared on a fence post, disappeared, then reappeared on a rock ahead like he'd teleported. But he was there. He was always there.
 
-Bear made it to the end of the trail and back. He stood on the porch for a long time after, nose raised, smelling the fifteen acres of East Texas he'd patrolled and guarded and complained about for years. The land he'd claimed with every grumpy bark and territorial growl. His kingdom.
+Bear made it to the end of the trail and back. He stood on the porch for a long time after, nose raised, smelling the forty acres of Virginia mountain he'd patrolled and guarded and complained about since they'd arrived. The land he'd claimed with every grumpy bark and territorial growl, the same way he'd claimed every piece of land they'd ever lived on. His last kingdom.
 
 Then he lay down in his spot.
 
@@ -136,7 +142,7 @@ Gunner lay down beside him.
 
 Tiger appeared and settled against Bear's back, one last time.
 
-And the porch was quiet in the way that only a family homestead in East Texas can be quiet — crickets and wind and the slow creak of old wood and the breathing of three animals who'd figured out something most people spend their whole lives trying to learn:
+And the porch was quiet in the way that only a family homestead in the Virginia mountains can be quiet — crickets and wind and the slow creak of old wood and the breathing of three animals who'd figured out something most people spend their whole lives trying to learn:
 
 You don't have to like someone to love them.
 
