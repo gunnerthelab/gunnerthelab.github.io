@@ -27,6 +27,13 @@ const familyPhotos = [
     { src: '/images/the_dad_chicken.jpg', alt: 'Dad holding a chicken in overalls', caption: 'Dad and a chicken. No further context needed.' },
     { src: '/images/granddad-dad-kids.jpg', alt: 'Dad, his father, and the three boys on the porch', caption: 'Three generations on the porch' },
 ];
+
+const bearPhotos = [
+    { src: '/images/9b3461e0-285e-4266-b01b-6c1402f775ef.jpeg', alt: 'Bear looking up with his big happy grin', caption: 'That rare Bear grin' },
+    { src: '/images/40843b5e-6f6a-45c4-a074-83616697ef75.jpeg', alt: 'Bear and Gunner on the homestead in morning fog', caption: 'Bear and Gunner — morning on the homestead' },
+    { src: '/images/05e726aa-1224-4fb5-8cac-2ed8a5824b27.jpeg', alt: 'Bear and Gunner laying in the yard together', caption: 'Two dogs, one yard' },
+    { src: '/images/ee22a2b2-2bfa-4451-afd3-8f7d663ecde9.jpeg', alt: 'Bear and Gunner sleeping together by the heater', caption: 'Side by side — the quiet moments' },
+];
 ---
 
 <BaseLayout
@@ -54,6 +61,10 @@ const familyPhotos = [
         <PhotoGallery photos={tigerPhotos} class="mb-12 sm:mb-16" />
 
         <h3 class="mb-6 font-serif text-lg font-medium sm:text-xl">The Family</h3>
-        <PhotoGallery photos={familyPhotos} />
+        <PhotoGallery photos={familyPhotos} class="mb-12 sm:mb-16" />
+
+        <h3 class="mb-6 font-serif text-lg font-medium sm:text-xl">Bear (a.k.a. "Grandpa Bear")</h3>
+        <p class="mb-6 text-sm text-gray">The grumpy old alpha. He didn't like anyone in his yard. But he let them stay anyway.</p>
+        <PhotoGallery photos={bearPhotos} />
     </section>
 </BaseLayout>
