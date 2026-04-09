@@ -6,6 +6,7 @@ eraLabel: "East Texas Flashbacks"
 description: "Tiger's origin story. How a tiny tabby kitten born on a Texas homestead decided that the big goofy black dog was, reluctantly, the best warm pillow in the world."
 publishDate: 2025-11-05
 artStyle: "graphite"
+coverImage: "/images/covers/story-10.png"
 draft: false
 order: 10
 ---

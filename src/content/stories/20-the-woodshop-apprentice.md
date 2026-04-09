@@ -5,6 +5,7 @@ era: "boys-and-family"
 eraLabel: "The Boys & Family"
 description: "The oldest boy is building something in the shop. Gunner 'helps' by laying on every tool. Tiger keeps batting screws off the workbench. The project gets done despite them."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-20.png"
 draft: false
 order: 20
 ---

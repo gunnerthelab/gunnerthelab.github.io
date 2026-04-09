@@ -6,6 +6,7 @@ eraLabel: "The Virginia Homestead"
 description: "Gunner discovers a mysterious trail into the hundred acres of woods next door. Tiger reluctantly follows to keep him alive. They find something unexpected."
 publishDate: 2025-11-05
 artStyle: "colored-pencil"
+coverImage: "/images/covers/story-02.png"
 draft: false
 order: 2
 ---

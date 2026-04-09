@@ -5,6 +5,7 @@ era: "seasonal"
 eraLabel: "Seasonal & Holiday"
 description: "Tiger devises his most ambitious plan yet: steal Christmas dinner. Gunner is recruited as muscle. The family catches them mid-heist. Gunner's face says sorry. Tiger's face shows zero remorse."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-24.png"
 draft: false
 order: 24
 ---

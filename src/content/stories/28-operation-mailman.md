@@ -6,6 +6,7 @@ eraLabel: "Adventure Stories"
 description: "Tiger becomes convinced the mailman is a spy. He recruits Gunner for a stakeout. Gunner loves the mailman. This creates significant operational conflict."
 publishDate: 2025-11-05
 artStyle: "colored-pencil"
+coverImage: "/images/covers/story-28.png"
 draft: false
 order: 28
 ---

@@ -5,6 +5,7 @@ era: "big-moves"
 eraLabel: "The Big Moves"
 description: "The family packs up the East Texas homestead. Gunner thinks they're going to the vet. Tiger knows exactly what's happening and has opinions. A chaotic moving-day story."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-14.png"
 draft: false
 order: 14
 ---

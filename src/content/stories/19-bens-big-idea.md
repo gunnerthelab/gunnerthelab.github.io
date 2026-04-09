@@ -5,6 +5,7 @@ era: "boys-and-family"
 eraLabel: "The Boys & Family"
 description: "The youngest boy has a plan involving Gunner, a wagon, a hill, and zero adult supervision. Tiger sees it coming and tries to warn everyone by sitting directly in the path and glaring."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-19.png"
 draft: false
 order: 19
 ---

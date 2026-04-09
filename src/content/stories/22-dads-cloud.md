@@ -5,6 +5,7 @@ era: "boys-and-family"
 eraLabel: "The Boys & Family"
 description: "The boys ask Dad what he does for work. Dad tries to explain cloud architecture. Gunner thinks they're talking about actual clouds. Tiger looks out the window at the sky, deeply unimpressed."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-22.png"
 draft: false
 order: 22
 ---

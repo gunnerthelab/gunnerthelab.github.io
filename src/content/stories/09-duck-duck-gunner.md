@@ -6,6 +6,7 @@ eraLabel: "East Texas Flashbacks"
 description: "The ducks have taken over the pond and Gunner is sent to reclaim it. He ends up swimming laps with them instead. Tiger's plan B involves a garden hose."
 publishDate: 2025-11-05
 artStyle: "graphite"
+coverImage: "/images/covers/story-09.png"
 draft: false
 order: 9
 ---

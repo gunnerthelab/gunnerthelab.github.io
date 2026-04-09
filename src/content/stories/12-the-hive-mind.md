@@ -6,6 +6,7 @@ eraLabel: "East Texas Flashbacks"
 description: "The bees have settled in and Tiger has developed a respectful distance. Gunner still hasn't learned. When one hive gets agitated, Tiger tries to warn Gunner with every cat signal he's got. Gunner interprets this as playtime."
 publishDate: 2025-11-05
 artStyle: "graphite"
+coverImage: "/images/covers/story-12.png"
 draft: false
 order: 12
 ---

@@ -6,6 +6,7 @@ eraLabel: "East Texas Flashbacks"
 description: "Harvest day. The smell of fresh honey fills the air. Tiger devises a plan to get a taste. Gunner just shoves his face where it doesn't belong. The boys try to help Dad extract honey while keeping both animals out of the operation. Nobody succeeds."
 publishDate: 2025-11-05
 artStyle: "graphite"
+coverImage: "/images/covers/story-13.png"
 draft: false
 order: 13
 ---

@@ -5,27 +5,39 @@ import ArrowRight from '../assets/icons/arrow-right.svg';
 type Props = { story: CollectionEntry<'stories'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { story, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, storyNumber, eraLabel, description, draft } = story.data;
+const { title, storyNumber, eraLabel, description, draft, coverImage } = story.data;
 const TitleTag = headingLevel;
 const isPublished = !draft;
 ---
 
 {isPublished ? (
-    <a class:list={['group flex items-start justify-between gap-8', className]} href={`/stories/${story.id}/`}>
-        <div class="grow">
-            <div class="mb-1 flex items-center gap-3">
-                <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
-                <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
+    <a class:list={['group flex items-start gap-4 sm:gap-6', className]} href={`/stories/${story.id}/`}>
+        {coverImage && (
+            <img
+                src={coverImage}
+                alt={title}
+                class="hidden sm:block h-20 w-20 shrink-0 rounded-lg object-cover sm:h-24 sm:w-24"
+                loading="lazy"
+                decoding="async"
+                onerror="this.style.display='none'"
+            />
+        )}
+        <div class="flex grow items-start justify-between gap-8">
+            <div class="grow">
+                <div class="mb-1 flex items-center gap-3">
+                    <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
+                    <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
+                </div>
+                <TitleTag
+                    class="font-serif text-xl leading-tight font-medium group-hover:underline group-hover:decoration-dashed group-hover:decoration-1 group-hover:underline-offset-4 sm:text-2xl"
+                >
+                    {title}
+                </TitleTag>
+                {description && <p class="mt-2 text-sm leading-normal text-gray">{description}</p>}
             </div>
-            <TitleTag
-                class="font-serif text-xl leading-tight font-medium group-hover:underline group-hover:decoration-dashed group-hover:decoration-1 group-hover:underline-offset-4 sm:text-2xl"
-            >
-                {title}
-            </TitleTag>
-            {description && <p class="mt-2 text-sm leading-normal text-gray">{description}</p>}
-        </div>
-        <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:shrink-0 sm:items-center sm:gap-1">
-            Read Story <ArrowRight class="h-4 w-4 fill-current" />
+            <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:shrink-0 sm:items-center sm:gap-1">
+                Read Story <ArrowRight class="h-4 w-4 fill-current" />
+            </div>
         </div>
     </a>
 ) : (

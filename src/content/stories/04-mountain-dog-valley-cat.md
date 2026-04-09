@@ -6,6 +6,7 @@ eraLabel: "The Virginia Homestead"
 description: "The first Virginia winter hits hard. Gunner is thrilled (snow!). Tiger is horrified (snow.). Two very different approaches to the same cold day."
 publishDate: 2025-11-05
 artStyle: "colored-pencil"
+coverImage: "/images/covers/story-04.png"
 draft: false
 order: 4
 ---

@@ -7,6 +7,7 @@ eraLabel: "East Texas Flashbacks"
 description: "Chickens and ducks escape the coop. Gunner charges in to help and makes everything spectacularly worse. Tiger herds three chickens back without moving five feet."
 publishDate: 2025-11-05
 artStyle: "graphite"
+coverImage: "/images/covers/story-07.png"
 draft: false
 order: 7
 ---

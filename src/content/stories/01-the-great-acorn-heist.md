@@ -6,6 +6,7 @@ eraLabel: "The Virginia Homestead"
 description: "Tiger devises a plan to raid the squirrels' acorn stash. Gunner's job: be the distraction. Gunner gets distracted by the distraction."
 publishDate: 2025-11-05
 artStyle: "colored-pencil"
+coverImage: "/images/covers/story-01.png"
 draft: false
 order: 1
 ---

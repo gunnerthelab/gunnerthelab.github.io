@@ -5,6 +5,7 @@ era: "big-moves"
 eraLabel: "The Big Moves"
 description: "The family buys an electric fence. Gunner gets his first zap and won't go outside for days. Tiger strolls in and out freely with maximum smugness."
 publishDate: 2025-11-05
+coverImage: "/images/covers/story-18.png"
 draft: false
 order: 18
 ---
