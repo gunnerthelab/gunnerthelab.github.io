@@ -1,0 +1,59 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PhotoGallery from '../components/PhotoGallery.astro';
+
+const pages = await getCollection('pages');
+const aboutPage = pages.find((p) => p.id === 'about');
+const { Content } = aboutPage ? await render(aboutPage) : { Content: null };
+
+const gunnerPhotos = [
+    { src: '/images/IMG_0683.JPEG', alt: 'Gunner close-up with his big happy grin', caption: 'The face that gets away with everything' },
+    { src: '/images/IMG_0405.JPEG', alt: 'Gunner sitting in the snow with his orange collar', caption: 'Gunner in the snow — majestic and unbothered' },
+    { src: '/images/IMG_8711.JPEG', alt: 'Gunner laying in the Virginia woods', caption: 'The quiet side — Gunner in the Virginia woods' },
+    { src: '/images/the_dad_gunner_2021.jpg', alt: 'Dad and Gunner selfie in the shop', caption: 'Dad and Gunner — Dickies and all' },
+];
+
+const tigerPhotos = [
+    { src: '/images/IMG_0541.JPEG', alt: 'Tiger perched on a fence post at golden hour', caption: 'Tiger on his throne — golden hour, East Texas' },
+    { src: '/images/IMG_0486.JPEG', alt: 'Tiger walking through the snow', caption: 'Tiger in the snow — came back out because Gunner wouldn\'t come in' },
+    { src: '/images/IMG_0545.JPEG', alt: 'Tiger silhouetted on a fence post at sunset', caption: 'Sunset patrol' },
+    { src: '/images/IMG_1493.JPEG', alt: 'Tiger curled up on Gunner by the heater', caption: 'The partnership — Tiger on his favorite pillow' },
+];
+
+const familyPhotos = [
+    { src: '/images/family_east_texas_2021.jpg', alt: 'The family on the East Texas homestead', caption: 'The family — East Texas, 2021' },
+    { src: '/images/boys_donkey.jpg', alt: 'The three boys with the donkey', caption: 'The boys and the donkey' },
+    { src: '/images/the_dad_chicken.jpg', alt: 'Dad holding a chicken in overalls', caption: 'Dad and a chicken. No further context needed.' },
+    { src: '/images/granddad-dad-kids.jpg', alt: 'Dad, his father, and the three boys on the porch', caption: 'Three generations on the porch' },
+];
+---
+
+<BaseLayout
+    title="About the Series"
+    description="Meet Gunner the Lab, Tiger the tabby cat, and the family behind the stories."
+    showHeader={false}
+>
+    <article class="mb-16 sm:mb-24">
+        <header class="mb-8">
+            <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">About the Series</h1>
+        </header>
+        <div class="prose sm:prose-lg max-w-none">
+            {Content && <Content />}
+        </div>
+    </article>
+
+    <section class="mb-16 sm:mb-24">
+        <h2 class="mb-4 font-serif text-2xl italic sm:text-3xl">The Real Cast</h2>
+        <p class="mb-10 text-gray">The real animals and people behind the stories.</p>
+
+        <h3 class="mb-6 font-serif text-lg font-medium sm:text-xl">Gunner</h3>
+        <PhotoGallery photos={gunnerPhotos} class="mb-12 sm:mb-16" />
+
+        <h3 class="mb-6 font-serif text-lg font-medium sm:text-xl">Tiger</h3>
+        <PhotoGallery photos={tigerPhotos} class="mb-12 sm:mb-16" />
+
+        <h3 class="mb-6 font-serif text-lg font-medium sm:text-xl">The Family</h3>
+        <PhotoGallery photos={familyPhotos} />
+    </section>
+</BaseLayout>

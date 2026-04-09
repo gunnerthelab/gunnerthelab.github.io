@@ -1,0 +1,41 @@
+---
+import { type CollectionEntry } from 'astro:content';
+import ArrowLeft from '../assets/icons/arrow-left.svg';
+import ArrowRight from '../assets/icons/arrow-right.svg';
+
+type Props = {
+    prevStory?: CollectionEntry<'stories'> | null;
+    nextStory?: CollectionEntry<'stories'> | null;
+};
+
+const { prevStory, nextStory } = Astro.props;
+---
+
+{
+    (prevStory || nextStory) && (
+        <nav class="border-main mt-12 flex items-stretch border-t border-dashed pt-8 sm:mt-16" aria-label="Story navigation">
+            {prevStory ? (
+                <a href={`/stories/${prevStory.id}/`} class="group flex items-center gap-2 pr-4 hover:text-accent">
+                    <ArrowLeft class="h-4 w-4 shrink-0 fill-current" />
+                    <div>
+                        <div class="text-xs text-gray">Previous Story</div>
+                        <div class="font-serif text-sm font-medium sm:text-base">{prevStory.data.title}</div>
+                    </div>
+                </a>
+            ) : (
+                <div />
+            )}
+            {nextStory ? (
+                <a href={`/stories/${nextStory.id}/`} class="group ml-auto flex items-center gap-2 pl-4 text-right hover:text-accent">
+                    <div>
+                        <div class="text-xs text-gray">Next Story</div>
+                        <div class="font-serif text-sm font-medium sm:text-base">{nextStory.data.title}</div>
+                    </div>
+                    <ArrowRight class="h-4 w-4 shrink-0 fill-current" />
+                </a>
+            ) : (
+                <div />
+            )}
+        </nav>
+    )
+}

@@ -1,0 +1,79 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoryNav from '../../components/StoryNav.astro';
+import Button from '../../components/Button.astro';
+import { sortStoriesByOrder } from '../../utils/data-utils';
+
+export async function getStaticPaths() {
+    const stories = (await getCollection('stories')).sort(sortStoriesByOrder);
+    const storyCount = stories.length;
+    return stories.map((story, index) => ({
+        params: { id: story.id },
+        props: {
+            story,
+            prevStory: index > 0 ? stories[index - 1] : null,
+            nextStory: index + 1 < storyCount ? stories[index + 1] : null
+        }
+    }));
+}
+
+type Props = {
+    story: CollectionEntry<'stories'>;
+    prevStory: CollectionEntry<'stories'> | null;
+    nextStory: CollectionEntry<'stories'> | null;
+};
+
+const { href } = Astro.url;
+const { story, prevStory, nextStory } = Astro.props;
+const { title, storyNumber, subtitle, eraLabel, description, seo } = story.data;
+const { Content } = await render(story);
+---
+
+<BaseLayout
+    title={seo?.title ?? `Story #${storyNumber}: ${title}`}
+    description={seo?.description ?? description}
+    image={seo?.image}
+    pageType="article"
+    showHeader={false}
+>
+    <article class="mb-16 sm:mb-24">
+        <header class="mb-10 sm:mb-12">
+            <div class="mb-3 flex flex-wrap items-center gap-3">
+                <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
+                <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
+            </div>
+            <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>
+            {subtitle && <p class="mt-2 font-serif text-lg italic text-gray sm:text-xl">{subtitle}</p>}
+        </header>
+        <div class="prose prose-story sm:prose-lg max-w-none">
+            <Content />
+        </div>
+        <div class="mt-8 flex items-center justify-end gap-4 sm:mt-12">
+            <Button class="copy-url-button" aria-label="Copy link" data-url={href} data-tooltip-default="Copy link" data-tooltip-success="Copied">Share</Button>
+        </div>
+    </article>
+    <StoryNav prevStory={prevStory} nextStory={nextStory} />
+</BaseLayout>
+
+<script>
+    document.addEventListener('astro:page-load', () => {
+        const copyUrlButton = document.querySelector('.copy-url-button') as HTMLButtonElement;
+        copyUrlButton?.addEventListener('click', async () => {
+            await copyUrl(copyUrlButton);
+        });
+
+        async function copyUrl(button: HTMLButtonElement) {
+            let url = button.getAttribute('data-url') || '';
+            let label = button.innerText;
+
+            await navigator.clipboard.writeText(url);
+
+            button.innerText = 'Copied';
+
+            setTimeout(() => {
+                button.innerText = label;
+            }, 2500);
+        }
+    });
+</script>

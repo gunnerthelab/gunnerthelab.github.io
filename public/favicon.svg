@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <!-- Dog paw print -->
+    <ellipse cx="64" cy="82" rx="22" ry="18" />
+    <ellipse cx="38" cy="52" rx="12" ry="14" />
+    <ellipse cx="90" cy="52" rx="12" ry="14" />
+    <ellipse cx="56" cy="38" rx="10" ry="12" />
+    <ellipse cx="72" cy="38" rx="10" ry="12" />
+    <style>
+        ellipse { fill: #E87A2E; }
+        @media (prefers-color-scheme: dark) {
+            ellipse { fill: #F0934A; }
+        }
+    </style>
+</svg>

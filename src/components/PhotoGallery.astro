@@ -1,0 +1,33 @@
+---
+type Photo = {
+    src: string;
+    alt: string;
+    caption?: string;
+};
+
+type Props = {
+    photos: Photo[];
+    class?: string;
+};
+
+const { photos, class: className } = Astro.props;
+---
+
+<div class:list={['grid grid-cols-2 gap-4 sm:grid-cols-3 sm:gap-6', className]}>
+    {photos.map((photo) => (
+        <figure class="group">
+            <div class="overflow-hidden rounded-lg">
+                <img
+                    src={photo.src}
+                    alt={photo.alt}
+                    class="aspect-square w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                    loading="lazy"
+                    decoding="async"
+                />
+            </div>
+            {photo.caption && (
+                <figcaption class="mt-2 text-center text-xs text-gray sm:text-sm">{photo.caption}</figcaption>
+            )}
+        </figure>
+    ))}
+</div>

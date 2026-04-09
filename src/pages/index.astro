@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import Button from '../components/Button.astro';
+import Hero from '../components/Hero.astro';
+import StoryCard from '../components/StoryCard.astro';
+import siteConfig from '../data/site-config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { sortStoriesByOrder } from '../utils/data-utils';
+
+const publishedStories = (await getCollection('stories', ({ data }) => !data.draft)).sort(sortStoriesByOrder);
+const featuredStory = publishedStories.length > 0
+    ? publishedStories[Math.floor(Math.random() * publishedStories.length)]
+    : null;
+---
+
+<BaseLayout description={siteConfig.description} showHeader={false}>
+    <Hero {...siteConfig.hero} />
+
+    {
+        featuredStory && (
+            <div class="mb-16 sm:mb-24">
+                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Featured Story</h2>
+                <div class="border-main divide-main divide-y divide-dashed border-t border-dashed">
+                    <StoryCard story={featuredStory} class="py-6 sm:py-8" headingLevel="h3" />
+                </div>
+                <div class="mt-12 sm:mt-16">
+                    <Button href="/stories">View All Stories</Button>
+                </div>
+            </div>
+        )
+    }
+</BaseLayout>

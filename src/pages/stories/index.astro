@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import StoryCard from '../../components/StoryCard.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { groupStoriesByEra } from '../../utils/data-utils';
+
+const allStories = await getCollection('stories');
+const eraGroups = groupStoriesByEra(allStories);
+const publishedCount = allStories.filter((s) => !s.data.draft).length;
+---
+
+<BaseLayout title="Table of Contents" description="All stories from The Adventures of Gunner the Lab... Oh, and Tiger Too" showHeader={false}>
+    <section class="mb-16 sm:mb-24">
+        <header class="mb-12 sm:mb-16">
+            <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">Table of Contents</h1>
+            <p class="mt-3 text-gray">{publishedCount} of {allStories.length} stories published. More on the way.</p>
+        </header>
+
+        {eraGroups.map((group) => (
+            <div class="mb-16 sm:mb-20">
+                <div class="mb-8 sm:mb-10">
+                    <h2 class="font-serif text-xl italic sm:text-2xl">{group.label}</h2>
+                    {group.description && <p class="mt-1 text-sm text-gray">{group.description}</p>}
+                </div>
+                <div class="border-main divide-main divide-y divide-dashed border-t border-dashed">
+                    {group.stories.map((story) => (
+                        <StoryCard story={story} class="py-6 sm:py-8" headingLevel="h3" />
+                    ))}
+                </div>
+            </div>
+        ))}
+    </section>
+</BaseLayout>

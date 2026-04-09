@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+    <rect width="1200" height="400" fill="#F5EBDA"/>
+    <rect x="1" y="1" width="1198" height="398" fill="none" stroke="#E87A2E" stroke-width="2" stroke-dasharray="8 4" rx="8"/>
+    <text x="600" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#3B2412">Hero Banner Image</text>
+    <text x="600" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#6B6B6B">Replace with site banner illustration (1200 x 400)</text>
+</svg>
