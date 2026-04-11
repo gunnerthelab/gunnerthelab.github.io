@@ -41,7 +41,7 @@ Dad's commute home from the east side of town was normally about an hour. One ni
 
 That was it. That was enough.
 
-The next weekend, Mom found him on a bench at the apple orchard. She looked at him. He looked at her. She knew that face.
+A few days later, Mom found him sitting on the back patio after the boys had gone to bed. She looked at him. He looked at her. She knew that face.
 
 "You're thinking something," she said.
 
