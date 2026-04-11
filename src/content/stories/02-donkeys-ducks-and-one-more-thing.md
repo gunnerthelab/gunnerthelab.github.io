@@ -146,3 +146,137 @@ Dad held up both hands in the universal gesture of *please don't be mad.*
 The boys had heard her tone. The boys had stopped playing. Three small heads turned toward Dad in perfect unison. Three sets of eyes locked onto the lump.
 
 Dad slowly, slowly, unzipped the front of his jacket.
+
+A small black head poked out. Big floppy ears. Warm amber eyes. A tiny pink tongue. The puppy looked around at the porch, at Mom, at the three boys frozen in the yard, at the chickens, at the donkeys in the distance, at Bear under the oak tree — and his tail, his impossibly small puppy tail, started wagging so hard his whole back end wiggled inside the jacket.
+
+The yard exploded.
+
+The youngest *screamed.* Just a pure unfiltered scream of joy, the kind only a two-year-old can produce, the kind that comes from somewhere deeper than language. He started running toward Dad. The middle boy was right behind him, both hands already out, eyes huge. The oldest — the workhorse, the serious one — actually broke into a sprint, which was something the oldest almost never did.
+
+"*PUPPY.*"
+
+"*PUPPY.*"
+
+"*DAD HE'S A PUPPY.*"
+
+Mom put both hands over her face.
+
+"*Are you serious right now.*"
+
+But Dad could see her. He could see her hands, and he could see the shape of the smile she was hiding behind them, and he knew that he had won. He had not been *sure* he was going to win — bringing a puppy home unannounced was, by any reasonable measure, a divorce-level surprise — but he had been hoping, and the puppy had clearly hoped along with him, and now it was happening.
+
+The boys descended.
+
+Six small hands, all reaching at once. Dad knelt down in the dirt of the driveway and let them. The puppy was passed from arm to arm with the careful, breathless ceremony of three boys who had never held something so small and so important. He licked the youngest's face. He licked the middle boy's nose. He licked the oldest right in the eye, because the oldest had gotten too close. The oldest didn't even flinch. The oldest just sat there in the dirt, a dignified six-year-old being licked in the eye by a puppy, and he was grinning so hard his face hurt.
+
+"*What's his name?*" the middle boy whispered.
+
+Dad opened his mouth to say *I haven't picked one yet.*
+
+But Mom — who had walked down off the porch by now, who had given up on being mad, who was kneeling in the dirt with the boys — Mom was looking at the puppy. She had reached out one finger to scratch under his chin. The puppy was leaning into her hand with his eyes closed.
+
+"Gunner," Mom said quietly.
+
+Dad looked at her.
+
+"Gunner," she said again, like she was trying it on. "Look at him. He looks like a Gunner."
+
+The puppy opened his eyes and looked right at her when she said it the second time. His tail thumped once against the youngest boy's knee. *Thump.*
+
+Like he had heard his name. Like he had been *waiting* to hear it.
+
+"*Gunner,*" the youngest whispered, the way you whisper a magic word.
+
+"*Gunner,*" the middle one repeated.
+
+"Gunner," the oldest said, in his serious oldest-boy voice, like he was making it official.
+
+And just like that — in the dirt of a long East Texas driveway, in the late spring of 2017, with eight chickens watching from the porch and two donkeys watching from the pasture and four ducks watching from the pond and Bear watching from under the oak tree — the puppy became Gunner.
+
+He was Gunner from that moment on. He had probably been Gunner from the moment he was born, and he had just been waiting for the right people to find him and figure it out.
+
+---
+
+Bear, under the oak tree, had been watching the entire scene with the slow, considered patience of an elder dog.
+
+He had watched Dad pull up the driveway. He had watched the unzipping of the jacket. He had watched the small black head appear. He had watched Mom give in. He had watched the boys descend like a small loving avalanche. He had watched the puppy get passed from hand to hand like a sacred object.
+
+And he had watched, with the very specific resignation of a dog who had spent five years as the only dog in this family, the moment the puppy was officially named.
+
+Bear got up.
+
+Slowly. With dignity. The way old patriarchs get up when they have decided to make their position known. He walked across the yard at his unhurried Bear pace. The boys, who knew Bear's pace, parted slightly to make room for him. Mom watched. Dad watched.
+
+Bear walked up to the puppy — Gunner — who was wiggling in the youngest boy's arms.
+
+The puppy saw him.
+
+The puppy froze.
+
+This was the biggest creature the puppy had ever seen in his short life. Bigger than his mom. Bigger than his siblings combined. Brown and graying and serious-eyed and *very* up close. The puppy went absolutely still in the youngest's arms. His tail stopped wagging. His tiny puppy heart, you could practically see it through his chest.
+
+Bear leaned in.
+
+He sniffed the puppy from nose to tail with the slow professional thoroughness of a dog who had been doing this kind of inspection for years. The puppy did not move. The puppy did not breathe. The youngest boy did not move. The youngest boy did not breathe.
+
+Bear finished his inspection.
+
+He looked at the puppy. The puppy looked at Bear.
+
+Bear let out a long, slow sigh — *the* Bear sigh, the one that had been honed over five years in Phoenix and refined in two months on the East Texas homestead, the sigh that contained entire novels of opinion compressed into a single exhalation.
+
+And then Bear — slowly, deliberately, with the air of a king deciding the fate of a small ridiculous prince — leaned forward and gave Gunner one single, dignified lick on the top of the head.
+
+One lick.
+
+That was all he was offering.
+
+Then Bear turned around, walked back to his spot under the oak tree, and lay down again.
+
+The boys exploded in cheers.
+
+"*BEAR LIKES HIM!*"
+
+"*BEAR LIKED HIM!*"
+
+"*BEAR GAVE HIM A KISS!*"
+
+Bear, under the oak tree, did not look up. Bear did not need to look up. Bear had said his piece. The new dog was acceptable. The new dog was *family,* now, by the official authority of the oldest dog in residence. Whatever happened from here on out — and Bear could already tell, from one sniff, that *a lot* was going to happen from here on out — was going to happen with Bear's grudging blessing.
+
+Gunner, in the youngest boy's arms, slowly started to wag his tail again.
+
+And then he wagged it harder.
+
+And then his entire back half started to wiggle.
+
+Because somewhere in that tiny puppy brain, he had just understood something that would shape every single day of the rest of his life:
+
+*These are my people now.*
+
+*That is my big brother.*
+
+*This is my home.*
+
+---
+
+The boys carried Gunner everywhere for the rest of that afternoon. They showed him the chickens, who were unimpressed. They showed him the ducks, who quacked aggressively from a safe distance. They showed him the donkeys, who looked down at him with mild curiosity and then went back to standing. They showed him the pond, which Gunner stared at with the deep philosophical interest of a Lab who did not yet know what water *was* but suspected, on some genetic level, that he was going to love it very much.
+
+Mom made up a small bed for him in the kitchen, near where Bear slept. That first night, the puppy whimpered for about ten minutes and then stopped. The family later figured out that he had stopped because he had quietly waddled across the kitchen floor and curled up against Bear's back — without permission, without invitation, without even checking to see if it was okay.
+
+Bear had not moved.
+
+Bear had not growled.
+
+Bear had let it happen.
+
+In the morning, when Mom came down to start coffee, that was how she found them: an old brown patriarch and a tiny black puppy, asleep together on Bear's bed by the kitchen door. Bear had one paw resting protectively over the puppy's back. The puppy was snoring.
+
+Mom stood there in her pajamas with her hand over her mouth and didn't make coffee for almost ten minutes, because she didn't want to wake them up.
+
+That was the first morning of the rest of the series.
+
+That was the morning everything began.
+
+---
+
+*Next time: Tiger arrives. He is very small, very loud, and very sure that the giant black dog who keeps trying to play with him is going to be the warmest pillow in the entire state of Texas.*

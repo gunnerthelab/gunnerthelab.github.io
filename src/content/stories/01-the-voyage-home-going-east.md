@@ -134,3 +134,125 @@ A long pause. Then, in the careful voice of a woman who was holding the line by 
 "*Yes.*"
 
 So they switched at the next exit. Dad took the minivan and the boys. Mom took the truck and Bear. Bear, who had now been transferred from his original co-pilot to a new one, sighed the long sigh of a dog whose paperwork had not been updated and who was being passed between agencies. Mom reached over and scratched behind his ears. Bear's tail thumped the seat once. He tolerated her. He had always tolerated her. Mom was the one who fed him.
+
+---
+
+Day one ended somewhere in New Mexico, in a roadside motel that allowed dogs.
+
+The boys, who had been in a minivan for ten hours, exploded into the parking lot like marbles dropped on tile. They ran in circles. They jumped on things they should not have jumped on. The youngest tried to climb a low wall and fell off it immediately, which was the first sign of a long ER career to come. The oldest carried the suitcases without being asked. The middle one named the motel "Hotel Triangle" because of the shape of the roof, and would refer to it as Hotel Triangle for the rest of his natural life.
+
+Bear lay on the motel room floor and did not move for fourteen hours.
+
+Dad lay on the motel bed and did not move for almost as long.
+
+Mom checked on every child, every bag, every snack, every detail, and finally — at almost midnight — sat down in the one chair in the room and closed her eyes for the first time all day.
+
+"We're a third of the way," Dad said quietly from the bed.
+
+"*Don't.*"
+
+"Sorry."
+
+---
+
+Day two was the desert. The long, hot, endless desert of West Texas, where the road just *goes,* where the horizon never moves, where every mile looks like the last mile and the next mile and the mile after that. The boys watched a movie on a tablet for the first hundred miles. They played a counting game for the next fifty. After that, they ran out of ideas, and the minivan slowly descended into the kind of mid-road-trip mood where everybody is just a little too warm, a little too bored, and a little too aware of how long they've been in the same vehicle.
+
+The oldest started reading his backup book.
+
+The middle one drew the same dinosaur seventeen times in a row.
+
+The youngest fell asleep with an apple slice in his hand and didn't wake up for two hours.
+
+In the truck, Bear had finally accepted his fate. He had stopped sitting upright and had stretched himself across the bench seat with his head in Dad's lap, snoring softly. Dad drove with one hand on the wheel and one hand resting on Bear's gray muzzle and didn't say a word for almost an hour. He didn't need to. There was something about the steady weight of an old dog's head on your leg that did all the talking.
+
+This was the part nobody would remember as the funny part of the trip.
+
+This was the part Dad would remember years later, on a porch in Virginia, after Bear was gone — the long quiet hour in the West Texas desert with his old dog asleep against him, the sun coming through the windshield, the road stretching ahead toward something they hadn't seen yet but had decided to trust.
+
+This was Bear's last big adventure with the family before the homestead. Before the chickens and the cows and the puppy that would change everything. Before the years of being the alpha of fifteen acres and then one acre and then a porch in Virginia.
+
+For now, he was just a brown dog asleep in a pickup truck, riding east with his person, doing what he had been doing his whole life — going where the family went, no questions asked.
+
+---
+
+Day three was the green.
+
+That was how the boys would remember it later. *The green.*
+
+Somewhere east of the Texas hill country, the desert started giving up. Brown turned to gold turned to a kind of dusty green and then, slowly, mile by mile, to *real* green. Trees appeared. Then more trees. Then the kind of trees that had branches that touched each other over the road, making little tunnels of shade. The middle boy, who had been drawing dinosaurs for two days, looked up out the window and went very quiet.
+
+"*Mom.*"
+
+"Yeah, baby?"
+
+"*Look at all the trees.*"
+
+The youngest pressed his face against the window. The oldest closed his book. For the first time in eighteen hundred miles, all three boys were looking at the same thing at the same time, and none of them were complaining about anything.
+
+In the truck ahead of them, Bear lifted his head off Dad's lap.
+
+He had smelled it.
+
+The change in the air. The damp green smell of the East Texas piney woods, the smell of a place that grew things instead of just baking under the sun. His old nose worked the air through the cracked window for a long moment. His tail — which had not wagged once in eighteen hundred miles — gave one slow, considered thump against the seat.
+
+Bear approved.
+
+Bear had been a city dog his whole life. Bear had lived on concrete and rock and the kind of grass that came in little squares. Bear had never been *home* before, not really. But somewhere in the back of his old brown brain, he knew. The way old dogs know things. He smelled the trees and the water and the deep dark soil and he understood, in whatever way a dog understands, that this was where he was going to live now.
+
+This was it.
+
+Dad reached over and scratched his ears.
+
+"You feel it too, huh, buddy."
+
+Bear sighed.
+
+It was a different sigh than any of the sighs from the last three days. It wasn't a *put-upon* sigh. It wasn't a *carry me through this* sigh. It was the sigh of a dog who had just been told the road trip was almost over.
+
+---
+
+They turned onto the long dirt driveway of the new homestead just before sunset on day three.
+
+The minivan crunched over gravel. The pickup followed. The driveway curved around a stand of pine trees and then opened up, and there it was — the old farmhouse, the barn, the pond, the fence lines stretching off into fifteen acres of evening light. Cicadas were starting up. The sky was turning pink at the edges. The whole place smelled like grass and water and woodsmoke from a neighbor's chimney somewhere down the road.
+
+Mom stopped the minivan.
+
+For a long moment, nobody got out.
+
+The boys stared out the windows. The youngest had his hand pressed against the glass. The middle one's mouth was slightly open. The oldest, in the back, was very quiet — the kind of quiet a six-year-old gets when something is too big to put into words.
+
+Mom looked at it all and felt her throat get tight.
+
+In the truck, Dad just sat there with both hands on the wheel and looked. Just looked. At the house, at the barn, at the trees, at the pond reflecting the pink sky. At the place his family was going to live now. At the country he had been pulling toward for almost a year without knowing exactly what he was pulling toward.
+
+Bear did not wait for ceremony.
+
+Bear stood up on the truck seat — slowly, carefully, the way old dogs stand up — and looked out the windshield at the homestead. His ears came forward. His nose worked. His tail gave another slow thump.
+
+Then he looked at Dad. Just one quick look. The kind of look that, in dog language, means *well? are we going to do this or what?*
+
+Dad laughed out loud. He opened his door. Bear hopped down — not gracefully, but successfully — and put all four paws on East Texas dirt for the first time.
+
+He took two steps. Stopped. Smelled the ground. Smelled the air. Looked around at the trees, the pond, the barn, the farmhouse.
+
+And then Bear — middle-aged, patient-with-reservations, not-yet-Grandpa Bear — did something the family had not seen him do in years.
+
+He *ran.*
+
+Just a short run. A brown blur cutting across the front yard, ears flopping, old legs remembering how to be young legs for about ten seconds. He ran a small loop around the yard, came back, sat down at Dad's feet, and looked up with an expression that was unmistakably, undeniably:
+
+*Yes. This. Here. Good.*
+
+The minivan doors flew open and three boys spilled out into the grass. The youngest immediately fell down. The middle one started running toward the pond. The oldest stood very still and just looked at everything, taking it in the way the oldest takes things in. Mom got out of the van and walked over to where Dad was standing with Bear, and she leaned against his shoulder, and neither of them said anything for a while.
+
+The cicadas got louder. The sky got pinker. The boys' voices echoed across the property — the first voices the property had heard from this family, the first of thousands and thousands of voices it would hear in the years to come.
+
+Bear lay down in the grass at Dad's feet, watching the boys, and let out one final long sigh.
+
+This one wasn't tired.
+
+This one was *home.*
+
+---
+
+*Next time: The homestead has chickens. The homestead has ducks. The homestead has donkeys. And one afternoon, Dad pulls up the driveway with a surprise tucked inside his jacket — a wiggling, squirming, impossibly small black puppy who has no idea he is about to become the star of every story this family will ever tell.*
