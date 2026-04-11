@@ -35,7 +35,13 @@ It was supposed to be just a fun day. A drive up to one of those orchards somewh
 
 And Dad stood there in that orchard, with the smell of apples and grass and cool air, watching his three boys run between the trees, and the *tug* in his chest pulled so hard he had to sit down on a bench.
 
-Mom found him on the bench a few minutes later. She looked at him. He looked at her. She knew that face.
+Then, a few weeks later, the tipping point.
+
+Dad's commute home from the east side of town was normally about an hour. One night — construction, an accident, the usual Phoenix crawl that was getting less unusual by the month — it took over two. Two hours of brake lights and concrete and the same half-mile of freeway over and over again. By the time he pulled into the driveway, the boys were already in bed and the house was quiet and he sat in the truck for a long minute with the engine off, staring at the steering wheel.
+
+That was it. That was enough.
+
+The next weekend, Mom found him on a bench at the apple orchard. She looked at him. He looked at her. She knew that face.
 
 "You're thinking something," she said.
 
