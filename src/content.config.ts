@@ -23,6 +23,7 @@ const stories = defineCollection({
             storyNumber: z.number(),
             subtitle: z.string().optional(),
             era: z.enum([
+                'the-beginning',
                 'virginia',
                 'east-texas',
                 'big-moves',

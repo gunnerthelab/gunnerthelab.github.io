@@ -1,5 +1,4 @@
 import { type CollectionEntry } from 'astro:content';
-import { slugify } from './common-utils';
 
 export function sortItemsByDateDesc(itemA: CollectionEntry<'stories'>, itemB: CollectionEntry<'stories'>) {
     return new Date(itemB.data.publishDate).getTime() - new Date(itemA.data.publishDate).getTime();
@@ -17,6 +16,7 @@ export type EraGroup = {
 };
 
 const eraOrder = [
+    'the-beginning',
     'east-texas',
     'big-moves',
     'virginia',
@@ -27,6 +27,7 @@ const eraOrder = [
 ];
 
 const eraDescriptions: Record<string, string> = {
+    'the-beginning': 'Phoenix & the Road East \u2014 Before the Lab',
     'east-texas': 'The Homestead Days \u2014 15 Acres',
     'big-moves': 'Road Trip / Transition Stories',
     'virginia': 'Current Setting \u2014 40 Acres',
