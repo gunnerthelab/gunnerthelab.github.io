@@ -11,10 +11,6 @@ draft: false
 order: 2
 ---
 
-# The Adventures of Gunner the Lab... Oh, and Tiger Too
-
-## Story 2: Donkeys, Ducks, and One More Thing
-
 *East Texas Homestead — Spring & Summer 2017*
 
 ---

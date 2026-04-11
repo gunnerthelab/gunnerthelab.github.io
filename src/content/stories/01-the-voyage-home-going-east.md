@@ -11,10 +11,6 @@ draft: false
 order: 1
 ---
 
-# The Adventures of Gunner the Lab... Oh, and Tiger Too
-
-## Story 1: The Voyage Home, Going East
-
 *Phoenix, Arizona — Spring 2017*
 
 ---
