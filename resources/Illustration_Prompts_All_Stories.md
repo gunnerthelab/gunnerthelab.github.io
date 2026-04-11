@@ -494,6 +494,64 @@ Mom sitting on a porch floor, hand resting on the head of a black Lab (Gunner) w
 
 ---
 
+## More East Texas Flashbacks (Graphite Pencil Style)
+
+### Story 34: The Great Cookie Caper ✅ WRITTEN
+
+**Art Style:** Graphite pencil illustration — B&W, crosshatched, soft shading. The kitchen scenes should feel warm and domestic even in graphite. Gunner's expressive face is the emotional anchor of every scene.
+
+**Scene 1 — The Perfect Crime:**
+A large black Lab (Gunner) lying on a kitchen floor, head up, watching a man set a plate of cookies on a kitchen island. The man looks satisfied, self-congratulatory. Gunner's eyes are locked on the plate with absolute focus. Tiger watches from the top of the refrigerator in the background. Late East Texas evening, kitchen light warm overhead. Graphite pencil illustration, the contrast between the man's obliviousness and the dog's laser focus is the humor.
+
+**Scene 2 — The Empty Plate:**
+A man standing in an East Texas kitchen, coffee mug in hand, staring at an empty plate on the kitchen island. His expression is pure bafflement — he's checking under the plate, looking around the counter. A black Lab (Gunner) lies on the floor nearby, tail thumping twice against the tile, the very picture of innocent morning contentment. Tiger perches on top of the refrigerator, watching it all with perfect composure. Graphite pencil illustration, comedic obliviousness, detailed kitchen textures.
+
+**Scene 3 — Caught Red-Handed:**
+A black Lab (Gunner) standing fully upright on his hind legs, front paws braced on the edge of a kitchen island, entire spine stretched to its mechanical limit, enormous tongue extended like a pink bridge toward a cooling rack of cookies. His back legs tremble with effort. Every vertebra is committed. A man stands in the kitchen doorway behind him, frozen in disbelief, somewhere between anger and laughter. The dog has not heard him yet. Graphite pencil illustration, the single funniest image in the series — capture the sheer improbable ambition of a ninety-pound Lab fully upright mid-heist. This is the cover image moment.
+
+**Scene 4 — The Confession:**
+A black Lab (Gunner) sitting on a kitchen floor, ears flat, one eyebrow up and one down in the classic Lab guilt face, looking at the ceiling — specifically at the part of the ceiling that is not the man pointing at him. His tail gives one tiny apologetic thump against the tile. The man crouches in front of him, pointing, delivering the verdict: "It was *you.*" Tiger yawns luxuriously on top of the refrigerator — the loud, pointed yawn of a cat who knew the whole time and is savoring the reveal. Graphite pencil illustration, Gunner's guilt face is the star, Tiger's smug yawn is the punctuation.
+
+---
+
+## More Virginia Homestead Stories (Colored Pencil Style)
+
+### Story 35: The Grill Master's First Case ✅ WRITTEN
+
+**Art Style:** Colored pencil illustration — warm Virginia summer colors. The deck, the grill, the mountains in the background. This is a golden-hour story, full of warmth and pride and one spectacular disaster.
+
+**Scene 1 — The Grill Master:**
+A boy (youngest, about eleven) standing at a backyard grill on a Virginia deck, tongs in hand, shoulders squared, brow furrowed in concentration. He's grilling five T-bone steaks. Smoke rises. He looks like a man on a mission. Through a window behind him, a father watches with quiet pride, coffee mug in hand. At a strategic distance on the deck, a large black Lab (Gunner) with an orange collar is parked, nose working overtime, a small puddle of drool forming beneath his jaw on the deck boards. On the porch railing, a tabby cat (Tiger) watches with professional detachment. Virginia mountains in the background, golden afternoon light. Colored pencil illustration, warm summer colors, pride and peril in equal measure.
+
+**Scene 2 — Fifteen Seconds:**
+Split-panel or sequential composition. Left: the youngest boy trotting through a sliding glass door, reaching up to a pantry shelf for a roll of aluminum foil. Right: the deck — the plate of five perfect T-bones on the side table, the grill glowing behind it, and a black Lab in the exact spot he occupied before, lying on the deck boards, looking like he has not moved a single muscle. The plate is empty. He is not looking at the plate. He is not looking at anything. He is simply a dog, lying on a deck, minding his business. Colored pencil illustration, the comedy is entirely in the before-and-after juxtaposition.
+
+**Scene 3 — The Review:**
+A man (Dad) kneeling beside a boy (youngest) on the deck, one hand on his shoulder. The boy's chin wobbles slightly. Dad gestures at the black Lab (Gunner) across the deck, who is now attempting to melt into the boards. Dad's expression is warm, encouraging — he is delivering the four-paw review speech. Above Gunner, the empty plate still sits on the side table. On the porch railing, Tiger gives a small *mrrp* that is definitely a laugh. Virginia mountains behind them, evening light fading to gold. Colored pencil illustration, the emotional heart of the scene — a father turning a disaster into a compliment.
+
+**Scene 4 — Grill Master's Law:**
+After dark. A boy (youngest) sitting on the deck steps, Gunner's big black head heavy in his lap, ear scratches in progress. Stars overhead, Virginia mountains dark silhouettes. Dad sits on the other side, three of them together. The grill is cold now. The boy looks down at Gunner. The dog looks up — those enormous brown eyes that witnessed a crime and then looked directly at you and said *nope.* "You're a bad dog," the boy tells him. Gunner's tail thumps against the boards. He knows. Colored pencil illustration, warm nighttime palette, quiet tenderness, soft starlight.
+
+---
+
+### Story 36: The Bagel Bandit ✅ WRITTEN
+
+**Art Style:** Colored pencil illustration — bright Virginia afternoon, green grass, warm porch light. More action and motion than Story 35. The oldest boy's woodshop scene should feel solid and sturdy — weathered wood, sawdust, competence.
+
+**Scene 1 — The Stakeout:**
+A black Lab (Gunner) lying in green Virginia grass near the back porch, eyes half-closed, looking completely relaxed. But his nose is working — a tiny detail: one nostril flared, tracking something. Near the van in the driveway, the three boys unload groceries in cheerful chaos. The middle boy holds a clear plastic bagel bag in one hand, two heavy bags in the other, doing the wobble-walk of a kid who has miscalculated his load. On the porch steps, there are only a few feet between the bagel bag and the Lab. Colored pencil illustration, the calm before the storm — set the scene so the reader can already see what's coming.
+
+**Scene 2 — The Black Streak:**
+A black Lab (Gunner) in full sprint across a Virginia yard, a clear plastic bagel bag in his mouth, tail up, gait smooth and fluid. He's committed. Behind him on the porch steps, the middle boy has spun around, bags still in hand, mouth open mid-shout. From the cracked woodshop door in the background, a silhouette — the oldest boy, wiping his hands, stepping out. Colored pencil illustration, pure kinetic energy, the instant before the thunderclap.
+
+**Scene 3 — STOP:**
+A black Lab (Gunner) with all four paws locked in the grass, body skidded forward half a step from momentum, the bagel bag dropped at his feet. His ears are flat. His eyes are enormous. His tail is down. He is the picture of a dog who has just heard the voice of an older reckoning. Twenty feet behind him, the oldest boy stands in the yard, arms loose at his sides, rag in hand — he doesn't need to be angry, he just needs to be *there.* The bag lies in the grass, unharmed, untouched. Colored pencil illustration, freeze-frame authority — capture the specific comedic terror of a ninety-pound criminal stopped cold by a teenager with The Voice.
+
+**Scene 4 — The Pout and the Crack:**
+A black Lab (Gunner) lying in the grass in full-body pout — spine curved into a tragic C, ears vanished, eyes enormous and sorrowful, fixed on the middle distance like a saint in stained glass. Beside him on the grass, the intact bagel bag. The oldest boy stands nearby, arms crossed, The Look fully deployed. The middle boy has dropped to one knee in the grass, unable to resist, already scratching behind Gunner's ears. Gunner's tail has begun its first hopeful thump. Mom watches from the porch doorway, hand over her mouth, laughing. The youngest peeks around the van, also laughing. Tiger watches from the porch railing, keeping his list. Colored pencil illustration, ensemble comedy — everyone's reaction is part of the joke.
+
+---
+
 ## Notes for Image Generation
 
 ### Recommended AI Image Prompting Tips
