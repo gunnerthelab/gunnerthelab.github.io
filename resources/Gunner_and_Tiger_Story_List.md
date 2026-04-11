@@ -142,6 +142,23 @@ Bear's eyes go cloudy. His hearing fades. The world gets quieter and blurrier, b
 
 ---
 
+## More East Texas Flashbacks
+
+**34. The Great Cookie Caper** ✅ *WRITTEN*
+Mom's out of town. Dad and the boys bake store-bought cookies, eat half, and leave the rest on the kitchen island. Next morning: empty plate. Nobody confesses. The mystery goes unsolved for weeks — Dad thinks he cleaned them up, the boys get guilt-tripped, Mom is told the story and laughs it off. Nobody suspects the dog. Weeks later, Mom and the boys are gone again, and Dad bakes a *real* batch from scratch. He hears something suspicious from down the hall, creeps back into the kitchen, and catches Gunner fully upright on his back legs, front paws on the island, tongue stretched across to the cooling rack like a pink, slobbery bridge of desperate hope. Tiger, on top of the refrigerator, knew the whole time. Tiger doesn't testify. Cats are like that.
+
+---
+
+## More Virginia Homestead Stories
+
+**35. The Grill Master's First Case** ✅ *WRITTEN*
+The youngest boy earns his first official night as Grill Master — five perfect T-bone steaks, cooked to perfection on the Virginia deck. He ducks inside for fifteen seconds to grab foil and comes back to an empty plate. Gunner is lying six feet away, pretending to be a rug. No scraps. No bones. No evidence. Just one ninety-pound Labrador with a suspiciously full stomach and literal steak evidence still in the back of his mouth. Dad declares it a four-paw review and the highest honor a dog can give a cook. Dinner becomes grilled cheese. Mom laughs until she has to sit on the floor. The youngest ends the night with Gunner's head on his knee under the stars: "You're a bad dog." Gunner's tail thumps. He knows.
+
+**36. The Bagel Bandit** ✅ *WRITTEN*
+Mom comes home with store-bought bagels — a rare and sacred household event. The middle boy sets the bag on the porch steps for one second. Gunner, lying in the grass looking casual, covers the distance in two bounds and makes a run for the woods — bag in mouth, tail up, committed. Then the oldest steps out of the woodshop and delivers a single command in a voice that stops a ninety-pound Lab dead in his tracks. The bagels drop unharmed. Gunner melts into the grass in full-body pout. The middle boy cracks in forty-five seconds and provides ear scratches. The oldest goes back to the woodshop in disgust. On top of the fridge, Tiger watches it all and decides the dog has talent — raw, unrefined, solo talent. What he needs is a partner with a plan.
+
+---
+
 ## Notes
 
 - **Gunner**: Black lab. Lives for pets and snacks. The star of every story. Heart of gold, brain of... well, he tries.
