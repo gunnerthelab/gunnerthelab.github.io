@@ -98,6 +98,12 @@ The youngest boy earns his first official night as Grill Master — five perfect
 **23. The Bagel Bandit** ✅ *WRITTEN*
 Mom comes home with store-bought bagels — a rare and sacred household event. The middle boy sets the bag on the porch steps for one second. Gunner, lying in the grass looking casual, covers the distance in two bounds and makes a run for the woods — bag in mouth, tail up, committed. Then the oldest steps out of the woodshop and delivers a single command in a voice that stops a ninety-pound Lab dead in his tracks. The bagels drop unharmed. Gunner melts into the grass in full-body pout. The middle boy cracks in forty-five seconds and provides ear scratches. The oldest goes back to the woodshop in disgust. On top of the fridge, Tiger watches it all and decides the dog has talent — raw, unrefined, solo talent. What he needs is a partner with a plan.
 
+**39. Shotgun** ✅ *WRITTEN*
+The oldest gets his learner's permit and Dad climbs into the passenger seat for the first time in nine years with one beautiful thought: *I never have to drive again.* But Gunner has been the shotgun dog for nine years across three states, and he is not giving up that seat without a fight. Tiger, who hasn't voluntarily entered a vehicle in nine years, clears his schedule to watch.
+
+**40. The Gentlemen Next Door** ✅ *WRITTEN*
+Something large has moved into the neighbors' field — three enormous Suffolk Punch draft horses with kind eyes and a warm rolling dialect Gunner can't understand a word of. Tiger, naturally, has already been over there twice and made friends. A story about meeting gentle giants and learning that sometimes the nicest things you'll ever hear are the things you don't quite understand.
+
 ---
 
 ## The Boys & Family Stories
