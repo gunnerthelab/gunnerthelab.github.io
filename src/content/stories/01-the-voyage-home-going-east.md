@@ -53,7 +53,7 @@ He told her.
 
 She listened the way she always listened — completely, no interrupting, no jumping to conclusions, the steady attention of a woman who had been a teacher long enough to know that the most important thing you can do for a person is wait until they're done talking.
 
-When he was finished, she looked out across the orchard at the boys. The youngest had given up on apples and was just lying in the grass watching the sky. The middle one was building a small pile of his spotty apples like a monument. The oldest was three rows deep and still working.
+When he was finished, she was quiet for a long moment. The pool filter hummed. Somewhere down the street, a neighbor's dog barked once and stopped.
 
 "Okay," Mom said.
 
@@ -61,7 +61,7 @@ When he was finished, she looked out across the orchard at the boys. The younges
 
 "Okay. Let's do it."
 
-And just like that — on a bench in an apple orchard outside Phoenix in the fall of 2016 — the family decided to go.
+And just like that — on the back patio of a house in Phoenix, after the boys were asleep and the city was finally quiet — the family decided to go.
 
 ---
 
