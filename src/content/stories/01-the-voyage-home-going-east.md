@@ -17,13 +17,13 @@ order: 1
 
 Before there was Gunner, there was Bear.
 
-And before there was a homestead in East Texas, there was a small house in Phoenix, Arizona, on a street that looked like every other street in every other suburb of every other big sprawling city in America. Concrete driveways. Rock yards. The kind of subdivision where the houses were close enough that you could hear your neighbor's dog bark, his TV, and on a quiet Sunday morning, his coffee maker.
+And before there was a homestead in East Texas, there was a house in Phoenix, Arizona — the biggest house the family would ever live in, before or since. It sat on a cul-de-sac in a nice neighborhood, the lot a little larger and a little more private than most. The yard was well-manicured, with big lemon and tangelo trees, real grass, and a pool surrounded by palm trees. It was, by any reasonable measure, a beautiful place to live.
 
-Dad stood in the driveway one fall afternoon in 2016, looking down the street, and thought a thing he had been thinking, quietly, for almost a year:
+Dad stood in the driveway one fall afternoon in 2016, looking past the cul-de-sac and out toward the edge of the subdivision, and thought a thing he had been thinking, quietly, for almost a year:
 
 *I want out of here.*
 
-It wasn't a dramatic thing. There was nothing wrong with Phoenix. Phoenix had been good to the family. All three boys had been born there, in a hospital in Glendale — the oldest in 2010, the middle in 2012, the youngest in 2014. Dad had a good job. Mom had her people. The boys had a backyard, even if the backyard was mostly rocks and a single sad palm tree that nobody had asked for.
+It wasn't a dramatic thing. There was nothing wrong with the house — the house was great. There was nothing wrong with Phoenix. Phoenix had been good to the family. All three boys had been born there, in a hospital in Glendale — the oldest in 2010, the middle in 2012, the youngest in 2014. Dad had a good job. Mom had her people. The boys had a pool and a yard with actual trees, which was more than most kids in the city could say.
 
 But the city was growing. Every month, another field disappeared. Every month, another stoplight. Every month, another row of identical beige houses where, the year before, there had been desert. The kids' school was getting more crowded. The roads were getting more crowded. The grocery store on a Saturday morning felt like a parking lot with a building in the middle.
 
