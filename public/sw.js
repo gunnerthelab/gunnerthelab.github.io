@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gunnerthelab-v1';
+const CACHE_NAME = 'gunnerthelab-v2';
 
 // Core shell — pre-cached on install
 const PRECACHE_URLS = [
@@ -34,13 +34,11 @@ self.addEventListener('activate', (event) => {
             )
             .then(() => self.clients.claim())
             .then(() => {
-                // Notify all open tabs about the update
                 self.clients.matchAll({ type: 'window' }).then((clients) => {
                     clients.forEach((client) => {
                         client.postMessage({ type: 'NEW_CONTENT' });
                     });
                 });
-                // Show OS notification if permission was granted
                 return self.registration
                     .showNotification('Gunner the Lab', {
                         body: 'New stories have been published!',
@@ -72,11 +70,12 @@ self.addEventListener('fetch', (event) => {
     const { request } = event;
     const url = new URL(request.url);
 
-    // Only handle same-origin requests
+    // Only handle same-origin GET requests
     if (url.origin !== location.origin) return;
+    if (request.method !== 'GET') return;
 
-    // HTML pages: network first, fall back to cache
-    if (request.headers.get('accept')?.includes('text/html')) {
+    // Page navigations: network first, fall back to cache, then home page
+    if (request.mode === 'navigate') {
         event.respondWith(
             fetch(request)
                 .then((response) => {
@@ -84,7 +83,12 @@ self.addEventListener('fetch', (event) => {
                     caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
                     return response;
                 })
-                .catch(() => caches.match(request))
+                .catch(() =>
+                    caches.match(request).then((cached) => {
+                        // Serve cached version, or fall back to cached home page
+                        return cached || caches.match('/');
+                    })
+                )
         );
         return;
     }
@@ -92,28 +96,33 @@ self.addEventListener('fetch', (event) => {
     // Images: cache first — they're large and rarely change
     if (request.destination === 'image') {
         event.respondWith(
-            caches.match(request).then((cached) => {
-                if (cached) return cached;
-                return fetch(request).then((response) => {
-                    const clone = response.clone();
-                    caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
-                    return response;
-                });
-            })
+            caches.match(request).then(
+                (cached) =>
+                    cached ||
+                    fetch(request)
+                        .then((response) => {
+                            const clone = response.clone();
+                            caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+                            return response;
+                        })
+                        .catch(() => new Response('', { status: 408 }))
+            )
         );
         return;
     }
 
-    // CSS, JS, fonts: cache first — Astro hashes these filenames on build
+    // CSS, JS, fonts: cache first, network fallback
     event.respondWith(
         caches.match(request).then(
             (cached) =>
                 cached ||
-                fetch(request).then((response) => {
-                    const clone = response.clone();
-                    caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
-                    return response;
-                })
+                fetch(request)
+                    .then((response) => {
+                        const clone = response.clone();
+                        caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+                        return response;
+                    })
+                    .catch(() => new Response('', { status: 408 }))
         )
     );
 });
