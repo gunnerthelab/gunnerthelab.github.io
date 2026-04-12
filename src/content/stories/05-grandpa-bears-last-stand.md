@@ -45,6 +45,8 @@ Bear lay on the porch, alone again, and closed his eyes. The yard was quiet. The
 
 For now.
 
+![Bear on the porch — gray-muzzled, heavy-lidded, the permanent scowl of a dog who has earned every opinion he holds](/images/stories/story-05-scene-01-the-grump.png)
+
 ---
 
 Gunner did not give Bear time. Gunner gave Bear the opposite of time. Gunner gave Bear relentless, unending, puppy-grade attention that started at dawn and ended only when Gunner fell asleep, which happened suddenly and without warning, usually mid-bounce, as if someone had pulled his battery out.
@@ -60,6 +62,8 @@ A dead bug he'd found near the screen door. Bear ignored the dead bug with parti
 A play bow — front end down, back end up, tail helicoptering. Bear turned his head away with the weariness of an old man watching children run through his yard for the ten thousandth time.
 
 A bark. Multiple barks. An entire symphony of yips and yaps and squeaks that Gunner seemed to believe constituted conversation. Bear closed his eyes.
+
+![Gunner in a play bow, tail a blur — Bear with his back turned, radiating the focused indifference of a professional](/images/stories/story-05-scene-02-the-persistent-puppy.png)
 
 "He doesn't want to play, buddy," the oldest boy would say, trying to redirect Gunner with a rope toy.
 
@@ -102,6 +106,8 @@ Not a big purr. A kitten's purr — barely audible, more vibration than sound. A
 The growl faded.
 
 Bear put his head back down.
+
+![The kitten asleep on Bear's broad back — Bear awake, looking off to the side with his permanent scowl, not moving. Gunner watching from a few feet away, head tilted, baffled](/images/stories/story-05-scene-03-kitten-on-the-giant.png)
 
 And that was it. The kitten slept. Bear let it happen. No growling. No shaking. No rejection.
 

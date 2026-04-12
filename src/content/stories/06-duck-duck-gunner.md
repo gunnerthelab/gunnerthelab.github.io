@@ -37,6 +37,8 @@ Gunner heard "Gunner" and "go" and that was enough. He tore across the yard towa
 
 Tiger followed at a distance, hopping onto a fence post that overlooked the pond. Front row seats.
 
+![Dad pointing at the ducks, Gunner at the pond's edge receiving the mission briefing — the ducks floating in smug formation, completely unimpressed](/images/stories/story-06-scene-01-the-mission.png)
+
 Gunner reached the pond's edge and stopped. Six ducks floated in the center, arranged in a loose cluster, watching him. The lead duck — a big drake with a chip on his shoulder and an orange bill that always looked like it was sneering — turned to face Gunner head-on.
 
 "BOOF," Gunner announced.
@@ -54,6 +56,8 @@ Then his Labrador nature took over, and the strategic reflection dissolved into 
 Gunner began swimming laps.
 
 Not herding the ducks. Not chasing them. Swimming with them. Long, lazy circles around the pond, his black head cutting through the water like a happy periscope, his tail working as a rudder. The ducks, apparently recognizing that the threat had downgraded itself to a nuisance, fell into formation behind him. One, then two, then all six, bobbing in Gunner's wake like a flotilla following a very enthusiastic flagship.
+
+![Gunner swimming laps with six white ducks in formation behind him — the mission reinterpreted, the assignment entirely forgotten](/images/stories/story-06-scene-02-swimming-laps.png)
 
 From the fence post, Tiger watched a Labrador Retriever swim in a circle with six ducks trailing behind him and wondered, not for the first time, what evolutionary purpose Gunner served.
 
@@ -98,6 +102,8 @@ Tiger dropped to the ground and picked up the nozzle end of the hose in his mout
 This time he got the lever another quarter turn. The trickle became a stream. The hose stiffened. Water shot from the nozzle in an arc that landed — not in the pond, but close enough to spray the near bank.
 
 The ducks saw the spray and immediately lost their collective minds. All six erupted from the water in a flapping, quacking explosion, wings beating the surface, and ran — waddled at maximum speed — toward the barn, where the coop was.
+
+![Tiger hauling the garden hose across the yard in his teeth — determined, dry, and entirely correct about the outcome — while Gunner swims on obliviously behind him](/images/stories/story-06-scene-03-plan-b.png)
 
 Gunner, suddenly alone in the pond, stopped swimming and looked around with the confusion of someone who has just been abandoned by his entire friend group at a party.
 

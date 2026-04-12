@@ -67,6 +67,8 @@ She blinked.
 
 Then she went back to chewing.
 
+![Gunner in a play bow at Big Donna's feet — twelve hundred pounds of Hereford indifference staring down at a puppy who is absolutely certain this is going well](/images/stories/story-03-scene-01-the-approach.png)
+
 Gunner, undeterred, circled her. He barked. He play-bowed again. He brought her a stick — the universal dog language for "let's be friends" — and dropped it at her hoof.
 
 Big Donna stepped on the stick. Not aggressively. Not even intentionally. She just shifted her weight and a hoof the size of a dinner plate settled on the offering.
@@ -74,6 +76,8 @@ Big Donna stepped on the stick. Not aggressively. Not even intentionally. She ju
 Gunner stared at his crushed stick. Then he looked up at Big Donna. Then back at the stick. His face went through the five stages of grief in about two seconds: denial (that's not my stick), anger (that IS my stick), bargaining (maybe she'll move her foot), depression (she's not going to move her foot), and acceptance (I'll find another stick).
 
 Tiger, from his fence post, narrated internally: *And here we observe the juvenile Canis lupus familiaris attempting first contact with Bos taurus. The larger specimen appears supremely unimpressed. The smaller specimen has not yet learned that enthusiasm is not a universal language.*
+
+![Tiger on the fence post, narrating to no one — puppy below, cow overhead, and something like contempt in those golden amber eyes](/images/stories/story-03-scene-02-the-narration.png)
 
 ---
 
@@ -118,6 +122,8 @@ The cows, for their part, employed every strategy in the bovine playbook for dea
 Tiger watched the whole thing from his fence post, tail curled around his paws, golden eyes tracking every attempt and every rejection with the detached fascination of a nature documentary narrator.
 
 *The young predator has now been rebuffed seventeen times. In the wild, this level of rejection would typically result in the predator seeking easier prey. However, this particular predator appears to have been bred for persistence rather than intelligence. One wonders how the species has survived.*
+
+![Gunner in full retreat — ears flying, paws scrambling, a cow in unhurried pursuit behind him, and Tiger watching from the fence post with professional detachment](/images/stories/story-03-scene-03-the-retreat.png)
 
 When Gunner finally gave up — not because he'd accepted defeat, but because he'd spotted Dad carrying a feed bucket and his brain had switched from "make friends" to "food" in the time it took a synapse to fire — he squeezed back under the fence and trotted to Tiger's post.
 
