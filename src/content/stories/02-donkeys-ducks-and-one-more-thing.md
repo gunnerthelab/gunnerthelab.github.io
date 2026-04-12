@@ -257,6 +257,8 @@ Because somewhere in that tiny puppy brain, he had just understood something tha
 
 The boys carried Gunner everywhere for the rest of that afternoon. They showed him the chickens, who were unimpressed. They showed him the ducks, who quacked aggressively from a safe distance. They showed him the donkeys, who looked down at him with mild curiosity and then went back to standing. They showed him the pond, which Gunner stared at with the deep philosophical interest of a Lab who did not yet know what water *was* but suspected, on some genetic level, that he was going to love it very much.
 
+![Bear and Gunner at the East Texas homestead — the old dog and the new puppy figuring each other out in the yard](/images/stories/story-02-scene-bear-and-gunner.png)
+
 Mom made up a small bed for him in the kitchen, near where Bear slept. That first night, the puppy whimpered for about ten minutes and then stopped. The family later figured out that he had stopped because he had quietly waddled across the kitchen floor and curled up against Bear's back — without permission, without invitation, without even checking to see if it was okay.
 
 Bear had not moved.

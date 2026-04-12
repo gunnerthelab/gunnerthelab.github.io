@@ -71,6 +71,8 @@ There were maps spread across the kitchen table for weeks. There were nights wit
 
 Eventually, it came down to East Texas. Affordable land. Trees. Water. A pace of life that fit. They found a fifteen-acre homestead with an old farmhouse, a barn, a pond, and enough fence to know that animals had once lived there and would live there again.
 
+![Dad reads a road atlas open to Texas at the kitchen table — two boys watching over his shoulder as the plan takes shape](/images/stories/story-01-scene-the-plan.png)
+
 They put the Phoenix house on the market. It sold faster than anyone expected.
 
 By spring 2017, the moving truck was loaded and gone, headed east on its own schedule. Which meant the family had exactly one job left: drive themselves and one middle-aged brown mutt about eighteen hundred miles across the desert, through the hill country, and into the piney woods of East Texas.
@@ -136,6 +138,8 @@ A long pause. Then, in the careful voice of a woman who was holding the line by 
 "*Yes.*"
 
 So they switched at the next exit. Dad took the minivan and the boys. Mom took the truck and Bear. Bear, who had now been transferred from his original co-pilot to a new one, sighed the long sigh of a dog whose paperwork had not been updated and who was being passed between agencies. Mom reached over and scratched behind his ears. Bear's tail thumped the seat once. He tolerated her. He had always tolerated her. Mom was the one who fed him.
+
+![Dad leans against the truck on the phone in the West Texas desert while Mom and the boys stretch their legs at the minivan — time to switch](/images/stories/story-01-scene-the-switch.png)
 
 ---
 
@@ -216,6 +220,8 @@ It was a different sigh than any of the sighs from the last three days. It wasn'
 They turned onto the long dirt driveway of the new homestead just before sunset on day three.
 
 The minivan crunched over gravel. The pickup followed. The driveway curved around a stand of pine trees and then opened up, and there it was — the old farmhouse, the barn, the pond, the fence lines stretching off into fifteen acres of evening light. Cicadas were starting up. The sky was turning pink at the edges. The whole place smelled like grass and water and woodsmoke from a neighbor's chimney somewhere down the road.
+
+![Dad stands by his truck as the family steps out of the minivan at the East Texas homestead for the very first time](/images/stories/story-01-scene-the-arrival.png)
 
 Mom stopped the minivan.
 
