@@ -30,7 +30,7 @@ The morning exploded into action. All three boys scrambled for the door, and Gun
 
 Ninety pounds of enthusiastic black Labrador burst through the door like a furry cannonball, Tiger trotting calmly behind him.
 
-![Gunner charges into the chicken yard — boys watching from the porch, chickens scattering, Tiger calm by the coop](/images/s7-scene-1-the-charge-bw.png)
+![Gunner charges into the chicken yard — boys watching from the porch, chickens scattering, Tiger calm by the coop](/images/stories/story-04-scene-01-the-charge-bw.png)
 
 The scene in the yard was pure chaos. Eight chickens and three ducks had somehow escaped their coop and were scattered across the fifteen acres like feathered shrapnel. Dad was trying to corner a particularly defiant rooster near the fence line. Mom had appeared with a broom, attempting to sweep a duck toward the coop like the world's most confused curling match.
 
@@ -50,7 +50,7 @@ Tiger, meanwhile, had positioned himself strategically by the coop door. When on
 
 Tiger didn't acknowledge the question. He didn't need to.
 
-![Tiger sits by the coop door with quiet authority while Gunner splashes in the pond with the ducks](/images/s7-scene-2-tiger-bw.png)
+![Tiger sits by the coop door with quiet authority while Gunner splashes in the pond with the ducks](/images/stories/story-04-scene-02-tiger-supervisor-bw.png)
 
 Gunner, oblivious to his friend's success, was now in the pond. He wasn't sure how he'd gotten there. One moment he was chasing ducks (helpfully), and the next moment he was swimming. The ducks, now in their element, bobbed nearby looking smug. One of them quacked directly at Gunner's face. It felt personal.
 
@@ -66,7 +66,7 @@ But he was scratching Gunner behind the ears when he said it.
 
 Then the youngest knelt down and wrapped his arms around Gunner's wet, muddy neck. "Good boy, Gunner. You tried."
 
-![The youngest boy hugs Gunner while Tiger leans in — stick in mouth, chickens settled, golden evening light](/images/s7-scene-3-aftermath-bw.png)
+![The youngest boy hugs Gunner while Tiger leans in — stick in mouth, chickens settled, golden evening light](/images/stories/story-04-scene-03-aftermath-bw.png)
 
 And there it was. Pets. Attention. Love.
 

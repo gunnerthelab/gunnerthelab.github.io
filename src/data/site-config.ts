@@ -6,7 +6,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'The Adventures of Gunner the Lab... Oh, and Tiger Too',
     description: 'Mostly fictional. Always fun. Definitely Gunner\'s fault. A collection of illustrated short stories about a black lab named Gunner and his tabby cat sidekick Tiger.',
     image: {
-        src: '/images/duo-emblem.png',
+        src: '/images/brand/logo-duo-emblem.png',
         alt: 'Gunner the black lab and Tiger the tabby cat — series emblem'
     },
     headerNavLinks: [
@@ -37,7 +37,7 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'The Adventures of Gunner the Lab... Oh, and Tiger Too',
         image: {
-            src: '/images/porch-scene.png',
+            src: '/images/hero/hero-porch-scene-banner.png',
             alt: 'Gunner the black lab and Tiger the tabby cat relaxing on the farmhouse porch at sunset with Virginia mountains in the background'
         },
         text: "**Mostly fictional. Always fun. Definitely Gunner's fault.**\n\nA collection of fun, illustrated short stories about a black lab named Gunner and his tabby cat sidekick Tiger — set across homesteads, road trips, and the kind of chaos only a loyal dog and a too-smart cat can create.",

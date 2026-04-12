@@ -37,7 +37,7 @@ Tiger looked across the living room at his partner. Gunner was lying on his back
 
 Tiger closed his eyes. This was what he had to work with.
 
-![Tiger watches the squirrels from the porch while Gunner sleeps — Virginia autumn, acorns everywhere](/images/s1-scene-1-broefomg.png)
+![Tiger watches the squirrels from the porch while Gunner sleeps — Virginia autumn, acorns everywhere](/images/stories/story-17-scene-01-boredom.png)
 
 ---
 
@@ -77,7 +77,7 @@ His head turned to follow it. His entire body pivoted, mission forgotten, brain 
 
 Gunner sat down in the middle of the yard and watched the butterfly with his mouth slightly open, tail wagging gently, like he was witnessing a miracle.
 
-![Gunner distracted by a butterfly while squirrels run free — Tiger watches from the fence post](/images/s1-scene-2-distraction.png)
+![Gunner distracted by a butterfly while squirrels run free — Tiger watches from the fence post](/images/stories/story-17-scene-02-distraction.png)
 
 The squirrels, seeing that the threat had apparently short-circuited, cautiously descended from their trees. One of them — the fat gray ringleader — walked directly past Gunner with cheeks full of acorns. Walked. Not ran. *Walked.* Like it was making a point.
 
@@ -137,7 +137,7 @@ The fat gray squirrel sat at the treeline, cheeks stuffed, watching the whole th
 
 Tiger looked at Gunner. Gunner looked at Tiger. Gunner's tail wagged.
 
-![Gunner on the porch with an acorn balanced on his nose, Tiger glaring from the railing, squirrels celebrating in the oak tree](/images/s1-scene-3-aftermath.png)
+![Gunner on the porch with an acorn balanced on his nose, Tiger glaring from the railing, squirrels celebrating in the oak tree](/images/stories/story-17-scene-03-aftermath.png)
 
 And despite everything — despite the failed distraction, the butterfly incident, the single acorn that constituted Gunner's entire contribution to the operation — Tiger felt the corner of his mouth twitch.
 

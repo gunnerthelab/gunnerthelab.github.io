@@ -5,7 +5,7 @@ seo:
   description: Meet Gunner the Lab, Tiger the tabby cat, and the family behind the stories. Learn about the series, the characters, and the eras.
 ---
 
-![The whole family — Dad, Mom, the three boys, Gunner, and Tiger on the Virginia porch](/images/family-logo.png)
+![The whole family — Dad, Mom, the three boys, Gunner, and Tiger on the Virginia porch](/images/brand/logo-family-portrait.png)
 
 ## The Adventures of Gunner the Lab... Oh, and Tiger Too
 

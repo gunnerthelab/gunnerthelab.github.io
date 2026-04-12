@@ -197,19 +197,19 @@ And Gunner always, always stayed.
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-top: 1rem;">
 <figure style="margin: 0;">
-<img src="/images/9b3461e0-285e-4266-b01b-6c1402f775ef.jpeg" alt="Bear looking up with his big happy grin" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
+<img src="/images/photos/photo-bear-portrait.jpg" alt="Bear looking up with his big happy grin" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
 <figcaption style="text-align: center; font-size: 0.8rem; color: #6B6B6B; margin-top: 0.5rem;">That rare Bear grin</figcaption>
 </figure>
 <figure style="margin: 0;">
-<img src="/images/40843b5e-6f6a-45c4-a074-83616697ef75.jpeg" alt="Bear and Gunner sitting together on the homestead in morning fog" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
+<img src="/images/photos/photo-gunner-and-bear-misty-morning.jpg" alt="Bear and Gunner sitting together on the homestead in morning fog" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
 <figcaption style="text-align: center; font-size: 0.8rem; color: #6B6B6B; margin-top: 0.5rem;">Bear and Gunner — morning on the homestead</figcaption>
 </figure>
 <figure style="margin: 0;">
-<img src="/images/ee22a2b2-2bfa-4451-afd3-8f7d663ecde9.jpeg" alt="Bear and Gunner sleeping together by the heater" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
+<img src="/images/photos/photo-gunner-and-bear-napping.jpg" alt="Bear and Gunner sleeping together by the heater" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
 <figcaption style="text-align: center; font-size: 0.8rem; color: #6B6B6B; margin-top: 0.5rem;">Side by side — the quiet moments</figcaption>
 </figure>
 <figure style="margin: 0;">
-<img src="/images/05e726aa-1224-4fb5-8cac-2ed8a5824b27.jpeg" alt="Bear and Gunner laying in the yard together" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
+<img src="/images/photos/photo-gunner-and-bear-in-yard.jpg" alt="Bear and Gunner laying in the yard together" style="width: 100%; border-radius: 0.5rem; object-fit: cover; aspect-ratio: 1;" />
 <figcaption style="text-align: center; font-size: 0.8rem; color: #6B6B6B; margin-top: 0.5rem;">Two dogs who never quite understood each other but never left each other's side</figcaption>
 </figure>
 </div>
