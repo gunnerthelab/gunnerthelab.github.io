@@ -75,5 +75,50 @@ const { Content } = await render(story);
                 button.innerText = label;
             }, 2500);
         }
+
+        // Reading progress tracking
+        const article = document.querySelector('article');
+        if (!article) return;
+
+        const path = window.location.pathname;
+        const slug = path.replace('/stories/', '').replace(/\/$/, '');
+        const titleEl = article.querySelector('h1');
+        const storyTitle = titleEl?.textContent || '';
+        const STORAGE_KEY = 'gunner-reading-progress';
+
+        function getProgress() {
+            try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+            catch { return {}; }
+        }
+
+        const progress = getProgress();
+        progress.lastStory = {
+            slug,
+            title: storyTitle,
+            scrollPercent: progress.lastStory?.slug === slug ? (progress.lastStory.scrollPercent || 0) : 0,
+            timestamp: Date.now()
+        };
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+
+        let ticking = false;
+        window.addEventListener('scroll', () => {
+            if (ticking) return;
+            ticking = true;
+            requestAnimationFrame(() => {
+                const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+                if (scrollHeight <= 0) { ticking = false; return; }
+                const percent = Math.round((window.scrollY / scrollHeight) * 100);
+                const p = getProgress();
+                if (p.lastStory) {
+                    p.lastStory.scrollPercent = Math.max(p.lastStory.scrollPercent || 0, percent);
+                    if (percent > 75) {
+                        if (!p.readStories) p.readStories = [];
+                        if (!p.readStories.includes(slug)) p.readStories.push(slug);
+                    }
+                    localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
+                }
+                ticking = false;
+            });
+        });
     });
 </script>

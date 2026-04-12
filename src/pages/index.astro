@@ -16,6 +16,8 @@ const featuredStory = publishedStories.length > 0
 <BaseLayout description={siteConfig.description} showHeader={false}>
     <Hero {...siteConfig.hero} />
 
+    <div id="continue-reading" class="mb-16 hidden sm:mb-24"></div>
+
     {
         featuredStory && (
             <div class="mb-16 sm:mb-24">
@@ -23,10 +25,71 @@ const featuredStory = publishedStories.length > 0
                 <div class="border-main divide-main divide-y divide-dashed border-t border-dashed">
                     <StoryCard story={featuredStory} class="py-6 sm:py-8" headingLevel="h3" />
                 </div>
-                <div class="mt-12 sm:mt-16">
+                <div class="mt-12 flex items-center justify-between sm:mt-16">
                     <Button href="/stories">View All Stories</Button>
+                    <button
+                        id="notify-btn"
+                        class="hidden cursor-pointer font-serif text-sm italic text-gray transition hover:text-accent"
+                    >
+                        Notify me of new stories
+                    </button>
                 </div>
             </div>
         )
     }
 </BaseLayout>
+
+<script>
+    document.addEventListener('astro:page-load', () => {
+        // Continue Reading
+        const container = document.getElementById('continue-reading');
+        if (container) {
+            try {
+                const progress = JSON.parse(localStorage.getItem('gunner-reading-progress') || '{}');
+                if (progress.lastStory && progress.lastStory.scrollPercent < 90) {
+                    const { slug, title, scrollPercent } = progress.lastStory;
+                    container.innerHTML = `
+                        <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Continue Reading</h2>
+                        <a href="/stories/${slug}/" class="border-main group flex items-center gap-4 border-t border-dashed py-6 sm:py-8">
+                            <div class="grow">
+                                <p class="font-serif text-xl leading-tight font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 sm:text-2xl">${title}</p>
+                                <div class="mt-3 flex items-center gap-3">
+                                    <div class="bg-muted h-1.5 w-32 overflow-hidden rounded-full">
+                                        <div class="bg-accent h-full rounded-full" style="width:${scrollPercent}%"></div>
+                                    </div>
+                                    <span class="text-gray text-xs">${scrollPercent}%</span>
+                                </div>
+                            </div>
+                            <span class="font-serif italic text-gray opacity-0 transition group-hover:opacity-100">Resume</span>
+                        </a>
+                    `;
+                    container.classList.remove('hidden');
+                }
+            } catch (e) {}
+        }
+
+        // Notification opt-in
+        const notifyBtn = document.getElementById('notify-btn') as HTMLButtonElement;
+        if (notifyBtn && 'Notification' in window) {
+            if (Notification.permission === 'default') {
+                notifyBtn.classList.remove('hidden');
+                notifyBtn.addEventListener('click', async () => {
+                    const result = await Notification.requestPermission();
+                    if (result === 'granted') {
+                        notifyBtn.textContent = 'Notifications enabled';
+                        notifyBtn.classList.add('text-green');
+                        notifyBtn.disabled = true;
+                    } else {
+                        notifyBtn.textContent = 'Notifications blocked';
+                        notifyBtn.disabled = true;
+                    }
+                });
+            } else if (Notification.permission === 'granted') {
+                notifyBtn.classList.remove('hidden');
+                notifyBtn.textContent = 'Notifications enabled';
+                notifyBtn.classList.add('text-green');
+                notifyBtn.disabled = true;
+            }
+        }
+    });
+</script>

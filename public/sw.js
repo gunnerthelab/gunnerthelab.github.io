@@ -20,7 +20,7 @@ self.addEventListener('install', (event) => {
     );
 });
 
-// Activate: delete any old caches from previous versions
+// Activate: delete old caches, notify clients of update
 self.addEventListener('activate', (event) => {
     event.waitUntil(
         caches
@@ -33,6 +33,37 @@ self.addEventListener('activate', (event) => {
                 )
             )
             .then(() => self.clients.claim())
+            .then(() => {
+                // Notify all open tabs about the update
+                self.clients.matchAll({ type: 'window' }).then((clients) => {
+                    clients.forEach((client) => {
+                        client.postMessage({ type: 'NEW_CONTENT' });
+                    });
+                });
+                // Show OS notification if permission was granted
+                return self.registration
+                    .showNotification('Gunner the Lab', {
+                        body: 'New stories have been published!',
+                        icon: '/icons/icon-192.png',
+                        badge: '/icons/icon-80.png',
+                        tag: 'new-content',
+                        data: { url: '/stories/' }
+                    })
+                    .catch(() => {});
+            })
+    );
+});
+
+// Notification click: open the stories page
+self.addEventListener('notificationclick', (event) => {
+    event.notification.close();
+    const url = event.notification.data?.url || '/';
+    event.waitUntil(
+        self.clients.matchAll({ type: 'window' }).then((clients) => {
+            const existing = clients.find((c) => c.url.includes(url));
+            if (existing) return existing.focus();
+            return self.clients.openWindow(url);
+        })
     );
 });
 
@@ -45,7 +76,6 @@ self.addEventListener('fetch', (event) => {
     if (url.origin !== location.origin) return;
 
     // HTML pages: network first, fall back to cache
-    // This ensures new stories always appear when online
     if (request.headers.get('accept')?.includes('text/html')) {
         event.respondWith(
             fetch(request)
