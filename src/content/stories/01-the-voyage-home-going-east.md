@@ -35,11 +35,15 @@ It was supposed to be just a fun day. A drive up to one of those orchards somewh
 
 And Dad stood there in that orchard, with the smell of apples and grass and cool air, watching his three boys run between the trees, and the *tug* in his chest pulled so hard he had to sit down on a bench.
 
+![Dad sits on a bench in the apple orchard, watching his three boys pick apples — the pull in his chest finally too strong to ignore](/images/stories/story-01-scene-01-the-orchard.png)
+
 Then, a few weeks later, the tipping point.
 
 Dad's commute home from the east side of town was normally about an hour. One night — construction, an accident, the usual Phoenix crawl that was getting less unusual by the month — it took over two. Two hours of brake lights and concrete and the same half-mile of freeway over and over again. By the time he pulled into the driveway, the boys were already in bed and the house was quiet and he sat in the truck for a long minute with the engine off, staring at the steering wheel.
 
 That was it. That was enough.
+
+![Dad sits in the parked truck, engine off, staring at the steering wheel — the two-hour commute that finally broke something](/images/stories/story-01-scene-02-the-tipping-point.png)
 
 A few days later, Mom found him sitting on the back patio after the boys had gone to bed. She looked at him. He looked at her. She knew that face.
 
@@ -62,6 +66,8 @@ When he was finished, she was quiet for a long moment. The pool filter hummed. S
 "Okay. Let's do it."
 
 And just like that — on the back patio of a house in Phoenix, after the boys were asleep and the city was finally quiet — the family decided to go.
+
+![Dad and Mom on the back patio at night — the pool reflecting moonlight behind them, the boys asleep inside, the decision just made](/images/stories/story-01-scene-03-the-patio.png)
 
 ---
 
@@ -105,6 +111,8 @@ Mom looked in the rearview mirror.
 
 Three small voices, in unison: "*Yes ma'am.*"
 
+![Both vehicles loaded in the Phoenix driveway — Bear in the truck cab, the boys strapped in the minivan, the house behind them for the last time](/images/stories/story-01-scene-04-loaded-up.png)
+
 She started the van.
 
 In the truck ahead of her, Dad started the truck. Bear continued to face forward, unmoved.
@@ -124,6 +132,8 @@ Hour two was still pretty good.
 Hour three, the youngest needed to potty. They found a gas station. Production of getting one two-year-old, one four-year-old, and one six-year-old out of a minivan, into a gas station bathroom, and back into the minivan: approximately twenty-five minutes. Bear watched all of this from the passenger seat of the truck with the deeply philosophical patience of a dog who knew this would not be the last time.
 
 Hour four, the middle boy dropped his crayons. All of them. Behind his car seat. In a place where a four-year-old could see them but could not, under any circumstances, reach them. There was crying. There was negotiation. There was a roadside stop where Mom retrieved seventeen crayons from the floor of the minivan while semi-trucks roared past on the interstate.
+
+![The middle boy reaching behind his seat for scattered crayons, the youngest asleep in his car seat, the oldest reading calmly in the back — hour four in full chaos](/images/stories/story-01-scene-06-hour-four.png)
 
 Hour five, somebody got carsick. We will not specify which one. We will only say that Mom had brought three plastic bags for exactly this contingency, and Mom is a hero, and the minivan smelled like fruit snacks and a small tragedy for the next forty miles.
 

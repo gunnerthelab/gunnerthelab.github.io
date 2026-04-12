@@ -37,6 +37,8 @@ Dad stood beside her with his own coffee. Bear lay between them on the porch, he
 
 "Yeah," Dad said. "It was."
 
+![Mom and Dad on the back porch with coffee, Bear between them watching with one eye — three tiny boys already disappearing into fifteen acres of East Texas morning](/images/stories/story-02-scene-01-fifteen-acres.png)
+
 ---
 
 The animals came in waves.
@@ -65,6 +67,8 @@ Bear, on the porch, lifted his head exactly one inch off his paws, considered th
 
 Bear had decided, in that moment, that donkeys were Mom's problem.
 
+![Mr. Snickers mid-bray — chickens exploding in all directions, ducks lifting off the pond, the youngest in tears, the middle boy laughing in the grass, Bear on the porch unmoved](/images/stories/story-02-scene-02-the-bray.png)
+
 ---
 
 By summer, the homestead had a *rhythm.*
@@ -76,6 +80,8 @@ Bear had become the unofficial supervisor of all of it.
 Not because he wanted to be. Bear had not asked for this job. Bear had spent five years in Phoenix being a perfectly reasonable suburban dog, and now suddenly he was responsible for the moral oversight of a pond, a pasture, eight chickens, four ducks, two donkeys, and three small humans who could not be trusted alone with any of the above. He took the job seriously despite himself. He would walk the perimeter of the yard every morning like a small graying foreman doing inspections. He would lie in the shade of the oak tree by the pond and keep one eye open whenever the boys waded in. He would, on occasion, give the chickens a meaningful look that said *don't even.*
 
 The chickens did not care about Bear's meaningful looks. But that was okay. Bear had stopped expecting anything from chickens.
+
+![Bear lying in the shade of the oak tree by the pond, one eye open — chickens on the porch, donkeys in the pasture, three boys wading in the shallows](/images/stories/story-02-scene-03-bear-the-supervisor.png)
 
 This was the homestead in early summer 2017. Full. Loud. Smelly. *Alive.* The kind of place where you woke up to a rooster instead of an alarm clock, where the boys came in for lunch with mud up to their knees, where you could stand on the back porch at night and hear nothing for miles except cicadas and frogs and the occasional bray of Mr. Snickers reminding the world that he existed.
 
@@ -138,6 +144,8 @@ Mom's eyes went immediately to the front of his jacket. Mom was a mom. Mom did n
 Dad held up both hands in the universal gesture of *please don't be mad.*
 
 "*What. Is. In. Your. Jacket.*"
+
+![Dad stands by his truck in the long dirt driveway, denim jacket suspiciously lumpy, Mom on the porch with hands on hips — the boys haven't noticed yet](/images/stories/story-02-scene-04-one-more-thing.png)
 
 The boys had heard her tone. The boys had stopped playing. Three small heads turned toward Dad in perfect unison. Three sets of eyes locked onto the lump.
 
