@@ -21,6 +21,8 @@ His mama purred a lot. It was her way of saying "you're here, you're safe, I'm h
 
 Outside, the rain fell on fifteen acres of East Texas homestead. Inside the barn, four kittens slept while their mother kept watch with golden eyes that never fully closed.
 
+![A tiny tabby kitten nestled with siblings in the warm East Texas barn hay loft, a black Lab puppy peeking curiously through the cracked barn door](/images/stories/story-07-scene-01-the-arrival.png)
+
 ---
 
 The first week was sound and smell.
@@ -99,6 +101,8 @@ They looked at each other.
 
 And something clicked — the way things click between animals sometimes, without logic, without language. Two creatures who had no reason to be friends deciding, in the space of a breath, that they were.
 
+![An extreme close-up of a tiny tabby kitten and a black Lab puppy face-to-face in the barn, their noses almost touching — the first moment of connection between Tiger and Gunner](/images/stories/story-07-scene-02-first-meeting.png)
+
 ---
 
 Dad found them an hour later. Gunner was lying on the barn floor, taking up most of it, and the kitten was sitting on his head.
@@ -136,6 +140,8 @@ Tiger purred.
 Gunner shifted, and his paw — already big enough to cover Tiger's entire body — settled gently over the kitten. Not holding him down. Just resting there. A warm, heavy assurance that said: *I'm here. I'm not going anywhere.*
 
 Tiger closed his eyes.
+
+![Tiger — a tiny tabby kitten — curled up asleep in the warm curve of Gunner's side on a cold East Texas night, choosing the spot he would claim for the rest of his life](/images/stories/story-07-scene-03-the-decision.png)
 
 He'd chosen his spot. Not the box. Not the barn. Not the space his mama used to fill.
 
