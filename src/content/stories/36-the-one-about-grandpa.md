@@ -37,6 +37,8 @@ The scratch was slow. Thorough. Patient. It said everything about the man: he wa
 
 And Gunner would close his eyes and lean into the hand and stay there for as long as the hand was offered.
 
+![Grandpa sitting in his worn armchair, slowly petting Gunner's head as the big Lab rests against his knee — Tiger watches quietly from across the room](/images/stories/story-36-scene-02-the-slow-hand.png)
+
 Every Sunday.
 
 ---
@@ -48,6 +50,8 @@ Small ones. The training-size treats that came in a bag and smelled like bacon. 
 "Don't tell your mother," Grandpa said to Gunner every time, slipping him one. This was their joke. Mom (Grandpa's daughter-in-law) had put Gunner on a diet approximately seven times, and each diet had been quietly sabotaged by Grandpa's pocket.
 
 Gunner would take the treat gently — so gently — from Grandpa's fingers. This was notable because Gunner's approach to food from every other source was approximately the speed and precision of a garbage disposal. But from Grandpa's hand, he was careful. As if he understood that this hand was fragile. As if he understood that this hand would not always be there.
+
+![Grandpa's weathered hand extended palm-up, offering a treat — Gunner's face touches the palm gently, taking it with the delicate care he shows with no one else](/images/stories/story-36-scene-01-the-treats.png)
 
 Tiger watched these Sunday visits from across the room.
 
@@ -114,6 +118,8 @@ He wasn't waiting, exactly. Dogs don't wait the way humans do, with clocks and c
 The truck didn't come.
 
 Dad found Gunner at the end of the driveway one evening, sitting in the spot where Grandpa used to park. Just sitting. Looking at the empty space.
+
+![An empty worn armchair in a quiet room — Gunner lies beside it with his head on his paws, watching where someone used to sit, while Tiger curls up on the arm of the chair, also still](/images/stories/story-36-scene-03-the-empty-chair.png)
 
 Dad sat down next to him. He didn't say anything. He just put his arm around the dog and they sat there together, watching the road, missing the same man.
 

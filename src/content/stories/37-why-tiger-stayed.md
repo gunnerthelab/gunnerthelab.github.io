@@ -21,6 +21,8 @@ There was Mama — Tiger's own mother. The barn cat who had birthed him in the h
 
 Cats came and went. That was the reality of country living. You loved them, you named them, you fed them and held them and let them sleep on your pillow, and then the night took them. The coyotes, the hawks, the road, the cold, the simple wildness of a world that doesn't care how much you love something small.
 
+![Silhouettes of cats walking away into darkness, into open fields, into the unknown — fading one by one into the vast, indifferent East Texas landscape](/images/stories/story-37-scene-01-the-others-left.png)
+
 Tiger should have been one of them. He was the same size, the same species, living on the same land, facing the same dangers.
 
 But Tiger stayed.
@@ -93,6 +95,8 @@ Tiger closed the gap. Tiger eliminated the gap entirely. Tiger slept on the pote
 
 That's why Tiger stayed. Not because the world outside was dangerous — though it was. Not because the inside was warm — though it was. But because inside, there was a creature who was warm and safe and who had never once, in all their years, given Tiger a reason to run.
 
+![Tiger sitting in the farmhouse doorway, golden-amber eyes steady and certain, looking out at the dangerous world — behind him, Gunner sleeps sprawled on his bed, the reason Tiger stayed](/images/stories/story-37-scene-02-tiger-didnt.png)
+
 ---
 
 Tiger stayed because of the moves.
@@ -148,6 +152,8 @@ And because sometimes, the reason you stay is the same as the reason you love: n
 Tiger purred.
 
 Gunner breathed.
+
+![Tiger curled against Gunner's belly on a worn rug by the heater vent — the same spot he chose as a kitten years ago, and every night since — both asleep, both home](/images/stories/story-37-scene-03-the-pillow.png)
 
 And outside, the Virginia night held them both in its mountain hands, and the stars turned slowly overhead, and nothing in the world could touch them here.
 
