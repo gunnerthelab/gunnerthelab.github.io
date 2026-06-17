@@ -21,4 +21,6 @@ pnpm-debug.log*
 .DS_Store
 
 # Claude Code
-.claude/
+
+.claude/logs/
+.claude/settings.local.json
