@@ -1109,6 +1109,151 @@ Graphite pencil illustration, wide composition, the most tender shading in the e
 ---
 ---
 
+## RECENT ADDITIONS — Stories 39–42
+
+### Era Notes
+These four stories were written after the original story blocks above were finalized, so they don't fall neatly into one contiguous number range. Stories 39, 40, and 42 are Virginia Homestead, present day — colored pencil, full color, boys at Virginia ages (14–15, 12–13, 10–11). Story 41 is a flashback to the Big Moves era (China Springs, TX, February 2021, right after the move from the East Texas homestead) — graphite pencil, boys at Big Moves ages (9–10, 7–8, 5–6).
+
+---
+
+### Story 39: Shotgun
+
+---
+
+**Scene 1 — The Keys**
+`Filename: story-39-scene-01-the-keys.png`
+
+Colored pencil illustration, warm midday parking-lot light, textured paper, hand-drawn style. A large heavyset man (full dark brown bushy beard, tan safari hat, Dickies overalls, gray t-shirt) standing beside a well-used dark blue full-size pickup truck in a feed-store parking lot, tossing a set of keys toward a tall broad-shouldered teenage boy (age 14–15, short brown hair, strong quiet build) who catches them one-handed without looking. The boy holds a freshly printed learner's permit in his other hand. Dad's face is a mix of pride and enormous, almost tearful relief. Nearby on the pavement, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar, amber-brown eyes bright with anticipation) watches the truck with obvious designs on the front seat. Southwestern Virginia mountains in the distance. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 2 — The Migration**
+`Filename: story-39-scene-02-the-migration.png`
+
+Colored pencil illustration, warm interior truck-cab light filtering through windows, textured paper. Inside the cab of a well-used dark blue pickup truck driving a mountain road: a large heavyset bearded man (Dickies overalls, tan safari hat askew) asleep in the passenger seat, mouth slightly open, being slowly buried under ninety pounds of black Labrador (jet-black coat, orange collar) who has flowed over the center console, front paws on the window, tail draped directly across Dad's face mid-wag. In the driver's seat, a tall teenage boy (14–15, short brown hair) grips the wheel with both hands, eyes wide, clearly saying something urgent. Mountain road and Blue Ridge ridgeline visible through the windshield. Chaotic, affectionate comedy. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 3 — Tiger Buys a Ticket**
+`Filename: story-39-scene-03-tiger-buys-a-ticket.png`
+
+Colored pencil illustration, warm golden driveway light, textured paper. A stocky gray-brown tabby cat (dark classic tabby stripes, golden-amber eyes, NOT orange) strolling of his own free will across gravel toward the open back door of a dark blue pickup truck, tail high, expression of calm, deliberate purpose. A large heavyset bearded man stands frozen mid-motion by the open door, staring in disbelief. In the truck bed area, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) is already loaded and watching with confusion. A slender woman (brown hair pinned up, practical clothes) stands in a farmhouse doorway in the background holding a coffee mug, smiling knowingly. Virginia homestead setting, morning light. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 4 — The Best Nap in Nine Years**
+`Filename: story-39-scene-04-the-best-nap.png`
+
+Colored pencil illustration, warm late-afternoon feed-store parking lot light, textured paper, tender comedic tone. Inside a parked dark blue pickup truck: a large heavyset bearded man asleep in the back seat, mouth open, glasses crooked, with a stocky gray-brown tabby cat (dark tabby stripes, NOT orange) asleep pressed against his leg. In the front seat, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) has his head out the open window, ears up, intently watching a squirrel. Outside the truck, a tall teenage boy (14–15, short brown hair) walks toward the driver's door with a fifty-pound feed bag over one shoulder, glancing back at his sleeping family with quiet, fond amusement. Southwestern Virginia mountains and feed-store building in the background. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+---
+
+### Story 40: The Gentlemen Next Door
+
+---
+
+**Scene 1 — Something Large**
+`Filename: story-40-scene-01-something-large.png`
+
+Colored pencil illustration, soft morning haze, textured paper, hand-drawn style. A large black Labrador Retriever (90 lbs, jet-black coat, orange collar, ears up, body frozen mid-stance) standing at his own fence line on the Virginia homestead, staring across the gravel road at a distant pasture where three enormous chestnut Suffolk Punch draft horses graze — massive, sunset-colored shapes with feathered hooves, visible through a scrim of morning mist and trees. On a fence post nearby, a stocky gray-brown tabby cat (dark tabby stripes, golden-amber eyes, NOT orange) sits with a knowing, amused expression, clearly already in on a secret. Blue Ridge mountains in the background. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 2 — Wally Says Hello**
+`Filename: story-40-scene-02-wally-says-hello.png`
+
+Colored pencil illustration, warm morning sunlight, textured paper. An enormous chestnut Suffolk Punch draft horse (broad head, kind brown eyes, thick feathered legs) leaning his great head down over a wooden fence rail, nose just above a small black Labrador Retriever (90 lbs, jet-black coat, orange collar) who has sat straight down on the gravel road, head tilted all the way back, eyes enormous, utterly frozen in awe. A large heavyset bearded man holds the dog's leash loosely, fighting back a laugh. Two more massive chestnut horses stand just behind the first, ears forward with gentle curiosity. Green Virginia pasture and Blue Ridge mountains in the background. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 3 — The Secret Friendship**
+`Filename: story-40-scene-03-the-secret-friendship.png`
+
+Colored pencil illustration, warm green pasture tones, textured paper. A stocky gray-brown tabby cat (dark classic tabby stripes, golden-amber eyes, NOT orange) walking casually under a wooden fence rail into a horse paddock, rubbing his cheek affectionately against the enormous feathered fetlock of a massive chestnut Suffolk Punch draft horse, who looks down at the small cat with a contented, familiar expression. A small black Labrador Retriever (90 lbs, jet-black coat, orange collar) watches from just outside the fence, mouth open in a silent, betrayed gasp. Two more chestnut draft horses graze peacefully nearby. Virginia pasture and mountains behind them. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 4 — Cheerio, Bor**
+`Filename: story-40-scene-04-cheerio-bor.png`
+
+Colored pencil illustration, golden late-morning light, textured paper, warm farewell scene. Three enormous chestnut Suffolk Punch draft horses lined up at a wooden fence, heads lowered in a row, each nuzzling gently toward a small black Labrador Retriever (90 lbs, jet-black coat, orange collar) who stands on his hind legs against the rail, giving each nose a careful, happy lick, tail wagging fully now. A stocky gray-brown tabby cat (dark tabby stripes, golden-amber eyes, NOT orange) sits nearby on a fence post, tail wrapped around his paws, watching with quiet satisfaction. Green Virginia pasture, Blue Ridge ridgeline soft in the distance, warm morning light. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+---
+
+### Story 41: The Week Aunt Donna Got Snowed In
+
+---
+
+**Character note — Aunt Donna:** A woman in her late 30s/40s with warm brown hair, wearing a cozy oversized cardigan and wool socks, kind expressive face, easy warmth about her — the visiting aunt, not a recurring series character, so describe her consistently within this story's scenes only.
+
+**Setting note:** A modest rented single-story house near Waco, Texas (China Springs), in the grip of an unprecedented February 2021 winter storm — snow-dusted yard, ice-glazed trees, everything blanketed in unfamiliar white on land that almost never sees snow.
+
+---
+
+**Scene 1 — This One Is Mine**
+`Filename: story-41-scene-01-this-one-is-mine.png`
+
+Graphite pencil illustration, hand-drawn crosshatching, softly shaded black and white, pencil-on-paper texture. A woman in her late 30s/40s (warm brown hair, cozy oversized cardigan) standing at the back door of a modest rented Texas farmhouse, coffee mug in hand, snow falling behind her in a yard unused to it. A young black Labrador puppy-to-adult-sized dog (90 lbs, jet-black coat, orange collar, mid-leap, wet paws, ecstatic expression) crashing through the door toward her, tail already a blur. Snow visible on his back. From the top of a nearby refrigerator, just visible through an interior doorway, a gray-brown tabby cat (dark tabby stripes, golden-amber eyes narrowed, NOT orange) watches with calm calculation. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 2 — Head of Food Security**
+`Filename: story-41-scene-02-head-of-food-security.png`
+
+Graphite pencil illustration, soft interior crosshatched shading, black and white, pencil-on-paper texture. Inside a modest, half-unpacked rental kitchen during a snowstorm (boxes still stacked in a corner). A woman in her late 30s/40s (warm brown hair, oversized cardigan) holding a single piece of toast at the counter, looking down with fond exasperation at a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) pressed hopefully against her hip, eyes fixed on the toast with total devotion. Nearby, an energetic small boy (age 5–6, shaggy light brown hair, mischievous grin) sits cross-legged on the floor, watching and grinning. Snow visible through the kitchen window. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 3 — Face-First in the Snow**
+`Filename: story-41-scene-03-face-first-in-snow.png`
+
+Graphite pencil illustration, bright crosshatched snow textures, black and white, pencil-on-paper texture. A large black Labrador Retriever (90 lbs, jet-black coat, orange collar) mid-plow through a deep snowdrift in a Texas yard, nose down, a white beard of snow clinging to his muzzle, pure uncomplicated joy on his face. A woman in her late 30s/40s (warm brown hair, now in a heavier coat) stands a few feet away, doubled over laughing, breath visible in the cold air. Unfamiliar snow blankets a Texas farmhouse and bare trees in the background. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 4 — Keeping Watch in the Dark**
+`Filename: story-41-scene-04-keeping-watch-in-the-dark.png`
+
+Graphite pencil illustration, extra soft nighttime shading, black and white, pencil-on-paper texture, tender tone. A dim living room at night, snow visible through a window. A large black Labrador Retriever (90 lbs, jet-black coat, orange collar) curled on a dog bed, one eye cracked open, tail giving a small thump — with a gray-brown tabby cat (dark tabby stripes, golden-amber eyes closed, NOT orange) tucked into the warm curve of his belly. A woman in her late 30s/40s (warm brown hair, wrapped in a blanket) sits quietly on the floor beside them, watching, calmer than before. Soft, aching shading, quiet composition. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+---
+
+### Story 42: The Silent But Deadly Mystery
+
+---
+
+**Scene 1 — The Idea of a Truck Ride**
+`Filename: story-42-scene-01-idea-of-a-truck-ride.png`
+
+Colored pencil illustration, bright cheerful morning light, textured paper, hand-drawn style. A large black Labrador Retriever (90 lbs, jet-black coat, orange collar, mid-leap, ears flying, tongue out in pure joy) launching himself into the back seat of a well-used dark blue pickup truck in a Virginia driveway. A lean teenage boy (age 12–13, sandy-brown hair, thoughtful expression) already buckled in, laughing at the dog's enthusiasm. A large heavyset bearded man holds the driver's door open, keys in hand. On the porch railing behind them, a stocky gray-brown tabby cat (dark tabby stripes, golden-amber eyes, NOT orange) watches with the flat, unimpressed expression of a creature who has zero intention of getting in that truck. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 2 — Blame the Feed Lot**
+`Filename: story-42-scene-02-blame-the-feed-lot.png`
+
+Colored pencil illustration, bright midday light, textured paper, comedic chaos. Inside the cab of a dark blue pickup truck driving a Virginia road, all windows hastily rolled down. A large heavyset bearded man and a lean teenage boy (12–13, sandy-brown hair) both leaning slightly toward their open windows, faces screwed up, gulping fresh air. In the back seat, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) sleeps peacefully through the entire ordeal, chin on the armrest, the picture of innocence. Green Virginia countryside streaming past outside. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 3 — Three Heads Turn**
+`Filename: story-42-scene-03-three-heads-turn.png`
+
+Colored pencil illustration, warm late-afternoon light, textured paper, comedic-dramatic tone. Inside the truck cab: a large heavyset bearded man, a lean sandy-haired teenage boy (12–13), and a tall broad-shouldered teenage boy (14–15, short brown hair) all turning in their seats to stare, slow-motion realization dawning, toward the back seat. There, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) sits upright, wide amber-brown eyes and a big innocent grin, tail thumping happily, utterly delighted by the sudden attention. Golden Virginia evening light through the windshield. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+
+**Scene 4 — Windows Down All the Way Home**
+`Filename: story-42-scene-04-windows-down-all-the-way-home.png`
+
+Colored pencil illustration, cold blue evening tones with warm golden light on the horizon, textured paper. A dark blue pickup truck driving up a long gravel driveway at dusk, all four windows completely down, a large black Labrador Retriever (90 lbs, jet-black coat, orange collar) sitting tall and proud in the middle of the back seat, ears flying, thoroughly pleased with himself. On the farmhouse porch railing ahead, a stocky gray-brown tabby cat (dark tabby stripes, golden-amber eyes, NOT orange) waits with the smug, composed look of a creature who stayed home and made the right call. Blue Ridge mountains silhouetted against the fading light. Storybook illustration, children's book quality, 3:2 landscape.
+
+---
+---
+
 ## ART STYLE SUMMARY
 
 | Era | Stories | Art Style | Tone | Boys' Ages |
@@ -1121,6 +1266,8 @@ Graphite pencil illustration, wide composition, the most tender shading in the e
 | Seasonal / Holiday | #29–32 | Colored pencil, full color | Festive, emotional, seasonal | 13–14, 11–12, 9–10 |
 | Adventure | #33–35 | Colored pencil, full color | Exciting, dramatic, fun | 13–14, 11–12, 9–10 |
 | Heart Stories | #36–38 | Graphite pencil, extra soft | Deeply emotional, tender, quiet | Mixed / varies |
+| Recent Additions | #39, 40, 42 | Colored pencil, full color | Warm, funny, present-day Virginia | 14–15, 12–13, 10–11 |
+| Recent Additions | #41 | Graphite pencil, B&W | Bittersweet flashback, Big Moves era | 9–10, 7–8, 5–6 |
 
 ---
 
@@ -1156,7 +1303,7 @@ All filenames follow this pattern:
 ```
 story-XX-scene-YY-short-description.png
 ```
-- `XX` = two-digit story number (01–38)
+- `XX` = two-digit story number (01–42)
 - `YY` = two-digit scene number (01, 02, 03...)
 - `short-description` = 2–4 word kebab-case description
 - Extension: `.png` (change to `.jpg` if using photographic-style generation)
