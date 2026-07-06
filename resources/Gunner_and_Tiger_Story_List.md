@@ -73,6 +73,9 @@ First day on 40 acres in Virginia. Gunner marks every single tree (it takes a wh
 **16. The Invisible Fence**
 China Springs, TX. No good fence, so the family buys an electric fence. Gunner gets his first zap and bolts to Dad like a terrified puppy. For days he won't go outside, standing at the door trembling, looking at the yard like it personally betrayed him. Tiger strolls in and out freely (cats don't wear the collar) with maximum smugness. The boys try to coax Gunner out with treats. He wants the treats. He does not want the yard. The internal conflict nearly breaks him. Eventually he inches out one paw at a time like he's crossing a minefield.
 
+**41. The Week Aunt Donna Got Snowed In** ✅ *WRITTEN*
+China Springs, Texas, February 2021. Aunt Donna comes to help her brother's family through a hard week and gets snowed in by one of the biggest winter storms in a hundred years. Gunner adopts her on sight and appoints himself Head of Food Security. Tiger takes four days to run the numbers and claim a spot on her lap. A story about a rough week made easier by a ridiculous, warm dog.
+
 ---
 
 ## The Virginia Homestead (Current Setting — 40 Acres)
@@ -103,6 +106,9 @@ The oldest gets his learner's permit and Dad climbs into the passenger seat for 
 
 **40. The Gentlemen Next Door** ✅ *WRITTEN*
 Something large has moved into the neighbors' field — three enormous Suffolk Punch draft horses with kind eyes and a warm rolling dialect Gunner can't understand a word of. Tiger, naturally, has already been over there twice and made friends. A story about meeting gentle giants and learning that sometimes the nicest things you'll ever hear are the things you don't quite understand.
+
+**42. The Silent But Deadly Mystery** ✅ *WRITTEN*
+A truck ride to visit friends on another farm turns into an afternoon-long mystery and a deeply wronged local feed lot. Something keeps rolling silently through the cab, and everyone gets blamed except the one dog sleeping soundly in the back seat. By the time the truth comes out, there isn't a window left rolled up.
 
 ---
 
