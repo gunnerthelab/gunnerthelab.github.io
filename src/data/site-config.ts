@@ -19,6 +19,10 @@ const siteConfig: SiteConfig = {
             href: '/stories'
         },
         {
+            text: 'App',
+            href: '/app'
+        },
+        {
             text: 'About',
             href: '/about'
         }
