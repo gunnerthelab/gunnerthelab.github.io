@@ -84,11 +84,7 @@ They put the Phoenix house on the market in the middle of October. It sold faste
 
 That window turned out to hold something worth staying for. The youngest's second birthday was the first of December, and it didn't feel right to slip out of town without it. So they stayed for it. There was a party with old friends, the people who had known the family since before there were three boys to keep track of, an afternoon of cake and paper plates and the particular ache of a goodbye you keep smiling through. Then, with the sale finally closed and the last of the hugs given, the moving truck was loaded and gone, headed east on its own schedule. Which meant the family had exactly one job left: drive themselves and one middle-aged brown mutt about eleven hundred miles across the desert, through the hill country, and into the piney woods of East Texas.
 
-Two vehicles. Mom and the three boys in the minivan. Dad and Bear in the pickup.
-
-That was the plan.
-
-And, a minor miracle if you have ever road-tripped with three small children, it was also exactly what happened. Mom drove the minivan the whole way, all eleven hundred miles of it. Dad drove the truck the whole way, Bear riding shotgun for every single one of those miles. Nobody switched. Nobody needed to.
+Two vehicles. Mom and the three boys in the minivan. Dad and Bear in the pickup, the old dog riding shotgun the whole way east.
 
 ---
 
@@ -210,7 +206,7 @@ Nobody would tell this part as a funny story later.
 
 This was the part Dad would remember years afterward, sitting on a porch in Virginia with Bear long gone: the quiet hour in the West Texas desert, the low morning sun coming gold through the windshield, the road running on ahead toward a piney-woods homestead none of them had seen yet but had already decided, together, to trust.
 
-This was Bear's last big adventure before the homestead. Before the chickens and the cows and the puppy who would change absolutely everything. Before the years of being the alpha of fifteen acres, and then one acre, and then, eventually, a porch in the Virginia mountains. For now he was only a brown dog asleep in a pickup truck, riding east beside his person, doing what he had done his whole life without ever once being asked twice: going where the family went.
+For now he was only a brown dog asleep in a pickup truck, riding east beside his person, doing what he had done his whole life without ever once being asked twice: going where the family went.
 
 ---
 
