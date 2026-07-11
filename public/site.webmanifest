@@ -1,6 +1,6 @@
 {
-  "name": "The Adventures of Gunner the Lab",
-  "short_name": "Gunner the Lab",
+  "name": "Gunner the Lab",
+  "short_name": "Gunner",
   "description": "Mostly fictional. Always fun. Definitely Gunner's fault.",
   "start_url": "/",
   "display": "standalone",
