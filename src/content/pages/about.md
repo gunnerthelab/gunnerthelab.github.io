@@ -79,6 +79,12 @@ Stories are illustrated in two styles:
 
 ---
 
+## About These Stories
+
+The Adventures of Gunner the Lab is a work of family storytelling. Some of it really happened, to real people, in real places, with real animals, and at times you'll even meet them by their real names. But these are stories first. Events, locations, timelines, and the people in them have been changed, combined, trimmed, and padded with plenty of fiction for the sake of a better tale. Mostly true, always fun, and definitely Gunner's fault.
+
+---
+
 ## About the Author
 
 These stories are written by Dad — a cloud architect by day and a storyteller by night. The characters are inspired by real animals, real kids, and a real homestead. The stories, however, are mostly fictional. Mostly.
