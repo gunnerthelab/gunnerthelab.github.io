@@ -27,29 +27,42 @@ self.addEventListener('message', (event) => {
     }
 });
 
-// Activate: delete old caches, notify clients of update
+// Activate: delete old caches, take control of open clients
 self.addEventListener('activate', (event) => {
     event.waitUntil(
         caches
             .keys()
             .then((keys) => Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))))
             .then(() => self.clients.claim())
-            .then(() => {
-                self.clients.matchAll({ type: 'window' }).then((clients) => {
-                    clients.forEach((client) => {
-                        client.postMessage({ type: 'NEW_CONTENT' });
-                    });
-                });
-                return self.registration
-                    .showNotification('Gunner the Lab', {
-                        body: 'New stories have been published!',
-                        icon: '/icons/icon-192.png',
-                        badge: '/icons/icon-80.png',
-                        tag: 'new-content',
-                        data: { url: '/stories/' }
-                    })
-                    .catch(() => {});
-            })
+    );
+});
+
+// Push: a new story (or other content) has published. The pipeline behind
+// this (storyreader-gunner's worker/src/lib/vapid.ts) sends a payload-less
+// push - event.data is null - so this always falls back to a generic
+// message today. The parsing below is defensive so a future payload (e.g.
+// a story title) is picked up automatically without a service worker
+// change, without ever breaking on the empty case that's actually sent.
+self.addEventListener('push', (event) => {
+    let payload = {};
+    if (event.data) {
+        try {
+            payload = event.data.json();
+        } catch {
+            payload = {};
+        }
+    }
+    const title = payload.title || 'New story from Gunner the Lab';
+    const body = payload.body || 'A new adventure just went up. Come take a look.';
+    const url = payload.url || '/stories/';
+    event.waitUntil(
+        self.registration.showNotification(title, {
+            body,
+            icon: '/icons/icon-192.png',
+            badge: '/icons/icon-80.png',
+            tag: 'new-content',
+            data: { url }
+        })
     );
 });
 

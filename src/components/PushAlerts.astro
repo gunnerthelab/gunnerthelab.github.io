@@ -1,0 +1,245 @@
+---
+/**
+ * "Get new story alerts" opt-in for the installed site PWA (separate from
+ * the StoryReader reader app at app.gunnerthelab.com). Subscribes the
+ * browser to Web Push and hands the subscription to the same worker that
+ * already pushes to the app on every publish (storyreader-gunner's
+ * worker/src/routes/admin.ts "publish" route fans out to every stored
+ * subscription), so site subscribers ride that same pipeline instead of a
+ * new one.
+ *
+ * Feature-detects and degrades gracefully:
+ * - Push unsupported: hidden entirely.
+ * - iOS Safari not installed to the home screen: WebKit does not expose
+ *   PushManager until the site is added to the home screen, so a short
+ *   install hint is shown instead of a dead button.
+ * - Notifications blocked at the browser level: a hint is shown instead of
+ *   a button that would silently do nothing.
+ * - Subscribing but the worker rejects the request (see HANDOFF.md for the
+ *   current CORS status): the button reverts and shows a short status
+ *   message rather than falsely claiming success.
+ */
+type Props = { class?: string };
+
+const { class: className } = Astro.props;
+
+// Public half of the VAPID keypair used by storyreader-gunner's worker -
+// safe to embed client-side, it identifies the sender, not a secret.
+const VAPID_PUBLIC_KEY = 'BMVbmMNZT0aJata6AUnh7ltNzWA42BkpyQg4_kkgIrL_exxcrgZopxcDALKay_cmhHxEutNkiPw-wK0aUeHdUic';
+const SUBSCRIBE_URL = 'https://app.gunnerthelab.com/api/push/subscribe';
+const UNSUBSCRIBE_URL = 'https://app.gunnerthelab.com/api/push/unsubscribe';
+---
+
+<div id="push-alerts" class:list={[className]} data-vapid-key={VAPID_PUBLIC_KEY} data-subscribe-url={SUBSCRIBE_URL} data-unsubscribe-url={UNSUBSCRIBE_URL}>
+    <button
+        id="push-alerts-button"
+        type="button"
+        class="border-accent text-main hover:bg-muted hidden cursor-pointer items-center gap-2 rounded-full border px-4 py-1.5 font-serif text-sm italic transition-colors disabled:cursor-not-allowed disabled:opacity-60"
+    >
+        <svg
+            class="h-4 w-4 shrink-0"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+        >
+            <path d="M6 8a6 6 0 1 1 12 0c0 4 1.5 6 2 6.5H4c.5-.5 2-2.5 2-6.5Z"></path>
+            <path d="M10 19a2 2 0 0 0 4 0"></path>
+        </svg>
+        <span class="push-alerts-label">Get new story alerts</span>
+    </button>
+    <p id="push-alerts-hint" class="text-gray hidden max-w-sm font-serif text-sm italic"></p>
+    <p id="push-alerts-status" class="text-gray mt-2 hidden text-sm" aria-live="polite"></p>
+</div>
+
+<script>
+    (function () {
+        const root = document.getElementById('push-alerts');
+        if (!root) return;
+
+        const VAPID_PUBLIC_KEY = root.dataset.vapidKey || '';
+        const SUBSCRIBE_URL = root.dataset.subscribeUrl || '';
+        const UNSUBSCRIBE_URL = root.dataset.unsubscribeUrl || '';
+
+        type State = 'hidden' | 'hint' | 'idle' | 'busy' | 'subscribed';
+
+        function getButton(): HTMLButtonElement | null {
+            return document.getElementById('push-alerts-button') as HTMLButtonElement | null;
+        }
+
+        function getHint(): HTMLElement | null {
+            return document.getElementById('push-alerts-hint');
+        }
+
+        function getStatusEl(): HTMLElement | null {
+            return document.getElementById('push-alerts-status');
+        }
+
+        function urlBase64ToUint8Array(base64String: string): Uint8Array<ArrayBuffer> {
+            const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
+            const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+            const rawData = atob(base64);
+            const output = new Uint8Array(rawData.length);
+            for (let i = 0; i < rawData.length; i++) output[i] = rawData.charCodeAt(i);
+            return output;
+        }
+
+        function isIOS(): boolean {
+            const ua = navigator.userAgent;
+            return /iP(hone|od|ad)/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+        }
+
+        function isStandalone(): boolean {
+            // navigator.standalone is a legacy iOS-only API not in the DOM lib typings.
+            const nav = navigator as Navigator & { standalone?: boolean };
+            return window.matchMedia('(display-mode: standalone)').matches || nav.standalone === true;
+        }
+
+        function setLabel(text: string) {
+            const label = document.querySelector('#push-alerts .push-alerts-label');
+            if (label) label.textContent = text;
+        }
+
+        function setStatus(text: string) {
+            const status = getStatusEl();
+            if (!status) return;
+            status.textContent = text || '';
+            status.classList.toggle('hidden', !text);
+        }
+
+        function render(state: State, extra?: string) {
+            const button = getButton();
+            const hint = getHint();
+            if (!button || !hint) return;
+
+            button.classList.add('hidden');
+            button.classList.remove('inline-flex');
+            hint.classList.add('hidden');
+
+            if (state === 'hint') {
+                setStatus('');
+                hint.textContent = extra || '';
+                hint.classList.remove('hidden');
+                return;
+            }
+            if (state === 'hidden') return;
+
+            button.classList.remove('hidden');
+            button.classList.add('inline-flex');
+            button.disabled = state === 'busy';
+            button.dataset.state = state;
+            setLabel(state === 'subscribed' ? 'Alerts on' : state === 'busy' ? extra || 'Working' : 'Get new story alerts');
+        }
+
+        async function currentSubscription() {
+            const registration = await navigator.serviceWorker.ready;
+            return registration.pushManager.getSubscription();
+        }
+
+        async function subscribe() {
+            setStatus('');
+            render('busy', 'Turning on');
+            try {
+                const permission = await Notification.requestPermission();
+                if (permission !== 'granted') {
+                    setStatus(permission === 'denied' ? 'Notifications are blocked in your browser settings.' : 'Notifications weren’t enabled.');
+                    await refresh();
+                    return;
+                }
+                const registration = await navigator.serviceWorker.ready;
+                const subscription = await registration.pushManager.subscribe({
+                    userVisibleOnly: true,
+                    applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY)
+                });
+                const json = subscription.toJSON();
+                const response = await fetch(SUBSCRIBE_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'x-requested-with': 'storyreader' },
+                    body: JSON.stringify({ endpoint: json.endpoint, p256dh: json.keys?.p256dh, auth: json.keys?.auth })
+                });
+                if (!response.ok) throw new Error('subscribe_failed');
+                await refresh();
+            } catch {
+                // The local subscription can succeed even when telling the
+                // server fails (e.g. blocked cross-origin) - roll it back
+                // so the button stays honest and a retry starts clean.
+                try {
+                    const existing = await currentSubscription();
+                    await existing?.unsubscribe();
+                } catch {
+                    /* best effort */
+                }
+                setStatus('Couldn’t turn on alerts right now. Please try again later.');
+                await refresh();
+            }
+        }
+
+        async function unsubscribe() {
+            setStatus('');
+            render('busy', 'Turning off');
+            try {
+                const subscription = await currentSubscription();
+                if (subscription) {
+                    const endpoint = subscription.endpoint;
+                    await subscription.unsubscribe();
+                    fetch(UNSUBSCRIBE_URL, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json', 'x-requested-with': 'storyreader' },
+                        body: JSON.stringify({ endpoint })
+                    }).catch(() => {});
+                }
+            } catch {
+                /* best effort - refresh() below reflects the real state either way */
+            }
+            await refresh();
+        }
+
+        async function onClick() {
+            const button = getButton();
+            if (!button || button.disabled) return;
+            if (button.dataset.state === 'subscribed') {
+                await unsubscribe();
+            } else {
+                await subscribe();
+            }
+        }
+
+        async function refresh() {
+            const supported = 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window;
+
+            if (!supported) {
+                if (isIOS() && !isStandalone()) {
+                    render('hint', 'Install this site to your home screen to get story alerts.');
+                } else {
+                    render('hidden');
+                }
+                return;
+            }
+
+            if (Notification.permission === 'denied') {
+                render('hint', 'Notifications are blocked in your browser settings.');
+                return;
+            }
+
+            try {
+                const subscription = await currentSubscription();
+                render(subscription ? 'subscribed' : 'idle');
+            } catch {
+                render('hidden');
+            }
+        }
+
+        function setup() {
+            const button = getButton();
+            if (!button) return;
+            button.addEventListener('click', onClick);
+            refresh();
+        }
+
+        setup();
+        document.addEventListener('astro:after-swap', setup);
+    })();
+</script>
