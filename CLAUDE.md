@@ -128,6 +128,7 @@ gunnerthelab.github.io/
 ## Subagents available in this repo
 
 - `gunnerthelab.github.io-engineer` (model: sonnet) — Expert in `gunnerthelab.github.io`: deep knowledge of this repo's structure, conventions, and development workflow.
+- `gunner-story-writer` (model: sonnet) — Dedicated prose writer for the series. Drafts and revises illustrated short stories in the established Gunner-and-Tiger voice (comedy + heart), following `resources/writing-style-guide.md` and the story frontmatter schema.
 
 User-level agents (available in every repo session): `triage-lookup`, `markdown-prose-editor`, `azurelocal-domain-expert`, `mkdocs-material-doctor`, `turner-module-scaffold-engineer`, `mms-2026-demo-presenter`.
 
