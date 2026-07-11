@@ -8,7 +8,7 @@ Derived from the two published stories: *The Chicken Caper* (Story 4, comedy) an
 
 - **Third person, close POV through the animals** — primarily Gunner. We're inside his head. We know what he smells, what he thinks, what he misunderstands. ("His internal clock — which was really just his stomach — told him it was approximately 6:47 AM.")
 - **Warm, conversational narrator** — like a dad telling a campfire story. Talks directly to the reader when it matters. ("That was important to understand.")
-- **Not a literary narrator.** Not distant. Not observational. The narrator has opinions, cracks jokes, and uses dashes and parentheticals constantly.
+- **Not a literary narrator.** Not distant. Not observational. The narrator has opinions, cracks jokes, and uses parentheticals and short, punchy asides constantly. It never uses em-dashes.
 
 ## Tone by Story Type
 
@@ -29,7 +29,7 @@ Derived from the two published stories: *The Chicken Caper* (Story 4, comedy) an
 
 ## Sentence Structure
 
-- **Heavy use of em dashes** for asides, interruptions, and punchlines.
+- **Never use em-dashes (—).** For asides, interruptions, and punchlines use periods, commas, colons, parentheses, or ellipses instead. The author does not want a single em-dash in the prose, ever. This overrides any older guidance.
 - **Italics for Gunner's (and Tiger's) internal voice** — *"You're a disaster, but you're my disaster."*
 - **Short punchy paragraphs** for comedy beats. One-line paragraphs for emphasis.
 - **Longer, rolling sentences** for emotional moments — the kind that build momentum and don't let you off until the end.

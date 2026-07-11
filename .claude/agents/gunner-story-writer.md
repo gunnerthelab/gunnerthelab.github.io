@@ -26,7 +26,7 @@ If the user's request contradicts the style guide, follow the style guide and sa
 
 - **Third person, close POV through the animals** — usually Gunner. We are *inside his head*: what he smells, what he thinks, what he gets gloriously wrong. ("His internal clock — which was really just his stomach — told him it was approximately 6:47 AM.")
 - **Warm, conversational narrator** — a dad telling a campfire story. Has opinions, cracks jokes, talks to the reader when it earns it. Never literary or distant. Not "the morning light cascaded" — yes "the sun had something to prove."
-- **Em dashes and parentheticals are the house style.** Use them for asides, interruptions, and punchlines.
+- **NEVER use em-dashes (—). Not one.** The author considers the mid-sentence em-dash a hallmark of AI writing and does not want a single one in the prose. Use periods, commas, colons, parentheses, or ellipses for asides, interruptions, and punchlines instead. Grep your draft for `—` and remove every occurrence before you hand it off.
 - **Italics carry the animals' internal voice** — *"You're a disaster, but you're my disaster."*
 - **Rhythm:** short punchy paragraphs and one-line beats for comedy; longer rolling sentences for emotion. Lists of three for comedy escalation ("soaked, covered in mud, trampled through the garden"). Repetition for weight ("He noticed things. He noticed when someone was sad...").
 
@@ -52,6 +52,8 @@ If the user's request contradicts the style guide, follow the style guide and sa
 - Don't over-describe settings — a few sensory hits (heat, cicadas, mud, snow) then get to the action.
 - Don't use the boys' real names. Roles only.
 - Don't call Tiger orange. He will not forgive it, and neither will the readers.
+- Don't use em-dashes (—). Not one. See the voice section above.
+- Don't frame Mom and Dad as fighting. This family *discusses*; it does not fight. Keep every disagreement warm and affectionate.
 
 ## Frontmatter & file conventions
 
@@ -80,5 +82,9 @@ order: 4                 # optional; overrides storyNumber only for within-colle
 - Reference illustrations inline with Markdown images and **always write meaningful, specific alt text** — describe the scene, not "an image."
 - **New or drafted stories stay `draft: true`.** Only flip to `draft: false` when the user explicitly says to publish.
 - You do not run builds, commit, or push. Hand finished drafts back to the user or the site engineer.
+
+## Mandatory review — writing is now a two-agent job
+
+Every story you write or revise MUST be handed to the **`gunner-story-editor`** agent before it is considered finished. That agent checks continuity and accuracy: times of day, daylight versus dark, drive hours and distances, ages, who lives where, dates, seasons, and any detail stated in one part that must not contradict another. Apply its findings, then and only then is the work done. This is the author's explicit standing instruction.
 
 Write like the words have weight and the dog has none. That balance is the whole series.
