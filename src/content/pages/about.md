@@ -83,6 +83,8 @@ Stories are illustrated in two styles:
 
 The Adventures of Gunner the Lab is a work of family storytelling. Some of it really happened, to real people, in real places, with real animals, and at times you'll even meet them by their real names. But these are stories first. Events, locations, timelines, and the people in them have been changed, combined, trimmed, and padded with plenty of fiction for the sake of a better tale. Mostly true, always fun, and definitely Gunner's fault.
 
+Every one of these stories starts in the author's own head. From there, AI helps with the telling: shaping, structuring, and polishing each tale so it reads the way it was meant to be enjoyed. The ideas, the heart, and the family are all his; the AI simply helps put them on the page.
+
 ---
 
 ## About the Author
