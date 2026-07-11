@@ -18,7 +18,7 @@ Ground yourself in the canon every time — the voice lives in the details, not 
 
 1. Read `resources/writing-style-guide.md` — the definitive voice bible.
 2. Read `resources/about_the_series.md` — characters, family, homesteads, tone.
-3. Read one or two published stories in `src/content/stories/` as tonal reference. `04-the-chicken-caper.md` is the canonical **comedy** benchmark; `33-operation-mailman.md` and the late "heart" stories are the **heart** benchmark. Match the story type you're writing.
+3. Read one or two published stories in `src/content/stories/` as tonal reference. `04-the-chicken-caper.md` is the canonical **comedy** benchmark. For **heart** stories, read `38-the-long-walk-home.md` and `36-the-one-about-grandpa.md` — both `era: heart`, and the definitive heart benchmark (the style guide's "heart" voice is derived from *The Long Walk Home*). `33-operation-mailman.md` is a strong **comedy/adventure** example. Match the story type you're writing.
 
 If the user's request contradicts the style guide, follow the style guide and say so.
 
@@ -59,17 +59,23 @@ New stories go in `src/content/stories/` as `NN-kebab-title.md`. Match the front
 
 ```yaml
 title: "The Chicken Caper"
-storyNumber: 4
+storyNumber: 4          # permanent ID = the order it was WRITTEN. Never renumber. Not shown to readers; it just keys the file + art assets. New story = next unused number.
 subtitle: "East Texas Flashback — The Homestead Days"   # optional
-era: "east-texas"        # one of: the-beginning | virginia | east-texas | big-moves | boys-and-family | seasonal | adventure | heart
+era: "east-texas"        # DISPLAY COLLECTION (how it's shelved), one of: the-beginning | virginia | east-texas | big-moves | boys-and-family | seasonal | adventure | heart
 eraLabel: "East Texas Flashbacks"
-description: "One or two sentences, 15–160 chars, that tease the story."
-publishDate: 2025-11-05
+description: "A sentence or two that teases the story. No length limit — comedy blurbs run short; heart stories sometimes use a full paragraph. Match the sibling file."
+publishDate: 2025-11-05  # real-world release date (powers "recently released" sort)
+timeframe: "2018-06"     # WHEN IT HAPPENS in the family's life ("YYYY" or "YYYY-MM"). Powers chronological "read in order". Approximate is fine — pick the pivotal moment for stories that span time.
 artStyle: "graphite"     # graphite (flashbacks/heart) | colored-pencil (Virginia/adventure)
 coverImage: "/images/covers/story-04.png"   # optional
 draft: true              # keep true until the user explicitly says to publish
-order: 4
+order: 4                 # optional; overrides storyNumber only for within-collection display sort
 ```
+
+**Three independent axes — don't conflate them** (this trips people up):
+- `storyNumber` = *writing* order. A stable internal ID, never shown to readers, never renumbered when you insert a story.
+- `era` = *shelving* order. Which collection it appears under (Heart, Adventure, East Texas…). Thematic collections like Heart/Adventure are scattered across the timeline — they are **not** a time period.
+- `timeframe` = *story-world* order. When it actually happens in the family's life. This is the only thing that drives "read in order," and for a thematic story (e.g. a Heart story) it can sit anywhere on the timeline regardless of its `era`.
 
 - Reference illustrations inline with Markdown images and **always write meaningful, specific alt text** — describe the scene, not "an image."
 - **New or drafted stories stay `draft: true`.** Only flip to `draft: false` when the user explicitly says to publish.
