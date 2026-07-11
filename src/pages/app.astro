@@ -30,6 +30,52 @@ const features = [
         body: 'All 42 stories across all 8 eras — from the East Texas homestead to the Virginia mountains — in one tidy, kid-friendly reader.'
     }
 ];
+
+const installGuides = [
+    {
+        device: 'iPhone & iPad',
+        browser: 'Safari',
+        steps: [
+            'Open <strong>app.gunnerthelab.com</strong> in Safari.',
+            'Tap the <strong>Share</strong> button — the square with the up arrow.',
+            'Scroll down and tap <strong>Add to Home Screen</strong>.',
+            'Tap <strong>Add</strong>.'
+        ],
+        note: 'On iPhone and iPad it has to be Safari — Chrome can’t install web apps.'
+    },
+    {
+        device: 'Android',
+        browser: 'Chrome',
+        steps: [
+            'Open <strong>app.gunnerthelab.com</strong> in Chrome.',
+            'Tap the <strong>⋮</strong> menu in the top right.',
+            'Tap <strong>Add to Home screen</strong> or <strong>Install app</strong>.',
+            'Confirm.'
+        ],
+        note: ''
+    },
+    {
+        device: 'Windows',
+        browser: 'Chrome or Edge',
+        steps: [
+            'Open <strong>app.gunnerthelab.com</strong>.',
+            'Click the <strong>install icon</strong> at the right end of the address bar.',
+            'Or use <strong>⋮</strong> → <strong>Install this site as an app</strong> (Edge: <strong>⋯</strong> → <strong>Apps</strong>).',
+            'Click <strong>Install</strong>.'
+        ],
+        note: ''
+    },
+    {
+        device: 'Mac',
+        browser: 'Chrome or Safari',
+        steps: [
+            'Open <strong>app.gunnerthelab.com</strong>.',
+            '<strong>Chrome:</strong> click the install icon in the address bar, or <strong>⋮</strong> → <strong>Install…</strong>',
+            '<strong>Safari</strong> (macOS Sonoma and later): <strong>File</strong> → <strong>Add to Dock</strong>.'
+        ],
+        note: ''
+    }
+];
 ---
 
 <BaseLayout
@@ -74,21 +120,31 @@ const features = [
 
     <!-- How to install -->
     <section class="mb-16 sm:mb-24">
-        <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">How to get it</h2>
-        <div class="prose sm:prose-lg max-w-none">
-            <ol>
-                <li>
-                    Visit <a href={appUrl}>app.gunnerthelab.com</a> in your browser.
-                </li>
-                <li>
-                    Tap <strong>&ldquo;Add to Home Screen&rdquo;</strong> (on a phone or tablet) or <strong>&ldquo;Install&rdquo;</strong> (on a computer) when prompted.
-                </li>
-                <li>That&rsquo;s it. StoryReader now opens like any other app — even without an internet connection.</li>
-            </ol>
-            <p>
-                Prefer not to install anything? No problem — it works just as well right in the browser.
-            </p>
+        <h2 class="mb-6 font-serif text-xl italic sm:text-2xl">Add it to your device</h2>
+        <p class="mb-10 max-w-2xl leading-relaxed text-gray sm:mb-12">
+            StoryReader installs straight from your browser — no app store, no download. Open{' '}
+            <a href={appUrl} class="underline decoration-dashed underline-offset-2 hover:decoration-solid">app.gunnerthelab.com</a>
+            {' '}on the device you want it on, then follow the steps for your gadget.
+        </p>
+        <div class="grid gap-8 sm:grid-cols-2">
+            {
+                installGuides.map((guide) => (
+                    <div class="border-main border-t border-dashed pt-6">
+                        <h3 class="font-serif text-xl leading-tight font-medium">{guide.device}</h3>
+                        <p class="mt-1 font-serif text-sm italic text-accent">{guide.browser}</p>
+                        <ol class="mt-4 list-decimal space-y-2 pl-5 leading-relaxed text-gray">
+                            {guide.steps.map((step) => (
+                                <li set:html={step} />
+                            ))}
+                        </ol>
+                        {guide.note && <p class="mt-3 text-sm italic text-gray">{guide.note}</p>}
+                    </div>
+                ))
+            }
         </div>
+        <p class="mt-10 text-gray">
+            Prefer not to install anything? No problem — it works just as well right in the browser.
+        </p>
     </section>
 
     <!-- Closing CTA -->
