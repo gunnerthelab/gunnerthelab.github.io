@@ -24,3 +24,7 @@ pnpm-debug.log*
 
 .claude/logs/
 .claude/settings.local.json
+
+# Internal production materials live in the private gunner-studio repo
+resources/
+backups/
