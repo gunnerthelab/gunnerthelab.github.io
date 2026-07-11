@@ -74,9 +74,9 @@ And just like that — on the back patio of a house in Phoenix, after the boys w
 
 The *where* took some figuring out.
 
-There were maps spread across the kitchen table for weeks. There were nights with laptops open and coffee cups going cold. There was a brief, strange period where Dad got really excited about Tennessee for about three days. There was a longer period where Mom kept circling back to the idea of land — *real* land, not a yard — and Dad kept doing the math on what that meant.
+There were maps spread across the kitchen table for weeks — Dad's maps, laptop open long after everyone else had gone to bed, coffee gone cold beside it. Idaho came up first and got crossed off fast — they'd already done that particular kind of cold once, and once, it turned out, had been plenty. Colorado came up too, and got crossed off for a reason the family has quietly agreed — to this day — not to get into. Then, to everyone's genuine surprise — Dad's included — there was Texas. Even Texas. Not the dried-up, sun-bleached Texas of Dad's own boyhood, all dust and mesquite and a sky that never gave an inch. The other Texas. Green. Creeks, pine trees, grass that stayed grass clear through summer. Texas it was.
 
-Eventually, it came down to East Texas. Affordable land. Trees. Water. A pace of life that fit. They found a fifteen-acre homestead with an old farmhouse, a barn, a pond, and enough fence to know that animals had once lived there and would live there again.
+The only fight left was over how much of it. Dad wanted hundreds and hundreds of acres — nobody for miles in any direction. Mom, who had never once in her life lived outside a city, wanted something more manageable — and not so far from at least one other human being. Dad dreamed big. Mom did the math. Eventually — and it's fair to say Mom's math won — it came down to a fifteen-acre homestead with an old farmhouse, a barn, a pond, and enough fence to know that animals had once lived there and would live there again.
 
 ![Dad reads a road atlas open to Texas at the kitchen table — two boys watching over his shoulder as the plan takes shape](/images/stories/story-01-scene-the-plan.png)
 
