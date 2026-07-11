@@ -82,15 +82,15 @@ The only thing left to work out was how much of it. Dad wanted hundreds and hund
 
 They put the Phoenix house on the market in the middle of October. It sold faster than anyone expected. But selling fast and leaving fast are two different things, and closing on a house takes about a month no matter how quick the offer comes, which set their real leaving date somewhere in early December and handed the family a strange, suspended few weeks of living in a house that wasn't quite theirs anymore.
 
-That window turned out to hold something worth staying for. The youngest's second birthday was the first of December, and it didn't feel right to slip out of town without it. So they stayed for it. There was a party with old friends, the people who had known the family since before there were three boys to keep track of, an afternoon of cake and paper plates and the particular ache of a goodbye you keep smiling through. Then, with the sale finally closed and the last of the hugs given, the moving truck was loaded and gone, headed east on its own schedule. Which meant the family had exactly one job left: drive themselves and one middle-aged brown mutt about eleven hundred miles across the desert, through the hill country, and into the piney woods of East Texas.
+That window turned out to hold something worth staying for. The youngest's second birthday was the first of December, and it didn't feel right to slip out of town without it. So they stayed for it. There was a party with old friends, the people who had known the family since before there were three boys to keep track of, an afternoon of cake and paper plates and the particular ache of a goodbye you keep smiling through. Then, with the sale finally closed and the last of the hugs given, the moving truck was loaded and gone, headed east on its own schedule. Which meant the family had exactly one job left: drive themselves and one young brown mutt about eleven hundred miles across the desert, through the hill country, and into the piney woods of East Texas.
 
-Two vehicles. Mom and the three boys in the minivan. Dad and Bear in the pickup, the old dog riding shotgun the whole way east.
+Two vehicles. Mom and the three boys in the minivan. Dad and Bear in the pickup, Bear riding shotgun the whole way east.
 
 ---
 
-Bear, at this point in his life, was not yet *Grandpa Bear.* He was just Bear. A solid, brown, middle-aged mutt with a graying muzzle that hadn't fully gone gray yet, and a personality that could best be described as *patient with reservations.* He had been with the family since the oldest boy was a year old. He had survived the arrival of the middle boy. He had survived the arrival of the youngest boy, which had been harder. He had survived three small humans climbing on him, pulling his ears, dressing him in things, and once, memorably, trying to ride him like a horse.
+Bear, at this point in his life, was not yet *Grandpa Bear.* He was just Bear. A solid, brown, young mutt in the prime of his life, and a personality that could best be described as *patient with reservations.* He had been with the family since the oldest boy was a year old. He had survived the arrival of the middle boy. He had survived the arrival of the youngest boy, which had been harder. He had survived three small humans climbing on him, pulling his ears, dressing him in things, and once, memorably, trying to ride him like a horse.
 
-Bear had earned the right to be a little grumpy. He had not yet *fully* cashed in that right. He was still in his prime grumpy years, the warm-up rounds. The full Grandpa Bear was still ahead of him, waiting in East Texas like a grumpy crown he hadn't yet been handed.
+The grumpy old dignity that would one day make him Grandpa Bear was already in him somewhere, in seed. But that was a long way off, years of it. For now he was young and strong, and mostly he just had opinions.
 
 Here's a thing worth knowing about Mom, because it explains a lot about the way Bear looked at her.
 
@@ -198,9 +198,9 @@ He kept driving.
 
 The land changed the way it always does on a drive like this, so slowly you can't catch it happening, and then all at once you look up and it's happened. West Texas ran on and on, flat and enormous, the kind of country where the road doesn't so much go somewhere as simply continue, mile after mile after mile.
 
-In the truck, Bear had long since given up his dignified upright posture. Somewhere past Van Horn he stretched himself the length of the bench seat and settled his graying head into Dad's lap with a groan that suggested this was, in fact, the correct and proper use of a road trip, and he stayed there the better part of an hour, snoring softly, while Dad drove with one hand on the wheel and the other resting on the old dog's muzzle.
+In the truck, Bear had long since given up his dignified upright posture. Somewhere past Van Horn he stretched himself the length of the bench seat and settled his big blocky head into Dad's lap with a groan that suggested this was, in fact, the correct and proper use of a road trip, and he stayed there the better part of an hour, snoring softly, while Dad drove with one hand on the wheel and the other resting on Bear's muzzle.
 
-Dad didn't say anything that whole hour. He didn't need to. There is a kind of conversation that happens without words, and it happens best with an old dog's head heavy and warm on your leg and a hundred miles of empty highway ahead of you and nothing in the world requiring your voice.
+Dad didn't say anything that whole hour. He didn't need to. There is a kind of conversation that happens without words, and it happens best with your dog's head heavy and warm on your leg and a hundred miles of empty highway ahead of you and nothing in the world requiring your voice.
 
 Nobody would tell this part as a funny story later.
 
@@ -212,11 +212,11 @@ For now he was only a brown dog asleep in a pickup truck, riding east beside his
 
 Late in the day, with the hill country behind them, Bear lifted his head.
 
-He'd smelled it. The change in the air. The country going soft at the edges, the hard brown giving way to a haze of green and then real green, the damp, growing-things smell of trees. His old nose worked the cracked window for a long moment. His tail, which had not wagged once in eleven hundred miles, gave one slow, considered thump against the seat.
+He'd smelled it. The change in the air. The country going soft at the edges, the hard brown giving way to a haze of green and then real green, the damp, growing-things smell of trees. His nose worked the cracked window for a long moment. His tail, which had not wagged once in eleven hundred miles, gave one slow, considered thump against the seat.
 
 Bear approved.
 
-He had been a city dog his whole life: concrete, rock, grass that came in tidy little squares. He had never really been *home* before, not really. But somewhere in the back of his old brown brain, he knew. The way old dogs know things. He smelled the trees and the water and the deep dark soil, and he understood, in whatever way a dog understands anything, that this was where he was going to live now.
+He had been a city dog his whole life: concrete, rock, grass that came in tidy little squares. He had never really been *home* before, not really. But somewhere in the back of his good brown head, he knew. The way dogs know things. He smelled the trees and the water and the deep dark soil, and he understood, in whatever way a dog understands anything, that this was where he was going to live now.
 
 The light started draining out of the sky for good soon after, and that was when the animals started.
 
@@ -252,7 +252,7 @@ In the truck, Dad just sat there with both hands on the wheel and looked. Just l
 
 Bear did not wait for ceremony.
 
-Bear stood up on the truck seat, slowly, carefully, the way old dogs stand up, and looked out the windshield at the homestead. His ears came forward. His nose worked. His tail gave another slow thump.
+Bear got to his feet on the truck seat and looked out the windshield at the homestead. His ears came forward. His nose worked. His tail gave another slow thump.
 
 Then he looked at Dad. Just one quick look. The kind of look that, in dog language, means *well? are we going to do this or what?*
 
@@ -260,11 +260,11 @@ Dad laughed out loud. He opened his door. Bear hopped down, not gracefully but s
 
 He took two steps. Stopped. Smelled the ground. Smelled the air. Looked around at the trees, the pond, the barn, the farmhouse.
 
-And then Bear, middle-aged, patient-with-reservations, not-yet-Grandpa Bear, did something the family had not seen him do in years.
+And then Bear, young and dignified and not-yet-Grandpa Bear, did something the family almost never got to see him do.
 
 He *ran.*
 
-Just a short run. A brown blur cutting across the front yard, ears flopping, old legs remembering how to be young legs for about ten seconds. He ran a small loop around the yard, came back, sat down at Dad's feet, and looked up with an expression that was unmistakably, undeniably:
+Just a short run. A brown blur cutting across the front yard, ears flopping, all four legs loose and glad and going full tilt. He ran a small loop around the yard, came back, sat down at Dad's feet, and looked up with an expression that was unmistakably, undeniably:
 
 *Yes. This. Here. Good.*
 
