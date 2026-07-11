@@ -4,7 +4,8 @@ storyNumber: 28
 era: "boys-and-family"
 eraLabel: "The Boys & Family"
 description: "The middle boy draws an elaborate treasure map of the property. Gunner and Tiger follow it. It leads to the middle boy's secret fort in the woods."
-publishDate: 2025-11-05
+publishDate: 2026-03-29
+timeframe: "2024-10"
 coverImage: "/images/covers/story-28.png"
 draft: false
 order: 28

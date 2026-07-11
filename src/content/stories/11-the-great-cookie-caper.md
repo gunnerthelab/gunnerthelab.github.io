@@ -5,7 +5,8 @@ subtitle: "The Cold Case"
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "Dad bakes a fresh batch of cookies and leaves them on the kitchen island to cool. The next morning, the plate is empty and nobody confesses. Weeks later, when the house is quiet and the cookies are fresh, Dad catches the real culprit red-handed — ninety pounds of Lab, standing on his back legs, tongue outstretched across the island. Tiger knew the whole time. Cats don't testify."
-publishDate: 2026-04-10
+publishDate: 2025-11-30
+timeframe: "2019-02"
 artStyle: "graphite"
 coverImage: "/images/covers/story-11.png"
 draft: false

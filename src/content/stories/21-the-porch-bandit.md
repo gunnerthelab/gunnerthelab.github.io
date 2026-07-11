@@ -4,7 +4,8 @@ storyNumber: 21
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Something keeps stealing food off the porch. Tiger sets traps. Gunner eats the bait. Every. Single. Time. The actual culprit — a raccoon — watches from the treeline, entertained."
-publishDate: 2025-11-05
+publishDate: 2026-02-08
+timeframe: "2025-05"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-21.png"
 draft: false

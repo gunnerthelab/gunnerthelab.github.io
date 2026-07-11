@@ -10,7 +10,7 @@ export async function GET(context) {
         description: siteConfig.description,
         site: context.site,
         items: stories.map((item) => ({
-            title: `Story #${item.data.storyNumber}: ${item.data.title}`,
+            title: item.data.title,
             description: item.data.description,
             link: `/stories/${item.id}/`,
             pubDate: item.data.publishDate.setUTCHours(0)

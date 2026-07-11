@@ -4,7 +4,8 @@ storyNumber: 14
 era: "big-moves"
 eraLabel: "The Big Moves"
 description: "The family moves to Virginia. Tiger rides in a crate like royalty. Gunner has his head out the window for 800 miles. Told from both perspectives."
-publishDate: 2025-11-05
+publishDate: 2025-12-21
+timeframe: "2024-06"
 coverImage: "/images/covers/story-14.png"
 draft: false
 order: 14

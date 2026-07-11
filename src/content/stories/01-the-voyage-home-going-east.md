@@ -4,7 +4,8 @@ storyNumber: 1
 era: "the-beginning"
 eraLabel: "The Beginning"
 description: "Before there was Gunner, there was Bear — and before there was a homestead, there was a decision made on a bench in an apple orchard outside Phoenix. The family loads up two vehicles and drives eighteen hundred miles east into a new life."
-publishDate: 2026-04-11
+publishDate: 2025-09-21
+timeframe: "2016-10"
 artStyle: "graphite"
 coverImage: "/images/covers/story-01.png"
 draft: false

@@ -5,7 +5,7 @@ import ArrowRight from '../assets/icons/arrow-right.svg';
 type Props = { story: CollectionEntry<'stories'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { story, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, storyNumber, eraLabel, description, draft, coverImage } = story.data;
+const { title, eraLabel, description, draft, coverImage } = story.data;
 const TitleTag = headingLevel;
 const isPublished = !draft;
 ---
@@ -25,7 +25,6 @@ const isPublished = !draft;
         <div class="flex grow items-start justify-between gap-8">
             <div class="grow">
                 <div class="mb-1 flex items-center gap-3">
-                    <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
                     <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
                 </div>
                 <TitleTag
@@ -44,7 +43,6 @@ const isPublished = !draft;
     <div class:list={['flex items-start justify-between gap-8 opacity-50', className]}>
         <div class="grow">
             <div class="mb-1 flex items-center gap-3">
-                <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
                 <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
             </div>
             <TitleTag class="font-serif text-xl leading-tight font-medium sm:text-2xl">

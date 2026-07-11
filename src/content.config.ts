@@ -35,6 +35,10 @@ const stories = defineCollection({
             eraLabel: z.string(),
             description: z.string(),
             publishDate: z.coerce.date(),
+            // In-world chronology anchor (when the story happens in the family's life),
+            // independent of `era` (the display collection) and `publishDate` (real-world release).
+            // Format: "YYYY" or "YYYY-MM". Powers chronological ("read in order") sorting.
+            timeframe: z.string().optional(),
             coverImage: z.string().optional(),
             artStyle: z.enum(['graphite', 'colored-pencil']).optional(),
             draft: z.boolean().default(false),

@@ -4,7 +4,8 @@ storyNumber: 17
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Tiger devises a plan to raid the squirrels' acorn stash. Gunner's job: be the distraction. Gunner gets distracted by the distraction."
-publishDate: 2025-11-05
+publishDate: 2026-01-11
+timeframe: "2024-10"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-17.png"
 draft: false

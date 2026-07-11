@@ -4,7 +4,8 @@ storyNumber: 23
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Mom comes home with store-bought bagels — a rare household event. The middle boy sets the bag down on the porch steps for one second to shift his load. Gunner, who has been lying in the grass looking like he wasn't paying attention, covers the distance in two bounds and makes a run for the woods — until the oldest boy steps out of the woodshop and delivers a voice that stops a ninety-pound Lab dead in his tracks. The bagels are unharmed. Gunner's dignity is not. And on top of the fridge, Tiger takes note."
-publishDate: 2026-04-10
+publishDate: 2026-02-22
+timeframe: "2025-08"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-23.png"
 draft: false

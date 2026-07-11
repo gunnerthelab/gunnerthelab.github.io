@@ -5,6 +5,7 @@ era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "A truck ride to visit friends on another farm turns into an afternoon-long mystery, a deeply wronged local feed lot, and a lot of frantically rolled-down windows. Something keeps rolling silently through the cab, and everyone gets blamed except the one dog sleeping soundly in the back seat. By the time the truth comes out, there isn't a window left rolled up — and Gunner has never been prouder of himself."
 publishDate: 2026-07-05
+timeframe: "2026-02"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-42.png"
 draft: false

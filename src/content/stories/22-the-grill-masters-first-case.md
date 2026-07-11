@@ -4,7 +4,8 @@ storyNumber: 22
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "The youngest boy earns his first official night as Grill Master — five perfect T-bone steaks, cooked to perfection. He ducks inside for fifteen seconds to grab foil. He comes back to an empty plate. Gunner is lying six feet away, pretending to be a rug. Five steaks. No evidence. No remorse. Dad declares it the highest possible culinary review a dog can give."
-publishDate: 2026-04-10
+publishDate: 2026-02-15
+timeframe: "2025-07"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-22.png"
 draft: false

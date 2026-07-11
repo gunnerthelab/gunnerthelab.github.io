@@ -4,7 +4,8 @@ storyNumber: 39
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "The oldest gets his learner's permit and Dad climbs into the passenger seat for the first time in nine years with one beautiful thought: I never have to drive again. But Gunner has been the shotgun dog for nine years across three states, and he is not giving up that seat without a fight. Tiger, who hasn't voluntarily entered a vehicle in nine years, clears his schedule to watch."
-publishDate: 2026-04-11
+publishDate: 2026-06-14
+timeframe: "2026-04"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-39.png"
 draft: false

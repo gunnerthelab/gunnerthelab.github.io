@@ -4,7 +4,8 @@ storyNumber: 35
 era: "adventure"
 eraLabel: "Adventure Stories"
 description: "A real black bear wanders onto the Virginia property. Gunner thinks it's a big dog. Tiger knows better. Tiger saves the day through sheer strategic brilliance and a well-timed hiss from high ground."
-publishDate: 2025-11-05
+publishDate: 2026-05-17
+timeframe: "2025-09"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-35.png"
 draft: false

@@ -8,6 +8,28 @@ export function sortStoriesByOrder(itemA: CollectionEntry<'stories'>, itemB: Col
     return (itemA.data.order ?? itemA.data.storyNumber) - (itemB.data.order ?? itemB.data.storyNumber);
 }
 
+// In-world chronological order ("read in order"). Stories without a timeframe sort to the
+// end, then fall back to authoring order (storyNumber) so ties stay stable.
+export function sortStoriesByTimeframe(itemA: CollectionEntry<'stories'>, itemB: CollectionEntry<'stories'>) {
+    const a = itemA.data.timeframe ?? '9999';
+    const b = itemB.data.timeframe ?? '9999';
+    if (a !== b) return a.localeCompare(b);
+    return itemA.data.storyNumber - itemB.data.storyNumber;
+}
+
+const MONTH_NAMES = [
+    '', 'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'
+];
+
+// Turn a "YYYY" or "YYYY-MM" timeframe anchor into a readable label, e.g. "July 2018".
+export function formatTimeframe(timeframe?: string): string {
+    if (!timeframe) return 'Undated';
+    const [year, month] = timeframe.split('-');
+    const monthName = month ? MONTH_NAMES[parseInt(month, 10)] : '';
+    return monthName ? `${monthName} ${year}` : year;
+}
+
 export type EraGroup = {
     id: string;
     label: string;

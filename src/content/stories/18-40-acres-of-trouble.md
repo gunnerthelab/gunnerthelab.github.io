@@ -4,7 +4,8 @@ storyNumber: 18
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Gunner discovers a mysterious trail into the hundred acres of woods next door. Tiger reluctantly follows to keep him alive. They find something unexpected."
-publishDate: 2025-11-05
+publishDate: 2026-01-18
+timeframe: "2024-08"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-18.png"
 draft: false

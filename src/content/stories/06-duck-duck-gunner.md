@@ -4,7 +4,8 @@ storyNumber: 6
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "The ducks have taken over the pond and Gunner is sent to reclaim it. He ends up swimming laps with them instead. Tiger's plan B involves a garden hose."
-publishDate: 2025-11-05
+publishDate: 2025-10-26
+timeframe: "2018-07"
 artStyle: "graphite"
 coverImage: "/images/covers/story-06.png"
 draft: false

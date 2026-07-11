@@ -4,7 +4,8 @@ storyNumber: 40
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Something large has moved into the neighbors' field — three enormous Suffolk Punch draft horses with kind eyes and a warm rolling dialect Gunner can't understand a word of. Tiger, naturally, has already been over there twice and made friends. A story about meeting gentle giants and learning that sometimes the nicest things you'll ever hear are the things you don't quite understand."
-publishDate: 2026-04-11
+publishDate: 2026-06-21
+timeframe: "2026-03"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-40.png"
 draft: false

@@ -4,7 +4,8 @@ storyNumber: 41
 era: "big-moves"
 eraLabel: "The Big Moves"
 description: "Aunt Donna comes to Texas to help her brother's family through a hard week and gets snowed in by one of the worst winter storms in a hundred years. Gunner adopts her on sight, appoints himself Head of Food Security, and turns out to be the only one in the house who can't read a room and loves everyone in it anyway. Tiger, watching from the top of the refrigerator, takes exactly four days to run the numbers and claim a spot on her lap."
-publishDate: 2026-07-05
+publishDate: 2026-06-28
+timeframe: "2021-02"
 artStyle: "graphite"
 coverImage: "/images/covers/story-41.png"
 draft: false

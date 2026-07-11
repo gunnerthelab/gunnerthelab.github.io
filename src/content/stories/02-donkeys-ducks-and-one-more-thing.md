@@ -4,7 +4,8 @@ storyNumber: 2
 era: "the-beginning"
 eraLabel: "The Beginning"
 description: "The family's first summer on fifteen acres: chickens, ducks, donkeys named Mr. Snickers and Beep, and a dad keeping a quiet secret. The homestead fills up fast — but Dad thinks it could use one more thing."
-publishDate: 2026-04-11
+publishDate: 2025-09-28
+timeframe: "2017-05"
 artStyle: "graphite"
 coverImage: "/images/covers/story-02.png"
 draft: false

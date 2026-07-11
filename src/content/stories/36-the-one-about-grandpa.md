@@ -4,7 +4,8 @@ storyNumber: 36
 era: "heart"
 eraLabel: "Heart Stories"
 description: "A quieter, warmer story. Gunner remembers Dad's dad — the man who always had treats and a slow hand for petting. Tiger watched from across the room. A tribute told through the animals' eyes."
-publishDate: 2025-11-05
+publishDate: 2026-05-24
+timeframe: "2021-02"
 artStyle: "graphite"
 coverImage: "/images/covers/story-36.png"
 draft: false

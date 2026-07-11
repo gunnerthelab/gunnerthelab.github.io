@@ -35,6 +35,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Stories',
             href: '/stories'
+        },
+        {
+            text: 'Read in Order',
+            href: '/stories/timeline'
         }
     ],
     socialLinks: [],

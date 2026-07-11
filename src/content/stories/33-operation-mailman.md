@@ -4,7 +4,8 @@ storyNumber: 33
 era: "adventure"
 eraLabel: "Adventure Stories"
 description: "Tiger becomes convinced the mailman is a spy. He recruits Gunner for a stakeout. Gunner loves the mailman. This creates significant operational conflict."
-publishDate: 2025-11-05
+publishDate: 2026-05-03
+timeframe: "2025-06"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-33.png"
 draft: false

@@ -3,10 +3,10 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StoryNav from '../../components/StoryNav.astro';
 import Button from '../../components/Button.astro';
-import { sortStoriesByOrder } from '../../utils/data-utils';
+import { sortStoriesByTimeframe } from '../../utils/data-utils';
 
 export async function getStaticPaths() {
-    const stories = (await getCollection('stories')).sort(sortStoriesByOrder);
+    const stories = (await getCollection('stories')).sort(sortStoriesByTimeframe);
     const storyCount = stories.length;
     return stories.map((story, index) => ({
         params: { id: story.id },
@@ -26,12 +26,12 @@ type Props = {
 
 const { href } = Astro.url;
 const { story, prevStory, nextStory } = Astro.props;
-const { title, storyNumber, subtitle, eraLabel, description, seo } = story.data;
+const { title, subtitle, eraLabel, description, seo } = story.data;
 const { Content } = await render(story);
 ---
 
 <BaseLayout
-    title={seo?.title ?? `Story #${storyNumber}: ${title}`}
+    title={seo?.title ?? title}
     description={seo?.description ?? description}
     image={seo?.image}
     pageType="article"
@@ -40,7 +40,6 @@ const { Content } = await render(story);
     <article class="mb-16 sm:mb-24">
         <header class="mb-10 sm:mb-12">
             <div class="mb-3 flex flex-wrap items-center gap-3">
-                <span class="font-serif text-sm italic text-accent">Story #{storyNumber}</span>
                 <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium">{eraLabel}</span>
             </div>
             <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>

@@ -4,7 +4,8 @@ storyNumber: 37
 era: "heart"
 eraLabel: "Heart Stories"
 description: "All the other cats came and went. Tiger survived the country, the moves, the dogs, the coyotes, all of it. This is the story of why — and it has everything to do with a big, dumb, warm black dog who never once chased him."
-publishDate: 2025-11-05
+publishDate: 2026-05-31
+timeframe: "2025-11"
 artStyle: "graphite"
 coverImage: "/images/covers/story-37.png"
 draft: false

@@ -4,7 +4,8 @@ storyNumber: 19
 era: "virginia"
 eraLabel: "The Virginia Homestead"
 description: "Strange sounds from the woods at night. Tiger investigates with cool composure from the windowsill. Gunner barks at his own reflection. Turns out it's just opossums having a party."
-publishDate: 2025-11-05
+publishDate: 2026-01-25
+timeframe: "2024-11"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-19.png"
 draft: false

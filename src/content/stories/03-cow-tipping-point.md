@@ -4,7 +4,8 @@ storyNumber: 3
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "Young Gunner tries to befriend the cows. The cows are not interested. Tiger watches from a fence post and narrates like a nature documentary."
-publishDate: 2025-11-05
+publishDate: 2025-10-05
+timeframe: "2017-10"
 artStyle: "graphite"
 coverImage: "/images/covers/story-03.png"
 draft: false

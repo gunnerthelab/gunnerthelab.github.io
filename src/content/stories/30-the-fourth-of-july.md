@@ -4,7 +4,8 @@ storyNumber: 30
 era: "seasonal"
 eraLabel: "Seasonal & Holiday"
 description: "Fireworks terrify Gunner. Tiger couldn't care less. A story about Tiger actually comforting Gunner, curling up beside him, even though he'd never admit it."
-publishDate: 2025-11-05
+publishDate: 2026-04-12
+timeframe: "2025-07"
 coverImage: "/images/covers/story-30.png"
 draft: false
 order: 30

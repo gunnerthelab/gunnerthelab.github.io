@@ -5,7 +5,8 @@ subtitle: "East Texas Flashback — The Homestead Days"
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "Chickens and ducks escape the coop. Gunner charges in to help and makes everything spectacularly worse. Tiger herds three chickens back without moving five feet."
-publishDate: 2025-11-05
+publishDate: 2025-10-12
+timeframe: "2018-06"
 artStyle: "graphite"
 coverImage: "/images/covers/story-04.png"
 draft: false

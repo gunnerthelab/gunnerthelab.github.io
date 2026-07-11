@@ -4,7 +4,8 @@ storyNumber: 8
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "The family gets their first bee hives. Gunner is fascinated and gets way too close. Tiger watches from a safe distance as Gunner learns the hard way that bees are not his friends."
-publishDate: 2025-11-05
+publishDate: 2025-11-09
+timeframe: "2018-04"
 artStyle: "graphite"
 coverImage: "/images/covers/story-08.png"
 draft: false

@@ -4,7 +4,8 @@ storyNumber: 5
 era: "east-texas"
 eraLabel: "East Texas Flashbacks"
 description: "A warm, funny tribute to old Bear — the grumpy brown mutt who didn't like anyone in his yard. Puppy Gunner keeps trying to play with him. Kitten Tiger sleeps through the whole thing on Bear's back."
-publishDate: 2025-11-05
+publishDate: 2025-10-19
+timeframe: "2017-07"
 artStyle: "graphite"
 coverImage: "/images/covers/story-05.png"
 draft: false

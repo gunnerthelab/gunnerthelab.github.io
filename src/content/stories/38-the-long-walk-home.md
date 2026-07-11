@@ -5,7 +5,8 @@ subtitle: "A Heart Story"
 era: "heart"
 eraLabel: "Heart Stories"
 description: "Bear's eyes go cloudy. His hearing fades. The world gets quieter and blurrier, but the grumpy old alpha is too proud to ask for help. So Gunner gives it without being asked — walking beside Bear on hikes, guiding him back when he wanders. A story about showing up, staying close, and the quiet love between two dogs who never quite understood each other but never left each other's side."
-publishDate: 2025-11-05
+publishDate: 2026-06-07
+timeframe: "2025-10"
 artStyle: "graphite"
 coverImage: "/images/covers/story-38.png"
 draft: false

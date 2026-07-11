@@ -4,7 +4,8 @@ storyNumber: 34
 era: "adventure"
 eraLabel: "Adventure Stories"
 description: "Gunner finds something weird in the creek on the property. Tiger analyzes it from a safe distance. It's a snapping turtle. Nobody wins."
-publishDate: 2025-11-05
+publishDate: 2026-05-10
+timeframe: "2025-07"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-34.png"
 draft: false

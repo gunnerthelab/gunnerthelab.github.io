@@ -1,6 +1,6 @@
 # Writing Style Guide — Gunner the Lab Stories
 
-Derived from the two published stories: *The Chicken Caper* (Story 7, comedy) and *The Long Walk Home* (Story 33, heart story). This captures the voice, structure, and narrative choices that define the series.
+Derived from the two published stories: *The Chicken Caper* (Story 4, comedy) and *The Long Walk Home* (Story 38, heart story). This captures the voice, structure, and narrative choices that define the series.
 
 ---
 
@@ -39,9 +39,9 @@ Derived from the two published stories: *The Chicken Caper* (Story 7, comedy) an
 ## Structure
 
 - **Section breaks (---)** divide scenes. Stories read like short chapters.
-- **Cold open** — drop into the moment. No preamble. Story 7 opens with the morning. Story 33 opens with "Nobody told Gunner that Bear was getting old."
+- **Cold open** — drop into the moment. No preamble. Story 4 opens with the morning. Story 38 opens with "Nobody told Gunner that Bear was getting old."
 - **The ending earns its weight.** Comedy stories end warm (bacon, family, tail wags). Heart stories end with a truth stated simply. Both types end with a quiet image, not a bang.
-- **No "next time" teaser needed** — Story 7 had one but it's optional.
+- **No "next time" teaser needed** — Story 4 had one but it's optional.
 
 ## What NOT to Do
 
@@ -49,7 +49,7 @@ Derived from the two published stories: *The Chicken Caper* (Story 7, comedy) an
 - Don't over-describe settings. A few sensory details (heat, cicadas, mud) set the scene — then get to the action.
 - Don't use formal or literary language. No "the morning light cascaded." Yes "the sun had something to prove."
 - Don't make Tiger talk or think in words. Tiger acts. The narrator interprets.
-- Don't get sentimental without earning it. The emotion in Story 33 works because of 1,500 words of specific, physical detail before the gut punch.
+- Don't get sentimental without earning it. The emotion in Story 38 works because of 1,500 words of specific, physical detail before the gut punch.
 - Don't use the boys' real names (TBD). Refer by role.
 - Don't make Gunner competent. He's all heart, no plan. That's the joke and the point.
 

@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import StoryCard from '../../components/StoryCard.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { sortStoriesByTimeframe, formatTimeframe } from '../../utils/data-utils';
+
+// Default view is chronological (in-world "read in order"). The client-side toggle
+// can re-sort by real-world release date without a page load.
+const stories = (await getCollection('stories', ({ data }) => !data.draft)).sort(sortStoriesByTimeframe);
+---
+
+<BaseLayout
+    title="Read in Order"
+    description="Every Gunner &amp; Tiger story arranged in story-world order — start at the beginning and follow the family across every homestead."
+    showHeader={false}
+>
+    <section class="mb-16 sm:mb-24">
+        <header class="mb-8 sm:mb-10">
+            <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">Read in Order</h1>
+            <p class="mt-3 text-gray">
+                The whole story, start to finish — every tale in the order it happened, across every homestead the family
+                has called home. Prefer to browse by kind of story? <a href="/stories" class="italic underline decoration-dashed underline-offset-4 hover:text-accent">View the collections</a>.
+            </p>
+        </header>
+
+        <div class="mb-8 flex flex-wrap items-center gap-x-6 gap-y-2 border-main border-b border-dashed pb-4 sm:mb-10">
+            <span class="font-serif text-sm italic text-gray">Sort by</span>
+            <button type="button" data-sort="chrono" aria-pressed="true" class="sort-btn font-serif text-sm italic text-accent underline decoration-dashed underline-offset-4">
+                Chronological
+            </button>
+            <button type="button" data-sort="released" aria-pressed="false" class="sort-btn font-serif text-sm italic text-gray hover:text-accent">
+                Recently Released
+            </button>
+        </div>
+
+        <div id="timeline-list" class="border-main divide-main divide-y divide-dashed border-t border-dashed">
+            {stories.map((story) => (
+                <div
+                    class="story-item"
+                    data-timeframe={story.data.timeframe ?? '9999'}
+                    data-publish={story.data.publishDate.toISOString()}
+                    data-order={story.data.storyNumber}
+                >
+                    <div class="pt-6 sm:pt-8">
+                        <span class="timeframe-label font-serif text-xs tracking-wide text-gray uppercase">
+                            {formatTimeframe(story.data.timeframe)}
+                        </span>
+                    </div>
+                    <StoryCard story={story} class="pb-6 pt-2 sm:pb-8" headingLevel="h3" />
+                </div>
+            ))}
+        </div>
+    </section>
+</BaseLayout>
+
+<script>
+    document.addEventListener('astro:page-load', () => {
+        const list = document.getElementById('timeline-list');
+        if (!list) return;
+        const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.sort-btn'));
+
+        function applySort(mode: string) {
+            const items = Array.from(list!.querySelectorAll<HTMLElement>('.story-item'));
+            items.sort((a, b) => {
+                if (mode === 'released') {
+                    // Newest release first.
+                    return (b.dataset.publish || '').localeCompare(a.dataset.publish || '');
+                }
+                // Chronological: earliest story-world date first, ties by authoring order.
+                const t = (a.dataset.timeframe || '9999').localeCompare(b.dataset.timeframe || '9999');
+                return t !== 0 ? t : Number(a.dataset.order) - Number(b.dataset.order);
+            });
+            items.forEach((el) => list!.appendChild(el));
+
+            // In "Recently Released" the in-world date marker is noise — hide it.
+            list!.querySelectorAll<HTMLElement>('.timeframe-label').forEach((el) => {
+                el.style.display = mode === 'released' ? 'none' : '';
+            });
+        }
+
+        buttons.forEach((btn) => {
+            btn.addEventListener('click', () => {
+                buttons.forEach((b) => {
+                    const active = b === btn;
+                    b.setAttribute('aria-pressed', active ? 'true' : 'false');
+                    b.classList.toggle('text-accent', active);
+                    b.classList.toggle('underline', active);
+                    b.classList.toggle('decoration-dashed', active);
+                    b.classList.toggle('underline-offset-4', active);
+                    b.classList.toggle('text-gray', !active);
+                });
+                applySort(btn.dataset.sort || 'chrono');
+            });
+        });
+    });
+</script>

@@ -4,7 +4,8 @@ storyNumber: 13
 era: "big-moves"
 eraLabel: "The Big Moves"
 description: "Tiger and Gunner adjust to one acre after fifteen. Tiger claims the entire garden as his territory. Gunner keeps digging up what Mom just planted. The orchard becomes their new adventure zone."
-publishDate: 2025-11-05
+publishDate: 2025-12-14
+timeframe: "2023-06"
 coverImage: "/images/covers/story-13.png"
 draft: false
 order: 13

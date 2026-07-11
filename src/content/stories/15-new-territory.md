@@ -4,7 +4,8 @@ storyNumber: 15
 era: "big-moves"
 eraLabel: "The Big Moves"
 description: "First day on 40 acres in Virginia. Gunner marks every single tree (it takes a while). Tiger finds the highest point on the property and declares himself lord of the mountain."
-publishDate: 2025-11-05
+publishDate: 2025-12-28
+timeframe: "2024-06"
 artStyle: "colored-pencil"
 coverImage: "/images/covers/story-15.png"
 draft: false
