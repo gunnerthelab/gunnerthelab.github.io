@@ -7,7 +7,7 @@ description: "Tiger devises a plan to raid the squirrels' acorn stash. Gunner's 
 publishDate: 2026-01-11
 timeframe: "2024-10"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-17-v1.png"
+coverImage: "/images/covers/story-17.png"
 draft: false
 order: 17
 ---

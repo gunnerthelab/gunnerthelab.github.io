@@ -7,7 +7,7 @@ description: "Gunner discovers a mysterious trail into the hundred acres of wood
 publishDate: 2026-01-18
 timeframe: "2024-08"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-18-v1.png"
+coverImage: "/images/covers/story-18.png"
 draft: false
 order: 18
 ---

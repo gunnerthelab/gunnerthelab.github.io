@@ -7,7 +7,7 @@ description: "Gunner finds something weird in the creek on the property. Tiger a
 publishDate: 2026-05-10
 timeframe: "2025-07"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-34-v1.png"
+coverImage: "/images/covers/story-34.png"
 draft: false
 order: 34
 ---

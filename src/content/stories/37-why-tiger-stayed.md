@@ -7,7 +7,7 @@ description: "All the other cats came and went. Tiger survived the country, the 
 publishDate: 2026-05-31
 timeframe: "2025-11"
 artStyle: "graphite"
-coverImage: "/images/covers/story-37-v1.png"
+coverImage: "/images/covers/story-37.png"
 draft: false
 order: 37
 ---

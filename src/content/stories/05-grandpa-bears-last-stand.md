@@ -7,7 +7,7 @@ description: "A warm, funny tribute to old Bear — the grumpy brown mutt who di
 publishDate: 2025-10-19
 timeframe: "2017-07"
 artStyle: "graphite"
-coverImage: "/images/covers/story-05-v2.png"
+coverImage: "/images/covers/story-05.png"
 draft: false
 order: 5
 ---

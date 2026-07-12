@@ -7,7 +7,7 @@ description: "The bees have settled in and Tiger has developed a respectful dist
 publishDate: 2025-11-16
 timeframe: "2018-08"
 artStyle: "graphite"
-coverImage: "/images/covers/story-09-v1.png"
+coverImage: "/images/covers/story-09.png"
 draft: false
 order: 9
 ---

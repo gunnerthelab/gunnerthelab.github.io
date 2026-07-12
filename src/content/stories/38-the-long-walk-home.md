@@ -8,7 +8,7 @@ description: "Bear's eyes go cloudy. His hearing fades. The world gets quieter a
 publishDate: 2026-06-07
 timeframe: "2025-10"
 artStyle: "graphite"
-coverImage: "/images/covers/story-38-v1.png"
+coverImage: "/images/covers/story-38.png"
 draft: false
 order: 38
 ---

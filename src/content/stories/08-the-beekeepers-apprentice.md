@@ -7,7 +7,7 @@ description: "The family gets their first bee hives. Gunner is fascinated and ge
 publishDate: 2025-11-09
 timeframe: "2018-04"
 artStyle: "graphite"
-coverImage: "/images/covers/story-08-v2.png"
+coverImage: "/images/covers/story-08.png"
 draft: false
 order: 8
 ---

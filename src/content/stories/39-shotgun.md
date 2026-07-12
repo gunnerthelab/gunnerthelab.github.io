@@ -7,7 +7,7 @@ description: "The oldest gets his learner's permit and Dad climbs into the passe
 publishDate: 2026-06-14
 timeframe: "2026-04"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-39-v1.png"
+coverImage: "/images/covers/story-39.png"
 draft: false
 order: 39
 ---

@@ -7,7 +7,7 @@ description: "A truck ride to visit friends on another farm turns into an aftern
 publishDate: 2026-07-05
 timeframe: "2026-02"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-42-v1.png"
+coverImage: "/images/covers/story-42.png"
 draft: false
 order: 42
 ---

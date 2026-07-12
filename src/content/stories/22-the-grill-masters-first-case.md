@@ -7,7 +7,7 @@ description: "The youngest boy earns his first official night as Grill Master â€
 publishDate: 2026-02-15
 timeframe: "2025-07"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-22-v1.png"
+coverImage: "/images/covers/story-22.png"
 draft: false
 order: 22
 ---
