@@ -4418,5 +4418,145 @@
     "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
     "generatedAtNote": "timestamp set at write time by this run",
     "generatedAt": "2026-07-12T15:18:23.547Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-01-the-stakeout-v1.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm afternoon Virginia rural tones, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes narrowed in surveillance mode, body crouched low, ears forward, NOT orange) hiding behind a porch railing, watching the road. Beside him, a large black Labrador (Gunner, jet-black coat, orange collar, tail wagging uncontrollably, amber-brown eyes bright, barely containing himself) peers over the same railing. In the distance on the rural Virginia road, a white mail truck approaches. Tiger is in full covert-ops mode; Gunner is in full \"FRIEND APPROACHING\" mode. Gravel road, mailbox at the driveway's end, southwestern Virginia mountains behind. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 178,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048548,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:23:22.639Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-01-the-stakeout-v2.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, warm afternoon Virginia rural tones, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes narrowed in surveillance mode, body crouched low, ears forward, NOT orange) hiding behind a porch railing, watching the road. Beside him, a large black Labrador (Gunner, jet-black coat, orange collar, tail wagging uncontrollably, amber-brown eyes bright, barely containing himself) peers over the same railing. In the distance on the rural Virginia road, a white mail truck approaches. Tiger is in full covert-ops mode; Gunner is in full \"FRIEND APPROACHING\" mode. Gravel road, mailbox at the driveway's end, southwestern Virginia mountains behind. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 178,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048548,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:24:20.955Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-04-the-daily-watch-v1.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm 1:47 PM light, textured paper. A large black Labrador (Gunner, orange collar) and a stocky gray-brown tabby cat (Tiger, NOT orange) sitting together at the end of the gravel driveway by the mailbox, both now watching for the daily mail truck, the spy and the fan finally on the same side. Long afternoon shadows, southwestern Virginia mountains. Warm, funny closer. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 109,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048202999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:30:19.239Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-04-the-daily-watch-v2.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, warm 1:47 PM light, textured paper. A large black Labrador (Gunner, orange collar) and a stocky gray-brown tabby cat (Tiger, NOT orange) sitting together at the end of the gravel driveway by the mailbox, both now watching for the daily mail truck, the spy and the fan finally on the same side. Long afternoon shadows, southwestern Virginia mountains. Warm, funny closer. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 109,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048202999999999996,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:32:20.379Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-05-pocket-full-of-treats-v1.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm afternoon rural tones, close-up, textured paper. Close on the mail carrier's blue uniform pocket (Gerald) as a weathered hand pulls out a Milk-Bone in one hand and a small tuna treat in the other. A large black Labrador (Gunner, jet-black coat, orange collar) gazes up in adoration; just in frame, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) accepts the tuna at last with grudging dignity. The moment a suspect becomes a friend. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 141,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048362999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:33:19.344Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-05-pocket-full-of-treats-v2.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, warm afternoon rural tones, close-up, textured paper. Close on the mail carrier's blue uniform pocket (Gerald) as a weathered hand pulls out a Milk-Bone in one hand and a small tuna treat in the other. A large black Labrador (Gunner, jet-black coat, orange collar) gazes up in adoration; just in frame, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) accepts the tuna at last with grudging dignity. The moment a suspect becomes a friend. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 141,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048362999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:34:19.185Z"
+  },
+  {
+    "file": "public/images/stories/33/story-33-scene-06-filing-the-report-v1.png",
+    "storyId": "33",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm porch tones, textured paper, dry comedy. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes narrowed, NOT orange) sits at attention on the porch beside a large black Labrador (Gunner, jet-black coat, orange collar) who beams, tongue out, still convinced the mailman is his best friend. The cat's expression says the case file remains open, forever, no matter what treats change hands. Rural Virginia road behind. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 125,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048283,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:35:18.824Z"
   }
 ]
