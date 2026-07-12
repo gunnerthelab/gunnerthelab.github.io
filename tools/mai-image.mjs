@@ -14,10 +14,14 @@
 //
 // Auth is keyless Entra ID: this tool shells out to
 // `az account get-access-token --resource https://cognitiveservices.azure.com`
-// for a bearer token on every real run. No key, no @azure/identity
-// dependency required. (If az CLI auth ever proves awkward, @azure/identity's
-// DefaultAzureCredential is a drop-in alternative for getAccessToken() below,
-// but the az-cli path stays the default so this tool adds no new dependency.)
+// for a bearer token at startup, then caches it in memory and reuses it
+// across calls (transparently re-shelling az to refresh it once it is older
+// than ~45 minutes, or immediately on any 401, since Entra tokens for this
+// resource are good for about 60 minutes and a long `--story all` run easily
+// outlives that). No key, no @azure/identity dependency required. (If az CLI
+// auth ever proves awkward, @azure/identity's DefaultAzureCredential is a
+// drop-in alternative for getAccessToken() below, but the az-cli path stays
+// the default so this tool adds no new dependency.)
 //
 // Usage:
 //
@@ -134,9 +138,12 @@
 //   with a clear message asking for a JSON file with a "covers" object.
 //
 // Robustness: retries on 429 and 5xx with exponential backoff, honoring a
-// Retry-After header when present. Falls back from the primary host to the
-// cognitiveservices.azure.com host on 401/403. Paces real calls at roughly
-// 6.5 seconds apart to respect the Tier 5 (10 RPM) quota on this deployment.
+// Retry-After header when present. On a 401, forces a token refresh and
+// retries the same host (up to MAX_TOKEN_REFRESH_RETRIES times) before ever
+// falling back; only falls back from the primary host to the
+// cognitiveservices.azure.com host on 403, or on a 401 that survives a
+// refreshed token. Paces real calls at roughly 6.5 seconds apart to respect
+// the Tier 5 (10 RPM) quota on this deployment.
 //
 // No em-dashes anywhere in this file (grepped before every commit; hard rule).
 
@@ -180,6 +187,14 @@ const FLAT_EST_COST_USD = 0.048;
 
 const RATE_LIMIT_SPACING_MS = 6500; // Tier 5 = 10 RPM; leave margin
 const MAX_RETRIES = 5;
+
+// Entra access tokens for this resource are good for about 60 minutes.
+// Refresh proactively before that expiry, and refresh + retry on a 401 too
+// (belt and suspenders, since a run's actual pacing can drift). A long
+// `--story all` batch easily runs past 60 minutes, so a single token fetched
+// once at startup is not enough.
+const TOKEN_MAX_AGE_MS = 45 * 60 * 1000;
+const MAX_TOKEN_REFRESH_RETRIES = 2;
 
 const HELP_TEXT = `MAI-Image-2.5 illustration generator (Gunner content production)
 
@@ -272,7 +287,7 @@ async function main() {
   }
 
   console.log('Fetching an Entra access token via az CLI (az account get-access-token)...');
-  const token = await getAccessToken();
+  const tokenState = { token: await getAccessToken(), fetchedAt: Date.now() };
   console.log('Token acquired.');
   console.log('');
 
@@ -306,7 +321,7 @@ async function main() {
         prompt: job.prompt,
         width: job.width,
         height: job.height,
-        token,
+        tokenState,
         editImagePath: job.editImagePath,
       });
     } catch (err) {
@@ -615,6 +630,23 @@ async function getAccessToken() {
   }
 }
 
+/**
+ * Returns a bearer token from tokenState, transparently re-shelling
+ * `az account get-access-token` when the cached one is missing or older
+ * than TOKEN_MAX_AGE_MS. tokenState is a small mutable object
+ * ({ token, fetchedAt }) shared across the whole run so a long `--story all`
+ * batch keeps working past the ~60 minute Entra token lifetime without
+ * re-fetching on every single call.
+ */
+async function ensureFreshToken(tokenState) {
+  const stale = !tokenState.token || Date.now() - tokenState.fetchedAt > TOKEN_MAX_AGE_MS;
+  if (stale) {
+    tokenState.token = await getAccessToken();
+    tokenState.fetchedAt = Date.now();
+  }
+  return tokenState.token;
+}
+
 async function callGenerations({ host, model, prompt, width, height, token }) {
   return fetch(`${host}/mai/v1/images/generations`, {
     method: 'POST',
@@ -638,11 +670,13 @@ async function callEdits({ host, model, prompt, width, height, token, imagePath 
   });
 }
 
-async function generateWithRetry({ hosts, model, prompt, width, height, token, editImagePath }) {
+async function generateWithRetry({ hosts, model, prompt, width, height, tokenState, editImagePath }) {
   let lastErr = null;
   for (let hostIdx = 0; hostIdx < hosts.length; hostIdx++) {
     const host = hosts[hostIdx];
+    let tokenRefreshRetries = 0;
     for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+      const token = await ensureFreshToken(tokenState);
       let res;
       try {
         res = editImagePath
@@ -658,6 +692,19 @@ async function generateWithRetry({ hosts, model, prompt, width, height, token, e
       if (res.ok) return { json: await res.json(), host };
 
       const bodyText = await res.text().catch(() => '');
+
+      // A 401 is overwhelmingly a stale token, not a bad host: force a
+      // refresh and retry the same request on this same host first, before
+      // ever falling back to the secondary host. Does not consume a
+      // 429/5xx retry from the attempt budget below.
+      if (res.status === 401 && tokenRefreshRetries < MAX_TOKEN_REFRESH_RETRIES) {
+        tokenRefreshRetries++;
+        console.warn(`  [warn] 401 on ${host} (likely an expired token), forcing a token refresh and retrying (token retry ${tokenRefreshRetries}/${MAX_TOKEN_REFRESH_RETRIES})`);
+        tokenState.token = null; // forces ensureFreshToken to re-shell az on the next loop pass
+        lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+        attempt--;
+        continue;
+      }
 
       if ((res.status === 401 || res.status === 403) && hostIdx < hosts.length - 1) {
         console.warn(`  [warn] ${res.status} on ${host}, falling back to ${hosts[hostIdx + 1]}`);
