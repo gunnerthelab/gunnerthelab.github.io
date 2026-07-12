@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-21-v1.png"
 draft: false
 order: 21
 ---
-
 It started with the butter.
 
 Mom had set a stick of butter on the porch railing to soften — she was baking, and the kitchen was already too warm, and the porch was cool enough to do the job without melting it into a puddle. She'd been gone three minutes. Maybe four.
@@ -45,6 +44,8 @@ When Mom checked the porch twenty minutes later, the towel was on the ground, th
 Gunner was in the living room. Asleep. He'd been asleep for an hour, as verified by the middle boy, who reported that Gunner had been snoring "so loud I couldn't focus on long division."
 
 Mom looked at the empty pan. She looked at Tiger, who sat on the porch railing with an air of aristocratic innocence.
+
+![The Trap](/images/stories/21/story-21-scene-01-the-trap-v2.png)
 
 "Tiger?"
 
@@ -85,6 +86,8 @@ Tiger was patient. Tiger was discipline. Tiger was —
 
 A clicking of nails on the porch boards.
 
+![Bait Eaten](/images/stories/21/story-21-scene-02-bait-eaten-v1.png)
+
 Tiger's ears rotated.
 
 Gunner appeared from inside the house, nose working the air, following the scent of cat food the way a guided missile follows a heat signature. He walked directly to the bowl, looked at it, looked around to see if anyone was watching (they were — Tiger was watching with growing horror), and ate the entire contents in three bites.
@@ -115,6 +118,8 @@ The middle boy's flashlight flickered. His breathing slowed. His head nodded for
 
 Tiger's ears twitched. Not at the boy. At the tree line.
 
+![Every Single Time](/images/stories/21/story-21-scene-03-every-single-time-v1.png)
+
 Movement. Low. Slow. Purposeful.
 
 A shape emerged from the shadows at the edge of the yard. It moved across the grass with a rolling, waddle-like gait that was immediately recognizable to Tiger, who had been expecting this exact creature since the first butter incident.
@@ -142,6 +147,8 @@ The commotion woke Gunner, who broke free from the oldest boy's restraining hug 
 "BOOF BOOF BOOF—"
 
 He looked left. He looked right. He looked at the middle boy, who was pointing at the roof. He looked at Tiger, who was staring at the roof.
+
+![The Real Culprit](/images/stories/21/story-21-scene-04-the-real-culprit-v1.png)
 
 Gunner looked at the roof.
 
@@ -176,6 +183,8 @@ Tiger sat on the porch until dawn anyway, because a point made once is a suggest
 ---
 
 "I think something was getting into the food on the porch," Dad said over breakfast a few days later, pouring coffee. "But it seems to have stopped."
+
+![The Standoff at Midnight](/images/stories/21/story-21-scene-05-standoff-at-midnight-v1.png)
 
 "It was a raccoon," the middle boy said. "Tiger and I saw it."
 

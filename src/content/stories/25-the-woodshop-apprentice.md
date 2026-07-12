@@ -10,12 +10,17 @@ coverImage: "/images/covers/story-25-v1.png"
 draft: false
 order: 25
 ---
-
 The oldest boy was building a birdhouse.
+
+![The Helper](/images/stories/25/story-25-scene-01-the-helper-v1.png)
 
 This was a small project by his standards. He'd already built a shelf for Mom's kitchen, repaired a fence post that Dad had been "getting to" for three weeks, and constructed a tool organizer in the shop that was so well-designed Dad had quietly photographed it and sent it to his brother with the caption "this kid is better at building things than both of us."
 
+![Screw Thief](/images/stories/25/story-25-scene-02-screw-thief-v1.png)
+
 The oldest was fourteen now — broad-shouldered, quiet, built like he'd been assembled from spare parts at a construction site. He approached work the way some kids approached video games: with total focus, deep satisfaction, and the quiet confidence of someone who knew he was good at this and didn't need to tell anyone.
+
+![The Fence Post](/images/stories/25/story-25-scene-03-the-fence-post-v1.png)
 
 The woodshop was his kingdom. Dad had set it up in the outbuilding behind the house — a workbench, a vise, a collection of hand tools that had migrated from three states, and a few power tools that the oldest was old enough to use now, under supervision that was becoming increasingly unnecessary.
 
@@ -47,6 +52,8 @@ Gunner looked up. His tail wagged against the concrete floor with a rhythmic thu
 
 The boy reached under Gunner for the tape measure. This required him to lift approximately one-quarter of the dog, extract the tape measure from under the dog's ribcage, and set the dog back down, all while Gunner licked his arm and interpreted the entire interaction as affection.
 
+![Done Despite Them](/images/stories/25/story-25-scene-04-done-despite-them-v1.png)
+
 The boy measured his wood. He set the tape measure down on the bench. Three seconds later, it was under Gunner again.
 
 "How do you DO that? I just — I literally just set that down."
@@ -68,6 +75,8 @@ Tiger looked at the boy. His golden eyes were wide and innocent. His paw was six
 "Tiger. Don't."
 
 Tiger's paw moved three inches closer. Not touching the jar. Just... near it. In the neighborhood. In the zip code.
+
+![Covered in Sawdust](/images/stories/25/story-25-scene-05-covered-in-sawdust-v1.png)
 
 The boy returned to his work. He picked up the saw. He made the first cut — slow, careful, following the pencil line with the patience of someone who understood that rushing wood was a good way to ruin wood.
 
@@ -98,6 +107,8 @@ Tiger yawned.
 The birdhouse took three hours. It should have taken one.
 
 One hour was spent on actual construction — measuring, cutting, sanding, assembling. One hour was spent extracting tools from under Gunner, who had developed a gravitational relationship with every flat surface in the shop and whose body had an almost supernatural ability to be on top of whatever tool was needed next. And one hour was spent picking up screws, nails, bolts, and small hardware items that Tiger had batted off the workbench with the steady, unhurried consistency of a cat who had found his calling and it was chaos.
+
+![Tiger's Hardware Hoard](/images/stories/25/story-25-scene-06-tigers-hardware-hoard-v1.png)
 
 At one point, the boy had to hold a board in the vise with one hand, saw with the other, while simultaneously blocking Gunner from lying on the board and preventing Tiger from pushing the vise handle.
 

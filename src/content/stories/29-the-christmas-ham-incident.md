@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-29-v1.png"
 draft: false
 order: 29
 ---
-
 Tiger had been planning this since Thanksgiving.
 
 Thanksgiving had been a disaster — tactically speaking. Mom's turkey had come out of the oven golden and perfect, and Tiger's hastily improvised grab-and-dash had been thwarted by the simple fact that a fourteen-pound turkey was approximately three pounds heavier than Tiger himself. He'd managed to get one paw on the counter before Dad scooped him off with a "nice try, buddy" that Tiger found deeply patronizing.
@@ -42,6 +41,8 @@ Tiger looked at her. The look said: *We both know how this ends.*
 Mom sighed and went back to the potatoes.
 
 The boys were decorating. The oldest was stringing lights with the methodical precision of an electrician. The middle one was arranging ornaments by color and theme, because even Christmas had to be organized correctly. The youngest was wearing a Santa hat backward and putting candy canes on the tree at a rate that suggested he was eating half of them.
+
+![The Plan](/images/stories/29/story-29-scene-01-the-plan-v1.png)
 
 Dad was in the living room, allegedly supervising, actually watching the boys with the quiet contentment of a man whose family was together and whose house smelled like ham and whose dog was sitting in the kitchen doorway crying softly about how far away the ham was.
 
@@ -81,6 +82,8 @@ He placed both front paws on the ham and pushed.
 
 The ham did not move. Ten pounds of meat on a cutting board was not going to be relocated by eleven pounds of cat through pushing alone.
 
+![Mid-Heist](/images/stories/29/story-29-scene-02-mid-heist-v1.png)
+
 Tiger reassessed. He needed leverage. He needed the cutting board to slide.
 
 He moved behind the cutting board and pushed the board itself. It slid an inch on the counter. Then another inch. Then —
@@ -110,6 +113,8 @@ Gunner opened his mouth.
 "WHAT ARE YOU—"
 
 Mom. In the doorway. Having returned for the carving knife.
+
+![The Guilty and the Remorseless](/images/stories/29/story-29-scene-03-guilty-and-remorseless-v1.png)
 
 The scene she witnessed would be discussed at every family Christmas for the rest of recorded history: Tiger on the counter, both paws on the cutting board, pushing the ham toward the edge with calculated intent. Gunner below, mouth open, positioned to catch a ten-pound projectile ham like a ninety-pound catcher's mitt.
 
@@ -149,6 +154,8 @@ From somewhere in the living room, Tiger's purr was faintly audible. It was the 
 
 Dinner was served at 7 PM. The ham — intact, un-stolen, only slightly paw-printed — took center stage. Mom carved it with the vigor of a woman who had successfully defended Christmas dinner from a home invasion.
 
+![Christmas Dinner Saved (Mostly)](/images/stories/29/story-29-scene-04-dinner-saved-v1.png)
+
 Under the table, Gunner waited. His guilt had lasted approximately four minutes before resetting to his default state: hope. Hope that food would fall. Hope that someone would slip him a piece. Hope that the universe, despite all evidence, was fundamentally good and that goodness manifested as ham.
 
 The youngest, because the youngest had been raised in a family where animals were people and people were chaos, held a piece of ham under the table. Gunner took it gently — so gently — from the boy's fingers.
@@ -168,6 +175,8 @@ Tiger appeared at the edge of the dining room. He didn't approach the table. He 
 Dad slipped Tiger a piece of ham. Mom pretended not to see.
 
 It was Christmas. The fire was going. The tree was lit. The boys were fed and happy and together. And somewhere under the table, a dog and a cat were sharing the spoils of a heist that had failed in execution but succeeded in spirit.
+
+![Christmas Morning Peace](/images/stories/29/story-29-scene-06-christmas-morning-peace-v1.png)
 
 Gunner's face said sorry.
 

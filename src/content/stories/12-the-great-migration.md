@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-12-v1.png"
 draft: false
 order: 12
 ---
-
 Gunner knew something was wrong the moment the boxes appeared.
 
 Boxes meant the vet. Gunner had established this connection through years of careful observation: when Mom got out the crate, they went to the vet. When Dad loaded things into the truck, they went somewhere. Going somewhere sometimes meant the vet. Therefore, boxes equaled vet. It was airtight logic, as far as Gunner's logic went.
@@ -18,6 +17,8 @@ Boxes meant the vet. Gunner had established this connection through years of car
 He retreated under the kitchen table and watched the chaos with the mournful eyes of a dog who had already accepted his fate.
 
 Tiger, by contrast, knew exactly what was happening. He'd known for days. He'd read the signs the way a cat reads everything — not through the obvious (the boxes, the tape, the moving truck in the driveway) but through the subtle. The conversations between Mom and Dad after the boys went to bed, spoken in low voices that Tiger could hear from two rooms away. The way Mom looked at the garden when she walked through it, lingering at each bed, touching the plants. The way Dad stood on the porch at sunset, staring at the fifteen acres with the face of a man memorizing something he couldn't take with him.
+
+![Moving Day Chaos](/images/stories/12/story-12-scene-01-moving-day-v1.png)
 
 They were leaving.
 
@@ -55,6 +56,8 @@ She smiled. It didn't reach her eyes, but it reached her mouth, and that was eno
 
 Gunner, still under the table, watched the furniture leave the house one piece at a time. The couch went. The bookshelf went. The boys' bunk beds went, disassembled into poles and planks that looked nothing like beds anymore.
 
+![Under the Table](/images/stories/12/story-12-scene-02-under-the-table-v1.png)
+
 When Dad started dismantling Gunner's corner — the spot by the heater where his bed lived, where Tiger slept on top of him every night, where the world was warm and safe and smelled like home — Gunner whined.
 
 Not a loud whine. A small one. The kind dogs make when they're confused and there's nobody to explain things to them, because dogs can't be told "we're moving to be closer to Grandpa, who is sick, and we need to be near the hospital, and I'm sorry, buddy, I know this was your home."
@@ -66,6 +69,8 @@ Tiger jumped off the windowsill and walked to Gunner under the table. He didn't 
 Gunner pressed his side against Tiger's side.
 
 They sat like that while the house emptied around them.
+
+![Tiger Packs Himself](/images/stories/12/story-12-scene-03-tiger-packs-himself-v1.png)
 
 ---
 
@@ -80,6 +85,8 @@ He could see Gunner's crate across the back seat, and beyond it, through the car
 Gunner's crate was larger and contained a dog who did not want to be in it. He lay on his side, taking up every inch, his nose pressed against the door, his eyes tracking every movement of Dad and the boys as they made their last trips.
 
 "It's okay, Gunner," the youngest said, pressing his face against the crate door. "We're coming back."
+
+![The Empty Rooms](/images/stories/12/story-12-scene-04-the-empty-rooms-v1.png)
 
 They weren't coming back. Everyone knew this except possibly the youngest and definitely Gunner. But the youngest said it with such conviction that even Tiger felt something shift — not in his understanding, but in his chest. The place where feelings would go if Tiger admitted to having them, which he did not.
 
@@ -99,6 +106,8 @@ The caravan pulled out at 2 PM: the U-Haul first, with Dad and the oldest; the c
 
 The fifteen acres unfolded in the rearview mirror — the fence, the pasture (empty now, the cows sold the week before), the barn, the pond, the tree line where Tiger had sat on fence posts watching the world. It got smaller. Then it was just a shape. Then it was gone.
 
+![The Last Look](/images/stories/12/story-12-scene-05-the-last-look-v1.png)
+
 Mom didn't look back. She was driving, and looking forward was her job, the way it was always her job.
 
 The middle boy looked back. He watched until the last piece of fence disappeared behind the curve of the road, and then he turned around and put his hand on Tiger's crate. Tiger pressed his nose against the boy's fingers through the wire door.
@@ -108,6 +117,8 @@ The youngest fell asleep before they reached the highway, because that's what he
 In the car, Tiger could hear Gunner breathing. Slow, deep breaths. The dog had calmed down, the way dogs eventually do — not because they understand, but because the car was moving and the family was together and the vibration of the road was steady and familiar.
 
 Tiger purred. Very quietly. Not for Gunner, not for the boys, not for anyone. Just because purring was what Tiger did when the world was uncertain and the only solid thing was the sound he could make in his own chest.
+
+![The Road to Waco](/images/stories/12/story-12-scene-06-road-to-waco-v1.png)
 
 The U-Haul's brake lights flashed ahead. Mom followed. The East Texas pines lined the highway like a farewell formation, tall and straight and green.
 

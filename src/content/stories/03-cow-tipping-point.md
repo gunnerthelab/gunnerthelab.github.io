@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-03-v1.png"
 draft: false
 order: 3
 ---
-
 The cows had been there first. This was important context that Gunner did not have.
 
 They'd arrived with the property — five Herefords and a Brahman cross that Dad had inherited with the fifteen-acre purchase, along with a barn that leaned slightly to the left, a pond that was mostly mud, and a fence that required more prayer than post to stay upright. The cows had been walking this land, eating this grass, and ignoring humans long before a squirming black Lab puppy showed up with a collar too big for his neck and an enthusiasm too big for his body.
@@ -50,7 +49,7 @@ Tiger was approximately eight months old, which in cat years meant he already ha
 
 Tiger had opinions about this arrangement. Most of them were negative. All of them were irrelevant, because Gunner was warm and the nights were cold, and a kitten with no mother learns quickly which alliances are practical.
 
-Right now, Tiger's practical alliance was about to do something stupid. He could see it building. The crouch. The wiggle. The — 
+Right now, Tiger's practical alliance was about to do something stupid. He could see it building. The crouch. The wiggle. The —
 
 Gunner squeezed under the fence.
 
@@ -68,8 +67,6 @@ She blinked.
 
 Then she went back to chewing.
 
-![Gunner in a play bow at Big Donna's feet — twelve hundred pounds of Hereford indifference staring down at a puppy who is absolutely certain this is going well](/images/stories/story-03-scene-01-the-approach.png)
-
 Gunner, undeterred, circled her. He barked. He play-bowed again. He brought her a stick — the universal dog language for "let's be friends" — and dropped it at her hoof.
 
 Big Donna stepped on the stick. Not aggressively. Not even intentionally. She just shifted her weight and a hoof the size of a dinner plate settled on the offering.
@@ -78,7 +75,7 @@ Gunner stared at his crushed stick. Then he looked up at Big Donna. Then back at
 
 Tiger, from his fence post, narrated internally: *And here we observe the juvenile Canis lupus familiaris attempting first contact with Bos taurus. The larger specimen appears supremely unimpressed. The smaller specimen has not yet learned that enthusiasm is not a universal language.*
 
-![Tiger on the fence post, narrating to no one — puppy below, cow overhead, and something like contempt in those golden amber eyes](/images/stories/story-03-scene-02-the-narration.png)
+![Tiger on the fence post, narrating to no one — puppy below, cow overhead, and something like contempt in those golden amber eyes](/images/stories/03/story-03-scene-02-the-narration-v1.png)
 
 ---
 
@@ -102,6 +99,8 @@ The boys discovered the show around midmorning.
 
 Dad emerged from the barn, wrench in hand, and assessed the situation with the practiced calm of a man who had learned that farm life was basically a series of small emergencies interrupted by larger ones.
 
+![Big Donna](/images/stories/03/story-03-scene-03-big-donna-v2.png)
+
 "He'll learn," Dad said.
 
 "He's trying to play with them," the middle boy observed, fascinated.
@@ -124,7 +123,7 @@ Tiger watched the whole thing from his fence post, tail curled around his paws, 
 
 *The young predator has now been rebuffed seventeen times. In the wild, this level of rejection would typically result in the predator seeking easier prey. However, this particular predator appears to have been bred for persistence rather than intelligence. One wonders how the species has survived.*
 
-![Gunner in full retreat — ears flying, paws scrambling, a cow in unhurried pursuit behind him, and Tiger watching from the fence post with professional detachment](/images/stories/story-03-scene-03-the-retreat.png)
+![Tiger's Verdict](/images/stories/03/story-03-scene-05-tigers-verdict-v1.png)
 
 When Gunner finally gave up — not because he'd accepted defeat, but because he'd spotted Dad carrying a feed bucket and his brain had switched from "make friends" to "food" in the time it took a synapse to fire — he squeezed back under the fence and trotted to Tiger's post.
 
@@ -143,6 +142,8 @@ Tiger tolerated it.
 Over the following weeks, an uneasy truce developed. The cows accepted that the puppy was a permanent feature of the landscape, like the barn or the mud or the relentless East Texas heat. Gunner accepted that the cows were not going to play, but he never stopped being delighted by them. Every morning, he'd go to the fence, wag, and offer his daily greeting. Every morning, the cows would stand there, chewing, pretending he didn't exist.
 
 Until one evening in October, when the air had cooled enough to make the pasture tolerable and the sunset turned the sky the color of a peach. Dad was bringing the cows in for the night, walking the fence line with the feed bucket, the boys trailing behind him, Gunner bouncing ahead.
+
+![Sunset on the Pasture](/images/stories/03/story-03-scene-06-sunset-pasture-v1.png)
 
 And Big Donna — massive, unflappable Big Donna who had never acknowledged Gunner's existence — lowered her enormous head and sniffed the puppy's ear.
 

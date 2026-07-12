@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-05-v2.png"
 draft: false
 order: 5
 ---
-
 Bear didn't like you. This was the first thing you needed to know about Bear, and the last thing, and everything in between. Bear was a brown mutt of uncertain heritage and certain opinions, and his primary opinion was that you — whoever you were, whatever you wanted, no matter how nice your voice or how good your treats — were in his yard, and he would like you to leave.
 
 He'd been like this since before Dad adopted him, years ago, from a shelter where the staff described him as "particular." This was generous. Bear was particular the way a thunderstorm is particular. He had a territory. He had a porch. He had a spot. And heaven help anyone — man, woman, child, dog, or cat — who didn't respect the boundaries he'd established through years of committed grumpiness.
@@ -46,8 +45,6 @@ Bear lay on the porch, alone again, and closed his eyes. The yard was quiet. The
 
 For now.
 
-![Bear on the porch — gray-muzzled, heavy-lidded, the permanent scowl of a dog who has earned every opinion he holds](/images/stories/story-05-scene-01-the-grump.png)
-
 ---
 
 Gunner did not give Bear time. Gunner gave Bear the opposite of time. Gunner gave Bear relentless, unending, puppy-grade attention that started at dawn and ended only when Gunner fell asleep, which happened suddenly and without warning, usually mid-bounce, as if someone had pulled his battery out.
@@ -64,7 +61,7 @@ A play bow — front end down, back end up, tail helicoptering. Bear turned his 
 
 A bark. Multiple barks. An entire symphony of yips and yaps and squeaks that Gunner seemed to believe constituted conversation. Bear closed his eyes.
 
-![Gunner in a play bow, tail a blur — Bear with his back turned, radiating the focused indifference of a professional](/images/stories/story-05-scene-02-the-persistent-puppy.png)
+![Gunner in a play bow, tail a blur — Bear with his back turned, radiating the focused indifference of a professional](/images/stories/05/story-05-scene-02-the-persistent-puppy-v1.png)
 
 "He doesn't want to play, buddy," the oldest boy would say, trying to redirect Gunner with a rope toy.
 
@@ -73,6 +70,8 @@ But Gunner didn't understand "doesn't want to." The concept simply did not exist
 Bear endured it. He endured it with the stoic, stone-faced resolve of an animal who understood that this puppy was not going away and that biting him would cause more problems than it solved. So he growled occasionally — a low, rumbling "that's enough" that stopped Gunner for approximately three seconds before the puppy's memory reset and he tried again.
 
 The boys watched this dynamic with fascination.
+
+![The Bear Sigh](/images/stories/05/story-05-scene-03-the-bear-sigh-v1.png)
 
 "Bear's like a grandpa," the middle boy said one evening, watching Bear lie on the porch with Gunner orbiting him like a tiny black satellite.
 
@@ -85,6 +84,8 @@ He did not like it.
 ---
 
 Tiger entered the picture approximately four months after Gunner, as a kitten so small he fit in the palm of Dad's hand. His mama had been a barn cat — one of the semi-feral tabbies that appeared and disappeared on the homestead according to their own inscrutable schedules. She'd had her litter in the hay loft and Tiger was the last one standing. The East Texas country was hard on small things.
+
+![The Kitten on the Giant](/images/stories/05/story-05-scene-04-kitten-on-the-giant-v1.png)
 
 Dad found him in the barn, mewing, alone. He brought him inside. Mom set up a box with a towel near the heater. The boys took turns holding him, which he tolerated the way cats tolerate everything — with an air of doing you a favor.
 
@@ -108,8 +109,6 @@ The growl faded.
 
 Bear put his head back down.
 
-![The kitten asleep on Bear's broad back — Bear awake, looking off to the side with his permanent scowl, not moving. Gunner watching from a few feet away, head tilted, baffled](/images/stories/story-05-scene-03-kitten-on-the-giant.png)
-
 And that was it. The kitten slept. Bear let it happen. No growling. No shaking. No rejection.
 
 Gunner, watching from across the room with his head tilted, was deeply confused. He'd been trying to get close to Bear for months. He'd offered sticks and dead bugs and approximately eight thousand play bows. And this tiny striped thing just *walked up and lay down on him* and Bear *let it happen?*
@@ -131,6 +130,8 @@ But he never stopped trying.
 Every morning. Every day. A stick, a ball, a play bow. The eternal optimism of a Labrador who believed that today might be the day the grumpy old dog finally played.
 
 And Bear — Grandpa Bear, with his gray muzzle and his stiff joints and his territorial bark — would growl, and turn his back, and close his eyes.
+
+![Grandpa Bear](/images/stories/05/story-05-scene-05-grandpa-bear-v1.png)
 
 And secretly, in the way that only dogs can be secretly anything, he didn't move his spot when the puppy lay down near him. He didn't growl when Gunner's tail accidentally brushed his side. He let the puppy drink from his water bowl, eat from his vicinity, sleep in the same room.
 
@@ -155,6 +156,8 @@ A pause. The whole porch held its breath.
 Bear closed his eye.
 
 Gunner's tail moved. Once. Slowly. Against the warm boards.
+
+![The Yard at Dusk](/images/stories/05/story-05-scene-06-yard-at-dusk-v1.png)
 
 Three animals on a porch. An old grump, a sleeping kitten, and a puppy who had finally figured out the trick — not enthusiasm, not sticks, not noise. Just presence. Just being there, quiet and warm, asking for nothing.
 

@@ -88,4 +88,28 @@ html.dark {
             line-height: 1.75;
         }
     }
+
+    /*
+     * Scene illustration plates — inline story artwork (markdown images that land in
+     * their own paragraph) get a soft storybook-plate treatment: rounded corners, a
+     * warm parchment border, a gentle shadow, centered, responsive width. Scoped to
+     * `.prose-story p > img` so it never touches the "Real Bear" photo grid, which
+     * uses its own <figure> markup with its own inline styles.
+     */
+    .prose-story p:has(> img:only-child) {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    .prose-story p > img:only-child {
+        display: inline-block;
+        max-width: 100%;
+        width: 100%;
+        max-width: 40rem;
+        height: auto;
+        border-radius: 0.75rem;
+        border: 1px solid var(--border-color-main);
+        box-shadow: 0 4px 16px rgba(59, 36, 18, 0.18);
+        background-color: var(--background-color-muted);
+    }
 }

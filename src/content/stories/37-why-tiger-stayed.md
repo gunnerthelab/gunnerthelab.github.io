@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-37-v1.png"
 draft: false
 order: 37
 ---
-
 The other cats didn't make it. This is the part of the story that nobody likes to tell, but it's the part that makes Tiger's story matter.
 
 There was Patches — a calico who arrived the first summer on the homestead, sweet-natured and curious and absolutely unprepared for East Texas. She lasted four months before the coyotes came on a December night when the cold drove everything with teeth down from the hills. She was there in the evening. She was gone in the morning. The boys looked for her for three days. The youngest cried. Mom held him.
@@ -22,7 +21,7 @@ There was Mama — Tiger's own mother. The barn cat who had birthed him in the h
 
 Cats came and went. That was the reality of country living. You loved them, you named them, you fed them and held them and let them sleep on your pillow, and then the night took them. The coyotes, the hawks, the road, the cold, the simple wildness of a world that doesn't care how much you love something small.
 
-![Silhouettes of cats walking away into darkness, into open fields, into the unknown — fading one by one into the vast, indifferent East Texas landscape](/images/stories/story-37-scene-01-the-others-left.png)
+![Silhouettes of cats walking away into darkness, into open fields, into the unknown — fading one by one into the vast, indifferent East Texas landscape](/images/stories/37/story-37-scene-01-the-others-left-v1.png)
 
 Tiger should have been one of them. He was the same size, the same species, living on the same land, facing the same dangers.
 
@@ -37,6 +36,8 @@ Not in the way people think. Not because Gunner protected him — Gunner couldn'
 Tiger stayed because of the warmth.
 
 That first cold night — the one that started everything — when Tiger was a kitten without a mother and the barn was dark and the wind pushed through the gaps in the boards and the coyotes sang in the distance like a warning made of teeth. Tiger had been in his box. The towel was soft. The heater was behind him.
+
+![Tiger's Mother](/images/stories/37/story-37-scene-02-tigers-mother-v1.png)
 
 But the heater wasn't alive.
 
@@ -62,6 +63,8 @@ Tiger stayed because of the mornings.
 
 When Gunner woke up — every morning, without exception — the first thing he did was find Tiger. Not food. Not the door. Not the boys. Tiger.
 
+![But Tiger Didn't](/images/stories/37/story-37-scene-03-tiger-didnt-v1.png)
+
 He'd lift his head, locate the cat on his side, and do the thing that only Gunner did: he'd press his nose against Tiger's ear, one long slow exhale that ruffled the fur and said, in the only language Gunner spoke: *You're still here. Good. You're still here.*
 
 Tiger would swat the nose. Gently. More reflex than rejection. And then he'd stand, stretch — the long, full-body cat stretch that goes from nose to tail — and walk to the kitchen, knowing that behind him, the big dog was following.
@@ -75,6 +78,8 @@ Gunner's nose on Tiger's ear was a wall. It held.
 ---
 
 Tiger stayed because the dog never chased him.
+
+![The Dog Who Never Chased](/images/stories/37/story-37-scene-04-never-chased-v1.png)
 
 This sounds simple. It isn't.
 
@@ -95,8 +100,6 @@ The other cats never had this. Patches had been nervous around Gunner, staying h
 Tiger closed the gap. Tiger eliminated the gap entirely. Tiger slept on the potential predator because the potential predator had never, not once, given him a reason not to.
 
 That's why Tiger stayed. Not because the world outside was dangerous — though it was. Not because the inside was warm — though it was. But because inside, there was a creature who was warm and safe and who had never once, in all their years, given Tiger a reason to run.
-
-![Tiger sitting in the farmhouse doorway, golden-amber eyes steady and certain, looking out at the dangerous world — behind him, Gunner sleeps sprawled on his bed, the reason Tiger stayed](/images/stories/story-37-scene-02-tiger-didnt.png)
 
 ---
 
@@ -119,6 +122,8 @@ Tiger stayed because.
 Not "because of" anything. Not for a reason that could be diagrammed or explained or reduced to logic. Just because. The way you love someone. The way you stay.
 
 The other cats had reasons to leave. The world gave them reasons — teeth, cold, distance, the thousand small violences that the country dishes out to anything small and soft and alone.
+
+![The Pillow](/images/stories/37/story-37-scene-05-the-pillow-v1.png)
 
 Tiger had the same world. The same teeth, the same cold. But Tiger had something the others didn't.
 
@@ -153,8 +158,6 @@ And because sometimes, the reason you stay is the same as the reason you love: n
 Tiger purred.
 
 Gunner breathed.
-
-![Tiger curled against Gunner's belly on a worn rug by the heater vent — the same spot he chose as a kitten years ago, and every night since — both asleep, both home](/images/stories/story-37-scene-03-the-pillow.png)
 
 And outside, the Virginia night held them both in its mountain hands, and the stars turned slowly overhead, and nothing in the world could touch them here.
 

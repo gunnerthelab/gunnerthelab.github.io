@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-16-v1.png"
 draft: false
 order: 16
 ---
-
 The problem with China Springs was the fence. Or rather, the lack of one.
 
 The rental house near Waco sat on a half-acre lot with no physical barrier between the yard and the road, which meant that Gunner — a dog whose response to an open space was to run across it at maximum velocity toward whatever had most recently captured his attention — had to be kept on a leash or supervised at all times.
@@ -47,6 +46,8 @@ The theory had not met Gunner.
 
 Dad spent the morning burying the wire, testing the signal, and adjusting the collar. The boys helped dig the trench. The oldest did most of the actual digging. The middle one drew a map of the wire layout. The youngest dug a separate, unrelated hole because there was a shovel and he had arms and that was sufficient motivation.
 
+![The Zap](/images/stories/16/story-16-scene-01-the-zap-v1.png)
+
 At noon, everything was ready.
 
 Dad put the collar on Gunner. The receiver box hung under Gunner's chin like a small, ominous pendant. Gunner sniffed it, tried to lick it, and then forgot about it because there was grass outside and grass was interesting.
@@ -75,6 +76,8 @@ He bolted. Not forward, not backward — he bolted to Dad.
 
 He covered the distance between the fence line and Dad in approximately one second, which was impressive given that the distance was twenty feet and Gunner was moving from a standing start. He hit Dad at knee level, wrapped himself around Dad's legs, and pressed his entire body against Dad's shins with the trembling desperation of a dog who had just discovered that the universe was hostile and the only safe place left was the human who had always fixed everything.
 
+![Pressed Against Dad](/images/stories/16/story-16-scene-02-pressed-against-dad-v1.png)
+
 Dad knelt down. "Hey, hey, buddy. It's okay. You're okay."
 
 Gunner was not okay. Gunner was the opposite of okay. Gunner was vibrating at a frequency normally reserved for hummingbirds and anxiety disorders.
@@ -97,6 +100,8 @@ The *ground.*
 
 The thing he had trusted his entire life — the foundation beneath every walk, every run, every roll, every dig — had turned on him. It was the deepest betrayal Gunner had ever experienced, and he'd once caught his own tail only to discover it was attached to him.
 
+![The Standoff](/images/stories/16/story-16-scene-03-the-standoff-v1.png)
+
 He stood at the door. His front paws touched the threshold. His body leaned forward. His nose twitched at the outside air, processing the scents of freedom and grass and that squirrel who'd been taunting him from the pecan tree.
 
 But his back legs would not move.
@@ -118,6 +123,8 @@ He stayed at the door.
 ---
 
 The boys made it their mission to get Gunner outside.
+
+![One Paw at a Time](/images/stories/16/story-16-scene-04-one-paw-v1.png)
 
 They tried treats. They tried toys. They tried lying in the grass and playing dead, which was the youngest boy's contribution and was not helpful but was entertaining. They tried putting Gunner's food bowl on the porch — one foot from the door, then two feet, then three, inching it toward the yard in daily increments.
 
@@ -151,6 +158,8 @@ Another. Nothing.
 
 He took six steps in total, moving with the careful, measured pace of a bomb disposal expert crossing a minefield, every paw placement deliberate, every muscle ready to bolt at the first sign of ground-based treachery.
 
+![Crossing the Minefield](/images/stories/16/story-16-scene-05-crossing-the-minefield-v1.png)
+
 On step seven, the youngest boy threw a treat.
 
 The treat arced through the air in slow motion. Gunner tracked it. The treat was in the air. The treat was in the yard. The treat was on the ground.
@@ -162,6 +171,8 @@ The treat won.
 Gunner lunged, grabbed the treat, and immediately bolted back to the porch, where he sat trembling, chewing, and looking at the yard like a soldier who had made a successful raid into enemy territory and lived to tell about it.
 
 It took another week for Gunner to use the yard normally. And even then, even after the collar went back on and the boundaries were re-established (at a much more gradual pace), Gunner always — always — had a moment at the door. A hesitation. A brief, half-second check-in with his body that said: *Is the ground safe? Are we sure? We're sure? Okay. Okay. Going out. Going out now. Here I go.*
+
+![Reward on the Porch](/images/stories/16/story-16-scene-06-reward-on-the-porch-v1.png)
 
 Tiger, who never wore a collar, never felt a shock, and never hesitated at any door in his life, watched these daily negotiations from the porch railing with an expression that was, to be charitable, empathetic.
 

@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-31-v1.png"
 draft: false
 order: 31
 ---
-
 The snow started at 3 AM, which Tiger knew because Tiger was awake at 3 AM, because Tiger was always awake at 3 AM.
 
 He watched it from his windowsill — the first flakes drifting down through the porch light like tiny white moths, lazy and uncertain, as if they weren't sure they wanted to commit. But they kept coming. By 4 AM, the porch railing had a thin white line along it. By 5 AM, the yard had changed color. By 6 AM, when the first gray light of morning replaced the porch light, the entire Virginia mountain was white.
@@ -65,6 +64,8 @@ Beautiful.
 
 The black coat against the white ground. The orange against the gray sky. The snowflakes landing on him, one by one, and not being shaken off. He looked like something from a painting — a statue, a monument, a thing that belonged exactly where it was.
 
+![The Statue](/images/stories/31/story-31-scene-01-the-statue-v1.png)
+
 Dad came out with coffee, saw Gunner, and stopped.
 
 He didn't say anything. He didn't call the dog. He just looked at him — his dog, his ridiculous, food-obsessed, chicken-chasing, bee-stung, mud-rolling disaster of a dog — sitting in the snow like he was made for it.
@@ -89,6 +90,8 @@ He picked the paw up. Shook it. The shake started at the toes and traveled up th
 
 He tried the other paw. Same result. Cold. Wet. An abomination.
 
+![The Paw Shake](/images/stories/31/story-31-scene-02-the-paw-shake-v1.png)
+
 He got four steps off the porch — four determined, disgusted, high-stepping steps that made him look like a cat walking on hot coals except the coals were frozen — before the snow crept up past his paws and touched his belly fur.
 
 Tiger's face achieved an expression of such concentrated horror that the middle boy laughed so hard he fell into his own snow fort.
@@ -106,6 +109,8 @@ Tiger went inside.
 ---
 
 From the heater rug — Tiger's command center, his throne, his territory-within-a-territory — he could see the yard through the window. The boys were building something. Dad was shoveling. Mom was making hot chocolate in the kitchen.
+
+![Coming Back for Him](/images/stories/31/story-31-scene-03-coming-back-v1.png)
 
 And Gunner was still sitting in the snow.
 
@@ -131,6 +136,8 @@ Tiger stepped off the porch for the second time with the expression of a cat vol
 
 The snow was still cold. Still wet. Still an offense against everything Tiger believed in.
 
+![The Boys Pile On](/images/stories/31/story-31-scene-04-the-boys-pile-on-v1.png)
+
 But Gunner was out there. And Gunner had been out there for a long time. And the boys were starting to go inside, and Dad was finishing the shoveling, and Mom was calling people in for hot chocolate, and if Tiger didn't go get him, the big dummy would sit in the snow until he turned into a Labrador-shaped ice sculpture.
 
 Tiger walked through the snow. Each step was a tiny act of misery — his paws sinking, his belly fur collecting ice crystals, his face set in a grimace that would have won awards in a contest for "most unhappy cat."
@@ -145,6 +152,8 @@ They sat together. Black dog and tabby cat, side by side in the snow, watching t
 
 For Gunner, it was nothing. He loved this. Every frozen second.
 
+![First Pawprints](/images/stories/31/story-31-scene-05-first-pawprints-v1.png)
+
 For Tiger, it was everything. It was choosing discomfort because someone he cared about was in it. It was walking into the cold because the warm spot was empty without the warm body that usually occupied it.
 
 Tiger shivered. Gunner's body radiated heat — the Labs always ran hot, furnaces wrapped in fur — and Tiger pressed closer, tucking himself against Gunner's side the way he'd been doing since the first cold night in a barn in Texas.
@@ -156,6 +165,8 @@ The snow fell on both of them.
 Gunner stood up, shook off a blizzard's worth of accumulated snow, and trotted toward the house with his usual lack of urgency.
 
 Tiger ran. Full sprint. The fastest Tiger had moved in weeks, a gray-brown streak across white ground, paws barely touching, a cat-shaped missile aimed at warmth and dryness and the heater rug that was calling to him like a beacon.
+
+![Thawing by the Stove](/images/stories/31/story-31-scene-06-thawing-by-the-stove-v1.png)
 
 He made it to the porch in approximately two seconds, which was a new land-speed record.
 

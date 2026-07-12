@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-19-v1.png"
 draft: false
 order: 19
 ---
-
 The sound started at 11:47 PM. Tiger knew the exact time because Tiger was a cat, and cats have an internal clock more precise than anything the Swiss ever built. Also, it was exactly twelve minutes after the last human in the house had stopped moving — Mom, who was always the last one up, turning off the kitchen light after wiping down a counter that didn't need wiping because she'd already wiped it twice, which was just what Mom did.
 
 The house had settled into its nighttime sounds: the tick of the old heater, the creak of the boys shifting in their beds, the rhythmic breathing of a black Lab who slept like the dead and sounded like a chainsaw. Gunner was on his bed in the hallway — the spot he'd claimed because it sat at the intersection of the boys' rooms, the kitchen, and the front door, maximizing his coverage of all three primary concerns: children, food, and intruders.
@@ -80,6 +79,8 @@ The opossum stood up, shook itself off with what could only be described as irri
 
 One by one, the other opossums came back to life and resumed their evening's activities, apparently having concluded that Gunner was not, in fact, a threat. The one on the trash can went back to rummaging. The two near the garden resumed their investigation of whatever gardens have that opossums want. The big one on the porch steps looked at Gunner with tiny black eyes that communicated nothing except maybe contempt.
 
+![The Investigation](/images/stories/19/story-19-scene-01-the-investigation-v1.png)
+
 Gunner sat in the middle of the yard, surrounded by animals that had been dead and were now not dead, and appeared to have a small crisis.
 
 ---
@@ -112,6 +113,8 @@ Tiger sat down and began grooming his chest, because this had never happened and
 
 Back in the front yard, Dad had come out onto the porch in his boots — no socks, which he'd regret — and was surveying the opossum situation with the resigned amusement of a man who had moved his family to forty acres of Virginia mountain and was learning, daily, what that actually meant.
 
+![The False Alarm](/images/stories/19/story-19-scene-02-false-alarm-v1.png)
+
 "Gunner, they're just opossums," Dad said.
 
 Gunner looked at Dad. Gunner looked at the opossums. Gunner looked back at Dad. His expression said: *They were DEAD, Dad. They were DEAD and now they're NOT DEAD. How is everyone okay with this?*
@@ -134,6 +137,8 @@ The youngest boy's voice came from inside: "Dad? What's Gunner barking at?"
 
 The sound of small feet retreating. Then, thirty seconds later, a face at the window. Then two more faces. All three boys, stacked like totem poles in the window frame, watching the opossum party with wide eyes.
 
+![The Opossum Party](/images/stories/19/story-19-scene-03-opossum-party-v2.png)
+
 So much for bed.
 
 ---
@@ -150,6 +155,8 @@ Dad herded the boys away from the window ("Bed. Now. I mean it."), let Gunner ba
 
 "Excitement's over," he told Mom, who was sitting up in bed with the look of someone who had not been asleep and never would be again. "Just possums."
 
+![Playing Dead](/images/stories/19/story-19-scene-04-playing-dead-v2.png)
+
 "Just," Mom repeated, in a tone that suggested the word was doing a lot of work.
 
 ---
@@ -161,6 +168,8 @@ Tiger returned to his windowsill.
 The yard was empty now, moonlit and still. The frost continued its slow advance across the grass. Somewhere in the woods, the opossums were continuing whatever opossums do when they're not terrorizing Labradors. Somewhere else, an owl called — a low, questioning sound that Tiger acknowledged with a single ear rotation.
 
 Tiger settled into his loaf position and resumed his watch. The night was quiet. The house was safe. The dog was asleep. The boys were in bed. Mom and Dad's light clicked off.
+
+![Dawn Watch](/images/stories/19/story-19-scene-05-dawn-watch-v1.png)
 
 And Tiger sat on his windowsill, guardian of a sleeping house, watching the dark with golden eyes that never missed a thing.
 

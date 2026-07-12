@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-41.png"
 draft: false
 order: 41
 ---
-
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 41: The Week Aunt LaDon Got Snowed In
@@ -66,6 +65,8 @@ They hadn't had time to stock up. Nobody had. The stores were emptied out before
 
 Everyone except Gunner, who was keeping a *loud* eye on it.
 
+![This One Is Mine](/images/stories/41/story-41-scene-01-this-one-is-mine-v1.png)
+
 Because if there was one thing Gunner understood at a cellular level, it was food. And if there was one thing Gunner understood better than food, it was food that was *scarce.* He didn't know what "supply chain" meant. He didn't know why the humans kept counting the bread. But he knew the energy in that kitchen had changed, and he knew that changed energy always, always circled back to the one topic that mattered most to him in all the world.
 
 Snacks.
@@ -102,6 +103,8 @@ Aunt LaDon laughed for the first time in days. A real one, from the belly, the k
 
 Gunner, hearing his favorite sound in the world — a human laughing at him — did it again. And again. He would have plowed snow with his face all afternoon if it kept her laughing. That was the deal, as far as Gunner was concerned. That was the whole job.
 
+![Face-First in the Snow](/images/stories/41/story-41-scene-03-face-first-in-snow-v1.png)
+
 ---
 
 Tiger, meanwhile, was still gathering data.
@@ -122,6 +125,8 @@ It worked. It always worked. Within ten minutes there was a saucer.
 
 Gunner watched this transaction from the floor with open betrayal. *His* human. *His* Aunt LaDon. And Tiger had simply walked up and claimed the milk with none of the hard work, none of the loyal hip-pressing, none of the face-first snow diving that Gunner had invested all week.
 
+![Tiger Runs the Numbers](/images/stories/41/story-41-scene-04-tiger-runs-the-numbers-v1.png)
+
 Tiger finished the milk, cleaned a single whisker, and gave Gunner a look of serene, bottomless superiority.
 
 Gunner sighed the enormous sigh of a dog who does all the work and gets none of the milk, and rested his chin on Aunt LaDon's foot instead.
@@ -138,6 +143,8 @@ When the evenings got quiet and tense, Gunner would go from person to person, of
 
 Aunt LaDon noticed it. Late one night, unable to sleep, she came out to the dark living room and found Gunner already there, curled on his bed with Tiger tucked into the warm curve of his belly the way the cat had slept since he was a kitten. Gunner cracked one eye open, saw her, and thumped his tail twice against the floor — *hello, it's you, good* — without getting up, so as not to disturb the cat.
 
+![Keeping Watch in the Dark](/images/stories/41/story-41-scene-05-keeping-watch-in-the-dark-v1.png)
+
 She sat on the floor beside them for a while. Nobody said anything, because two of them couldn't and the third didn't need to. The snow came down outside. The house held its breath. And a big dumb dog and his small strategic cat kept a worried aunt company in the dark until she was ready to try sleeping again.
 
 That was Gunner's real talent. Not chicken-herding. Not food security. Not any of the jobs he thought he had.
@@ -153,6 +160,8 @@ She packed her small bag. She hugged her brother a long time. She hugged the boy
 Then she knelt down on the cold floor and wrapped her arms around a black Lab's neck.
 
 Gunner leaned in and put his whole heart into it. His tail wagged, but slower than usual — even Gunner, who understood almost nothing, understood that this was a goodbye and not a game.
+
+![The Goodbye Hug](/images/stories/41/story-41-scene-06-the-goodbye-hug-v1.png)
 
 "You're a good boy," Aunt LaDon told him. "You're a ridiculous, wonderful, good boy."
 

@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-39-v1.png"
 draft: false
 order: 39
 ---
-
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 39: Shotgun
@@ -36,9 +35,13 @@ He could feel the tears coming. He blinked them back. He was a grown man in a fe
 
 The oldest caught them one-handed, because of course he did. He always caught everything one-handed. Dad climbed into the passenger seat for the first time in nine years and let out a breath that felt like it had been waiting since the boys were born.
 
+![The Keys](/images/stories/39/story-39-scene-01-the-keys-v1.png)
+
 He closed his eyes.
 
 He was going to nap. Oh, he was *going to nap.*
+
+![I Never Have to Drive Again](/images/stories/39/story-39-scene-06-never-have-to-drive-again-v1.png)
 
 ---
 
@@ -90,6 +93,8 @@ They made it about six miles down the mountain before Gunner committed his maste
 
 Dad had finally — *finally* — drifted into something resembling actual sleep. His head had tipped back against the headrest. His mouth was slightly open. The exhaustion of nine years was draining out of him in real time.
 
+![The Migration](/images/stories/39/story-39-scene-02-the-migration-v1.png)
+
 Gunner watched this happen from his post between the seats. He observed. He processed. And in his big, dumb, deeply loving brain, a single thought formed:
 
 *Dad is sad and lonely up there all by himself.*
@@ -121,6 +126,8 @@ The oldest pulled over onto the shoulder with the careful precision of a kid who
 "I *know.*"
 
 From the driver's seat, the oldest watched his father wrestle a ninety-pound Lab off his lap and into the back seat for the fifth time that day. He didn't laugh. He didn't even smile. He just waited, hands at ten and two, until the situation was resolved, then signaled, checked his mirrors, and pulled carefully back onto the road.
+
+![Hands at Ten and Two](/images/stories/39/story-39-scene-05-hands-at-ten-and-two-v1.png)
 
 Dad stared out the window. He had not napped. He was not going to nap. He could feel this in his bones now.
 
@@ -170,6 +177,8 @@ Tiger had spent nine years in the warm strategic silence of his small striped br
 
 And Tiger had cleared his schedule. Tiger had bought a *ticket.*
 
+![Tiger Buys a Ticket](/images/stories/39/story-39-scene-03-tiger-buys-a-ticket-v1.png)
+
 Gunner finished his migration. Ninety pounds of Lab settled into Dad's lap like a weighted blanket made of regret. The tail began its rhythmic face-slap. The oldest sighed and signaled and pulled over for the second time that week.
 
 In the back seat, Tiger blinked once, slowly, in pure feline contentment.
@@ -209,5 +218,7 @@ The oldest loaded the feed into the truck bed, climbed back into the driver's se
 Dad slept the whole way.
 
 It was the best nap he'd had in nine years.
+
+![The Best Nap in Nine Years](/images/stories/39/story-39-scene-04-the-best-nap-v1.png)
 
 ---

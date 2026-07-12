@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-02-v1.png"
 draft: false
 order: 2
 ---
-
 *East Texas Homestead — Spring & Summer 2017*
 
 ---
@@ -38,7 +37,7 @@ Dad stood beside her with his own coffee. Bear lay between them on the porch, he
 
 "Yeah," Dad said. "It was."
 
-![Mom and Dad on the back porch with coffee, Bear between them watching with one eye — three tiny boys already disappearing into fifteen acres of East Texas morning](/images/stories/story-02-scene-01-fifteen-acres.png)
+![Mom and Dad on the back porch with coffee, Bear between them watching with one eye — three tiny boys already disappearing into fifteen acres of East Texas morning](/images/stories/02/story-02-scene-01-fifteen-acres-v1.png)
 
 ---
 
@@ -68,7 +67,7 @@ Bear, on the porch, lifted his head exactly one inch off his paws, considered th
 
 Bear had decided, in that moment, that donkeys were Mom's problem.
 
-![Mr. Snickers mid-bray — chickens exploding in all directions, ducks lifting off the pond, the youngest in tears, the middle boy laughing in the grass, Bear on the porch unmoved](/images/stories/story-02-scene-02-the-bray.png)
+![Mr. Snickers mid-bray — chickens exploding in all directions, ducks lifting off the pond, the youngest in tears, the middle boy laughing in the grass, Bear on the porch unmoved](/images/stories/02/story-02-scene-02-the-bray-v1.png)
 
 ---
 
@@ -82,13 +81,15 @@ Not because he wanted to be. Bear had not asked for this job. Bear had spent fiv
 
 The chickens did not care about Bear's meaningful looks. But that was okay. Bear had stopped expecting anything from chickens.
 
-![Bear lying in the shade of the oak tree by the pond, one eye open — chickens on the porch, donkeys in the pasture, three boys wading in the shallows](/images/stories/story-02-scene-03-bear-the-supervisor.png)
+![Bear lying in the shade of the oak tree by the pond, one eye open — chickens on the porch, donkeys in the pasture, three boys wading in the shallows](/images/stories/02/story-02-scene-03-bear-the-supervisor-v2.png)
 
 This was the homestead in early summer 2017. Full. Loud. Smelly. *Alive.* The kind of place where you woke up to a rooster instead of an alarm clock, where the boys came in for lunch with mud up to their knees, where you could stand on the back porch at night and hear nothing for miles except cicadas and frogs and the occasional bray of Mr. Snickers reminding the world that he existed.
 
 It was good.
 
 But Dad — and only Dad knew this, because Dad was keeping a small secret — Dad thought it could be just a *little* better.
+
+![The Secret in the Jacket](/images/stories/02/story-02-scene-04-secret-in-the-jacket-v1.png)
 
 ---
 
@@ -146,8 +147,6 @@ Dad held up both hands in the universal gesture of *please don't be mad.*
 
 "*What. Is. In. Your. Jacket.*"
 
-![Dad stands by his truck in the long dirt driveway, denim jacket suspiciously lumpy, Mom on the porch with hands on hips — the boys haven't noticed yet](/images/stories/story-02-scene-04-one-more-thing.png)
-
 The boys had heard her tone. The boys had stopped playing. Three small heads turned toward Dad in perfect unison. Three sets of eyes locked onto the lump.
 
 Dad slowly, slowly, unzipped the front of his jacket.
@@ -175,6 +174,8 @@ The boys descended.
 Six small hands, all reaching at once. Dad knelt down in the dirt of the driveway and let them. The puppy was passed from arm to arm with the careful, breathless ceremony of three boys who had never held something so small and so important. He licked the youngest's face. He licked the middle boy's nose. He licked the oldest right in the eye, because the oldest had gotten too close. The oldest didn't even flinch. The oldest just sat there in the dirt, a dignified six-year-old being licked in the eye by a puppy, and he was grinning so hard his face hurt.
 
 "*What's his name?*" the middle boy whispered.
+
+![Mom Names Him](/images/stories/02/story-02-scene-05-mom-names-him-v1.png)
 
 Dad opened his mouth to say *I haven't picked one yet.*
 
@@ -248,6 +249,8 @@ The boys exploded in cheers.
 
 Bear, under the oak tree, did not look up. Bear did not need to look up. Bear had said his piece. The new dog was acceptable. The new dog was *family,* now, by the official authority of the oldest dog in residence. Whatever happened from here on out — and Bear could already tell, from one sniff, that *a lot* was going to happen from here on out — was going to happen with Bear's grudging blessing.
 
+![One Grudging Lick](/images/stories/02/story-02-scene-06-one-grudging-lick-v1.png)
+
 Gunner, in the youngest boy's arms, slowly started to wag his tail again.
 
 And then he wagged it harder.
@@ -265,8 +268,6 @@ Because somewhere in that tiny puppy brain, he had just understood something tha
 ---
 
 The boys carried Gunner everywhere for the rest of that afternoon. They showed him the chickens, who were unimpressed. They showed him the ducks, who quacked aggressively from a safe distance. They showed him the donkeys, who looked down at him with mild curiosity and then went back to standing. They showed him the pond, which Gunner stared at with the deep philosophical interest of a Lab who did not yet know what water *was* but suspected, on some genetic level, that he was going to love it very much.
-
-![Bear and Gunner at the East Texas homestead — the old dog and the new puppy figuring each other out in the yard](/images/stories/story-02-scene-bear-and-gunner.png)
 
 Mom made up a small bed for him in the kitchen, near where Bear slept. That first night, the puppy whimpered for about ten minutes and then stopped. The family later figured out that he had stopped because he had quietly waddled across the kitchen floor and curled up against Bear's back — without permission, without invitation, without even checking to see if it was okay.
 

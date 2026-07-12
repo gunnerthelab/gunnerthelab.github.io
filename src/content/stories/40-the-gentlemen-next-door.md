@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-40-v1.png"
 draft: false
 order: 40
 ---
-
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 40: The Gentlemen Next Door
@@ -44,6 +43,8 @@ Gunner stopped *being.*
 
 His tail did not wag. His tongue did not loll. He simply stood there at the end of his leash, frozen, head tilted so far back that his whole spine bent, trying to understand what he was looking at.
 
+![Something Large](/images/stories/40/story-40-scene-01-something-large-v1.png)
+
 The biggest one took one slow step forward. Then another. The ground actually trembled — not much, just the faintest *thump-thump* — but Gunner felt it through his paws and his eyes got even wider.
 
 The big horse lowered his enormous head over the top of the fence, ears forward, until his soft nose was about three feet above Gunner's face. He breathed out — *whoof* — a great warm hay-smelling breath that ruffled all of Gunner's fur backwards.
@@ -61,6 +62,8 @@ Gunner had no idea what any of it meant. Not one word. He just stood there with 
 The second horse ambled over. She was slightly smaller — only the size of a *small* barn — and her eyes were the soft brown of warm bread.
 
 *"Oh, do leave the lad alone, Wally. Look at him, all wide-eyed an' that. Hello, my lovely. You'm a long way from grand, ain't you?"*
+
+![Wally Says Hello](/images/stories/40/story-40-scene-02-wally-says-hello-v2.png)
 
 *Wally?* Gunner thought. *You'm?*
 
@@ -104,6 +107,8 @@ Gunner, very slowly, very carefully, stood up on his back legs and stretched his
 
 It smelled like nothing dangerous in the world.
 
+![The Secret Friendship](/images/stories/40/story-40-scene-03-the-secret-friendship-v1.png)
+
 Gunner's whole body relaxed. The tail started up properly now — wag, wag, wag — and a little bit of his usual goofy lab grin returned. *These were good.* These were *fine.* These were just very, very, very large versions of the kind of creature he had always understood.
 
 Wally watched the dog's tail start up and made a soft pleased sound deep in his chest.
@@ -142,6 +147,8 @@ By the time Dad turned them around to head home, Gunner had relaxed enough to gi
 
 *"Cheerio, then, bor,"* Wally rumbled. *"Come back soon, why don't you. We'm always here."*
 
+![Cheerio, Bor](/images/stories/40/story-40-scene-04-cheerio-bor-v1.png)
+
 *"Bring the tabby man,"* Tom added. *"Likes a bit of company, that one."*
 
 *"Mind the gravel,"* said Beth, who was apparently the practical one. *"Sharp on the paws, that is."*
@@ -151,6 +158,8 @@ Gunner did not understand a single word, but he wagged his tail at all three of 
 ---
 
 Walking back up the gravel road toward home, Gunner kept looking over his shoulder at the three chestnut giants in the field. They had gone back to grazing, slow and peaceful, three sunset-colored shapes against the green Virginia grass. He could still hear, very faintly in his head, the warm rolling burr of their voices.
+
+![The Warm Rolling Dialect](/images/stories/40/story-40-scene-05-the-warm-rolling-dialect-v1.png)
 
 *Bor.*
 
@@ -169,6 +178,8 @@ That seemed like a very good kind of neighbor to have.
 ---
 
 That night, Gunner dreamed about the horses. Three great chestnut shapes standing in a green field, lowering their gentle heads down to him, speaking words that sounded like rolling hills and warm hay and a place he had never been but somehow already missed.
+
+![Tiger Understands Perfectly](/images/stories/40/story-40-scene-06-tiger-understands-perfectly-v1.png)
 
 *Cheerio, bor,* the dream-voice said softly. *Welcome as the rain.*
 

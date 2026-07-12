@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-14-v1.png"
 draft: false
 order: 14
 ---
-
 ## Gunner's Version
 
 The window was open. This was the main thing. The window was open, and the wind was in his face, and every mile of highway brought a new continent of smells crashing into his nose like waves into a beach.
@@ -21,6 +20,8 @@ Louisiana smelled like water. Not pond water — big water, deep water, the kind
 
 Mississippi smelled like rain. Or like rain was coming. Or like rain had just been there and left its coat behind. The air was thick and sweet and heavy, and Gunner inhaled it in great gulps.
 
+![The Road](/images/stories/14/story-14-scene-01-the-road-v1.png)
+
 Alabama smelled like pine. Miles and miles of pine, the scent so strong it cut through even the highway diesel, sharp and clean and new.
 
 And somewhere in there — Gunner wasn't sure where, because his understanding of geography was limited to "here" and "not here" — the world changed. The flat became hilly. The hilly became mountainous. And the air got cooler, thinner, like someone had turned down the temperature on the whole planet.
@@ -29,11 +30,15 @@ Gunner loved every mile of it.
 
 His head was out the window for approximately 800 of the 850 miles, with breaks only for gas stations (where he peed on things that smelled like ten thousand other dogs had peed on them, which was exciting), fast food parking lots (where the boys dropped french fries, which was even more exciting), and one rest stop in Mississippi where he discovered a puddle of something that smelled incredible and rolled in it before Dad could stop him, which required the emergency deployment of wet wipes and Mom's disappointed face.
 
+![Two Perspectives](/images/stories/14/story-14-scene-02-two-perspectives-v1.png)
+
 The car was packed tight — boxes around his crate, the boys' legs wedged between bags, the trailer swaying behind them. But Gunner didn't mind the tight space, because tight meant close, and close meant he could press his nose against the crate door and smell the boys — their sneakers, their snack wrappers, their particular boy-smells that Gunner could identify individually the way a sommelier identifies wine.
 
 The oldest smelled like sawdust, always. The middle one smelled like pencils and grass. The youngest smelled like energy itself, if energy had a smell, which it didn't, but if it did, it would smell like that kid.
 
 They were all here. The whole family. Moving together, in the same direction, which was all Gunner needed to feel safe. He didn't care where they were going. He cared that they were going together.
+
+![Crossing the South](/images/stories/14/story-14-scene-03-crossing-the-south-v1.png)
 
 His tail thumped against the crate as another mile of new smells rushed through the window.
 
@@ -50,6 +55,8 @@ The crate was adequate.
 Tiger would not say comfortable — comfortable implied approval, and approval was not something Tiger distributed freely. But the fleece blanket was familiar, and the crate was positioned on the back seat where the air conditioning reached, and nobody was bothering him, which was the gold standard of feline travel.
 
 He observed the journey through the wire door of his crate with the detached interest of a passenger on a train he hadn't chosen to board. The world scrolled past the window in a continuous reel: Texas suburbs, then Texas nothing, then Louisiana swamp, then Mississippi forest, then Alabama something, then more forest, then mountains.
+
+![The Mountains Appear](/images/stories/14/story-14-scene-04-the-mountains-appear-v1.png)
 
 Tiger noted the mountains. They rose from the horizon slowly, like something surfacing from deep water, and they kept rising. They were green and blue and enormous and utterly different from the flat East Texas land where Tiger had been born.
 
@@ -92,6 +99,8 @@ They arrived after dark.
 The Virginia mountains were invisible in the blackness, but they were there — Tiger could feel them, the way the air moved differently when it had to go around something massive. The stars were brighter here than anywhere they'd been, scattered across a sky so clear it looked fake.
 
 Dad pulled the U-Haul into the driveway of the place where they'd be staying — friends' house, temporary, another stop on the way to wherever they were going next. Mom parked behind him. The engine ticked as it cooled.
+
+![Staying at Friends' House](/images/stories/14/story-14-scene-05-friends-house-v1.png)
 
 Nobody moved for a moment. The car was quiet. The boys were asleep — all three, even the youngest, who had finally surrendered somewhere in the mountains of West Virginia. Their faces were soft in the dashboard light, younger than they looked during the day.
 

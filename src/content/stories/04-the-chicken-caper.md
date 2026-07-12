@@ -12,7 +12,6 @@ coverImage: "/images/covers/story-04-v2.png"
 draft: false
 order: 4
 ---
-
 The East Texas morning broke slow and muggy, the way it always did in summer — the kind of heat that was already building at dawn, like the sun had something to prove. Inside the farmhouse, Gunner's nose twitched. His internal clock — which was really just his stomach — told him it was approximately 6:47 AM, which meant breakfast was exactly thirteen minutes late.
 
 He padded into the kitchen where the three boys were already causing their usual chaos. The oldest was stacking his cereal bowl with military precision, because that's how he did everything. The middle one was drawing something on a napkin — a treasure map, maybe, or a dinosaur, or a dinosaur holding a treasure map. The youngest was wearing his shirt backward and didn't seem to care. He also appeared to be vibrating.
@@ -31,8 +30,6 @@ The morning exploded into action. All three boys scrambled for the door, and Gun
 
 Ninety pounds of enthusiastic black Labrador burst through the door like a furry cannonball, Tiger trotting calmly behind him.
 
-![Gunner charges into the chicken yard — boys watching from the porch, chickens scattering, Tiger calm by the coop](/images/stories/story-04-scene-01-the-charge-bw.png)
-
 The scene in the yard was pure chaos. Eight chickens and three ducks had somehow escaped their coop and were scattered across the fifteen acres like feathered shrapnel. Dad was trying to corner a particularly defiant rooster near the fence line. Mom had appeared with a broom, attempting to sweep a duck toward the coop like the world's most confused curling match.
 
 Gunner assessed the situation with the tactical mind of a military general who had eaten too much breakfast and couldn't think straight.
@@ -47,11 +44,11 @@ But Gunner was committed now. He was helping. He was definitely helping. He boun
 
 Tiger, meanwhile, had positioned himself strategically by the coop door. When one confused chicken wandered close, the cat simply sat there, unmoving, like a small striped sentinel — gray and brown tabby fur barely twitching, golden eyes locked on the bird with the patience of a creature who had never once in his life been in a hurry. The chicken, apparently hypnotized by the sheer force of Tiger's indifference, walked right past him and into the coop.
 
+![Tiger the Sentinel](/images/stories/04/story-04-scene-02-tiger-the-sentinel-v1.png)
+
 "Did... did Tiger just herd a chicken?" Dad asked, stunned.
 
 Tiger didn't acknowledge the question. He didn't need to.
-
-![Tiger sits by the coop door with quiet authority while Gunner splashes in the pond with the ducks](/images/stories/story-04-scene-02-tiger-supervisor-bw.png)
 
 Gunner, oblivious to his friend's success, was now in the pond. He wasn't sure how he'd gotten there. One moment he was chasing ducks (helpfully), and the next moment he was swimming. The ducks, now in their element, bobbed nearby looking smug. One of them quacked directly at Gunner's face. It felt personal.
 
@@ -61,23 +58,27 @@ It took another twenty minutes, but eventually, all the chickens and ducks were 
 
 Gunner had managed to herd exactly zero chickens but had successfully gotten completely soaked, covered in mud, trampled through the garden, spooked the ducks into the far end of the pond, and somehow had a stick stuck in his collar that nobody could explain.
 
+![Soaked in the Pond](/images/stories/04/story-04-scene-03-soaked-in-the-pond-v1.png)
+
 As the family walked back toward the house, Gunner shook himself vigorously, spraying everyone within a six-foot radius. The boys shrieked and laughed, and Dad muttered something about "why do we even have a dog."
 
 But he was scratching Gunner behind the ears when he said it.
 
 Then the youngest knelt down and wrapped his arms around Gunner's wet, muddy neck. "Good boy, Gunner. You tried."
 
-![The youngest boy hugs Gunner while Tiger leans in — stick in mouth, chickens settled, golden evening light](/images/stories/story-04-scene-03-aftermath-bw.png)
-
 And there it was. Pets. Attention. Love.
 
 Gunner's tail wagged so hard his entire back half wiggled.
+
+![Three Chickens, Five Feet](/images/stories/04/story-04-scene-04-three-chickens-five-feet-v1.png)
 
 Tiger appeared beside him and rubbed against his leg, purring, which Gunner understood to mean: *"You're a disaster, but you're my disaster."*
 
 Inside, Mom was making breakfast. Gunner could smell bacon. He could always smell bacon. He could smell bacon from three counties over if the wind was right. And this bacon was *close*.
 
 He looked at Tiger. Tiger looked at him. Without a word — without so much as a bark or a meow — they headed for the kitchen in perfect formation. Tiger low and silent. Gunner's nails clicking on the floor like a ninety-pound announcement.
+
+![The Aftermath Hug](/images/stories/04/story-04-scene-05-the-aftermath-hug-v1.png)
 
 Because if there was one thing Gunner was truly great at, one skill that surpassed his chicken-herding abilities, one talent that was absolutely, positively, undeniable —
 
@@ -86,6 +87,8 @@ It was being in the exact right spot when food was about to accidentally fall on
 And with three boys at the breakfast table, something *always* fell.
 
 Tiger knew this too. He'd calculated the probability months ago.
+
+![The Smug Ducks](/images/stories/04/story-04-scene-06-the-smug-ducks-v1.png)
 
 But Gunner didn't need math. He had instinct. He had hope. He had a nose that could detect a single dropped piece of bacon at forty paces.
 

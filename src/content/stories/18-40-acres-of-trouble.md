@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-18-v1.png"
 draft: false
 order: 18
 ---
-
 Gunner found the trail on a Tuesday, which was fitting because Tuesdays were Gunner's favorite day. So were Mondays. And Wednesdays. And every other day that involved waking up, eating, going outside, and existing. Gunner was not hard to please.
 
 But this Tuesday was different, because this Tuesday had a smell.
@@ -25,6 +24,8 @@ Tiger noticed. Tiger noticed everything.
 From his perch on the fence post — the tall one, the one that gave him a view of the entire property like a furry lighthouse — Tiger watched Gunner's body language change. The goofy looseness was gone. Something had engaged the three brain cells that Gunner kept in reserve for moments of genuine interest.
 
 Tiger's eyes narrowed. This was either going to be very interesting or very stupid.
+
+![The Trail](/images/stories/18/story-18-scene-01-the-trail-v1.png)
 
 With Gunner, it was usually both.
 
@@ -44,6 +45,8 @@ Tiger jumped down from the fence post and trotted toward the tree line, because 
 
 It was a practical decision. Not an emotional one. Tiger wanted to be clear about that.
 
+![Deep in the Woods](/images/stories/18/story-18-scene-02-deep-woods-v1.png)
+
 ---
 
 The woods were old. Really old. The oaks and maples and hickories had been growing here since before the farmhouse existed, before the road, before any of it. Their trunks were thick enough that Gunner couldn't have wrapped around one even at full stretch, and their roots buckled up through the trail like the bones of the mountain pushing through.
@@ -59,6 +62,8 @@ Not the usual Gunner stop — the kind where he forgot what he was doing and sat
 Tiger moved up beside him and looked.
 
 The clearing was small, maybe twenty feet across, and the afternoon light fell through a gap in the canopy in golden shafts. In the center of the clearing was a creek — or the beginning of one. Water bubbled up from between mossy rocks and trickled down a shallow channel that disappeared into the woods on the far side. The rocks around the spring were worn smooth and green with moss.
+
+![The Creek in the Woods](/images/stories/18/story-18-scene-03-creek-in-the-woods-v1.png)
 
 And on the far side of the clearing, watching them with large dark eyes, was a deer.
 
@@ -90,6 +95,8 @@ They found a rock formation that jutted out from the hillside like a shelf, big 
 
 They found a fallen tree that had created a natural bridge across the creek. Gunner crossed it with the grace of a cat — which was to say, none at all — slipping twice and getting his back legs wet. Tiger crossed it perfectly, because of course he did.
 
+![The Discovery](/images/stories/18/story-18-scene-04-the-discovery-v1.png)
+
 And at the far end of the creek, where the woods thickened and the light dimmed and the mountain rose steeply above them, they found something else.
 
 An old stone wall. Or what was left of one.
@@ -117,6 +124,8 @@ They emerged from the tree line just as Dad was coming out of the house looking 
 Gunner's tail wagged. His whole body wagged. He was covered in creek mud up to his chest, had a leaf stuck to his face, and was carrying a stick that was far too large for practical purposes.
 
 Tiger sat at the edge of the yard and groomed a paw, as if he'd been here the whole time.
+
+![The Long Way Home](/images/stories/18/story-18-scene-05-long-way-home-v2.png)
 
 "Gunner, you're filthy," Dad said. Then, looking at the woods: "What's back there, buddy?"
 

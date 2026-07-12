@@ -11,8 +11,9 @@ coverImage: "/images/covers/story-07-v1.png"
 draft: false
 order: 7
 ---
-
 Tiger was born in the barn on a night when the East Texas rain hammered the tin roof so hard it sounded like applause. His mama — a gray and brown tabby with a torn ear and the survival instincts of a creature who had been living between wild and tame for her whole life — had chosen the hay loft for the birth. It was dry, it was warm, and it was high enough off the ground that the coyotes couldn't reach it.
+
+![Born in the Loft](/images/stories/07/story-07-scene-01-born-in-the-loft-v1.png)
 
 There were four kittens. Tiger was the smallest.
 
@@ -21,8 +22,6 @@ He didn't know this yet, of course. He didn't know anything yet. He was a scrap 
 His mama purred a lot. It was her way of saying "you're here, you're safe, I'm here." It was the first sound Tiger ever heard, and years later, long after his mama had gone, Tiger's own purr would sound exactly like hers — low, steady, a small motor running on love.
 
 Outside, the rain fell on fifteen acres of East Texas homestead. Inside the barn, four kittens slept while their mother kept watch with golden eyes that never fully closed.
-
-![A tiny tabby kitten nestled with siblings in the warm East Texas barn hay loft, a black Lab puppy peeking curiously through the cracked barn door](/images/stories/story-07-scene-01-the-arrival.png)
 
 ---
 
@@ -102,7 +101,7 @@ They looked at each other.
 
 And something clicked — the way things click between animals sometimes, without logic, without language. Two creatures who had no reason to be friends deciding, in the space of a breath, that they were.
 
-![An extreme close-up of a tiny tabby kitten and a black Lab puppy face-to-face in the barn, their noses almost touching — the first moment of connection between Tiger and Gunner](/images/stories/story-07-scene-02-first-meeting.png)
+![An extreme close-up of a tiny tabby kitten and a black Lab puppy face-to-face in the barn, their noses almost touching — the first moment of connection between Tiger and Gunner](/images/stories/07/story-07-scene-02-first-meeting-v1.png)
 
 ---
 
@@ -124,6 +123,8 @@ He was alone.
 
 Dad had brought him inside earlier that week, and the boys had made a bed for him — a cardboard box with a towel, set near the heater. It was warm. It was soft. But it wasn't his mama, and Tiger lay in it with his eyes open, listening to the house settle, feeling the particular loneliness of a small creature who has lost the only warmth that mattered.
 
+![The Sole Survivor](/images/stories/07/story-07-scene-03-the-sole-survivor-v1.png)
+
 He mewed. Small, quiet. Not the demanding cry he'd develop later — the one that would wake entire households and demand milk with the authority of a tiny tyrant. This was different. This was the sound of a kitten who was cold and alone and didn't know what to do about it.
 
 A sound came from across the room. The click of nails on tile. A warm breath on his face.
@@ -131,6 +132,8 @@ A sound came from across the room. The click of nails on tile. A warm breath on 
 Gunner's nose appeared at the edge of the box.
 
 The puppy sniffed the kitten. The kitten looked at the puppy. And Tiger did something he'd never done before — he climbed out of the box, crossed the cold floor on his tiny paws, and climbed up onto Gunner's bed.
+
+![The First Cold Night](/images/stories/07/story-07-scene-04-first-cold-night-v1.png)
 
 Gunner was sprawled in his usual position — belly up, legs everywhere, taking up approximately three times the space he needed. Tiger walked across his chest, down his side, and found the warm curve where Gunner's belly met his leg. He circled once, twice, three times — the ancient cat ritual of finding the perfect spot — and lay down.
 
@@ -140,9 +143,9 @@ Tiger purred.
 
 Gunner shifted, and his paw — already big enough to cover Tiger's entire body — settled gently over the kitten. Not holding him down. Just resting there. A warm, heavy assurance that said: *I'm here. I'm not going anywhere.*
 
-Tiger closed his eyes.
+![The Decision](/images/stories/07/story-07-scene-05-the-decision-v1.png)
 
-![Tiger — a tiny tabby kitten — curled up asleep in the warm curve of Gunner's side on a cold East Texas night, choosing the spot he would claim for the rest of his life](/images/stories/story-07-scene-03-the-decision.png)
+Tiger closed his eyes.
 
 He'd chosen his spot. Not the box. Not the barn. Not the space his mama used to fill.
 
@@ -153,6 +156,8 @@ Tiger had found his warm place, and he was never leaving it.
 ---
 
 Years later — through moves and miles and moments that would fill a hundred stories — people would see them together and ask: How did the dog and the cat become friends?
+
+![Morning, Two Kings](/images/stories/07/story-07-scene-06-morning-two-kings-v1.png)
 
 Dad always gave the same answer.
 

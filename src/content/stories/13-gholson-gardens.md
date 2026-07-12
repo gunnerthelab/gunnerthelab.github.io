@@ -10,7 +10,6 @@ coverImage: "/images/covers/story-13-v1.png"
 draft: false
 order: 13
 ---
-
 One acre. After fifteen, one acre felt like a postage stamp.
 
 The lot in Gholson was a rectangle of Central Texas grass bordered by a chain-link fence that Gunner could cross in approximately four bounds. Tiger walked the perimeter on their first day and was back where he started before he'd finished being disappointed.
@@ -32,6 +31,8 @@ Tiger claimed the garden immediately.
 Not a section of the garden. The entire garden. Every raised bed, every row, every square foot. He walked along the frames of the beds like a building inspector, sniffed each plant that went in, and left paw prints in the fresh soil as a deed of ownership.
 
 When Mom planted the first tomato seedling, Tiger sat beside it and stared at her until she moved on, as if he'd personally approved the placement and she could proceed.
+
+![One Acre](/images/stories/13/story-13-scene-01-one-acre-v1.png)
 
 "Tiger, you can't sleep IN the garden," Mom said, finding him curled up in a bed of lettuce later that afternoon.
 
@@ -57,6 +58,8 @@ It was never the last.
 
 Tiger watched the destruction with studied detachment. He understood Gunner's impulse — the boy couldn't help it, the way fire can't help burning — but he found the execution sloppy and the targeting poor. If Tiger wanted to destroy a garden, he'd do it systematically, starting with the most valuable plants. Gunner was just digging wherever his nose told him to dig, which was everywhere, because dirt smells interesting and everything under dirt smells more interesting.
 
+![The Digger](/images/stories/13/story-13-scene-02-the-digger-v1.png)
+
 ---
 
 But the garden grew. Despite Gunner. Despite the Texas heat. Despite the deer that appeared from nowhere to browse Mom's seedlings and disappeared before anyone could so much as yell at them.
@@ -79,6 +82,8 @@ The youngest discovered that the space between the tree rows was exactly the rig
 
 The oldest grafted a branch from a neighbor's pear tree onto theirs — a trick he'd learned from a YouTube video and executed with the careful precision that defined everything he did. It took. The graft produced two pears the following season, and the family ate them like they were gold.
 
+![The Grafted Branch](/images/stories/13/story-13-scene-03-the-grafted-branch-v1.png)
+
 And Gunner, gradually, stopped digging in the garden. Not because he'd learned — Gunner never learned through scolding; his brain simply didn't wire that way — but because he found a better spot. The far corner of the yard, behind the compost bin, where the soil was soft and shaded and nobody cared what happened to it. He dug there daily, maintaining a series of holes that served no purpose except the deep, Labrador satisfaction of moving dirt from one place to another.
 
 Mom let him have it. One corner of one acre, given over to chaos. The rest was hers.
@@ -89,11 +94,15 @@ They lived in Gholson for less than two years, but Mom turned that one acre into
 
 When it was time to leave — to move again, this time east, this time to mountains neither of them had seen — Mom walked the garden one last time.
 
+![The Secret Zone](/images/stories/13/story-13-scene-04-the-secret-zone-v1.png)
+
 Tiger walked with her. Not because she asked. Because Tiger always knew when someone needed company, even if he'd never admit that was why he was there.
 
 She touched the peach tree. It had grown taller than the boys now. It had survived Gunner's digging, a late freeze, a drought, and the particular stubbornness required to bear fruit in Central Texas.
 
 "Someone else will eat these peaches," she said.
+
+![Dinner from the Garden](/images/stories/13/story-13-scene-06-dinner-from-the-garden-v1.png)
 
 Tiger rubbed against her ankle.
 

@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-17-v1.png"
 draft: false
 order: 17
 ---
-
 Tiger had been watching the squirrels for three weeks.
 
 Not casually. Not the way Gunner watched things — which was really just staring at whatever was closest until something closer appeared. Tiger watched the way a general watches troop movements. He noted patterns. He catalogued routes. He observed the fat gray one — the ringleader, clearly — making the same trip fourteen times a day from the big oak near the fence line to a spot under the porch where the acorns disappeared into a gap between the foundation stones.
@@ -22,6 +21,8 @@ The squirrels had been stockpiling since September, and now, in the amber haze o
 
 It was offensive, really. This was *his* property. Those were *his* oak trees. And therefore, by the transitive property of territorial law that Tiger had just invented, those were *his* acorns.
 
+![The Briefing](/images/stories/17/story-17-scene-01-the-briefing-v1.png)
+
 He didn't even want them. That wasn't the point.
 
 The point was the principle.
@@ -30,6 +31,8 @@ The point was the principle.
 
 The plan was elegant. Tiger had spent two full evenings on the windowsill working it out, tail twitching with each refinement. Phase One: Gunner would create a distraction in the yard, drawing the squirrels' attention away from their stash. Phase Two: Tiger would slip under the porch and locate the vault. Phase Three: Tiger would emerge victorious, having proven once and for all that no rodent could out-strategize a cat on his own land.
 
+![The Distraction Gets Distracted](/images/stories/17/story-17-scene-02-distracted-v1.png)
+
 It was simple. It was clean. It required exactly one thing from Gunner.
 
 One thing.
@@ -37,8 +40,6 @@ One thing.
 Tiger looked across the living room at his partner. Gunner was lying on his back on the dog bed, all four legs in the air, tongue hanging sideways out of his mouth, asleep. He was dreaming about something — his paws twitched and he made a soft "boof" sound that suggested the dream involved either chasing rabbits or chasing food. Possibly both. In Gunner's dreams, the rabbits were probably made of bacon.
 
 Tiger closed his eyes. This was what he had to work with.
-
-![Tiger watches the squirrels from the porch while Gunner sleeps — Virginia autumn, acorns everywhere](/images/stories/story-17-scene-01-boredom.png)
 
 ---
 
@@ -78,9 +79,9 @@ His head turned to follow it. His entire body pivoted, mission forgotten, brain 
 
 Gunner sat down in the middle of the yard and watched the butterfly with his mouth slightly open, tail wagging gently, like he was witnessing a miracle.
 
-![Gunner distracted by a butterfly while squirrels run free — Tiger watches from the fence post](/images/stories/story-17-scene-02-distraction.png)
-
 The squirrels, seeing that the threat had apparently short-circuited, cautiously descended from their trees. One of them — the fat gray ringleader — walked directly past Gunner with cheeks full of acorns. Walked. Not ran. *Walked.* Like it was making a point.
+
+![The Squirrel Ringleader](/images/stories/17/story-17-scene-03-squirrel-ringleader-v1.png)
 
 Gunner didn't notice. The butterfly had landed on a dandelion and this was the most important thing that had ever happened.
 
@@ -105,6 +106,8 @@ The fat gray squirrel was at the entrance, silhouetted against the daylight, mak
 Tiger assessed the situation. He was outnumbered, in an enclosed space, and the exit was blocked by creatures who were, he had to admit, surprisingly bold for animals with brains the size of walnuts.
 
 He did the only dignified thing. He hissed once — a proper, authoritative hiss that established his position in the food chain — then turned sideways and squeezed out through a gap in the lattice on the other side of the porch, emerging into the yard like nothing had happened.
+
+![The Aftermath](/images/stories/17/story-17-scene-04-aftermath-v2.png)
 
 He jumped back up onto the railing and began grooming himself, because a cat who is grooming clearly didn't just get chased out of anywhere by squirrels. That was the rule.
 
@@ -138,7 +141,7 @@ The fat gray squirrel sat at the treeline, cheeks stuffed, watching the whole th
 
 Tiger looked at Gunner. Gunner looked at Tiger. Gunner's tail wagged.
 
-![Gunner on the porch with an acorn balanced on his nose, Tiger glaring from the railing, squirrels celebrating in the oak tree](/images/stories/story-17-scene-03-aftermath.png)
+![One Acorn to Show For It](/images/stories/17/story-17-scene-05-one-acorn-v1.png)
 
 And despite everything — despite the failed distraction, the butterfly incident, the single acorn that constituted Gunner's entire contribution to the operation — Tiger felt the corner of his mouth twitch.
 

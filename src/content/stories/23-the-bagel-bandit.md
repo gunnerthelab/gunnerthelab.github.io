@@ -11,7 +11,6 @@ coverImage: "/images/covers/story-23-v1.png"
 draft: false
 order: 23
 ---
-
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 23: The Bagel Bandit
@@ -40,6 +39,8 @@ What followed was the kind of controlled chaos that happens every time three boy
 
 The oldest, meanwhile, had gone back to the woodshop. He was not *in* the kitchen. He was *adjacent* to the whole operation, working on a project, door cracked open, half-listening the way the oldest always half-listened — the quiet radar of a kid who always knew where his brothers were and what they were probably about to do wrong.
 
+![The Stakeout](/images/stories/23/story-23-scene-01-the-stakeout-v1.png)
+
 Gunner was also, one could say, *adjacent* to the operation.
 
 He was in the yard. Lying in the grass near the back porch. Eyes half-closed. Looking, for all the world, like a dog who was enjoying a perfectly ordinary afternoon.
@@ -67,6 +68,8 @@ And then he *ran.*
 Not toward the house. Not toward his bed. Toward the *yard.* Toward the woods. Toward anywhere that was Not Here, where a dog and a bag of bagels could have a private moment together and nobody would ever have to know what happened.
 
 The middle boy spun around, arms still full, mouth opening in slow motion. "HEY—"
+
+![The Black Streak](/images/stories/23/story-23-scene-02-the-black-streak-v1.png)
 
 Gunner was already five feet away. Bag in mouth. Tail up. Gait smooth. He was *committed.*
 
@@ -106,6 +109,8 @@ He *could not* look at the oldest boy.
 
 The oldest had stepped out of the woodshop now, wiping his hands on a rag, walking across the yard with the unhurried stride of someone who did not need to hurry because the situation was already fully under his control. He walked up to Gunner, looked down at the bagels in the grass, looked at Gunner's face, and did not say a single word.
 
+![STOP](/images/stories/23/story-23-scene-03-stop-v1.png)
+
 He did not have to.
 
 The silence was *worse* than being yelled at, and Gunner knew it, and Gunner was fully in it now.
@@ -139,6 +144,8 @@ The oldest bent down, picked up the bag of bagels, and inspected it with the car
 Mom snorted. "In a better spot for *who?*"
 
 The oldest looked down at Gunner, who was still lying in the grass in his full-body pout, refusing to make eye contact with anyone.
+
+![The Pout and the Crack](/images/stories/23/story-23-scene-04-the-pout-v1.png)
 
 "For him, obviously."
 
@@ -183,6 +190,8 @@ Later that afternoon, the family sat around the kitchen island and ate bagels. R
 Gunner lay under the island.
 
 He did not beg. He did not whine. He did not even look up. He had accepted his punishment, which was that he got exactly zero bagel and had to listen to everyone else enjoy theirs directly above his head.
+
+![The Cat Sees Potential](/images/stories/23/story-23-scene-05-cat-sees-potential-v1.png)
 
 It was, in his opinion, a disproportionately cruel sentence.
 
