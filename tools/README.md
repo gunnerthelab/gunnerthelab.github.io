@@ -8,7 +8,17 @@ None of these run in the Astro build; they are invoked manually.
 MAI-Image-2.5 illustration generator for the Gunner content-production run.
 Calls the already-deployed Azure AI Foundry MAI-Image-2.5 model deployment
 (studio-foundry, This Is My Demo - MVP Subscription, East US) and writes
-cover and scene art under `public/images/`.
+cover, scene, and marketing/branding art under `public/images/`.
+
+`--kind marketing` reads
+`gunner-studio/resources/Branding_Illustration_Prompts.md` (logos, OG image,
+social banners, YouTube banner, etc) and writes each buildable prompt to the
+already-established file path recorded in `MARKETING_OUTPUT_MAP` in
+`tools/mai-image.mjs` (every one of those files already exists today, so a
+real run needs `--force` to overwrite it). Not every prompt in that doc is a
+generation target; see the `MARKETING_OUTPUT_MAP` comment and the file-header
+comment for the full breakdown of genuine-new-generation vs resize-only vs
+out-of-scope prompts.
 
 Prerequisite: `az login` as the owner, with "This Is My Demo - MVP
 Subscription" as the active subscription. Auth is keyless Entra ID; no key

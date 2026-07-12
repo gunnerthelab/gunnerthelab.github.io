@@ -36,13 +36,29 @@
 //   # Real run, all covers, 3 candidates each, explicit budget stop:
 //   node tools/mai-image.mjs --story all --kind cover --variants 3 --prompts ../gunner-studio/resources/prompts.json --mai-budget-usd 20
 //
+//   # Marketing/branding art, plan only:
+//   node tools/mai-image.mjs --story all --kind marketing --prompts ../gunner-studio/resources/Branding_Illustration_Prompts.md --dry-run
+//
+//   # Marketing/branding art, one asset for real, forcing an overwrite of the
+//   # existing established file (every mapped marketing asset already has a
+//   # file on disk today, so --force is required for any of them to actually
+//   # regenerate; see MARKETING_OUTPUT_MAP below and the tool's report):
+//   node tools/mai-image.mjs --story 1 --kind marketing --prompts ../gunner-studio/resources/Branding_Illustration_Prompts.md --force --mai-budget-usd 5
+//
 // Flags:
 //   --story <id|all>          required. Zero-padded story id ("01") matching
-//                              the on-disk naming (public/images/covers/story-01.png),
-//                              or "all" to generate every story present in the
-//                              prompt library for the chosen --kind.
-//   --kind cover|scene         required. cover -> public/images/covers/story-<id>.png
+//                              the on-disk naming (public/images/covers/story-01.png)
+//                              for --kind cover|scene, or the branding prompt
+//                              id ("1", "8b", ...) from MARKETING_OUTPUT_MAP for
+//                              --kind marketing; or "all" to generate every
+//                              matching entry present in the prompt library.
+//   --kind cover|scene|marketing
+//                              required. cover -> public/images/covers/story-<id>.png
 //                              scene -> public/images/stories/<id>/<filename>.png
+//                              marketing -> a fixed established path per
+//                              MARKETING_OUTPUT_MAP (logos, OG image, social
+//                              banners, YouTube banner, etc; see that map and
+//                              parseBrandingMarkdown() below for the doc shape).
 //   --prompts <path>          required (except with --help). Path to the prompt
 //                              library, .json or .md. See "Prompt library" below.
 //   --variants <n>             default 1. Candidate images per prompt. 1 writes
@@ -137,6 +153,37 @@
 //   --kind cover run against an .md file with no "**Cover**" blocks errors
 //   with a clear message asking for a JSON file with a "covers" object.
 //
+//   Marketing shape (--kind marketing only, auto-detected by .md extension,
+//   parsed by parseBrandingMarkdown() below): the structure used in
+//   gunner-studio/resources/Branding_Illustration_Prompts.md:
+//
+//     **Prompt 1, The Family Portrait:**
+//     <prose prompt paragraph, one or more lines>
+//     **Output size: 1080×1080 (square). Save as: `family-portrait-social.png`**
+//
+//   Every prompt block is a "**Prompt N, Title:**" heading (N may carry a
+//   letter suffix, e.g. "8b"), a prose paragraph, and a single-line bolded
+//   "**Output size: ...**" closing line that may additionally mention an
+//   "Existing file: `name.png` (WxH)" clause and a "Save as:" or "Save new
+//   generation as:" clause with a backticked filename. Not every prompt block
+//   in the source document has that closing line (some, like the merch and
+//   seasonal-post prompts, are free-form prose only); those parse with a
+//   prompt and title but no size, and are therefore never buildable (see
+//   MARKETING_OUTPUT_MAP below, which is the deliberately curated allow-list
+//   of prompt ids this tool actually knows how to plan/generate).
+//
+//   IMPORTANT, and the reason MARKETING_OUTPUT_MAP exists as a separate,
+//   hand-maintained table rather than trusting the doc's own suggested
+//   filenames: the doc's suggested "Save as" filenames (e.g.
+//   "family-portrait-social.png") do NOT match this repo's actual, already-
+//   established public/images/ layout (e.g. the real file is
+//   public/images/brand/logo-family-portrait.png). The doc is a stale plan,
+//   not a live manifest. MARKETING_OUTPUT_MAP maps each buildable prompt id
+//   to the real, currently-established file path (verified by hand against
+//   the on-disk tree), so a real run with --force actually refreshes the
+//   asset the site and social channels already use, instead of writing an
+//   orphan file nothing references.
+//
 // Robustness: retries on 429 and 5xx with exponential backoff, honoring a
 // Retry-After header when present. On a 401, forces a token refresh and
 // retries the same host (up to MAX_TOKEN_REFRESH_RETRIES times) before ever
@@ -177,6 +224,78 @@ const REQUESTED_SIZE_BY_KIND = {
   scene: { width: 1248, height: 832 },
 };
 
+// ---- Marketing/branding art (--kind marketing) ----
+//
+// Curated allow-list mapping each buildable prompt id from
+// Branding_Illustration_Prompts.md to the real, already-established output
+// path in this repo (verified by hand against public/images/ on 2026-07-12;
+// see tools/README.md and the file-header comment above for why this table
+// exists instead of trusting the doc's own suggested filenames).
+//
+// Every one of these paths already has a file on disk today (they are the
+// live assets the site/social channels currently use), so a real
+// (non-dry-run) invocation needs --force to overwrite any of them; without
+// --force the tool's normal skip-if-exists behavior means nothing will be
+// generated. Prompt ids intentionally NOT in this map (7, 9, 10, 13-20) are
+// either already-correct/"already in use" per the doc's own text (7, 9, 10)
+// or lack the doc's machine-parseable "Output size / Save as" closing line
+// entirely and/or have no corresponding on-disk asset today (13-20); see
+// the tool's dry-run/report output and the task write-up for the full
+// breakdown of which prompts are genuine new-generation candidates.
+const MARKETING_OUTPUT_MAP = {
+  // Prompt 1, The Family Portrait -> the family-portrait slot used by
+  // src/content/pages/about.md. Doc requests 1080x1080; no existing-file
+  // clause in the doc's own text, but the real slot already holds a
+  // 1024x1024 master.
+  '1': { outFile: 'public/images/brand/logo-family-portrait.png' },
+  // Prompt 2, Gunner & Tiger Only (Simple Profile) -> the Instagram profile
+  // slot. Doc offers "resize existing 2048x2048 file" as a sufficient
+  // alternative to fresh generation; this maps to the same real slot so a
+  // fresh MAI generation (with --force) refreshes it in place.
+  '2': { outFile: 'public/images/social/instagram-profile.png' },
+  // Prompt 3, Tiger on Gunner (The Classic) -> the Instagram alternate slot.
+  '3': { outFile: 'public/images/social/instagram-alternate.png' },
+  // Prompt 4, The Full Adventure -> the website hero slot (16:9 master,
+  // currently oversized at 2752x1536; doc requests 1920x1080).
+  '4': { outFile: 'public/images/hero/hero-adventure-cover.png' },
+  // Prompt 5, The Porch Scene (Horizontal Banner) -> the hero-folder porch
+  // banner slot (3:1, doc requests 1500x500).
+  '5': { outFile: 'public/images/hero/hero-porch-scene-banner.png' },
+  // Prompt 6, Title Card Hero -> the website hero alternate slot.
+  '6': { outFile: 'public/images/hero/hero-title-card.png' },
+  // Prompt 8b, Duo Emblem OG Image (landscape) -> the OG/social-preview
+  // image referenced by src/data/site-config.ts. The doc's heading flags
+  // this one explicitly "(landscape, NEW, needs generation)"; a file
+  // already exists on disk at the exact requested 1200x630, so it was
+  // apparently already produced in an earlier pass and --force is required
+  // to refresh it again.
+  '8b': { outFile: 'public/images/brand/og-default-image.png' },
+  // Prompt 11, Facebook/Twitter Banner (Wide) -> a genuinely DIFFERENT scene
+  // (dirt road/autumn) than Prompt 5's porch scene, offered by the doc as an
+  // alternate for the same Facebook/Twitter banner slot ("viable
+  // substitute"). Deliberately NOT mapped onto the same file as Prompt 5 to
+  // avoid a same-file collision between two different concepts in one
+  // library; this path does not exist on disk yet, so it needs no --force
+  // and is a genuine candidate/pick-best alongside Prompt 5.
+  '11': { outFile: 'public/images/social/banner-facebook-twitter-alt.png' },
+  // Prompt 12, YouTube/Channel Banner -> the YouTube banner referenced
+  // nowhere in code (published directly to YouTube) but present in brand/.
+  // Doc heading flags this one explicitly "(NEW, needs generation)"; a file
+  // already exists on disk at the exact requested 2560x1440, same situation
+  // as Prompt 8b: --force needed to refresh.
+  '12': { outFile: 'public/images/brand/youtube-channel-banner.png' },
+};
+
+// Appended to every extracted marketing prompt's text, per the "Add quality
+// tags to all prompts" instruction in Branding_Illustration_Prompts.md's
+// closing Notes section (most branding prompts, unlike the story cover/scene
+// prompts, do not already embed this trailer in their own prose).
+const QUALITY_TAG_SUFFIX =
+  'Storybook illustration style, professional quality, hand-drawn colored ' +
+  'pencil texture, warm color palette. Gunner: large black Labrador ' +
+  'Retriever, hunter safety orange collar, never without it. Tiger: gray ' +
+  'and brown tabby cat, NOT orange.';
+
 // Rate card (ai/plans/source/mai-image-2-5-art-match.md, cited as unconfirmed
 // pending a live portal read; ai/verification/deployment-verification.md
 // measured about 0.048 USD for one real call). Used to turn a real response's
@@ -202,12 +321,18 @@ Prerequisite: az login   (signs in as the owner; default subscription
 "This Is My Demo - MVP Subscription" must be the active one)
 
 Usage:
-  node tools/mai-image.mjs --story <id|all> --kind cover|scene --prompts <path> [options]
+  node tools/mai-image.mjs --story <id|all> --kind cover|scene|marketing --prompts <path> [options]
 
 Required:
-  --story <id|all>       zero-padded story id ("01") or "all"
-  --kind cover|scene      output family
-  --prompts <path>        prompt library, .json or .md (see file header for schema)
+  --story <id|all>       zero-padded story id ("01"), a branding prompt id
+                          ("1", "8b", ...) for --kind marketing, or "all"
+  --kind cover|scene|marketing
+                          output family. marketing writes to the fixed,
+                          already-established path in MARKETING_OUTPUT_MAP
+                          (see file header) for logos/OG/social/YouTube art
+  --prompts <path>        prompt library, .json or .md (see file header for
+                          schema; marketing only supports .md today, in the
+                          Branding_Illustration_Prompts.md shape)
 
 Options:
   --variants <n>          candidates per prompt (default 1)
@@ -233,8 +358,8 @@ async function main() {
 
   const storyArg = requireArg(args, 'story');
   const kind = requireArg(args, 'kind');
-  if (kind !== 'cover' && kind !== 'scene') {
-    fail(`--kind must be "cover" or "scene", got "${kind}"`);
+  if (kind !== 'cover' && kind !== 'scene' && kind !== 'marketing') {
+    fail(`--kind must be "cover", "scene", or "marketing", got "${kind}"`);
   }
   const promptsPath = requireArg(args, 'prompts');
   const dryRun = Boolean(args['dry-run']);
@@ -258,7 +383,7 @@ async function main() {
     budgetUsd = Number(args['mai-budget-usd']);
   }
 
-  const library = await loadPromptLibrary(resolveMaybeAbsolute(promptsPath));
+  const library = await loadPromptLibrary(resolveMaybeAbsolute(promptsPath), kind);
   const plan = buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride });
 
   if (plan.length === 0) {
@@ -380,6 +505,8 @@ async function main() {
 // ---- Planning ----
 
 function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride }) {
+  if (kind === 'marketing') return buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride });
+
   const bucket = kind === 'cover' ? library.covers : library.scenes;
   if (!bucket || Object.keys(bucket).length === 0) {
     fail(`The prompt library has no "${kind === 'cover' ? 'covers' : 'scenes'}" entries. See tools/mai-image.mjs header for the expected shape.`);
@@ -405,6 +532,75 @@ function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverrid
         const entry = normalizeSceneEntry(raw, storyId);
         plan.push(...expandVariants({ storyId, kind, entry, filenameBase: entry.filename, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir }));
       }
+    }
+  }
+  return plan;
+}
+
+/**
+ * Marketing/branding plan. Unlike cover/scene, there is no formulaic
+ * output path to derive from a story id; every buildable prompt id's output
+ * path comes from the curated MARKETING_OUTPUT_MAP allow-list (see that
+ * constant's comment for why). storyArg reuses the same "id or all" CLI
+ * convention as cover/scene for consistency, where "id" here is a branding
+ * prompt id ("1", "8b", ...). "all" plans every id present in BOTH the
+ * parsed prompt library and MARKETING_OUTPUT_MAP (the intersection), so
+ * doc-only prompts that lack a known output mapping (or lack any parseable
+ * size at all) are silently excluded from "all" rather than erroring; an
+ * explicit single id that is missing from either still fails loudly.
+ */
+function buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride }) {
+  const bucket = library.marketing;
+  if (!bucket || Object.keys(bucket).length === 0) {
+    fail('The prompt library has no "marketing" entries. See tools/mai-image.mjs header for the expected shape (parseBrandingMarkdown).');
+  }
+
+  const mappedIds = Object.keys(MARKETING_OUTPUT_MAP);
+  const promptIds =
+    storyArg === 'all' ? mappedIds.filter((id) => id in bucket) : [storyArg];
+
+  for (const id of promptIds) {
+    if (!(id in bucket)) fail(`Marketing prompt id "${id}" was not found by parseBrandingMarkdown() in the given prompt library file.`);
+    if (!(id in MARKETING_OUTPUT_MAP)) {
+      fail(
+        `Marketing prompt id "${id}" has no output-file mapping in MARKETING_OUTPUT_MAP (tools/mai-image.mjs). ` +
+          'It is likely a resize-only, already-correct, or out-of-scope prompt (see the file header comment and ' +
+          'MARKETING_OUTPUT_MAP\'s own comment for the full breakdown), not a generation target this tool supports.'
+      );
+    }
+    const raw = bucket[id];
+    if (!raw.size) {
+      fail(`Marketing prompt id "${id}" ("${raw.title}") has no parsed "Output size" in the source doc; cannot plan a generation for it.`);
+    }
+  }
+
+  const plan = [];
+  for (const id of promptIds) {
+    const raw = bucket[id];
+    const mapEntry = MARKETING_OUTPUT_MAP[id];
+    const entry = { prompt: `${raw.prompt} ${QUALITY_TAG_SUFFIX}`, size: raw.size, editImage: null };
+    const outFile = resolveMaybeAbsolute(mapEntry.outFile);
+    try {
+      plan.push(
+        ...expandVariants({
+          storyId: id,
+          kind: 'marketing',
+          entry,
+          filenameBase: basename(outFile, '.png'),
+          variants,
+          sizeOverride,
+          outOverride,
+          editImageOverride,
+          defaultOutDir: dirname(outFile),
+        })
+      );
+    } catch (err) {
+      // A requested aspect ratio wider than 16:9 is mathematically infeasible
+      // under clampToCap's floor+cap (see that function's comment); this is
+      // an expected, real outcome for some marketing prompts (wide banners),
+      // not a usage mistake, so report it clearly and skip this one id
+      // instead of aborting the whole "all" plan for every other asset.
+      console.warn(`[infeasible] prompt ${id} ("${raw.title}") -> ${relToRoot(outFile)}: ${err.message}`);
     }
   }
   return plan;
@@ -465,8 +661,15 @@ function parseSize(str) {
  * Clamps a requested width/height to the documented MAI cap: both
  * dimensions >= 768, width * height <= 1,048,576. Scales down preserving
  * aspect ratio when the requested size is over the cap; leaves valid sizes
- * untouched. Throws if the aspect ratio cannot fit within the cap at the
- * minimum dimension (should not happen for any 3:2-ish request).
+ * untouched. Throws (a real Error, not fail()/process.exit, so a caller can
+ * catch it) if the aspect ratio cannot fit within the cap at the minimum
+ * dimension. This never happened for the ~3:2 covers/scenes this tool
+ * originally shipped for, but it is an expected, real case for wide
+ * marketing banners: the floor and cap together only admit aspect ratios up
+ * to 1,048,576 / 768^2 = 1.7778 (exactly 16:9). Anything wider (a 3:1 social
+ * banner, a ~1.9:1 OG image, etc.) is mathematically infeasible under both
+ * constraints at once and always throws here; see MARKETING_OUTPUT_MAP's
+ * callers for how that is surfaced as a per-asset skip instead of a crash.
  */
 function clampToCap(width, height) {
   if (width * height <= MAX_PIXELS && width >= MIN_DIM && height >= MIN_DIM) {
@@ -478,14 +681,14 @@ function clampToCap(width, height) {
   while (w * h > MAX_PIXELS && w > MIN_DIM) w -= 2;
   while (w * h > MAX_PIXELS && h > MIN_DIM) h -= 2;
   if (w < MIN_DIM || h < MIN_DIM || w * h > MAX_PIXELS) {
-    fail(`Cannot clamp ${width}x${height} to fit under ${MAX_PIXELS} px while keeping both dimensions >= ${MIN_DIM}.`);
+    throw new Error(`Cannot clamp ${width}x${height} to fit under ${MAX_PIXELS} px while keeping both dimensions >= ${MIN_DIM} (max feasible aspect ratio is 16:9).`);
   }
   return { width: w, height: h, clamped: true };
 }
 
 // ---- Prompt library loading ----
 
-async function loadPromptLibrary(path) {
+async function loadPromptLibrary(path, kind) {
   if (!existsSync(path)) fail(`Prompt library not found: ${path}`);
   const text = await readFile(path, 'utf8');
   if (path.toLowerCase().endsWith('.json')) {
@@ -495,10 +698,11 @@ async function loadPromptLibrary(path) {
     } catch (err) {
       fail(`Failed to parse ${path} as JSON: ${err.message}`);
     }
-    return { covers: parsed.covers ?? {}, scenes: parsed.scenes ?? {} };
+    return { covers: parsed.covers ?? {}, scenes: parsed.scenes ?? {}, marketing: parsed.marketing ?? {} };
   }
   if (path.toLowerCase().endsWith('.md')) {
-    return parsePromptsMarkdown(text);
+    if (kind === 'marketing') return { covers: {}, scenes: {}, marketing: parseBrandingMarkdown(text) };
+    return { ...parsePromptsMarkdown(text), marketing: {} };
   }
   fail(`Prompt library must be .json or .md, got: ${path}`);
 }
@@ -577,6 +781,70 @@ function parsePromptsMarkdown(text) {
     scenes[storyId].push({ filename, prompt, size: null, editImage: null });
   }
   return { covers, scenes };
+}
+
+/**
+ * Parses the structure used in
+ * gunner-studio/resources/Branding_Illustration_Prompts.md (see the "Marketing
+ * shape" block in this file's header comment for the full shape and the
+ * rationale for MARKETING_OUTPUT_MAP):
+ *
+ *   **Prompt N, Title:**
+ *   <prose prompt paragraph, one or more lines>
+ *   **Output size: WxH [(notes)]. [Existing file: `name.png` (WxH), ...]
+ *   [Save as: `name.png` | Save new generation as: `name.png`]**
+ *
+ * Returns an object keyed by prompt id (e.g. "1", "8b") with
+ * { title, prompt, size: {width, height} | null, sizeLineRaw, saveAsFilename }.
+ * A prompt block with no "**Output size: ...**" closing line at all (several
+ * of the merchandise and seasonal-post prompts are free-form prose only)
+ * still returns an entry, but with size: null and saveAsFilename: null, so it
+ * is never buildable (buildPlan requires a numeric size, and only ids present
+ * in MARKETING_OUTPUT_MAP are ever planned regardless).
+ */
+function parseBrandingMarkdown(text) {
+  const headingRe = /\*\*Prompt\s+(\d+[a-zA-Z]?),\s*([^*\n]+?):\*\*/g;
+  const headings = [];
+  let hm;
+  while ((hm = headingRe.exec(text)) !== null) {
+    headings.push({ start: hm.index, end: hm.index + hm[0].length, id: hm[1], title: hm[2].trim() });
+  }
+
+  // A top-level "## Section Heading" also ends the final prompt's block, so
+  // a trailing section (e.g. "## Notes") is never swept into the last
+  // prompt's prose paragraph.
+  const sectionHeadingRe = /^##\s+.+$/gm;
+  const sectionBoundaries = [];
+  let sm;
+  while ((sm = sectionHeadingRe.exec(text)) !== null) sectionBoundaries.push(sm.index);
+
+  const marketing = {};
+  for (let i = 0; i < headings.length; i++) {
+    const h = headings[i];
+    const nextHeadingStart = i + 1 < headings.length ? headings[i + 1].start : text.length;
+    const nextSectionStart = sectionBoundaries.find((idx) => idx > h.end) ?? text.length;
+    const blockEnd = Math.min(nextHeadingStart, nextSectionStart);
+    const block = text.slice(h.end, blockEnd);
+
+    const sizeLineMatch = /\*\*Output size:\s*([^\n]*?)\*\*/.exec(block);
+    const promptText = (sizeLineMatch ? block.slice(0, sizeLineMatch.index) : block)
+      .replace(/\n\s*---\s*$/, '') // strip a trailing "---" section-divider rule (only reachable when there is no Output-size line, i.e. never for a buildable entry)
+      .trim();
+
+    let size = null;
+    let saveAsFilename = null;
+    let sizeLineRaw = null;
+    if (sizeLineMatch) {
+      sizeLineRaw = sizeLineMatch[1];
+      const dimMatch = /(\d+)\s*[×x]\s*(\d+)/.exec(sizeLineRaw);
+      if (dimMatch) size = { width: Number(dimMatch[1]), height: Number(dimMatch[2]) };
+      const saveAsMatch = /Save (?:new generation )?as:\s*`([^`]+\.png)`/i.exec(sizeLineRaw);
+      if (saveAsMatch) saveAsFilename = saveAsMatch[1];
+    }
+
+    marketing[h.id] = { title: h.title, prompt: promptText, size, sizeLineRaw, saveAsFilename };
+  }
+  return marketing;
 }
 
 // ---- Provenance ----
