@@ -6958,5 +6958,105 @@
     "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
     "generatedAtNote": "timestamp set at write time by this run",
     "generatedAt": "2026-07-12T18:59:00.522Z"
+  },
+  {
+    "file": "public/images/brand/logo-family-portrait.png",
+    "storyId": "1",
+    "kind": "marketing",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm textured hand-drawn storybook style. A family portrait on a Virginia farmhouse porch. Center: a large black Labrador (Gunner) with a hunter safety orange collar sitting proudly, tongue out, tail wagging. To his right, a gray-brown tabby cat (Tiger) sitting upright with a look of dignified tolerance. Behind them: Dad in denim overalls and sun hat with his arm around Mom. Three boys arranged around them, the oldest standing tall and steady, the middle one slightly dreamy-eyed, the youngest mid-motion as if he can't hold still for the photo. Virginia mountains and woods in the background. Golden hour light. Warm earthy tones. The feeling of a real family who happens to live with the world's goofiest dog and the world's most strategic cat. Square crop, centered composition. Storybook illustration style, professional quality, hand-drawn colored pencil texture, warm color palette. Gunner: large black Labrador Retriever, hunter safety orange collar, never without it. Tiger: gray and brown tabby cat, NOT orange.",
+    "model": "mai-image-25",
+    "size": "1024x1024",
+    "width": 1024,
+    "height": 1024,
+    "usageTokens": {
+      "num_output_tokens": 1024,
+      "num_input_text_tokens": 217,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.049213,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T19:04:17.326Z"
+  },
+  {
+    "file": "public/images/social/instagram-profile.png",
+    "storyId": "2",
+    "kind": "marketing",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm storybook style. Close-up portrait of a large black Labrador (Gunner) with a hunter safety orange collar, big goofy grin, tongue out, amber eyes full of joy. Beside him, a gray-brown tabby cat (Tiger) with golden eyes, sitting upright, expression of calm superiority. Their heads are close together. Gunner looks thrilled. Tiger looks like he's tolerating this. Warm cream background. Square crop, character portrait. Hand-drawn colored pencil texture, soft shading. Storybook illustration style, professional quality, hand-drawn colored pencil texture, warm color palette. Gunner: large black Labrador Retriever, hunter safety orange collar, never without it. Tiger: gray and brown tabby cat, NOT orange.",
+    "model": "mai-image-25",
+    "size": "1024x1024",
+    "width": 1024,
+    "height": 1024,
+    "usageTokens": {
+      "num_output_tokens": 1024,
+      "num_input_text_tokens": 154,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048898,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T19:04:45.629Z"
+  },
+  {
+    "file": "public/images/social/instagram-alternate.png",
+    "storyId": "3",
+    "kind": "marketing",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration. A gray-brown tabby cat (Tiger) curled up on top of a sleeping black Labrador (Gunner) who is sprawled on a rug by a heater. The cat looks directly at the viewer with an expression that says \"yes, this is my throne.\" The dog is oblivious, dreaming. Warm interior light. Square crop. Cozy, intimate, the defining image of their friendship. (Reference: actual photo of Tiger on Gunner) Storybook illustration style, professional quality, hand-drawn colored pencil texture, warm color palette. Gunner: large black Labrador Retriever, hunter safety orange collar, never without it. Tiger: gray and brown tabby cat, NOT orange.",
+    "model": "mai-image-25",
+    "size": "1024x1024",
+    "width": 1024,
+    "height": 1024,
+    "usageTokens": {
+      "num_output_tokens": 1024,
+      "num_input_text_tokens": 143,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048843,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T19:05:19.928Z"
+  },
+  {
+    "file": "public/images/hero/hero-title-card.png",
+    "storyId": "6",
+    "kind": "marketing",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, horizontal composition (16:9). A black Lab (Gunner) with a hunter safety orange collar sitting at the top of a grassy Virginia hill, looking out over forty acres of woods and mountains. A tabby cat (Tiger) sits beside him, slightly behind, watching the same view. They're silhouetted against a warm sunset sky. Open space above and below for text overlay. The composition should leave room at the top for the series title \"The Adventures of Gunner the Lab... Oh, and Tiger Too\" and at the bottom for a tagline. Colored pencil illustration, epic but warm, the feeling of two friends looking out at their world. Storybook illustration style, professional quality, hand-drawn colored pencil texture, warm color palette. Gunner: large black Labrador Retriever, hunter safety orange collar, never without it. Tiger: gray and brown tabby cat, NOT orange.",
+    "model": "mai-image-25",
+    "size": "1364x768",
+    "width": 1364,
+    "height": 768,
+    "usageTokens": {
+      "num_output_tokens": 1020,
+      "num_input_text_tokens": 183,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048854999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T19:07:39.288Z"
+  },
+  {
+    "file": "public/images/brand/youtube-channel-banner.png",
+    "storyId": "12",
+    "kind": "marketing",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, extra wide horizontal format (2560×1440, approximately 16:9 but displayed as a wide banner). A continuous scene reading left to right like a story across the full width: on the far left, an East Texas farmhouse with chickens in the yard and a young black Lab puppy (Gunner, small, gangly, no collar yet) chasing them. In the center, a packed car driving down a long highway, a dog's head out the window, a cat carrier in the back seat. On the far right, a Virginia mountain homestead, an adult black Labrador (Gunner, big and proud, hunter safety orange collar) and a gray-brown tabby cat (Tiger) sitting together on a porch, looking out at forty acres of mountains. The whole journey in one image. Graphite pencil on the left transitioning to full colored pencil on the right, mirroring the art style shift in the story series. Keep important subjects within the center safe zone (1235×421 pixels, centered) as YouTube crops the sides on some devices. Storybook illustration style, professional quality, hand-drawn colored pencil texture, warm color palette. Gunner: large black Labrador Retriever, hunter safety orange collar, never without it. Tiger: gray and brown tabby cat, NOT orange.",
+    "model": "mai-image-25",
+    "size": "1364x768",
+    "width": 1364,
+    "height": 768,
+    "usageTokens": {
+      "num_output_tokens": 1020,
+      "num_input_text_tokens": 267,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.049275,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T19:08:29.478Z"
   }
 ]
