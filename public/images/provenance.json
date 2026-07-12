@@ -1,0 +1,362 @@
+[
+  {
+    "file": "public/images/stories/01/story-01-scene-01-the-orchard-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, full dark beard, tan wide-brimmed sun hat, blue denim bib overalls over a gray t-shirt) sitting on a wooden bench in an apple orchard outside Phoenix, Arizona, warm dappled afternoon light through the trees. Three small boys pick apples around him: a sturdy six-year-old with short-cropped brown hair works methodically down a row; a slim four-year-old with sandy-brown hair fills his bag with the spottiest apples; a tiny two-year-old toddler can barely reach the lowest branches. The man's expression is distant and longing, overwhelmed by a feeling he cannot name. The moment before everything changed. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 179,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048553,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:37:57.767Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-01-the-orchard-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, full dark beard, tan wide-brimmed sun hat, blue denim bib overalls over a gray t-shirt) sitting on a wooden bench in an apple orchard outside Phoenix, Arizona, warm dappled afternoon light through the trees. Three small boys pick apples around him: a sturdy six-year-old with short-cropped brown hair works methodically down a row; a slim four-year-old with sandy-brown hair fills his bag with the spottiest apples; a tiny two-year-old toddler can barely reach the lowest branches. The man's expression is distant and longing, overwhelmed by a feeling he cannot name. The moment before everything changed. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 179,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048553,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:38:28.028Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-02-the-tipping-point-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Interior of a well-used dark blue full-size pickup truck parked in a Phoenix driveway at night, engine off. A large heavyset bearded man (Dad, tan sun hat off and resting on the dash, blue bib overalls) sits in the driver's seat, both hands on the wheel, staring straight ahead with exhausted resolve. The dashboard clock reads late. Through the windshield, a nice suburban cul-de-sac house glows warm, the family already asleep inside. The night a two-hour commute finally broke something. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 144,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048378,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:38:58.951Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-02-the-tipping-point-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Interior of a well-used dark blue full-size pickup truck parked in a Phoenix driveway at night, engine off. A large heavyset bearded man (Dad, tan sun hat off and resting on the dash, blue bib overalls) sits in the driver's seat, both hands on the wheel, staring straight ahead with exhausted resolve. The dashboard clock reads late. Through the windshield, a nice suburban cul-de-sac house glows warm, the family already asleep inside. The night a two-hour commute finally broke something. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 144,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048378,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:40:00.404Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-03-the-patio-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, blue bib overalls over a gray t-shirt) on the back patio of a nice Phoenix home at night. A slender woman (Mom, long brown hair down, a long skirt and a cardigan) sits beside him. Behind them, an in-ground pool reflects moonlight, palm trees frame the yard, a lemon tree stands nearby. His face is earnest and hopeful; hers is listening, steady, deciding. The night they said, okay, let's do it. Intimate and quiet, the weight of a decision in shadow and light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 159,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048452999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:41:01.668Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-03-the-patio-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, blue bib overalls over a gray t-shirt) on the back patio of a nice Phoenix home at night. A slender woman (Mom, long brown hair down, a long skirt and a cardigan) sits beside him. Behind them, an in-ground pool reflects moonlight, palm trees frame the yard, a lemon tree stands nearby. His face is earnest and hopeful; hers is listening, steady, deciding. The night they said, okay, let's do it. Intimate and quiet, the weight of a decision in shadow and light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 159,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048452999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:42:05.642Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-04-loaded-up-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A Phoenix cul-de-sac driveway in morning light. A well-used dark blue full-size pickup truck and a dark gray family minivan, both loaded to bursting with boxes and furniture strapped down. In the truck's passenger seat, a stocky brown mixed-breed mutt (Bear, brown coat in his prime, not yet gray, permanent grumpy scowl) sits with the resigned dignity of a co-pilot who was not consulted about this mission. In the minivan, three small boys are strapped in: a two-year-old in a car seat clutching a stuffed animal, a four-year-old in a booster with a notebook and crayons, a six-year-old in the back row with a book. A slender woman (Mom, long brown hair down) checks the mirror. Behind them, the biggest house they will ever live in, and they are leaving it. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 216,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048738,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:43:06.852Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-04-loaded-up-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A Phoenix cul-de-sac driveway in morning light. A well-used dark blue full-size pickup truck and a dark gray family minivan, both loaded to bursting with boxes and furniture strapped down. In the truck's passenger seat, a stocky brown mixed-breed mutt (Bear, brown coat in his prime, not yet gray, permanent grumpy scowl) sits with the resigned dignity of a co-pilot who was not consulted about this mission. In the minivan, three small boys are strapped in: a two-year-old in a car seat clutching a stuffed animal, a four-year-old in a booster with a notebook and crayons, a six-year-old in the back row with a book. A slender woman (Mom, long brown hair down) checks the mirror. Behind them, the biggest house they will ever live in, and they are leaving it. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 216,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048738,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:44:10.208Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-05-the-last-look-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Two vehicles pulling out of a Phoenix cul-de-sac for the last time, seen from behind: a dark blue pickup truck (Dad and Bear in the cab) leading, a dark gray minivan (Mom and three small boys) following. The neat suburban street with its lemon and palm trees stretches behind them; ahead, the road bends toward the highway and the open desert. The smallest boy's hand waves out a rear window. Bear faces forward, unmoved. Wide composition, the weight of leaving in light and shadow. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 146,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048388,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:44:53.868Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-05-the-last-look-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Two vehicles pulling out of a Phoenix cul-de-sac for the last time, seen from behind: a dark blue pickup truck (Dad and Bear in the cab) leading, a dark gray minivan (Mom and three small boys) following. The neat suburban street with its lemon and palm trees stretches behind them; ahead, the road bends toward the highway and the open desert. The smallest boy's hand waves out a rear window. Bear faces forward, unmoved. Wide composition, the weight of leaving in light and shadow. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 146,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048388,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:46:23.425Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-06-hour-four-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Interior of a dark gray minivan on an interstate. A slim four-year-old with sandy-brown hair reaches desperately behind his booster for scattered crayons, face crumpled. A two-year-old is asleep in his car seat, mouth open, stuffed animal wedged under his chin. A sturdy six-year-old reads calmly in the back row, unbothered. A slender woman (Mom, long brown hair down) drives with one hand, the other reaching back in a futile attempt to help. Flat desert rolling past the windows. The beautiful chaos of a family in motion. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:46:54.832Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-06-hour-four-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Interior of a dark gray minivan on an interstate. A slim four-year-old with sandy-brown hair reaches desperately behind his booster for scattered crayons, face crumpled. A two-year-old is asleep in his car seat, mouth open, stuffed animal wedged under his chin. A sturdy six-year-old reads calmly in the back row, unbothered. A slender woman (Mom, long brown hair down) drives with one hand, the other reaching back in a futile attempt to help. Flat desert rolling past the windows. The beautiful chaos of a family in motion. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:47:52.632Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-07-el-paso-overnight-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A warm, crowded little city house in El Paso, Texas, at night, filled with cousins and the smell of a big meal. A large heavyset bearded man (Dad) is having his face held in both hands by an older aunt in greeting. Three tired small boys (6, 4, 2) sit at a laden table; the slender woman (Mom, long brown hair down) laughs beside them. Near the door, the stocky brown mutt (Bear, not yet gray) is being fed a plate of his own. An overnight oasis on a two-day drive. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 162,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048468,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:49:24.149Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-07-el-paso-overnight-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A warm, crowded little city house in El Paso, Texas, at night, filled with cousins and the smell of a big meal. A large heavyset bearded man (Dad) is having his face held in both hands by an older aunt in greeting. Three tired small boys (6, 4, 2) sit at a laden table; the slender woman (Mom, long brown hair down) laughs beside them. Near the door, the stocky brown mutt (Bear, not yet gray) is being fed a plate of his own. An overnight oasis on a two-day drive. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 162,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048468,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:49:56.717Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-08-arrival-in-the-dark-v1.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Full dark. Two headlight beams (a dark blue pickup and a dark gray minivan) sweep up a dirt driveway that curves around a stand of pine trees toward the shape of an old East Texas farmhouse. Fence lines run off into fifteen acres of black. The family's first night on the homestead, everything unknown beyond the reach of the headlights. Only the stocky brown mutt (Bear) has hopped down, nose up, reading the new air. Quiet, expectant, the end of a long road. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 145,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048383,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:50:57.305Z"
+  },
+  {
+    "file": "public/images/stories/01/story-01-scene-08-arrival-in-the-dark-v2.png",
+    "storyId": "01",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Full dark. Two headlight beams (a dark blue pickup and a dark gray minivan) sweep up a dirt driveway that curves around a stand of pine trees toward the shape of an old East Texas farmhouse. Fence lines run off into fifteen acres of black. The family's first night on the homestead, everything unknown beyond the reach of the headlights. Only the stocky brown mutt (Bear) has hopped down, nose up, reading the new air. Quiet, expectant, the end of a long road. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 145,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048383,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:51:56.347Z"
+  },
+  {
+    "file": "public/images/covers/story-01-v1.png",
+    "storyId": "01",
+    "kind": "cover",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, hand-drawn, crosshatched, softly shaded black and white, pencil-on-paper texture. A two-vehicle caravan at dawn on an open desert highway heading east: in front, a well-used dark blue full-size pickup truck with a large heavyset bearded man (Dad, tan sun hat, blue bib overalls over a gray t-shirt) driving and a stocky brown mixed-breed mutt (Bear, brown coat in his prime, not yet gray, permanent grumpy scowl) riding shotgun in the passenger seat like a co-pilot. Behind them, a dark gray family minivan with a slender woman (Mom, long brown hair down) at the wheel and three small boys inside (ages 6, 4, and 2). Saguaro cactus and distant mesa silhouettes, a huge sky, the road bending toward a new life. Nostalgic road-trip energy. Hand-drawn storybook illustration, children's book quality, gentle framing, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1250x838",
+    "width": 1250,
+    "height": 838,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 211,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048713,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:53:02.267Z"
+  },
+  {
+    "file": "public/images/covers/story-01-v2.png",
+    "storyId": "01",
+    "kind": "cover",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, hand-drawn, crosshatched, softly shaded black and white, pencil-on-paper texture. A two-vehicle caravan at dawn on an open desert highway heading east: in front, a well-used dark blue full-size pickup truck with a large heavyset bearded man (Dad, tan sun hat, blue bib overalls over a gray t-shirt) driving and a stocky brown mixed-breed mutt (Bear, brown coat in his prime, not yet gray, permanent grumpy scowl) riding shotgun in the passenger seat like a co-pilot. Behind them, a dark gray family minivan with a slender woman (Mom, long brown hair down) at the wheel and three small boys inside (ages 6, 4, and 2). Saguaro cactus and distant mesa silhouettes, a huge sky, the road bending toward a new life. Nostalgic road-trip energy. Hand-drawn storybook illustration, children's book quality, gentle framing, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1250x838",
+    "width": 1250,
+    "height": 838,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 211,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048713,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T06:54:02.433Z"
+  }
+]
