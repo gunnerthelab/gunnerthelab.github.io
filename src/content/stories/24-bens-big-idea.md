@@ -6,10 +6,10 @@ eraLabel: "The Boys & Family"
 description: "The youngest boy has a plan involving Gunner, a wagon, a hill, and zero adult supervision. Tiger sees it coming and tries to warn everyone by sitting directly in the path and glaring."
 publishDate: 2026-03-01
 timeframe: "2025-05"
-coverImage: "/images/covers/story-24.png"
 draft: false
 order: 24
 ---
+
 The youngest boy had two speeds: on and off.
 
 When he was off, he was asleep. Instantly, completely, wherever he happened to be — the couch, the car, Gunner's back, once memorably in the middle of the yard during a game of freeze tag that he'd taken too literally. He slept like a stone dropped in water, heavy and sudden and total.
@@ -39,8 +39,6 @@ He got in the wagon.
 Tiger saw it from the porch.
 
 He had been dozing — or pretending to doze, which was a cat specialty — when the sound of wagon wheels on grass triggered his alert system. His ears rotated. His eyes opened. His body went from "resting" to "high alert" in the time it took a synapse to fire.
-
-![The Warning](/images/stories/24/story-24-scene-02-the-warning-v1.png)
 
 At the top of the hill, a small boy was climbing into a red wagon where a large black dog was already sitting, tail hanging over the back, tongue out, ready for whatever this was.
 
@@ -78,8 +76,6 @@ The youngest boy considered his options. He could go around Tiger. He could wait
 
 The oldest boy's voice cut across the yard with the authority of a firstborn who had been left in charge for twenty minutes and was already regretting it.
 
-![The Launch](/images/stories/24/story-24-scene-03-the-launch-v1.png)
-
 He appeared from the woodshop, sawdust in his hair, a look on his face that was part Dad, part drill sergeant, part exhausted older sibling who had seen too many of his youngest brother's ideas and survived them only through constant vigilance.
 
 "Are you about to ride that wagon down the hill? With the DOG?"
@@ -106,8 +102,6 @@ Tiger remained seated on the hill, mission accomplished, watching the oldest boy
 
 "You can't ride wagons down hills," the oldest said.
 
-![Tiger Does Not Move](/images/stories/24/story-24-scene-04-tiger-does-not-move-v1.png)
-
 "You did it when you were little," the youngest said, because the youngest had a memory for ammunition that was frankly impressive.
 
 "That was different."
@@ -131,8 +125,6 @@ Only Tiger knew the exact truth: a small boy, a big dog, a red wagon, and a hill
 He'd planted himself in the path because someone had to. Because the oldest boy was in the shop. Because Dad was at work. Because Mom was inside and didn't have line-of-sight to the hill. Because Gunner would go along with anything the boys suggested, and the youngest boy would suggest anything that involved speed, altitude, or a nonzero chance of ending up at the ER — a place the youngest had already visited twice, which was a family record that nobody was trying to break.
 
 Tiger wasn't a babysitter. He wasn't a guardian. He was a cat.
-
-![The Aftermath in the Grass](/images/stories/24/story-24-scene-05-aftermath-in-the-grass-v1.png)
 
 But he was a cat who paid attention. And sometimes, paying attention was the most important job on the homestead.
 

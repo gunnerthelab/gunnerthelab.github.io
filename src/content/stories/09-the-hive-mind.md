@@ -7,13 +7,11 @@ description: "The bees have settled in and Tiger has developed a respectful dist
 publishDate: 2025-11-16
 timeframe: "2018-08"
 artStyle: "graphite"
-coverImage: "/images/covers/story-09.png"
 draft: false
 order: 9
 ---
-The bees had been on the homestead for three months now, and a tentative peace had settled over the fifteen acres. The bees worked the wildflowers and the garden. Dad worked the hives on Sunday mornings in his ghost suit. The boys watched from a respectful distance. Mom kept the baking soda paste stocked.
 
-![Respectful Distance](/images/stories/09/story-09-scene-01-respectful-distance-v1.png)
+The bees had been on the homestead for three months now, and a tentative peace had settled over the fifteen acres. The bees worked the wildflowers and the garden. Dad worked the hives on Sunday mornings in his ghost suit. The boys watched from a respectful distance. Mom kept the baking soda paste stocked.
 
 And Gunner had learned — mostly. He gave the hives a ten-foot buffer zone, which was a massive improvement over his previous strategy of zero feet and direct nasal contact. Progress was progress, even if it had cost eighteen stings and one screen door.
 
@@ -49,8 +47,6 @@ The problem with interspecies communication is that cats and dogs speak entirely
 
 Tiger's warning system was subtle, layered, and deeply rooted in feline body language — a vocabulary of ear positions, tail movements, fur angles, and eye dilation that communicated everything from mild concern to existential threat with elegant precision.
 
-![The Warning](/images/stories/09/story-09-scene-02-the-warning-v1.png)
-
 Gunner's receiving system was, generously, unreliable.
 
 Tiger tried the basics first.
@@ -77,8 +73,6 @@ Gunner dropped into a play bow. Front end down, back end up, tail spinning.
 
 He charged toward Tiger's fence post, bounding across the yard with the joyful abandon of a dog who had completely, catastrophically misread the situation.
 
-![Playtime Misunderstanding](/images/stories/09/story-09-scene-03-misunderstanding-v1.png)
-
 His trajectory took him directly past the hives.
 
 ---
@@ -102,8 +96,6 @@ Eleven pounds of cat pulling ninety pounds of dog should be physically impossibl
 They ran. Together. Away from the hives, across the yard, past the garden, past the barn, all the way to the porch where they both collapsed — Gunner panting, Tiger bristled, both of them alive and unstung.
 
 The guard bees circled the area near the hive for a few minutes, then settled.
-
-![The Swarm](/images/stories/09/story-09-scene-04-the-swarm-v1.png)
 
 Dad, who had turned off the mower and was standing frozen in his bee suit, watched the whole thing.
 

@@ -7,10 +7,10 @@ description: "Harvest day. The smell of fresh honey fills the air. Tiger devises
 publishDate: 2025-11-23
 timeframe: "2018-09"
 artStyle: "graphite"
-coverImage: "/images/covers/story-10.png"
 draft: false
 order: 10
 ---
+
 The smell hit Gunner's nose from inside the house, through two walls and a closed window, at approximately 7:14 AM.
 
 Sweet. Warm. Rich. *Golden.* It was the kind of smell that bypassed Gunner's brain entirely and went straight to whatever primal part of him decided what was food and what was not-food, and this — whatever this was — was the most food-smelling thing that had ever existed.
@@ -103,8 +103,6 @@ This was accurate.
 
 The extraction continued, with Gunner now banished to the porch and tied to the railing with a lead. He sat there, sticky and bereft, watching the honey operation from thirty feet away with the longing of a sailor watching a ship leave port.
 
-![The Extraction](/images/stories/10/story-10-scene-01-the-extraction-v1.png)
-
 Tiger watched too, from the roof, having already gotten what he wanted. The difference between them was stark: Gunner had gotten more honey — quantitatively, significantly more — but he'd been caught, scolded, tied up, and publicly embarrassed. Tiger had gotten less honey — exactly one spoonful — but he'd gotten it cleanly, silently, without consequence. He'd executed a heist while Gunner served as the involuntary distraction.
 
 This, Tiger reflected, was the essential dynamic of their partnership. Gunner was the noise. Tiger was the signal.
@@ -112,8 +110,6 @@ This, Tiger reflected, was the essential dynamic of their partnership. Gunner wa
 ---
 
 By late morning, the extraction was done. Dad had three jars of liquid gold lined up on the kitchen counter — wildflower honey, East Texas summer, bottled sunshine. The boys each got a spoonful straight from the jar, and the youngest asked for four more, which Mom negotiated down to one.
-
-![Face First](/images/stories/10/story-10-scene-02-face-first-v2.png)
 
 Gunner was untied and allowed back inside, where he was immediately intercepted by Mom and subjected to a bath that involved the kitchen sink, two towels, and language that the boys would hypothetically pretend they didn't hear.
 
@@ -123,13 +119,9 @@ Tiger appeared on the counter near the honey jars, drawn by the residual scent. 
 
 She held out the honey-tipped finger. Tiger sniffed it, then licked it, then looked at Mom with an expression that said: *I've already had some, actually, but I appreciate the gesture.*
 
-![Tiger's Quiet Score](/images/stories/10/story-10-scene-03-tigers-quiet-score-v1.png)
-
 From the sink, Gunner watched Tiger getting hand-fed honey while he himself was being scrubbed with dish soap, and the injustice of the universe had never been clearer.
 
 Later, dried and no longer sticky, Gunner collapsed on his bed. Tiger jumped up beside him and settled into the curve of the big dog's body. Tiger smelled like honey — just faintly, just on his whiskers. Gunner smelled like dish soap.
-
-![The Sticky Duo](/images/stories/10/story-10-scene-05-the-sticky-duo-v2.png)
 
 Tiger purred.
 
@@ -138,7 +130,5 @@ Gunner sighed the deep sigh of a dog who had touched greatness, briefly, with hi
 Outside, the bees were already refilling the frames. The wildflowers bent in the afternoon breeze. Dad labeled the jars and set them on the shelf, where they'd glow in the kitchen light all summer like amber lanterns.
 
 Three jars. One summer. A hundred thousand flowers.
-
-![Toast at the Table](/images/stories/10/story-10-scene-06-toast-at-the-table-v1.png)
 
 And two animals — one covered in soap, one covered in satisfaction — sleeping together in the warm spot by the heater while the East Texas afternoon hummed on.

@@ -7,15 +7,13 @@ description: "The youngest boy earns his first official night as Grill Master �
 publishDate: 2026-02-15
 timeframe: "2025-07"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-22.png"
 draft: false
 order: 22
 ---
+
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 22: The Grill Master's First Case
-
-![The Grill Master](/images/stories/22/story-22-scene-01-the-grill-master-v1.png)
 
 *Virginia Homestead — 40 Acres*
 
@@ -125,8 +123,6 @@ Dad crouched down slowly. He looked at the deck boards around Gunner. He looked 
 
 "How," Dad said slowly. "*How.* How did you get five steaks off a plate — *with the bones* — in fifteen seconds and leave *nothing?*"
 
-![Fifteen Seconds](/images/stories/22/story-22-scene-02-fifteen-seconds-v1.png)
-
 Gunner yawned. A real yawn this time. A yawn that said *I'm a simple dog, I don't understand the question.*
 
 But Dad had seen the inside of that yawn.
@@ -134,8 +130,6 @@ But Dad had seen the inside of that yawn.
 And in the back of Gunner's mouth, way back where a dog thinks nobody can see, there was a *tiny* sliver of something. Something that might have been a piece of fat. Something that was absolutely, definitively, conclusively, *steak.*
 
 "You have *evidence in your mouth,*" Dad said. "You have *literal evidence* in your *literal mouth.*"
-
-![The Evidence](/images/stories/22/story-22-scene-03-the-evidence-v1.png)
 
 Gunner closed his mouth.
 
@@ -161,8 +155,6 @@ Dad gestured at Gunner, who was now trying to melt into the deck through sheer f
 
 "*That.* A ninety-pound Lab who has been offered every kind of food on earth decided that *those* specific steaks, *your* steaks, were worth risking his entire life for. He has never moved that fast for anything. He crossed six feet of deck, silently, in under fifteen seconds, and committed the perfect crime. Do you understand what kind of cooking that takes? That's not a theft, bud. That's a *review.* That's a four-paw rating. That's the highest honor a dog can give a steak."
 
-![The Four-Paw Review](/images/stories/22/story-22-scene-04-four-paw-review-v1.png)
-
 The youngest almost — *almost* — smiled.
 
 "He ate all five, Dad."
@@ -182,8 +174,6 @@ From the porch railing, Tiger gave a single small *mrrp* that sounded suspicious
 ---
 
 Dinner that night was grilled cheese sandwiches and apologies. Mom, when she heard the story, laughed so hard she had to sit down on the kitchen floor. She laughed until the oldest boy started laughing, and then the middle boy, and then — finally, grudgingly — even the youngest, because the image of Gunner clearing a plate of five T-bones in fifteen seconds and then pretending to be asleep was, objectively, one of the funniest things that had ever happened in their house.
-
-![Grilled Cheese Instead](/images/stories/22/story-22-scene-05-grilled-cheese-instead-v1.png)
 
 Gunner, for his part, did not come to the dinner table that night. He lay in his spot by the couch with his head on his paws and watched the family eat grilled cheese with the expression of a dog who knew he had done something truly spectacular and was now paying the social cost.
 
@@ -208,8 +198,6 @@ The youngest nodded. He scratched behind Gunner's ears.
 "Next time I grill, can Gunner be locked inside?"
 
 Dad laughed out loud — a big, real laugh that rolled out across the forty acres and came back softer on the breeze.
-
-![You're a Bad Dog](/images/stories/22/story-22-scene-06-youre-a-bad-dog-v1.png)
 
 "Yeah, bud. Next time Gunner stays inside. New rule. *Grill Master's Law.*"
 

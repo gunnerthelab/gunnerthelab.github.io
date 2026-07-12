@@ -7,10 +7,10 @@ description: "The family gets their first bee hives. Gunner is fascinated and ge
 publishDate: 2025-11-09
 timeframe: "2018-04"
 artStyle: "graphite"
-coverImage: "/images/covers/story-08.png"
 draft: false
 order: 8
 ---
+
 Dad had been talking about bees for months. He talked about them the way he talked about all his homestead ideas — with the quiet, building enthusiasm of a man who had already bought the equipment online and was just waiting for the right moment to tell Mom.
 
 "I think we should get bees," he said one morning at breakfast, wearing the expression of someone presenting a completely reasonable idea and not the expression of someone who had three boxes of beekeeping supplies already hidden in the barn.
@@ -42,8 +42,6 @@ The bees came in a package — a screened box buzzing with ten thousand workers 
 "Cool!" said the youngest.
 
 "Don't touch anything," said Mom, who was watching from the porch with the posture of someone ready to deploy first aid.
-
-![The Hives](/images/stories/08/story-08-scene-01-the-hives-v1.png)
 
 "This is so cool," Dad said from inside his veil, his voice muffled and happy. Dad was always happiest when he was doing something that Mom would describe as "unnecessary and probably dangerous."
 
@@ -77,8 +75,6 @@ Not toward the house. Not toward Dad. Not toward safety. He bolted in a wide, pa
 
 "GUNNER!" Dad yelled, pulling off his glove to grab for the dog. But Gunner was in full flight mode, and ninety pounds of panicked Labrador at top speed is not a thing you grab.
 
-![The Buffer Zone](/images/stories/08/story-08-scene-02-the-buffer-zone-v1.png)
-
 He made two laps around the garden. The bees followed for the first lap, then lost interest. But Gunner kept running, because the burning in his nose was real and present and he didn't understand why his face was attacking him.
 
 Tiger, who had been on his usual fence post approximately forty yards from the hive since the moment Dad first mentioned bees, watched the entire spectacle with his tail wrapped around his paws.
@@ -105,15 +101,11 @@ The next day, Gunner went back to the hive.
 
 Not cautiously. Not slowly. He went back with the same nose-first enthusiasm, as if the previous day's lesson had been stored in a part of his brain that he didn't have access to.
 
-![The Lesson](/images/stories/08/story-08-scene-03-the-lesson-v1.png)
-
 He got stung again. Left ear this time.
 
 Day three: right paw.
 
 Day four: he got stung on the lip and spent the evening looking like he'd had bad cosmetic work done. The youngest boy giggled every time he looked at Gunner, which made Gunner wag, which made his swollen lip wobble, which made everyone laugh harder.
-
-![The Swollen Nose](/images/stories/08/story-08-scene-04-the-swollen-nose-v1.png)
 
 "We should just let him figure it out," Dad said.
 
@@ -124,8 +116,6 @@ Day four: he got stung on the lip and spent the evening looking like he'd had ba
 This was accurate. In Gunner's mind, the stinging was a separate, unrelated phenomenon that happened to occur near the interesting buzzing boxes. The boxes were fascinating. The stinging was unfortunate. These were two completely independent events.
 
 Tiger, from his fence post, had established a personal exclusion zone around the hives of approximately fifty feet. He watched the bees from this distance with the respect of a creature who understood cause and effect and, more importantly, had the self-control to act on that understanding.
-
-![The Aftermath](/images/stories/08/story-08-scene-05-the-aftermath-v1.png)
 
 When Gunner came slinking back from his daily stinging, Tiger would be on the fence post, golden eyes tracking the big dummy's approach, and there would be a moment — just a moment — where their eyes met, and the communication was clear:
 
@@ -142,8 +132,6 @@ It took two weeks. Two full weeks of daily stings, swollen noses, puffy paws, an
 But eventually, incrementally, something shifted in Gunner's understanding. The stinging and the buzzing boxes slowly, painfully merged into a single concept in his mind: *Those things hurt.*
 
 He started giving the hives a wider berth. Not as wide as Tiger's berth — nothing was as wide as Tiger's berth — but wider than nose-on-hive. He'd walk past them at about ten feet, casting them a look that was equal parts longing and wariness, the look of a dog who still found them fascinating but had finally, finally, learned that fascination had a price.
-
-![Bee-Suit Bath](/images/stories/08/story-08-scene-06-bee-suit-bath-v1.png)
 
 Dad noticed.
 

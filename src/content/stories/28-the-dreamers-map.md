@@ -6,10 +6,10 @@ eraLabel: "The Boys & Family"
 description: "The middle boy draws an elaborate treasure map of the property. Gunner and Tiger follow it. It leads to the middle boy's secret fort in the woods."
 publishDate: 2026-03-29
 timeframe: "2024-10"
-coverImage: "/images/covers/story-28.png"
 draft: false
 order: 28
 ---
+
 The middle boy drew maps the way other kids breathed — constantly, unconsciously, and with a creativity that made the rest of the family wonder what, exactly, was happening inside his head.
 
 He mapped the property the first week they arrived in Virginia, covering three sheets of notebook paper with topographic details that included the house, the barn, every tree he could count from the porch, and a region labeled "THE DEEP WOODS" written in capital letters with a skull and crossbones that he'd immediately erased because it scared his own self.
@@ -52,8 +52,6 @@ Tiger stepped onto the map. One paw on the Serpent River. Another on Dragon's Sp
 
 Tiger did not move. If anything, he settled more firmly.
 
-![The Map](/images/stories/28/story-28-scene-01-the-map-v1.png)
-
 The middle boy gently lifted Tiger off the map. Tiger allowed this with the tolerance of royalty being repositioned by a servant — annoyed but not enough to make a scene.
 
 "We're going to find it," the boy told them. "Today. Right now. You want to come?"
@@ -90,8 +88,6 @@ He walked through the gap with the solemnity of someone entering sacred ground.
 
 Gunner walked through the gap because the boy walked through the gap and following the boy was the plan.
 
-![Following the Map](/images/stories/28/story-28-scene-02-following-the-map-v1.png)
-
 Tiger jumped on top of the wall and walked along it, because cats always take the high road, literally.
 
 Past the wall, the woods changed again. The trees were older here — massive trunks, branches that reached across the gaps between them like hands holding hands. The ground was soft with decades of fallen leaves. It smelled like earth and time.
@@ -112,8 +108,6 @@ He'd built walls from branches, woven together with the patient skill of a kid w
 
 On the walls — the branch walls of this tiny, secret, beautiful fort — he'd pinned drawings. Maps of imaginary places. Sketches of animals. A drawing of the family at the dinner table that was technically bad art and emotionally devastating. A picture of Gunner sleeping, drawn with enough care that you could almost hear the snoring. A picture of Tiger on a fence post, drawn from memory, every stripe in place.
 
-![The Secret Fort](/images/stories/28/story-28-scene-03-the-secret-fort-v1.png)
-
 This was his place. His kingdom within the kingdom. The territory that existed inside his head, made real with sticks and paper and the particular determination of a boy who sees the world differently and needs somewhere to put what he sees.
 
 "This is it," he told Gunner and Tiger. "This is the treasure."
@@ -123,8 +117,6 @@ Gunner nosed around the fort, sniffing everything, tail wagging. The place smell
 Tiger, naturally, was already inside. He'd entered before the boy had finished his introduction, explored every corner in four seconds, and claimed the highest spot — the upturned crate table — as his own. He sat on it now, among the notebooks and pencils, surveying the fort with the satisfaction of a cat who has found a new room that no one can bother him in.
 
 The middle boy sat down between them. The big dog on one side, warm and breathing. The cat on the table, purring. The drawings on the walls. The trees overhead, filtering the light into something that looked like it came from inside a story.
-
-![X Marks the Spot](/images/stories/28/story-28-scene-04-x-marks-the-spot-v1.png)
 
 He picked up a pencil and started to draw.
 
@@ -136,8 +128,6 @@ He came home for lunch smelling like creek water and pine sap, Gunner muddy up t
 
 "Yeah," the middle boy said. And that was all. The fort, the map, the drawings — those were his. Private. A world he'd built for himself in the space between the real and the imagined.
 
-![Drawing by Lantern Light](/images/stories/28/story-28-scene-05-drawing-by-lantern-light-v1.png)
-
 Mom looked at him the way she looked at all three of her boys — with the particular love of a mother who understood that each of her children was a different book, written in a different language, and her job was to read them all.
 
 She didn't ask more questions. She made him a sandwich.
@@ -145,8 +135,6 @@ She didn't ask more questions. She made him a sandwich.
 Under the table, Gunner ate a piece of lettuce that fell from it.
 
 On the counter, Tiger cleaned the leaf off his back and pretended he'd always meant to look that way.
-
-![The Cartographer's Detail](/images/stories/28/story-28-scene-06-the-cartographers-detail-v1.png)
 
 Outside, in the deep woods, the fort waited. The drawings watched the empty room. The creek ran past the old stone wall, and the big oak held its secrets in its roots.
 

@@ -6,10 +6,10 @@ eraLabel: "The Boys & Family"
 description: "Mom tries to have a quiet morning. Tiger demands milk. Gunner demands pets. The boys need approximately forty-seven things. Gunner and Tiger accidentally team up to give her five minutes of peace — then immediately ruin it."
 publishDate: 2026-03-15
 timeframe: "2025-09"
-coverImage: "/images/covers/story-26-v3.png"
 draft: false
 order: 26
 ---
+
 Mom woke up at 5:47 AM because her body didn't know any other time.
 
 Five years of homeschooling, three boys, a homestead, and a biological clock calibrated to the precise moment before chaos began — Mom's eyes opened at 5:47 whether she set an alarm or not, whether it was a weekday or a Saturday, whether she wanted to get up or not.
@@ -130,8 +130,6 @@ Tiger had finished his milk and jumped into her lap, where he turned twice, knea
 
 Gunner was still on her feet. He had somehow gotten heavier in the past forty-five minutes, as if he were absorbing gravity.
 
-![Five Minutes of Peace](/images/stories/26/story-26-scene-01-five-minutes-of-peace-v1.png)
-
 From the kitchen: the sound of Dad trying to make waffles, the youngest boy "helping," and the smoke alarm going off once, briefly.
 
 From the middle boy's room: the sound of pencils on paper, which was actually a nice sound and the only quiet thing happening in the house.
@@ -146,8 +144,6 @@ Content. She felt content.
 
 Not peaceful. Not rested. Not rejuvenated. Content. The specific kind of contentment that comes from being so needed that even your mornings off aren't really off, and somehow being okay with that.
 
-![One Page a Week](/images/stories/26/story-26-scene-02-one-page-a-week-v1.png)
-
 Tiger purred in her lap. Gunner sighed on her feet.
 
 ---
@@ -159,8 +155,6 @@ Tiger jumped off Mom's lap (claws first, as always). Gunner rolled off her feet 
 Tiger jumped onto the counter — normally forbidden, but the kitchen was currently lawless — and knocked Dad's phone onto the floor. Dad picked it up, saw an unread message about a work issue, and got distracted typing a response.
 
 Gunner, sensing opportunity in the chaos, picked up the bag of dog treats that the youngest boy had left on the floor (the youngest boy left everything on the floor) and carried it to Mom's chair.
-
-![Peace Destroyed](/images/stories/26/story-26-scene-03-peace-destroyed-v1.png)
 
 He set the treats at her feet. He sat. He waited.
 
@@ -180,11 +174,7 @@ One good page.
 
 And a cat in her lap and a dog on her feet and the specific, irreplaceable knowledge that everyone in this house — the boys, the animals, the bearded man in overalls currently scrubbing batter off the ceiling — would fall apart without her.
 
-![Signed Without Reading](/images/stories/26/story-26-scene-04-signed-without-reading-v1.png)
-
 She finished her cold coffee standing at the kitchen counter, watching the chaos, and she thought: *This is the job. This is the whole job. And nobody does it better than me.*
-
-![The Team-Up](/images/stories/26/story-26-scene-05-the-team-up-v1.png)
 
 She was right.
 

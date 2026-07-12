@@ -11,6 +11,7 @@ coverImage: "/images/covers/story-06.png"
 draft: false
 order: 6
 ---
+
 The ducks were a mistake. Dad would admit this freely, usually while watching them waddle across the yard in a formation that suggested they owned the place, which they essentially did.
 
 He'd bought six Pekin ducks at the feed store because the youngest boy had pointed at them and said "DUCKS" with a volume and enthusiasm that Dad interpreted as a binding purchase order. Mom had said "we don't need ducks" in the same tone she said "we don't need another dog" and "we don't need bees" and "we don't need to move to Virginia," which was the tone that meant she already knew she'd lost.
@@ -37,7 +38,7 @@ Gunner heard "Gunner" and "go" and that was enough. He tore across the yard towa
 
 Tiger followed at a distance, hopping onto a fence post that overlooked the pond. Front row seats.
 
-![Dad pointing at the ducks, Gunner at the pond's edge receiving the mission briefing — the ducks floating in smug formation, completely unimpressed](/images/stories/06/story-06-scene-01-the-mission-v1.png)
+![Dad pointing at the ducks, Gunner at the pond's edge receiving the mission briefing — the ducks floating in smug formation, completely unimpressed](/images/stories/story-06-scene-01-the-mission.png)
 
 Gunner reached the pond's edge and stopped. Six ducks floated in the center, arranged in a loose cluster, watching him. The lead duck — a big drake with a chip on his shoulder and an orange bill that always looked like it was sneering — turned to face Gunner head-on.
 
@@ -57,7 +58,7 @@ Gunner began swimming laps.
 
 Not herding the ducks. Not chasing them. Swimming with them. Long, lazy circles around the pond, his black head cutting through the water like a happy periscope, his tail working as a rudder. The ducks, apparently recognizing that the threat had downgraded itself to a nuisance, fell into formation behind him. One, then two, then all six, bobbing in Gunner's wake like a flotilla following a very enthusiastic flagship.
 
-![Gunner swimming laps with six white ducks in formation behind him — the mission reinterpreted, the assignment entirely forgotten](/images/stories/06/story-06-scene-02-swimming-laps-v1.png)
+![Gunner swimming laps with six white ducks in formation behind him — the mission reinterpreted, the assignment entirely forgotten](/images/stories/story-06-scene-02-swimming-laps.png)
 
 From the fence post, Tiger watched a Labrador Retriever swim in a circle with six ducks trailing behind him and wondered, not for the first time, what evolutionary purpose Gunner served.
 
@@ -103,7 +104,7 @@ This time he got the lever another quarter turn. The trickle became a stream. Th
 
 The ducks saw the spray and immediately lost their collective minds. All six erupted from the water in a flapping, quacking explosion, wings beating the surface, and ran — waddled at maximum speed — toward the barn, where the coop was.
 
-![Tiger hauling the garden hose across the yard in his teeth — determined, dry, and entirely correct about the outcome — while Gunner swims on obliviously behind him](/images/stories/06/story-06-scene-03-plan-b-v1.png)
+![Tiger hauling the garden hose across the yard in his teeth — determined, dry, and entirely correct about the outcome — while Gunner swims on obliviously behind him](/images/stories/story-06-scene-03-plan-b.png)
 
 Gunner, suddenly alone in the pond, stopped swimming and looked around with the confusion of someone who has just been abandoned by his entire friend group at a party.
 
@@ -112,8 +113,6 @@ The middle boy saw the whole thing.
 "DAD! Tiger turned on the hose! TIGER USED THE HOSE!"
 
 Dad came back around the corner and saw Tiger sitting beside the spigot, which was still dribbling water, grooming a paw with the casual disinterest of a creature who had absolutely, definitely, not just operated plumbing.
-
-![The Spigot Trick](/images/stories/06/story-06-scene-04-the-spigot-trick-v1.png)
 
 "There's no way," Dad said.
 
@@ -137,15 +136,11 @@ Mission accomplished, though not by the team member Dad had assigned it to.
 
 As the family headed back toward the house — Dad shaking his head, the boys debating whether Tiger was a genius or a wizard, Mom asking why the hose was running — Gunner trotted alongside Tiger.
 
-![Everyone Soaked](/images/stories/06/story-06-scene-05-everyone-soaked-v1.png)
-
 Gunner was wet, happy, and completely unaware that he had failed his assignment. In his mind, he'd had the best morning of his life. He'd swum. He'd made friends. He'd gotten exercise. Everything was perfect.
 
 Tiger walked beside him, dry, superior, and satisfied. He'd solved the problem. He'd done it without getting wet. He'd used a tool, which put him approximately several million years ahead of Gunner on the evolutionary ladder.
 
 They walked together toward the porch — one dripping, one pristine — and settled into their spots. Gunner on the floor, Tiger on Gunner.
-
-![The Ducks Win Again](/images/stories/06/story-06-scene-06-ducks-win-again-v1.png)
 
 The ducks quacked from their coop.
 

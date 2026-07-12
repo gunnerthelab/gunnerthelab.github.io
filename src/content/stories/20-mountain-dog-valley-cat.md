@@ -7,10 +7,10 @@ description: "The first Virginia winter hits hard. Gunner is thrilled (snow!). T
 publishDate: 2026-02-01
 timeframe: "2024-12"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-20.png"
 draft: false
 order: 20
 ---
+
 The first snow came without warning, the way it does in the Virginia mountains — one day it was cold rain and brown leaves, and the next morning the world had been repainted white.
 
 Gunner woke up to it the way Gunner woke up to everything: with his nose. The air smelled different. Cleaner. Sharper. Like someone had taken the whole mountain and rinsed it in cold water. He padded to the front door, pressed his nose against the glass, and saw a world he did not recognize.
@@ -43,8 +43,6 @@ His first step into the snow was the most magical experience of his entire life.
 
 He leaped. Not ran — leaped. Great bounding leaps through snow that came up to his chest, each landing a plume of white powder, each leap accompanied by the sheer, unbridled joy of a Labrador who has discovered that the ground has been replaced by a giant toy.
 
-![Gunner in Snow](/images/stories/20/story-20-scene-01-gunner-in-snow-v1.png)
-
 He plunged his face straight into a drift and came up with snow on his ears, his nose, his eyebrows. He sneezed. He barked. He did three laps around the yard at full speed, cutting a black trench through the white landscape, tongue streaming behind him like a banner.
 
 Then he stopped.
@@ -66,8 +64,6 @@ But those fifteen seconds were something.
 Tiger approached the situation differently.
 
 He had watched the snow begin falling from his windowsill at approximately 2:17 AM — his night shift, his post. He'd observed the flakes with the detached interest of a scientist noting an atmospheric anomaly. White particles. Falling. Accumulating. Making the world progressively more hostile to anyone with paws who preferred them dry.
-
-![Tiger's Horror](/images/stories/20/story-20-scene-02-tigers-horror-v1.png)
 
 By dawn, Tiger had formed his official position on snow: against it.
 
@@ -97,8 +93,6 @@ He turned around and walked back to the door with the rigid dignity of a cat who
 
 Inside, Tiger took up position on the rug in front of the heater and commenced a thorough and indignant grooming of his belly fur, which had been contaminated by the outside.
 
-![Snow Angels and Disdain](/images/stories/20/story-20-scene-03-snow-angels-and-disdain-v1.png)
-
 Through the window, he could see Gunner. Still out there. Still rolling in it. Still making snow explosions with his face. Still acting like the entire frozen hellscape was a gift delivered specifically for him.
 
 Tiger's tail flicked once. Twice.
@@ -120,8 +114,6 @@ Mom appeared with hot chocolate for the boys and stood on the porch watching the
 The day went on. The snow kept falling. The boys built, destroyed, and rebuilt structures with the manic energy of construction crews on an impossible deadline. Dad shoveled the path to the woodshop and then gave up and joined the snowball fight, which was a mistake because three boys against one dad is a losing proposition under any conditions, and under snowy conditions it's a massacre.
 
 Gunner herded. Not successfully — he never herded anything successfully — but he ran between the combatants with enthusiastic commitment, occasionally catching a snowball meant for someone else, occasionally full-speed colliding with a boy who didn't see him coming, once getting his head stuck in a snowdrift and requiring the combined effort of the youngest boy and Dad to extract him.
-
-![Together in the Cold](/images/stories/20/story-20-scene-04-together-in-cold-v1.png)
 
 When it was time for lunch, the boys trooped inside, leaving wet boots and gloves and snow-crusted coats in a pile by the door that Mom eyed like an approaching natural disaster. Gunner came in last, soaking wet, caked with snow, radiating cold and joy in equal measure.
 
@@ -150,8 +142,6 @@ Tiger closed his eyes.
 ---
 
 Outside, the snow kept falling. By evening it was six inches deep and still coming. The mountains disappeared behind a curtain of white. The fence posts wore caps of snow. The yard was unmarked and perfect except for the war zone the boys had created and the winding black trench where Gunner had run his morning laps.
-
-![The Compromise](/images/stories/20/story-20-scene-05-the-compromise-v1.png)
 
 After dinner, Dad built a fire. The boys settled in with books and blankets and the particular quiet that comes over children when the day has genuinely, thoroughly exhausted them. Mom sat with a cup of tea and the first quiet moment she'd had since dawn.
 

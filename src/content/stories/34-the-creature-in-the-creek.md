@@ -7,10 +7,10 @@ description: "Gunner finds something weird in the creek on the property. Tiger a
 publishDate: 2026-05-10
 timeframe: "2025-07"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-34.png"
 draft: false
 order: 34
 ---
+
 Gunner found it on a Wednesday afternoon, which was supposed to be an ordinary Wednesday — the kind where the boys did school in the morning, the oldest built things in the afternoon, the middle one disappeared into his drawings, the youngest generated chaos at a pace that kept Mom running defensive patterns, and Gunner and Tiger patrolled the property in their respective styles (Gunner: nose to the ground, full speed, no plan; Tiger: fence post to fence post, slow and superior, total plan).
 
 But this Wednesday was different, because this Wednesday, Gunner was wading in the creek when his paw landed on something that was not a rock.
@@ -39,8 +39,6 @@ He lowered his head toward the water, nose twitching, trying to categorize this 
 
 His nose was approximately four inches from the turtle's face when Tiger arrived on the creek bank.
 
-![The Discovery](/images/stories/34/story-34-scene-01-the-discovery-v1.png)
-
 ---
 
 Tiger had been following Gunner at his usual distance — close enough to intervene, far enough to pretend he wasn't following. He'd seen Gunner wade into the creek, which was normal. He'd seen Gunner stop, which was less normal. And he'd seen Gunner lower his nose toward the water in the specific way that meant Gunner had found something and was about to make a terrible decision about it.
@@ -60,8 +58,6 @@ Gunner looked up. His nose lifted from the danger zone. He looked at Tiger on th
 The turtle, sensing the shadow had withdrawn, began to move. Slowly. Its legs — thick, clawed, muscular — pushed against the creek bed. Its head extended slightly, revealing the full length of its neck, which was considerably longer than it had appeared.
 
 Gunner looked back down. The turtle was moving! The new friend was coming closer!
-
-![The First Lunge](/images/stories/34/story-34-scene-02-the-first-lunge-v1.png)
 
 He lowered his nose again.
 
@@ -83,8 +79,6 @@ On the bank, Tiger's fur was bristled from neck to tail. His ears were flat. His
 
 For a long moment, nobody moved. Gunner stood in the creek, dripping. The turtle sat on the bottom, waiting. Tiger crouched on the bank, calculating.
 
-![Nobody Wins](/images/stories/34/story-34-scene-03-nobody-wins-v1.png)
-
 Then Gunner — because he was Gunner, because his brain had the emotional memory of a goldfish when it came to danger, because he was constitutionally incapable of learning from negative experiences on the first, second, or sometimes fifteenth attempt — leaned toward the turtle again.
 
 Tiger yowled.
@@ -103,8 +97,6 @@ Gunner's posture was conflicted. His front end said curiosity — ears forward, 
 
 Tiger's posture was simpler: he was done. The creature in the creek had been identified (threat), assessed (severe), and catalogued (avoid). Mission complete. Time to go.
 
-![Safe on the Bank](/images/stories/34/story-34-scene-04-safe-on-the-bank-v1.png)
-
 Tiger turned and walked toward the house.
 
 Gunner didn't follow. He was still staring at the turtle, head tilted, one ear up and one ear down, trying to process the events of the last ten minutes.
@@ -116,8 +108,6 @@ Gunner looked at the creek. Looked at Tiger. Looked at the creek.
 Tiger flicked his tail. The flick that meant *now.*
 
 Gunner looked at the creek one more time. The turtle hadn't moved. It was sitting there like a rock that hated him, and Gunner wanted very badly to understand why, but he also wanted very badly to follow Tiger, and when these two impulses competed, Tiger usually won.
-
-![Analysis From the Rock](/images/stories/34/story-34-scene-05-analysis-from-the-rock-v1.png)
 
 He trotted after the cat, wet and confused and exactly zero percent wiser.
 
@@ -140,8 +130,6 @@ That evening, Gunner lay on the porch with his head on his paws, occasionally gl
 Tiger, on the porch railing, did not comment. There was, in fact, no difference, but Tiger would accept "warned" over "saved" because "saved" implied emotional investment, and Tiger's emotional investment in Gunner was classified information.
 
 The middle boy sat down next to Gunner and put his hand on the dog's damp head. "Turtles are mean, buddy."
-
-![The Turtle's Domain](/images/stories/34/story-34-scene-06-the-turtles-domain-v1.png)
 
 Gunner's tail thumped once. The thump said: *They're not mean. They're just confused. They don't know I want to be friends. Nobody who knows me wouldn't want to be friends.*
 

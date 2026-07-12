@@ -8,10 +8,10 @@ description: "Dad bakes a fresh batch of cookies and leaves them on the kitchen 
 publishDate: 2025-11-30
 timeframe: "2019-02"
 artStyle: "graphite"
-coverImage: "/images/covers/story-11.png"
 draft: false
 order: 11
 ---
+
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 11: The Great Cookie Caper
@@ -36,8 +36,6 @@ When it was all over, Dad cleaned up the kitchen, stacked the remaining cookies 
 
 Gunner watched him think it. Gunner is very good at watching people think about food.
 
-![The Perfect Crime](/images/stories/11/story-11-scene-01-the-perfect-crime-v1.png)
-
 ---
 
 The next morning, Dad walked into the kitchen, coffee mug in hand, eyes still half-asleep, mind already on that cookie.
@@ -45,8 +43,6 @@ The next morning, Dad walked into the kitchen, coffee mug in hand, eyes still ha
 The plate was still there.
 
 The cookies were not.
-
-![The Empty Plate](/images/stories/11/story-11-scene-02-the-empty-plate-v1.png)
 
 Dad blinked. He looked at the plate. He looked under the plate. He looked *around* the plate, as if the cookies had perhaps shuffled three inches to the left during the night. He checked the counter. He checked the other counter. He checked the microwave, because at this point he was just desperate.
 
@@ -89,8 +85,6 @@ Nobody suspected the dog.
 Why would they? Gunner wasn't a cookie thief. Gunner was the guy who sat under the table waiting for crumbs to fall. Gunner was the guy who looked sad when the oven opened and no food came out for him. Gunner was *honest* — in the way a big goofy Lab is honest, which is to say he couldn't hide an emotion if his life depended on it.
 
 Or so everyone thought.
-
-![Weeks of Suspicion](/images/stories/11/story-11-scene-03-weeks-of-suspicion-v1.png)
 
 ---
 
@@ -139,8 +133,6 @@ And there, in the middle of the kitchen, was a scene that would be burned into h
 Gunner. Ninety pounds of black Lab. Up on his hind legs. *Fully* up, like a prairie dog, like a meerkat, like a bear cub reaching for the honey. His front paws were braced against the edge of the island. His back legs were trembling with the effort. His entire goofy body was stretched to its absolute mechanical limit, every vertebra in his spine straining toward the sky.
 
 And his tongue — his enormous pink Labrador tongue — was extended so far out of his mouth that it had developed regions. It had *territory.* It was reaching across the kitchen island toward the cooling rack like a pink, slobbery bridge of desperate hope, and the very tip of it was *just* barely grazing the bottom of a cookie.
-
-![Caught Red-Handed (The Money Shot)](/images/stories/11/story-11-scene-04-caught-red-handed-v1.png)
 
 He was so focused on the cookie that he didn't hear Dad come in.
 
@@ -210,8 +202,6 @@ Dad shook his head and laughed — the kind of laugh that comes out when you rea
 
 And he would've gotten away with it forever if he'd just stayed off the back legs.
 
-![The Confession](/images/stories/11/story-11-scene-05-the-confession-v1.png)
-
 "Tiger knew," Dad said suddenly, looking up at the refrigerator. "Didn't you. You knew the whole time."
 
 Tiger blinked once. Slow. Regal. The blink of a cat who has been waiting weeks for someone to finally ask him, and now that someone has, he is absolutely not going to answer.
@@ -219,7 +209,5 @@ Tiger blinked once. Slow. Regal. The blink of a cat who has been waiting weeks f
 Of course Tiger knew. Tiger knew where every crumb in the house went. Tiger knew which floorboard creaked. Tiger knew exactly how Gunner had pulled off the first cookie job — probably some combination of the same back-legs trick, executed after midnight, with the kind of silent precision that only a highly motivated Lab can achieve when the reward is chocolate chips.
 
 Tiger had simply chosen, for reasons of his own, not to testify.
-
-![Cats Don't Testify](/images/stories/11/story-11-scene-06-cats-dont-testify-v2.png)
 
 Cats are like that.

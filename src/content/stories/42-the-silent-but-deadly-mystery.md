@@ -7,10 +7,10 @@ description: "A truck ride to visit friends on another farm turns into an aftern
 publishDate: 2026-07-05
 timeframe: "2026-02"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-42.png"
 draft: false
 order: 42
 ---
+
 # The Adventures of Gunner the Lab... Oh, and Tiger Too
 
 ## Story 42: The Silent But Deadly Mystery
@@ -22,8 +22,6 @@ order: 42
 Gunner loved a truck ride.
 
 To be accurate — and it's important to be accurate about Gunner — Gunner loved the *idea* of a truck ride. He loved the moment the tailgate dropped. He loved the heroic leap into the back seat of the farm truck. He loved the first thirty seconds of wind and possibility, nose pressed to the glass, certain that this drive, unlike all the others, was leading somewhere magnificent.
-
-![The Idea of a Truck Ride](/images/stories/42/story-42-scene-01-idea-of-a-truck-ride-v1.png)
 
 After that he mostly fell asleep. But the *idea* — the idea was everything.
 
@@ -91,8 +89,6 @@ Because there was a feed lot out this way. A big one. And at certain times of ye
 
 "It's the feed lot," Dad announced, with the relief of a man who has found something to blame that is not his own child. "Gotta be. Wind's carrying it."
 
-![Blame the Feed Lot](/images/stories/42/story-42-scene-02-blame-the-feed-lot-v1.png)
-
 "The feed lot," the middle boy repeated, seizing the theory like a life raft. "*Yes.* Thank you. It's the feed lot. I *told* you it wasn't me."
 
 "I never said it was."
@@ -143,8 +139,6 @@ Dad's brain began, slowly, to do math it did not want to do.
 
 Three heads turned, very slowly, toward the back seat.
 
-![Three Heads Turn](/images/stories/42/story-42-scene-03-three-heads-turn-v1.png)
-
 Toward Gunner.
 
 Who was awake now. Sitting up. Looking back at all three of them with warm, innocent amber eyes and a big soft happy grin, tail thumping gently against the seat, completely delighted to have everyone's attention at last.
@@ -177,8 +171,6 @@ The middle boy, the dreamer, felt his soul return to his body. Vindication. Swee
 
 And Gunner — the culprit, the villain, the source of it all — surveyed the rolling-down windows and the shouting and the flapping hands with the deep satisfaction of a dog who had accidentally become the center of attention and could not imagine a finer outcome. Everyone was looking at him. Everyone was saying his name. His tail wagged harder.
 
-![Windows Down All the Way Home](/images/stories/42/story-42-scene-04-windows-down-all-the-way-home-v1.png)
-
 In his mind, he had done something wonderful.
 
 In a sense, he had.
@@ -191,8 +183,6 @@ When they finally turned up the long driveway, Tiger was waiting on the porch ra
 
 He watched the truck doors fly open. He watched three humans stagger out gasping like they'd surfaced from underwater. He watched Gunner leap down last, tail high, thrilled with himself and the world.
 
-![Passing the Feed Lot](/images/stories/42/story-42-scene-05-passing-the-feed-lot-v1.png)
-
 And Tiger, from the railing, gave the dog a long, level look.
 
 He did not know the specifics. But he knew that whatever had happened in that truck, he had been correct to stay home. He was always correct to stay home. This was simply more evidence, filed away with all the rest, in the vast and well-organized case Tiger was building titled *Reasons I Am Smarter Than Everyone.*
@@ -200,8 +190,6 @@ He did not know the specifics. But he knew that whatever had happened in that tr
 Gunner trotted up to the porch, delighted to see his best friend, and flopped down in his usual spot.
 
 Tiger, after a dignified pause, climbed down and curled up against him anyway. Warm was warm. Even a dog with weapons-grade digestion was still the best pillow on the property.
-
-![Arriving at the Friend's Farm](/images/stories/42/story-42-scene-06-arriving-at-the-friends-farm-v1.png)
 
 But he kept his nose pointed the other way.
 

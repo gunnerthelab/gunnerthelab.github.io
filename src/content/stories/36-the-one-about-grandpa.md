@@ -11,6 +11,7 @@ coverImage: "/images/covers/story-36.png"
 draft: false
 order: 36
 ---
+
 Gunner didn't understand hospitals, but he understood the man who came home from them.
 
 Grandpa smelled different each time he came back. He smelled like chemicals and clean sheets and something underneath that was hard and wrong, a smell that Gunner couldn't name but that made his chest feel heavy. It was the smell of a body fighting something it was losing to, and Gunner's nose — that magnificent, ridiculous nose that could find a dropped Cheerio from three rooms away — could track the fight in real time.
@@ -37,6 +38,8 @@ The scratch was slow. Thorough. Patient. It said everything about the man: he wa
 
 And Gunner would close his eyes and lean into the hand and stay there for as long as the hand was offered.
 
+![Grandpa sitting in his worn armchair, slowly petting Gunner's head as the big Lab rests against his knee — Tiger watches quietly from across the room](/images/stories/story-36-scene-02-the-slow-hand.png)
+
 Every Sunday.
 
 ---
@@ -49,11 +52,9 @@ Small ones. The training-size treats that came in a bag and smelled like bacon. 
 
 Gunner would take the treat gently — so gently — from Grandpa's fingers. This was notable because Gunner's approach to food from every other source was approximately the speed and precision of a garbage disposal. But from Grandpa's hand, he was careful. As if he understood that this hand was fragile. As if he understood that this hand would not always be there.
 
-![Grandpa's weathered hand extended palm-up, offering a treat — Gunner's face touches the palm gently, taking it with the delicate care he shows with no one else](/images/stories/36/story-36-scene-01-the-treats-v1.png)
+![Grandpa's weathered hand extended palm-up, offering a treat — Gunner's face touches the palm gently, taking it with the delicate care he shows with no one else](/images/stories/story-36-scene-01-the-treats.png)
 
 Tiger watched these Sunday visits from across the room.
-
-![The Sunday Visit](/images/stories/36/story-36-scene-02-the-sunday-visit-v1.png)
 
 Tiger's relationship with Grandpa was different from Gunner's. Tiger didn't approach. Didn't rub against legs. Didn't seek attention. He simply existed in the same room, on a shelf or a windowsill, maintaining a comfortable distance that said: *I see you. I acknowledge you. That is sufficient.*
 
@@ -87,8 +88,6 @@ Gunner was at Grandpa's feet. Head on paws. Eyes up.
 
 Grandpa reached down. The hand was thin now — thinner than it had been, the veins more visible, the grip less certain. It found Gunner's ear and scratched, the same slow scratch, the same patient attention.
 
-![The Slow Hand](/images/stories/36/story-36-scene-03-the-slow-hand-v1.png)
-
 Gunner closed his eyes.
 
 The pocket. The left pocket. Grandpa reached in and found a treat — the same small training treats, the same bacon smell.
@@ -107,8 +106,6 @@ Grandpa looked across the room and nodded.
 
 A nod and a blink. Their last conversation.
 
-![Their Entire Conversation](/images/stories/36/story-36-scene-04-their-entire-conversation-v1.png)
-
 ---
 
 Grandpa passed in February.
@@ -123,11 +120,11 @@ The truck didn't come.
 
 Dad found Gunner at the end of the driveway one evening, sitting in the spot where Grandpa used to park. Just sitting. Looking at the empty space.
 
+![An empty worn armchair in a quiet room — Gunner lies beside it with his head on his paws, watching where someone used to sit, while Tiger curls up on the arm of the chair, also still](/images/stories/story-36-scene-03-the-empty-chair.png)
+
 Dad sat down next to him. He didn't say anything. He just put his arm around the dog and they sat there together, watching the road, missing the same man.
 
 After a while, Tiger appeared. He walked down the driveway silently and sat on the other side of Dad. Not touching either of them. Just near. Just there.
-
-![The Empty Chair](/images/stories/36/story-36-scene-05-the-empty-chair-v1.png)
 
 Three figures at the end of a driveway. An empty parking spot. An evening sky.
 
@@ -138,8 +135,6 @@ Time did what time does. The sharp edges of missing someone got softer. The fami
 But in Gunner's bed, tucked under the blanket where Mom had placed it, was a small bag of training treats. Bacon-flavored. The kind Grandpa bought.
 
 Mom kept buying them. Same brand. Same size. She put them in a jar on the counter and gave Gunner one every evening, and every evening she said, quietly, more to herself than to the dog: "Don't tell your mother."
-
-![Don't Tell Your Mother](/images/stories/36/story-36-scene-06-dont-tell-your-mother-v1.png)
 
 The same joke. Grandpa's joke. Kept alive by a woman who had married into the family and loved the old man as much as anyone.
 

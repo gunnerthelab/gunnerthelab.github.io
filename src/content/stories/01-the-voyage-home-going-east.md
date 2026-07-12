@@ -11,6 +11,7 @@ coverImage: "/images/covers/story-01.png"
 draft: false
 order: 1
 ---
+
 *Phoenix, Arizona. Late 2016.*
 
 ---
@@ -35,7 +36,7 @@ It was supposed to be just a fun day. A drive up to one of those orchards somewh
 
 And Dad stood there in that orchard, with the smell of apples and grass and cool air, watching his three boys run between the trees, and the *tug* in his chest pulled so hard he had to sit down on a bench.
 
-![Dad sits on a bench in the apple orchard, watching his three boys pick apples, the pull in his chest finally too strong to ignore](/images/stories/01/story-01-scene-01-the-orchard-v1.png)
+![Dad sits on a bench in the apple orchard, watching his three boys pick apples, the pull in his chest finally too strong to ignore](/images/stories/story-01-scene-01-the-orchard.png)
 
 Then, a few weeks later, the tipping point.
 
@@ -43,7 +44,7 @@ Dad's commute home from the east side of town was normally about an hour. One ni
 
 That was it. That was enough.
 
-![Dad sits in the parked truck, engine off, staring at the steering wheel, the two-hour commute that finally broke something](/images/stories/01/story-01-scene-02-the-tipping-point-v1.png)
+![Dad sits in the parked truck, engine off, staring at the steering wheel, the two-hour commute that finally broke something](/images/stories/story-01-scene-02-the-tipping-point.png)
 
 A few days later, Mom found him sitting on the back patio after the boys had gone to bed. She looked at him. He looked at her. She knew that face.
 
@@ -67,7 +68,7 @@ When he was finished, she was quiet for a long moment. The pool filter hummed. S
 
 And just like that, on the back patio of a house in Phoenix, after the boys were asleep and the city was finally quiet, the family decided to go.
 
-![Dad and Mom on the back patio at night, the pool reflecting moonlight behind them, the boys asleep inside, the decision just made](/images/stories/01/story-01-scene-03-the-patio-v1.png)
+![Dad and Mom on the back patio at night, the pool reflecting moonlight behind them, the boys asleep inside, the decision just made](/images/stories/story-01-scene-03-the-patio.png)
 
 ---
 
@@ -76,6 +77,8 @@ The *where* took some figuring out.
 There were maps spread across the kitchen table for weeks. Dad's maps, his laptop open long after everyone else had gone to bed, coffee gone cold beside it. Idaho came up first and got crossed off fast. They'd already done that particular kind of cold once, and once, it turned out, had been plenty. Colorado came up too, and got crossed off for a reason the family has quietly agreed, to this day, not to get into. Then, to everyone's genuine surprise, Dad's included, there was Texas. Even Texas. Not the dried-up, sun-bleached Texas of Dad's own boyhood, all dust and mesquite and a sky that never gave an inch. The other Texas. Green. Creeks, pine trees, grass that stayed grass clear through summer. Texas it was.
 
 The only thing left to work out was how much of it. Dad wanted hundreds and hundreds of acres, nobody for miles in any direction. Mom, who had never once in her life lived outside a city, wanted something more manageable, and not so far from at least one other human being. Dad dreamed big. Mom did the math. In the end, and it's fair to say Mom's math won, it came down to a fifteen-acre homestead with an old farmhouse, a barn, a pond, and enough fence to know that animals had once lived there and would live there again.
+
+![Dad reads a road atlas open to Texas at the kitchen table, two boys watching over his shoulder as the plan takes shape](/images/stories/story-01-scene-the-plan.png)
 
 They put the Phoenix house on the market in the middle of October. It sold faster than anyone expected. But selling fast and leaving fast are two different things, and closing on a house takes about a month no matter how quick the offer comes, which set their real leaving date somewhere in early December and handed the family a strange, suspended few weeks of living in a house that wasn't quite theirs anymore.
 
@@ -121,7 +124,7 @@ Mom looked in the rearview mirror.
 
 Three small voices, in unison: "*Yes ma'am.*"
 
-![Both vehicles loaded in the Phoenix driveway, Bear in the truck cab, the boys strapped in the minivan, the house behind them for the last time](/images/stories/01/story-01-scene-04-loaded-up-v1.png)
+![Both vehicles loaded in the Phoenix driveway, Bear in the truck cab, the boys strapped in the minivan, the house behind them for the last time](/images/stories/story-01-scene-04-loaded-up.png)
 
 She started the van.
 
@@ -137,13 +140,9 @@ Everyone sang. The youngest sang loudest, even though he didn't know any of the 
 
 In the truck, Dad rolled the window down. Cool, dry December air came in, nothing like the furnace blast of a Phoenix July. Bear's nose twitched once and then went still. Bear was not interested in desert air. Bear was waiting for trees.
 
-![The Last Look](/images/stories/01/story-01-scene-05-the-last-look-v1.png)
-
 Hour two was still pretty good. The middle boy pressed his face to the glass and started narrating the desert as if it were secretly, deeply full of animals. A jackrabbit became a wild mustang. A distant cow became a bison, obviously, just look at the size of it. A hawk circling over the highway became a dragon, because everyone knew, or should have known, that hawks were basically dragons if you squinted. Nobody argued with him. Nobody in that family had ever really been able to.
 
 Hour three, the youngest needed to potty. They found a gas station. Getting one two-year-old, one four-year-old, and one six-year-old out of a minivan, into a gas station bathroom, and back into their seats again took a little over twenty minutes, which, by the standards of this particular family, counted as efficient. Bear watched all of it from the passenger seat of the truck with the deeply philosophical patience of a dog who knew this would not be the last stop of the day.
-
-![Hour Four](/images/stories/01/story-01-scene-06-hour-four-v1.png)
 
 Hour four, the youngest hit the wall. There was no real reason for it. Nothing had happened, nothing was wrong. He had simply reached the exact mile marker where a two-year-old's patience for sitting still runs all the way out, and the tears came without warning and without much logic behind them. Mom didn't raise her voice. She reached one hand back without looking, found his foot, and held onto it while she kept driving and kept talking to him low and steady, the way she did with exactly this kind of thing, until four minutes later, maybe five, he hiccupped twice and fell asleep sitting bolt upright, his head tipped sideways against the car seat strap.
 
@@ -191,8 +190,6 @@ A pause, the kind that said a great deal without saying anything at all. "It's *
 
 "*Don't* tell me that unless it's true."
 
-![The Overnight in El Paso](/images/stories/01/story-01-scene-07-el-paso-overnight-v1.png)
-
 "It's true."
 
 "...Okay. Keep driving."
@@ -235,13 +232,13 @@ It did not stop with the skunk. As the highway narrowed and the last of the dayl
 
 It was wondrous and it was exhausting in exactly equal measure, the kind of tired where your eyes go wide instead of heavy, where the last hour of a very long day turns into its own small adventure precisely because you don't have anything left to feel it with except pure attention. The boys pressed against the windows. Mom drove slower than she needed to and didn't apologize for it. In the truck, Bear sat up straighter than he had all day, nose working the cracked window, like even he understood that they had crossed over into somewhere different. Somewhere with more life crowded into the dark than either vehicle full of city people had ever driven through before.
 
-![Arrival in the Dark](/images/stories/01/story-01-scene-08-arrival-in-the-dark-v1.png)
-
 ---
 
 They turned onto the long dirt driveway of the new homestead in the full dark, at the end of the second and longest day.
 
 The minivan crunched over gravel. The pickup followed. The driveway curved around a stand of pine trees and then opened up, and the headlights swung across it: the old farmhouse, the barn, and past them the flat black shine of the pond, the fence lines running off into fifteen acres of dark the family could feel more than see. The whole place smelled like grass and water and somebody's woodsmoke drifting over from down the road.
+
+![Dad stands by his truck as the family steps out of the minivan at the East Texas homestead for the very first time](/images/stories/story-01-scene-the-arrival.png)
 
 Mom stopped the minivan.
 

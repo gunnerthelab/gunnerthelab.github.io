@@ -12,6 +12,7 @@ coverImage: "/images/covers/story-38.png"
 draft: false
 order: 38
 ---
+
 Nobody told Gunner that Bear was getting old. Nobody had to.
 
 He noticed things. That was the part most people didn't understand about Gunner — they saw the goofball, the food thief, the ninety-pound wrecking ball who couldn't herd a chicken to save his life. But Gunner noticed things. He noticed when someone was sad. He noticed when the boys were fighting before anyone raised a voice. He noticed when Dad sat a little too long on the porch staring at nothing.
@@ -62,7 +63,7 @@ When Bear drifted toward the tree line, Gunner drifted with him, then gently ang
 
 Dad watched this happen three more times before his eyes got blurry too, and not because of any medical condition.
 
-![Two dogs walking side by side down a dirt trail — Gunner matches Bear's slow pace perfectly, step for step, while the family walks ahead in the distance, not yet realizing the two dogs have fallen behind](/images/stories/38/story-38-scene-01-shoulder-to-shoulder-v1.png)
+![Two dogs walking side by side down a dirt trail — Gunner matches Bear's slow pace perfectly, step for step, while the family walks ahead in the distance, not yet realizing the two dogs have fallen behind](/images/stories/story-38-scene-01-shoulder-to-shoulder.png)
 
 ---
 
@@ -80,7 +81,7 @@ At the steps, Bear hesitated. He couldn't see them well, and the last time he'd 
 
 Gunner went up first. One step. Then stopped. Waited. Bear found the first step with his paw, pulled himself up. Gunner took the next step. Waited again. Step by step, like a seeing-eye dog who had never been trained for the job but had figured it out anyway because somebody needed him to.
 
-![Gunner standing on the second porch step, looking back down at Bear who hesitates at the bottom — one paw raised but uncertain, hovering — while Gunner waits, completely still, completely patient](/images/stories/38/story-38-scene-02-the-porch-steps-v1.png)
+![Gunner standing on the second porch step, looking back down at Bear who hesitates at the bottom — one paw raised but uncertain, hovering — while Gunner waits, completely still, completely patient](/images/stories/story-38-scene-02-the-porch-steps.png)
 
 When they reached the porch, Bear found his spot — the same spot he'd claimed for years, the shaded corner near the door — and lowered himself down with the careful, creaking effort of a body that was running out of easy days.
 
@@ -104,7 +105,7 @@ He jumped down from the railing, crossed the porch, and curled up against Bear's
 
 Bear between Gunner and Tiger, bookended by the two animals who had spent years avoiding each other but who understood, in this moment, that some things are bigger than old grudges.
 
-![Bear lying peacefully on the porch with Gunner close on one side and Tiger curled against his back on the other — three animals, late afternoon golden light, the homestead stretching behind them](/images/stories/38/story-38-scene-03-the-three-of-them-v1.png)
+![Bear lying peacefully on the porch with Gunner close on one side and Tiger curled against his back on the other — three animals, late afternoon golden light, the homestead stretching behind them](/images/stories/story-38-scene-03-the-three-of-them.png)
 
 Bear's tail moved. Just once. Just barely. A single slow wag against the porch boards.
 
@@ -164,7 +165,7 @@ Tiger sat in the spot where Bear used to sleep. Just sat there. Not sleeping. Ju
 
 On the fourth day, Gunner found one of Bear's old toys — a chewed-up, flattened thing that barely qualified as a toy anymore. He carried it to Bear's spot, set it down, and lay beside it.
 
-![An empty spot on the farmhouse porch — a flattened old dog toy in the center, Gunner lying beside it watching where someone used to be, Tiger sitting in the empty spot itself, keeping it warm](/images/stories/38/story-38-scene-04-the-spot-v1.png)
+![An empty spot on the farmhouse porch — a flattened old dog toy in the center, Gunner lying beside it watching where someone used to be, Tiger sitting in the empty spot itself, keeping it warm](/images/stories/story-38-scene-04-the-spot.png)
 
 Mom found him there an hour later and sat down on the porch floor next to him. She didn't say anything. She just put her hand on his head and left it there.
 
@@ -172,7 +173,7 @@ Tiger came and lay against Gunner's side.
 
 The three of them stayed like that until the sun went down.
 
-![Mom sitting on the porch floor, hand resting on Gunner's head, Tiger pressed against the dog's side — all three looking out at a Virginia sunset, sharing the weight of something they can't say out loud](/images/stories/38/story-38-scene-05-being-there-v1.png)
+![Mom sitting on the porch floor, hand resting on Gunner's head, Tiger pressed against the dog's side — all three looking out at a Virginia sunset, sharing the weight of something they can't say out loud](/images/stories/story-38-scene-05-being-there.png)
 
 ---
 

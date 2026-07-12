@@ -6,10 +6,10 @@ eraLabel: "Seasonal & Holiday"
 description: "Fireworks terrify Gunner. Tiger couldn't care less. A story about Tiger actually comforting Gunner, curling up beside him, even though he'd never admit it."
 publishDate: 2026-04-12
 timeframe: "2025-07"
-coverImage: "/images/covers/story-30.png"
 draft: false
 order: 30
 ---
+
 Gunner didn't understand explosions.
 
 He understood almost everything else. He understood "walk" and "food" and "good boy" and "no" (he understood "no" perfectly; he simply chose not to honor it). He understood the sound of Dad's truck in the driveway and the boys' sneakers on the porch and the particular crinkle of the treat bag that he could hear from any point on the property.
@@ -34,8 +34,6 @@ He'd been lying on the porch, belly up, in the middle of a perfectly good evenin
 
 But Gunner was already moving. Not outside — inside. He pushed through the screen door and retreated to the hallway, then further, to the bathroom, which was the smallest, most enclosed room in the house and therefore the safest from whatever was happening to the sky.
 
-![The Terror](/images/stories/30/story-30-scene-01-the-terror-v1.png)
-
 He wedged himself between the toilet and the bathtub, which was not a space designed for ninety pounds of Labrador, and shook. Not his whole body — just a fine, continuous tremor that ran through him like a current.
 
 Another boom from outside. Gunner pressed himself lower, trying to become smaller, trying to disappear. His breath came fast and shallow, and his eyes — those warm amber eyes that usually looked at the world with uncomplicated joy — were round with a fear he couldn't name.
@@ -54,8 +52,6 @@ Another boom. Gunner's whole body pressed against the boy.
 
 The middle boy appeared with a blanket from his bed — his favorite one, the one he slept with every night — and draped it over Gunner. "This helps me when I'm scared," he said. It was a simple gesture from a boy who understood, in the way dreamers understand things, that comfort doesn't have to be complicated.
 
-![The Middle Boy's Blanket](/images/stories/30/story-30-scene-02-the-middle-boys-blanket-v1.png)
-
 The oldest stood in the doorway, arms crossed, trying to look like he wasn't worried, which was how the oldest showed that he was very worried. "Should we close the windows?" he asked, which was a practical solution from a boy who solved everything practically.
 
 Dad appeared behind them. "Windows closed. Music on. We'll ride it out."
@@ -63,8 +59,6 @@ Dad appeared behind them. "Windows closed. Music on. We'll ride it out."
 He put on music — something with a steady beat that filled the house and competed with the booms from outside. He closed every curtain. He turned on lights. The house became a fortress of noise and light, a cocoon against the war zone the neighbors had turned the sky into.
 
 Gunner stayed in the bathroom. The boys took turns sitting with him. The youngest talked to him. The middle one sang, off-key, which Gunner seemed to appreciate more than the boy's actual skill deserved. The oldest brought water and set it where Gunner could reach.
-
-![The Comfort](/images/stories/30/story-30-scene-03-the-comfort-v1.png)
 
 And then they had to go back out, because they were boys and it was the Fourth of July and there were sparklers that needed waving and bottle rockets that Dad was setting off in the yard — small ones, far from the house, with the careful attention of a man who took fire safety seriously and also wanted his kids to have a holiday.
 
@@ -76,11 +70,7 @@ He shook.
 
 Tiger was on the porch through all of it.
 
-![Asleep Through the Finale](/images/stories/30/story-30-scene-04-asleep-through-the-finale-v1.png)
-
 The fireworks didn't bother him. Not because he was brave — bravery implies overcoming fear, and Tiger didn't have any to overcome. He simply didn't find explosions concerning. They were loud, yes. They were bright. But they were far away, and nothing far away had ever hurt Tiger. The things that had hurt Tiger had all been close — coyotes in the dark, cold nights without his mother, the world shrinking from fifteen acres to one.
-
-![Fireworks Over the Field](/images/stories/30/story-30-scene-05-fireworks-over-the-field-v1.png)
 
 Distant booms in the sky were nothing compared to that.
 
@@ -111,8 +101,6 @@ Gunner's shaking slowed.
 Not all at once. Gradually. The tremor that had been running through him like electricity began to lose its current. His breathing deepened. His muscles, which had been coiled so tight they ached, began to release.
 
 Another boom from outside. Gunner flinched. Tiger didn't move. The purr continued.
-
-![Tiger Pretends It Never Happened](/images/stories/30/story-30-scene-06-tiger-pretends-v1.png)
 
 Another boom. Smaller flinch this time.
 

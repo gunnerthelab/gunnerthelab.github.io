@@ -6,10 +6,10 @@ eraLabel: "Seasonal & Holiday"
 description: "Something is eating Mom's seedlings. Gunner is accused. Tiger is accused. It's actually deer, but Tiger frames Gunner anyway."
 publishDate: 2026-04-26
 timeframe: "2025-04"
-coverImage: "/images/covers/story-32.png"
 draft: false
 order: 32
 ---
+
 Spring came to the Virginia mountains like someone slowly turning up a dial. One week the trees were bare and the ground was brown and the wind still had teeth. The next week, a faint green haze appeared on the ridgeline, barely visible, like the mountain was holding its breath. Then — all at once, it seemed — everything exploded. Dogwoods bloomed white. Redbuds went purple. The grass turned green overnight, and the birds came back like they'd been waiting backstage for their cue.
 
 Mom's garden went in the first warm weekend. She'd been planning since January — sketching bed layouts on graph paper at the kitchen table while the boys did school and Tiger slept on her blueprints. Tomatoes here. Peppers there. Squash along the fence. Herbs by the kitchen door, same as always, because some things you carry from house to house like furniture.
@@ -23,8 +23,6 @@ They went into the ground on a Saturday. By Monday, something had eaten half of 
 "LOOK AT THIS."
 
 Mom was in the garden at 7 AM, holding up the remains of a tomato seedling — a stem, chewed clean at the base, lying flat on the soil like a tiny crime scene. Around it, five more seedlings had been similarly decapitated. The pepper starts had been nibbled. The squash was untouched, because even garden criminals apparently had standards.
-
-![The Crime Scene](/images/stories/32/story-32-scene-01-the-crime-scene-v1.png)
 
 "Something ate my garden."
 
@@ -54,8 +52,6 @@ Mom was furious. Mom was also suspicious.
 
 She began investigating with the methodical intensity of a former teacher grading exams — each piece of evidence examined, each suspect considered, no detail too small.
 
-![The Frame Job](/images/stories/32/story-32-scene-02-the-frame-job-v1.png)
-
 Evidence: the chewing pattern was clean and low, suggesting a creature close to the ground. Evidence: no digging, which ruled out moles and gophers. Evidence: small, round droppings near the garden fence that could be rabbit but could also be deer.
 
 Suspects: deer, rabbits, groundhogs, Gunner (perennial suspect), Tiger (questionable motive but suspicious proximity), and the youngest boy, who Mom did not genuinely suspect but included on the list because the youngest had once eaten dirt on a dare and his boundaries with flora were therefore considered unreliable.
@@ -75,8 +71,6 @@ Tiger had watched them with the studied disinterest of a cat who didn't garden, 
 But Tiger also had an opportunity.
 
 The evidence the deer left — the droppings, the chewing pattern — was ambiguous enough to be attributed to multiple suspects. And one of those suspects was Gunner.
-
-![The Real Culprits](/images/stories/32/story-32-scene-03-the-real-culprits-v1.png)
 
 Tiger didn't hate Gunner. Tiger loved Gunner, in the complicated, unspoken, never-to-be-acknowledged way that cats love things. But Tiger also believed in the natural order, and in the natural order, the cat was innocent and the dog was guilty. Always. This was simply how the universe worked.
 
@@ -98,8 +92,6 @@ Tiger then retired to his fence post to await results.
 
 Mom. Examining the suspect on the porch. Gunner's paws were dirty. His side had a smear of garden soil. Near his bed: a chewed leaf.
 
-![Case Cleared](/images/stories/32/story-32-scene-04-case-cleared-v1.png)
-
 Gunner looked up at Mom with the guileless expression of a creature who had no idea why he was dirty (he'd stepped in the seedling tray), no idea how the leaf got there (Tiger), and no idea that he was about to be wrongfully convicted of herbicide.
 
 "I KNEW IT," Mom said.
@@ -120,8 +112,6 @@ He pointed it at the garden. He left it running overnight. He checked it at dawn
 
 Three deer. Clear as day. Browsing the seedlings at 2:17 AM.
 
-![The Accused](/images/stories/32/story-32-scene-05-the-accused-v1.png)
-
 "It wasn't Gunner!" the middle boy announced, holding up the camera with the triumph of a defense attorney presenting exculpatory evidence. "It was deer! The whole time!"
 
 Gunner, hearing his name and sensing that the emotional temperature in the room had shifted in his favor, wagged enthusiastically.
@@ -141,8 +131,6 @@ Tiger was on the fence post, grooming a paw, looking at the mountains. He had no
 "That's an advanced accusation," Dad said.
 
 "Look at his face. That is the face of guilt."
-
-![Deer at Dusk](/images/stories/32/story-32-scene-06-deer-at-dusk-v1.png)
 
 Tiger's face was, in fact, the face of a cat cleaning between his toes. It revealed nothing.
 

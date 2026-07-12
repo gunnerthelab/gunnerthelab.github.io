@@ -7,10 +7,10 @@ description: "Tiger becomes convinced the mailman is a spy. He recruits Gunner f
 publishDate: 2026-05-03
 timeframe: "2025-06"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-33.png"
 draft: false
 order: 33
 ---
+
 The mailman came at 1:47 PM. Every day. Same time. Same truck — a white box on wheels that crept up the gravel road with the steady, deliberate pace of something that did not want to be noticed.
 
 Tiger noticed.
@@ -96,8 +96,6 @@ Tiger sat behind the hydrangea and watched his entire operation collapse in real
 
 The spy — the alleged spy — was being licked by his partner. His surveillance asset was fraternizing with the target. The stakeout was over. The mission was compromised.
 
-![The Stakeout](/images/stories/33/story-33-scene-01-the-stakeout-v1.png)
-
 Tiger's tail lashed once. Hard.
 
 ---
@@ -112,15 +110,11 @@ He tried timing adjustments, going out earlier, but Gunner followed him every ti
 
 He tried going alone, leaving Gunner inside, but Gunner would hear the truck through the walls and bark until someone let him out, at which point the sprint-and-lick sequence would commence.
 
-![Winning Him Over](/images/stories/33/story-33-scene-03-winning-him-over-v1.png)
-
 The fundamental problem was unsolvable: Tiger wanted to watch the mailman. Gunner wanted to love the mailman. These objectives were operationally incompatible.
 
 By day five, Tiger had essentially given up on surveillance and was watching the daily Gunner-mailman reunion from his fence post with the resigned expression of an intelligence officer whose partner has gone rogue.
 
 Gerald the mailman, for his part, had started bringing dog treats. He kept a box of Milk-Bones in the truck specifically for Gunner, which he distributed during the daily greeting ceremony. This made Gunner love him even more, which made Tiger's job even harder, which made the whole situation exactly the kind of mess that happens when a strategist partners with an optimist.
-
-![The Daily Watch](/images/stories/33/story-33-scene-04-the-daily-watch-v1.png)
 
 ---
 
@@ -129,8 +123,6 @@ On day eight, something unexpected happened.
 Gerald the mailman was making his delivery when he noticed Tiger on the fence post. He'd seen the cat before — hard to miss a tabby sitting six feet in the air, staring at you with golden eyes that suggested you were being evaluated and found lacking — but today he did something new.
 
 He reached into his pocket and pulled out a small packet. Cat treats.
-
-![The Pocket Full of Treats](/images/stories/33/story-33-scene-05-pocket-full-of-treats-v1.png)
 
 "Hey there, kitty," Gerald said, holding one out.
 
@@ -151,8 +143,6 @@ Gunner sat beside them, tail wagging, thrilled that his two friends were finally
 Tiger ate a second treat. Then he turned, jumped back onto the fence post, and resumed his watch.
 
 He had not been compromised. He was simply gathering intelligence through infiltration. The treats were part of a long-term strategy to get close to the target and assess his true intentions.
-
-![Filing the Report](/images/stories/33/story-33-scene-06-filing-the-report-v1.png)
 
 This was what Tiger told himself.
 

@@ -6,10 +6,10 @@ eraLabel: "The Boys & Family"
 description: "The boys ask Dad what he does for work. Dad tries to explain cloud architecture. Gunner thinks they're talking about actual clouds. Tiger looks out the window at the sky, deeply unimpressed."
 publishDate: 2026-03-22
 timeframe: "2025-02"
-coverImage: "/images/covers/story-27.png"
 draft: false
 order: 27
 ---
+
 "Dad, what do you do?"
 
 It was the middle boy who asked. He was sitting at the kitchen table with a worksheet about careers that Mom had assigned as part of their homeschool unit on community. The question was straightforward: *What does your parent do for work? Describe their job in your own words.*
@@ -42,8 +42,6 @@ Dad gently moved his hand. "Okay. So. You know how we keep stuff in the barn? To
 
 "And the cat," the youngest said. Tiger was, in fact, in the barn at this moment.
 
-![The Explanation](/images/stories/27/story-27-scene-01-the-explanation-v1.png)
-
 "And the cat. But imagine if instead of keeping all that stuff in *our* barn, we could keep it in someone else's barn — a really big barn, far away — and get to it whenever we wanted, from anywhere."
 
 "That's dumb," the oldest said. "What if you need a wrench right now?"
@@ -67,8 +65,6 @@ Dad pointed at him. "That's actually a really good way to put it."
 Dad turned his laptop screen toward them. It showed a diagram — boxes connected by arrows, labels in small text, color-coded systems that flowed into other systems. It looked like a city map drawn by someone who thought in right angles.
 
 The oldest studied it. "That's a network diagram."
-
-![The Family Network Diagram](/images/stories/27/story-27-scene-02-family-network-diagram-v1.png)
 
 "When did you learn that?" Dad asked.
 
@@ -94,19 +90,13 @@ The middle boy stared at the diagram like it was a treasure map. Which, to him, 
 
 The middle boy went quiet. Dad could see the gears turning — the same gears that turned when the kid drew his maps, built his forts, designed the elaborate fictional kingdoms in his notebooks. He was mapping Dad's cloud the same way he mapped everything else — finding the story in the structure.
 
-![Three Interpretations](/images/stories/27/story-27-scene-04-three-interpretations-v1.png)
-
 ---
 
 Gunner had been lying under the table during this conversation, which was his default position during any family gathering in the kitchen. His understanding of the discussion was limited but earnest.
 
 He'd heard "cloud" multiple times. He knew what clouds were. They were the big white things in the sky that sometimes turned gray and made water fall, which was exciting because water was one of his top five favorite substances.
 
-![Lost in the Clouds](/images/stories/27/story-27-scene-03-lost-in-clouds-v1.png)
-
 He looked out the window at the sky. No clouds. But they'd come back. They always came back.
-
-![Reporting to the Clouds](/images/stories/27/story-27-scene-05-reporting-to-the-clouds-v1.png)
 
 He put his head on his paws and returned to his vigil, occasionally glancing upward through the glass with the patient expression of a dog waiting for the sky to do something interesting.
 
@@ -145,8 +135,6 @@ Dad sat down next to him. Gunner, who had followed Dad outside because following
 "That's a pretty good architecture," Dad said.
 
 The middle boy shrugged, but he was smiling. The kind of smile that happens when a kid realizes his dad's weird job might actually be a little bit cool.
-
-![Tiger Judges the Sky](/images/stories/27/story-27-scene-06-tiger-judges-the-sky-v1.png)
 
 Tiger appeared on the porch railing, because Tiger appeared everywhere. He looked at the notebook, looked at the boy, and jumped down into his lap.
 

@@ -7,10 +7,10 @@ description: "First day on 40 acres in Virginia. Gunner marks every single tree 
 publishDate: 2025-12-28
 timeframe: "2024-06"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-15.png"
 draft: false
 order: 15
 ---
+
 Forty acres.
 
 Gunner stood at the edge of the driveway on their first morning and stared at the land stretching before him — rolling fields that dipped into hollows, climbed up ridges, and disappeared into woods so dense and dark they might as well have been another country. His nose twitched. His ears stood at attention. His tail, which had been wagging at its standard operational speed, slowly escalated to maximum velocity.
@@ -28,8 +28,6 @@ Gunner launched.
 ---
 
 The marking campaign began at Tree Number One — a red oak at the corner of the yard, thick-trunked and scarred with age. Gunner gave it the full treatment: approach, sniff, lift, mark. This tree was his now. Claimed. Documented.
-
-![Marking Territory](/images/stories/15/story-15-scene-01-marking-territory-v1.png)
 
 Tree Number Two was a poplar, maybe thirty feet away. Same procedure. Approach, sniff, lift, mark. His. Done.
 
@@ -83,8 +81,6 @@ This was his kingdom now.
 
 He didn't need to mark it. He didn't need to pee on it. He just needed to see it, understand it, file it away in the vast mental map that Tiger maintained for every place he'd ever lived. Trees here. Open ground there. Cover, shade, water, and escape routes, all catalogued and stored with the meticulous precision of a creature who'd survived everything the world had thrown at him.
 
-![Lord of the Mountain](/images/stories/15/story-15-scene-02-lord-of-the-mountain-v1.png)
-
 The wind came up the ridge and carried the scent of the forest — pine and oak and decay and mushroom and something animal, something wild, something that said *this place has residents already, and they were here first.*
 
 Tiger's ears rotated. His eyes narrowed.
@@ -107,8 +103,6 @@ By late afternoon, Gunner had made it to the back of the property.
 
 The middle boy tracked his progress and reported it like a war correspondent: "He's past the creek now. He's at the big fallen tree. He's... he's lying down. I think he's done."
 
-![The Creek Discovery](/images/stories/15/story-15-scene-03-the-creek-discovery-v1.png)
-
 They found him at the far fence line, lying in the shade of an ancient oak, tongue hanging sideways out of his mouth, sides heaving. He'd covered approximately two and a half miles of perimeter, marked more than a hundred trees, fence posts, rocks, and one particularly offensive stump, and he was empty. In every way. His legs ached. His reserves were gone. His bladder was a distant memory.
 
 But when Dad knelt down next to him, Gunner's tail wagged. Weakly, exhaustedly, but it wagged. Because Dad was here, and being near Dad was better than anything, even better than marking trees, which was saying something, because today marking trees had been Gunner's entire purpose in life.
@@ -119,8 +113,6 @@ Gunner licked Dad's hand. The lick said: *I have claimed this land in the name o
 
 Dad picked him up. All ninety pounds. He carried the dog across the back field like a giant, ridiculous baby — Gunner's legs dangling, his head on Dad's shoulder, his nose pressed into Dad's neck where the smell was best — sweat and coffee and overalls and the particular Dad-smell that had meant safety since Gunner was ten weeks old.
 
-![Carried Like a Baby](/images/stories/15/story-15-scene-04-carried-like-a-baby-v1.png)
-
 The boys walked alongside, laughing at the sight of their father hauling a full-grown Labrador across a field. Mom took a photo from the porch that she'd keep forever.
 
 Tiger watched from the barn roof. The silhouette of Dad carrying Gunner across the ridge, backlit by the Virginia sunset, was either the most ridiculous thing he'd ever seen or the most tender.
@@ -130,8 +122,6 @@ Possibly both.
 ---
 
 That night, in the new house, with boxes still stacked and furniture still being arranged and the boys sleeping in sleeping bags on the floor because their beds weren't set up yet, Gunner and Tiger found their spot.
-
-![First Night on the Land](/images/stories/15/story-15-scene-05-first-night-on-the-land-v2.png)
 
 It was by the heater, because there was always a heater, and Tiger had a supernatural ability to locate the warmest square foot in any building within minutes of entering it. The rug was different. The floor was different. The sounds were different — mountain sounds, not Texas sounds. Wind in different trees. Different insects. The particular creak of a different old house settling around them for the night.
 

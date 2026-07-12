@@ -7,10 +7,10 @@ description: "A real black bear wanders onto the Virginia property. Gunner think
 publishDate: 2026-05-17
 timeframe: "2025-09"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-35.png"
 draft: false
 order: 35
 ---
+
 The bear came on a morning in late September, when the air was cool enough to remember that winter existed and the leaves were just starting to turn on the ridgeline. It was a black bear — a young boar, maybe three hundred pounds, with a glossy coat and the slightly lost expression of an animal that had wandered further down the mountain than it intended while following the smell of apples from the neighbor's orchard.
 
 Gunner saw it first. He was in the yard, doing his morning sweep — sniffing the fence line, checking the perimeter, investigating a suspicious stick — when he stopped dead at the edge of the tree line and stared.
@@ -75,8 +75,6 @@ The hiss came from above, which was unexpected for both the bear and Gunner.
 
 Gunner looked up and saw Tiger on the branch, back arched, fur fully bristled, looking approximately three times his actual size — which was still tiny compared to the bear but was, visually, significantly more alarming than an eleven-pound cat had any right to be.
 
-![The Big Dog](/images/stories/35/story-35-scene-01-the-big-dog-v1.png)
-
 The bear looked up too.
 
 What it saw was a creature in a tree — a position that, in bear psychology, meant the creature was either prey (which climbed trees to escape) or a threat (which climbed trees to attack). This particular creature was hissing, spitting, making itself as large as possible, and staring at the bear with golden eyes that contained zero fear and maximum hostility.
@@ -139,8 +137,6 @@ Tiger blinked at him. The slow blink.
 
 *I know what I weigh. Weight is irrelevant when you have high ground and no fear.*
 
-![The High-Ground Hiss](/images/stories/35/story-35-scene-02-high-ground-hiss-v1.png)
-
 Gunner was at the fence line, looking into the woods, still hoping the big dog would come back.
 
 He never did.
@@ -151,26 +147,18 @@ That night, Dad installed motion-sensor lights along the tree line. He told the 
 
 "Bears are more scared of us than we are of them," Dad said.
 
-![The Boy Who Saw It First](/images/stories/35/story-35-scene-03-the-boy-who-saw-it-first-v1.png)
-
 "I'm not scared of them," the youngest said.
 
 "That's why we have rules," Mom said.
 
 Under the table, Gunner slept. He dreamed of a big black dog who lived in the woods and didn't want to play, which was sad but not unexpected. Not everyone wanted to play. Gunner had learned this from the cows.
 
-![The Retreat](/images/stories/35/story-35-scene-04-the-retreat-v1.png)
-
 On the windowsill, Tiger kept watch. His eyes tracked the tree line as the last light faded. The motion-sensor lights hummed, ready. The forest was dark and full of things that were bigger than cats and bigger than dogs and did not come to the yard to make friends.
-
-![Gunner Finally Understands](/images/stories/35/story-35-scene-05-gunner-finally-understands-v1.png)
 
 Tiger sat between the family and the dark.
 
 Eleven pounds. Golden eyes. No fear.
 
 Some guards are measured in size. Others are measured in what they're willing to do.
-
-![Telling the Story](/images/stories/35/story-35-scene-06-telling-the-story-v1.png)
 
 Tiger was willing to do whatever it took.
