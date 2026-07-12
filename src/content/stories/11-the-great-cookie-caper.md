@@ -8,7 +8,7 @@ description: "Dad bakes a fresh batch of cookies and leaves them on the kitchen 
 publishDate: 2025-11-30
 timeframe: "2019-02"
 artStyle: "graphite"
-coverImage: "/images/covers/story-11.png"
+coverImage: "/images/covers/story-11-v1.png"
 draft: false
 order: 11
 ---

@@ -7,7 +7,7 @@ description: "The first Virginia winter hits hard. Gunner is thrilled (snow!). T
 publishDate: 2026-02-01
 timeframe: "2024-12"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-20.png"
+coverImage: "/images/covers/story-20-v1.png"
 draft: false
 order: 20
 ---

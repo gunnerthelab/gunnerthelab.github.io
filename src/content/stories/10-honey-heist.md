@@ -7,7 +7,7 @@ description: "Harvest day. The smell of fresh honey fills the air. Tiger devises
 publishDate: 2025-11-23
 timeframe: "2018-09"
 artStyle: "graphite"
-coverImage: "/images/covers/story-10.png"
+coverImage: "/images/covers/story-10-v2.png"
 draft: false
 order: 10
 ---

@@ -6,7 +6,7 @@ eraLabel: "Seasonal & Holiday"
 description: "Something is eating Mom's seedlings. Gunner is accused. Tiger is accused. It's actually deer, but Tiger frames Gunner anyway."
 publishDate: 2026-04-26
 timeframe: "2025-04"
-coverImage: "/images/covers/story-32.png"
+coverImage: "/images/covers/story-32-v1.png"
 draft: false
 order: 32
 ---

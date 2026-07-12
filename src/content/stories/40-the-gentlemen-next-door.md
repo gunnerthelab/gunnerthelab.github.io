@@ -7,7 +7,7 @@ description: "Something large has moved into the neighbors' field — three enor
 publishDate: 2026-06-21
 timeframe: "2026-03"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-40.png"
+coverImage: "/images/covers/story-40-v1.png"
 draft: false
 order: 40
 ---

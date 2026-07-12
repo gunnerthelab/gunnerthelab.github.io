@@ -7,7 +7,7 @@ description: "Before there was Gunner, there was Bear. And before there was a ho
 publishDate: 2025-09-21
 timeframe: "2016-12"
 artStyle: "graphite"
-coverImage: "/images/covers/story-01.png"
+coverImage: "/images/covers/story-01-v1.png"
 draft: false
 order: 1
 ---

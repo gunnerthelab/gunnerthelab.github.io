@@ -7,7 +7,7 @@ description: "Mom comes home with store-bought bagels — a rare household event
 publishDate: 2026-02-22
 timeframe: "2025-08"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-23.png"
+coverImage: "/images/covers/story-23-v1.png"
 draft: false
 order: 23
 ---

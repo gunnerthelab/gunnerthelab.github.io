@@ -7,7 +7,7 @@ description: "First day on 40 acres in Virginia. Gunner marks every single tree 
 publishDate: 2025-12-28
 timeframe: "2024-06"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-15.png"
+coverImage: "/images/covers/story-15-v1.png"
 draft: false
 order: 15
 ---

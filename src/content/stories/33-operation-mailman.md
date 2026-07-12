@@ -7,7 +7,7 @@ description: "Tiger becomes convinced the mailman is a spy. He recruits Gunner f
 publishDate: 2026-05-03
 timeframe: "2025-06"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-33.png"
+coverImage: "/images/covers/story-33-v1.png"
 draft: false
 order: 33
 ---

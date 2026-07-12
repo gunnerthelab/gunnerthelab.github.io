@@ -7,7 +7,7 @@ description: "A quieter, warmer story. Gunner remembers Dad's dad — the man wh
 publishDate: 2026-05-24
 timeframe: "2021-02"
 artStyle: "graphite"
-coverImage: "/images/covers/story-36.png"
+coverImage: "/images/covers/story-36-v1.png"
 draft: false
 order: 36
 ---

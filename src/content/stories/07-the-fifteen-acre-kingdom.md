@@ -7,7 +7,7 @@ description: "Tiger's origin story. How a tiny tabby kitten born on a Texas home
 publishDate: 2025-11-02
 timeframe: "2017-10"
 artStyle: "graphite"
-coverImage: "/images/covers/story-07.png"
+coverImage: "/images/covers/story-07-v1.png"
 draft: false
 order: 7
 ---

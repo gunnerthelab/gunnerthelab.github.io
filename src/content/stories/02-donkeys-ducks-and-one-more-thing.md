@@ -7,7 +7,7 @@ description: "The family's first summer on fifteen acres: chickens, ducks, donke
 publishDate: 2025-09-28
 timeframe: "2017-05"
 artStyle: "graphite"
-coverImage: "/images/covers/story-02.png"
+coverImage: "/images/covers/story-02-v1.png"
 draft: false
 order: 2
 ---

@@ -6,7 +6,7 @@ eraLabel: "The Boys & Family"
 description: "Mom tries to have a quiet morning. Tiger demands milk. Gunner demands pets. The boys need approximately forty-seven things. Gunner and Tiger accidentally team up to give her five minutes of peace — then immediately ruin it."
 publishDate: 2026-03-15
 timeframe: "2025-09"
-coverImage: "/images/covers/story-26.png"
+coverImage: "/images/covers/story-26-v3.png"
 draft: false
 order: 26
 ---

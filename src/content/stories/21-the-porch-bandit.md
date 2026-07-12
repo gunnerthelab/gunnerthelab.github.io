@@ -7,7 +7,7 @@ description: "Something keeps stealing food off the porch. Tiger sets traps. Gun
 publishDate: 2026-02-08
 timeframe: "2025-05"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-21.png"
+coverImage: "/images/covers/story-21-v1.png"
 draft: false
 order: 21
 ---

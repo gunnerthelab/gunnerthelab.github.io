@@ -7,7 +7,7 @@ description: "Strange sounds from the woods at night. Tiger investigates with co
 publishDate: 2026-01-25
 timeframe: "2024-11"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-19.png"
+coverImage: "/images/covers/story-19-v1.png"
 draft: false
 order: 19
 ---

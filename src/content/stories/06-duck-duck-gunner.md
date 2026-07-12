@@ -7,7 +7,7 @@ description: "The ducks have taken over the pond and Gunner is sent to reclaim i
 publishDate: 2025-10-26
 timeframe: "2018-07"
 artStyle: "graphite"
-coverImage: "/images/covers/story-06.png"
+coverImage: "/images/covers/story-06-v1.png"
 draft: false
 order: 6
 ---

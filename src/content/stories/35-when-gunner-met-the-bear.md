@@ -7,7 +7,7 @@ description: "A real black bear wanders onto the Virginia property. Gunner think
 publishDate: 2026-05-17
 timeframe: "2025-09"
 artStyle: "colored-pencil"
-coverImage: "/images/covers/story-35.png"
+coverImage: "/images/covers/story-35-v1.png"
 draft: false
 order: 35
 ---

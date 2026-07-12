@@ -8,7 +8,7 @@ description: "Chickens and ducks escape the coop. Gunner charges in to help and 
 publishDate: 2025-10-12
 timeframe: "2018-06"
 artStyle: "graphite"
-coverImage: "/images/covers/story-04.png"
+coverImage: "/images/covers/story-04-v2.png"
 draft: false
 order: 4
 ---

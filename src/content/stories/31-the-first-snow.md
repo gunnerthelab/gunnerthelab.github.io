@@ -6,7 +6,7 @@ eraLabel: "Seasonal & Holiday"
 description: "Based on real events and real photos. Gunner sits in the snow like a majestic statue. Tiger steps in it once, shakes his paw in disgust, and goes back inside. Then comes back out because Gunner won't come in."
 publishDate: 2026-04-19
 timeframe: "2026-01"
-coverImage: "/images/covers/story-31.png"
+coverImage: "/images/covers/story-31-v1.png"
 draft: false
 order: 31
 ---
