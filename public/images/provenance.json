@@ -4558,5 +4558,325 @@
     "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
     "generatedAtNote": "timestamp set at write time by this run",
     "generatedAt": "2026-07-12T15:35:18.824Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-02-the-first-lunge-v2.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, dynamic creek scene, textured paper. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes bright and clueless) lunging playfully toward the snapping turtle, water spraying, the turtle's head beginning to extend in warning. On a high rock, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes narrowed, NOT orange) flattens his ears, having predicted exactly this. The reckless first attempt (Gunner never learns after just one). Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 132,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048318,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:40:16.855Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-03-nobody-wins-v1.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, dynamic creek scene, textured paper. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes showing sudden second thoughts) backing quickly out of the creek, water splashing, nose-to-nose with an angry snapping turtle whose head is fully extended, mouth open, neck stretched in a strike pose. The dog's expression is a perfect mix of curiosity and oh-no. On the bank, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, tail puffed to double size, golden-amber eyes, NOT orange) has already retreated to a high, safe rock. Detailed turtle and water textures. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:41:19.247Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-03-nobody-wins-v2.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, dynamic creek scene, textured paper. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes showing sudden second thoughts) backing quickly out of the creek, water splashing, nose-to-nose with an angry snapping turtle whose head is fully extended, mouth open, neck stretched in a strike pose. The dog's expression is a perfect mix of curiosity and oh-no. On the bank, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, tail puffed to double size, golden-amber eyes, NOT orange) has already retreated to a high, safe rock. Detailed turtle and water textures. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:42:21.993Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-04-safe-on-the-bank-v1.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, warm afternoon creek light, textured paper. Back on dry ground, a large black Labrador (Gunner, jet-black wet coat, orange collar) sits dripping and slightly humbled, glancing back at the creek. Beside him, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes half-lidded, NOT orange) grooms one paw with the calm of someone who never got wet and never will. The snapping turtle, unbothered, sinks back into the creek behind them. Warm, funny truce with nature. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 142,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048368,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:43:20.672Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-04-safe-on-the-bank-v2.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, warm afternoon creek light, textured paper. Back on dry ground, a large black Labrador (Gunner, jet-black wet coat, orange collar) sits dripping and slightly humbled, glancing back at the creek. Beside him, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes half-lidded, NOT orange) grooms one paw with the calm of someone who never got wet and never will. The snapping turtle, unbothered, sinks back into the creek behind them. Warm, funny truce with nature. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 142,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048368,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:45:22.020Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-05-analysis-from-the-rock-v1.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, rich creek greens, dappled light, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes narrowed in study, NOT orange) perched high and dry on a mossy creek rock, coolly analyzing the snapping turtle below at a safe distance, ears forward, tail still, a scientist observing a dangerous specimen. A large black Labrador (Gunner, orange collar) drips nearby, having learned nothing. Ferns and clear water. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:46:19.972Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-05-analysis-from-the-rock-v2.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, rich creek greens, dappled light, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes narrowed in study, NOT orange) perched high and dry on a mossy creek rock, coolly analyzing the snapping turtle below at a safe distance, ears forward, tail still, a scientist observing a dangerous specimen. A large black Labrador (Gunner, orange collar) drips nearby, having learned nothing. Ferns and clear water. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:47:19.271Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-06-the-turtles-domain-v1.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, cool creek greens and browns, textured paper. A quiet closing image: the ancient snapping turtle settling back onto the bed of the clear Virginia creek, mossy shell blending with the stones, unchallenged and unbothered, water sliding over him. The dog and cat are small, retreating shapes up on the sunny bank. The creek belongs to the turtle. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 100,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048158,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:48:18.098Z"
+  },
+  {
+    "file": "public/images/stories/34/story-34-scene-06-the-turtles-domain-v2.png",
+    "storyId": "34",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, cool creek greens and browns, textured paper. A quiet closing image: the ancient snapping turtle settling back onto the bed of the clear Virginia creek, mossy shell blending with the stones, unchallenged and unbothered, water sliding over him. The dog and cat are small, retreating shapes up on the sunny bank. The creek belongs to the turtle. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 100,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048158,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:49:15.424Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-01-the-big-dog-v2.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, dramatic Virginia forest scene, rich greens and browns, textured paper. A large black Labrador (Gunner, jet-black coat, orange collar, tail wagging, friendly approach posture, amber-brown eyes bright and clueless) walking toward a large American black bear at the edge of the Virginia clearing. Gunner's body language is unmistakably friendly; he thinks this is a really, really big dog. The bear looks confused, standing broadside, head turned toward the approaching Lab. In the background, high in an oak, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes enormous, NOT orange) climbs at remarkable speed, claws out. Dramatic scale contrast between a ninety-pound Lab and a three-hundred-pound bear. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 182,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048568,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:52:23.018Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-02-high-ground-hiss-v1.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, dramatic forest confrontation, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes blazing, back arched to maximum, fur fully bristled to twice his size, ears flat, mouth open in a fierce hiss, NOT orange) high on a thick oak branch, hissing down at a large American black bear who looks up, startled. Below, a large black Labrador (Gunner, jet-black coat, orange collar) watches, finally beginning to understand this is not a friend. High ground, safe distance, maximum intimidation. Virginia forest canopy above. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:53:24.638Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-02-high-ground-hiss-v2.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, dramatic forest confrontation, textured paper. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes blazing, back arched to maximum, fur fully bristled to twice his size, ears flat, mouth open in a fierce hiss, NOT orange) high on a thick oak branch, hissing down at a large American black bear who looks up, startled. Below, a large black Labrador (Gunner, jet-black coat, orange collar) watches, finally beginning to understand this is not a friend. High ground, safe distance, maximum intimidation. Virginia forest canopy above. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:54:31.961Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-03-the-boy-who-saw-it-first-v1.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, tense forest-edge light, textured paper. From the safety of the porch, the oldest boy (age 15, broad-shouldered, short brown hair) is the first to spot the bear and the danger, one arm out, holding his younger brothers back, calm and clear-eyed. Across the yard, a large black Labrador (Gunner, orange collar) and the treed cat (Tiger, NOT orange) face the bear. The steady one keeps his head. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 120,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048258,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:56:17.184Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-03-the-boy-who-saw-it-first-v2.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, tense forest-edge light, textured paper. From the safety of the porch, the oldest boy (age 15, broad-shouldered, short brown hair) is the first to spot the bear and the danger, one arm out, holding his younger brothers back, calm and clear-eyed. Across the yard, a large black Labrador (Gunner, orange collar) and the treed cat (Tiger, NOT orange) face the bear. The steady one keeps his head. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 120,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048258,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:57:17.649Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-04-the-retreat-v1.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Colored pencil illustration, triumphant Virginia mountain landscape, textured paper. A large American black bear lumbering away into the Virginia woods, looking back over its shoulder, bewildered. In the foreground, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits on a fence post watching the bear leave with supreme territorial satisfaction, chin up, chest out, king of the mountain. Beside the post, a large black Labrador (Gunner, jet-black coat, orange collar) sits in the grass, still confused about what happened but deeply glad Tiger handled it. Southwestern Virginia landscape behind. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 152,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048417999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:58:18.865Z"
+  },
+  {
+    "file": "public/images/stories/35/story-35-scene-04-the-retreat-v2.png",
+    "storyId": "35",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Colored pencil illustration, triumphant Virginia mountain landscape, textured paper. A large American black bear lumbering away into the Virginia woods, looking back over its shoulder, bewildered. In the foreground, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits on a fence post watching the bear leave with supreme territorial satisfaction, chin up, chest out, king of the mountain. Beside the post, a large black Labrador (Gunner, jet-black coat, orange collar) sits in the grass, still confused about what happened but deeply glad Tiger handled it. Southwestern Virginia landscape behind. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 152,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048417999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T15:59:17.949Z"
   }
 ]
