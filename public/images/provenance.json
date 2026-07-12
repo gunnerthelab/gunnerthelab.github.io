@@ -5538,5 +5538,645 @@
     "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
     "generatedAtNote": "timestamp set at write time by this run",
     "generatedAt": "2026-07-12T16:57:22.090Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-01-the-treats-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. Intimate close-up: an older man's weathered hand (Grandpa, Dad's father, lined, gentle, patient) extended palm-up, offering a small treat. A large black Labrador's (Gunner, jet-black coat, orange collar, soft amber-brown eyes, wet black nose) face touches the palm gently, taking the treat with delicate care. Just the hand and the dog, tight crop, extreme detail on the old hand's calluses and the dog's trusting expression. Soft focus edges. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 141,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048362999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:11:10.769Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-01-the-treats-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. Intimate close-up: an older man's weathered hand (Grandpa, Dad's father, lined, gentle, patient) extended palm-up, offering a small treat. A large black Labrador's (Gunner, jet-black coat, orange collar, soft amber-brown eyes, wet black nose) face touches the palm gently, taking the treat with delicate care. Just the hand and the dog, tight crop, extreme detail on the old hand's calluses and the dog's trusting expression. Soft focus edges. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 141,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048362999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:11:53.750Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-02-the-sunday-visit-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. Memory of the East Texas homestead: an older man (Grandpa, weathered face, pressed shirt and clean jeans, gentle) climbing out of his own truck in the dirt driveway on a Sunday, a large black Labrador (Gunner, jet-black coat, orange collar) already bounding to greet him, and a stocky brown mutt (not a bulldog) (Bear, graying muzzle) rising more slowly to say hello. The homestead behind. A weekly ritual, remembered warmly. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 140,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048358,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:12:54.320Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-02-the-sunday-visit-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. Memory of the East Texas homestead: an older man (Grandpa, weathered face, pressed shirt and clean jeans, gentle) climbing out of his own truck in the dirt driveway on a Sunday, a large black Labrador (Gunner, jet-black coat, orange collar) already bounding to greet him, and a stocky brown mutt (not a bulldog) (Bear, graying muzzle) rising more slowly to say hello. The homestead behind. A weekly ritual, remembered warmly. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 140,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048358,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:13:52.792Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-03-the-slow-hand-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. An older man (Grandpa, weathered face, gentle expression, simple work clothes) sitting in a worn armchair, slowly petting the head of a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes half-closed in deep contentment) who rests his heavy blocky head on the man's knee, whole body soft with trust. Across the room, on a shelf, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches quietly, no mischief for once. A small warm room, soft light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 165,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048483,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:14:51.359Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-03-the-slow-hand-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. An older man (Grandpa, weathered face, gentle expression, simple work clothes) sitting in a worn armchair, slowly petting the head of a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes half-closed in deep contentment) who rests his heavy blocky head on the man's knee, whole body soft with trust. Across the room, on a shelf, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches quietly, no mischief for once. A small warm room, soft light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 165,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048483,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:15:51.975Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-04-their-entire-conversation-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A quiet exchange across a room: an older man (Grandpa) gives a small, slow nod toward a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) on a shelf, and the cat answers with a single slow blink. That is their entire conversation, and their last. Soft, still, weighted. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 115,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048233,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:16:54.170Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-04-their-entire-conversation-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A quiet exchange across a room: an older man (Grandpa) gives a small, slow nod toward a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) on a shelf, and the cat answers with a single slow blink. That is their entire conversation, and their last. Soft, still, weighted. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 115,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048233,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:17:54.900Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-05-the-empty-chair-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, minimal composition, black and white, pencil-on-paper texture. An empty worn armchair in a simple room at the China Springs house, light through a window falling across the empty seat. Beside it on the floor, a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes open, looking at the seat) lies with his head on his paws, watching where someone used to sit. On the chair's arm, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes quiet, NOT orange) is curled, also still. The chair is just a chair now. But they both remember. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 166,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048487999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:18:54.009Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-05-the-empty-chair-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, minimal composition, black and white, pencil-on-paper texture. An empty worn armchair in a simple room at the China Springs house, light through a window falling across the empty seat. Beside it on the floor, a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes open, looking at the seat) lies with his head on his paws, watching where someone used to sit. On the chair's arm, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes quiet, NOT orange) is curled, also still. The chair is just a chair now. But they both remember. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 166,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048487999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:19:54.677Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-06-dont-tell-your-mother-v1.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft warm shading, black and white, pencil-on-paper texture. After the loss: a slender woman (Mom, brown hair pinned up) quietly slips a small bacon-flavored treat to a large black Labrador (Gunner, jet-black coat, orange collar) from a jar on the counter, murmuring the old joke to herself, keeping a gentle man's habit alive. Her face is soft with grief and love. A stocky gray-brown tabby cat (Tiger, NOT orange) watches from the counter. Tender, aching, warm. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 136,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048338,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:20:54.230Z"
+  },
+  {
+    "file": "public/images/stories/36/story-36-scene-06-dont-tell-your-mother-v2.png",
+    "storyId": "36",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft warm shading, black and white, pencil-on-paper texture. After the loss: a slender woman (Mom, brown hair pinned up) quietly slips a small bacon-flavored treat to a large black Labrador (Gunner, jet-black coat, orange collar) from a jar on the counter, murmuring the old joke to herself, keeping a gentle man's habit alive. Her face is soft with grief and love. A stocky gray-brown tabby cat (Tiger, NOT orange) watches from the counter. Tender, aching, warm. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 136,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048338,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:21:54.329Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-01-the-others-left-v1.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, melancholy atmosphere, black and white, pencil-on-paper texture. Composed vignettes in one image: silhouettes of different cats (a calico, a gray tom with a torn ear, others) walking away into darkness, into open fields, into the unknown, each slightly more transparent than the last, fading into mist and tall grass, lost to the country. The background is a vast, indifferent East Texas landscape. Melancholy, atmospheric loss. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 121,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048263,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:22:49.697Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-01-the-others-left-v2.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, melancholy atmosphere, black and white, pencil-on-paper texture. Composed vignettes in one image: silhouettes of different cats (a calico, a gray tom with a torn ear, others) walking away into darkness, into open fields, into the unknown, each slightly more transparent than the last, fading into mist and tall grass, lost to the country. The background is a vast, indifferent East Texas landscape. Melancholy, atmospheric loss. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 121,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048263,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:23:49.511Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-02-tigers-mother-v1.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A memory in the East Texas hay loft: a gray tabby mother cat with a torn ear (NOT orange) curled around a tiny gray-brown tabby kitten (young Tiger, faint stripes, golden-amber eyes, NOT orange), teaching him to be small and quiet. Soft light through the barn boards. Later, her silhouette walks out into the East Texas twilight and does not come back. Tender, quiet, the shadow behind Tiger's caution. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:25:18.664Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-02-tigers-mother-v2.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A memory in the East Texas hay loft: a gray tabby mother cat with a torn ear (NOT orange) curled around a tiny gray-brown tabby kitten (young Tiger, faint stripes, golden-amber eyes, NOT orange), teaching him to be small and quiet. Soft light through the barn boards. Later, her silhouette walks out into the East Texas twilight and does not come back. Tender, quiet, the shadow behind Tiger's caution. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:25:50.993Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-03-tiger-didnt-v1.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, powerful doorway composition, black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes steady and certain, seated with composure, NOT orange) sitting in a farmhouse doorway, looking out at the same dangerous world that took all the others, his eyes steady. He is still here. Behind him, inside the warm house, a large black Labrador (Gunner, jet-black coat, orange collar) sleeps sprawled on a dog bed, taking up too much space, dreaming about food. The reason Tiger stayed is right there, breathing slowly. Doorway framing, light and shadow. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 165,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048483,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:26:52.629Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-03-tiger-didnt-v2.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, powerful doorway composition, black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes steady and certain, seated with composure, NOT orange) sitting in a farmhouse doorway, looking out at the same dangerous world that took all the others, his eyes steady. He is still here. Behind him, inside the warm house, a large black Labrador (Gunner, jet-black coat, orange collar) sleeps sprawled on a dog bed, taking up too much space, dreaming about food. The reason Tiger stayed is right there, breathing slowly. Doorway framing, light and shadow. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 165,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048483,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:27:54.254Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-04-never-chased-v1.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A quiet illustration of the story's thesis: a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) walks calmly and unafraid right past the nose of a large black Labrador (Gunner, jet-black coat, orange collar) who lies still, legs relaxed, watching him go by with soft eyes and no impulse to chase. The one dog, in all the country, whose legs stayed still. The whole reason, in one gentle frame. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 142,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048368,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:28:52.882Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-04-never-chased-v2.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, black and white, pencil-on-paper texture. A quiet illustration of the story's thesis: a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) walks calmly and unafraid right past the nose of a large black Labrador (Gunner, jet-black coat, orange collar) who lies still, legs relaxed, watching him go by with soft eyes and no impulse to chase. The one dog, in all the country, whose legs stayed still. The whole reason, in one gentle frame. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 142,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048368,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:29:50.958Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-05-the-pillow-v1.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, the warmest and softest shading in the entire series, black and white, pencil-on-paper texture. The final defining image: a stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes closed, purring, NOT orange) curled against the belly of a sleeping large black Labrador (Gunner, jet-black coat, orange collar, sprawled, taking up most of the space, dreaming), both on a worn rug by a heater vent. The cat is tucked into the exact curve of the dog's body, the same spot he chose as a kitten and every night since. They are both asleep. They are both home. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 161,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048463,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:30:56.326Z"
+  },
+  {
+    "file": "public/images/stories/37/story-37-scene-05-the-pillow-v2.png",
+    "storyId": "37",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, the warmest and softest shading in the entire series, black and white, pencil-on-paper texture. The final defining image: a stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes closed, purring, NOT orange) curled against the belly of a sleeping large black Labrador (Gunner, jet-black coat, orange collar, sprawled, taking up most of the space, dreaming), both on a worn rug by a heater vent. The cat is tucked into the exact curve of the dog's body, the same spot he chose as a kitten and every night since. They are both asleep. They are both home. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 161,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048463,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:31:56.400Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-01-shoulder-to-shoulder-v1.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft atmospheric shading, black and white, pencil-on-paper texture. Two dogs walking side by side down a dirt trail through the Virginia mountain property, golden late-afternoon light in graphite. A large black Labrador (Gunner, jet-black coat, broad chest, orange collar, amber-brown eyes focused and gentle) walks at an unnaturally slow pace beside a smaller, older brown mutt (not a bulldog) (Bear, coat gray all over, muzzle almost white, cloudy eyes, stiff careful movements). Their shoulders almost touch; the Lab matches the old dog's pace step for step. Ahead, small figures of the family (a large bearded man in overalls, three teenage boys) walk on, not yet noticing the dogs have fallen behind. The distance between the dogs and the family is the whole story. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 193,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048623,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:32:54.549Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-01-shoulder-to-shoulder-v2.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft atmospheric shading, black and white, pencil-on-paper texture. Two dogs walking side by side down a dirt trail through the Virginia mountain property, golden late-afternoon light in graphite. A large black Labrador (Gunner, jet-black coat, broad chest, orange collar, amber-brown eyes focused and gentle) walks at an unnaturally slow pace beside a smaller, older brown mutt (not a bulldog) (Bear, coat gray all over, muzzle almost white, cloudy eyes, stiff careful movements). Their shoulders almost touch; the Lab matches the old dog's pace step for step. Ahead, small figures of the family (a large bearded man in overalls, three teenage boys) walk on, not yet noticing the dogs have fallen behind. The distance between the dogs and the family is the whole story. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 193,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048623,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:33:54.562Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-02-the-porch-steps-v1.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, extra soft shading, tight focused composition, black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes patient and still) standing on the second step of a farmhouse porch, looking back and down at an old brown mutt (not a bulldog) (Bear, coat gray all over, muzzle nearly white, cloudy unfocused eyes, stocky low build) who hesitates at the bottom step, one front paw raised and uncertain, hovering. Gunner waits, completely still and patient, no tail wag, no excitement, just waiting. The big goofy dog who can't do anything right doing the most important thing perfectly. Exquisite detail on Bear's hesitant paw and Gunner's patient eyes. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 181,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048563,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:34:56.581Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-02-the-porch-steps-v2.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, extra soft shading, tight focused composition, black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes patient and still) standing on the second step of a farmhouse porch, looking back and down at an old brown mutt (not a bulldog) (Bear, coat gray all over, muzzle nearly white, cloudy unfocused eyes, stocky low build) who hesitates at the bottom step, one front paw raised and uncertain, hovering. Gunner waits, completely still and patient, no tail wag, no excitement, just waiting. The big goofy dog who can't do anything right doing the most important thing perfectly. Exquisite detail on Bear's hesitant paw and Gunner's patient eyes. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 181,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048563,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:35:56.071Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-03-the-three-of-them-v1.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, the warmest shading possible, golden-hour light in graphite, black and white, pencil-on-paper texture. An old brown mutt (not a bulldog) (Bear, coat gray everywhere now, eyes closed, at rest) lying peacefully in his worn spot on the weathered Virginia farmhouse porch. On one side, a large black Labrador (Gunner, jet-black coat, orange collar, head on his paws, amber-brown eyes watching Bear) lies close, warm against the old dog. On the other side, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes soft, NOT orange) is curled against Bear's back the way he has since he was a kitten. Late golden light. The barn, the fields, the forty acres, the southwestern Virginia ridgeline soft behind. Every texture matters. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 200,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048658,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:36:57.850Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-03-the-three-of-them-v2.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, the warmest shading possible, golden-hour light in graphite, black and white, pencil-on-paper texture. An old brown mutt (not a bulldog) (Bear, coat gray everywhere now, eyes closed, at rest) lying peacefully in his worn spot on the weathered Virginia farmhouse porch. On one side, a large black Labrador (Gunner, jet-black coat, orange collar, head on his paws, amber-brown eyes watching Bear) lies close, warm against the old dog. On the other side, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes soft, NOT orange) is curled against Bear's back the way he has since he was a kitten. Late golden light. The barn, the fields, the forty acres, the southwestern Virginia ridgeline soft behind. Every texture matters. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 200,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048658,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:37:58.172Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-04-the-spot-v1.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, devastating simplicity, extra soft shading, black and white, pencil-on-paper texture. An empty spot on the farmhouse porch. A chewed-up, flattened old dog toy sits in the center of the empty space. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes open and looking at the empty space) lies beside it, head on his paws, watching where someone used to be. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits in the empty spot itself, not sleeping, just keeping it occupied, keeping it warm. Evening light across the weathered boards. The emptiness is the subject. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 170,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048507999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:38:56.924Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-04-the-spot-v2.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, devastating simplicity, extra soft shading, black and white, pencil-on-paper texture. An empty spot on the farmhouse porch. A chewed-up, flattened old dog toy sits in the center of the empty space. A large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes open and looking at the empty space) lies beside it, head on his paws, watching where someone used to be. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits in the empty spot itself, not sleeping, just keeping it occupied, keeping it warm. Evening light across the weathered boards. The emptiness is the subject. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 170,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048507999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:39:54.984Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-05-being-there-v1.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, wide composition, the most tender shading in the series, big sky, black and white, pencil-on-paper texture. A slender woman (Mom, brown hair pinned up, practical clothes) sitting on the porch floor of the Virginia farmhouse, her hand resting gently on the head of a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes looking outward) who lies beside her. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) is pressed tight against the dog's side. Nobody looks at each other; they all look out at a wide, soft southwestern Virginia sunset, the ridgelines holding the last light. Three figures sharing a weight they cannot say out loud. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 180,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048558,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:40:58.207Z"
+  },
+  {
+    "file": "public/images/stories/38/story-38-scene-05-being-there-v2.png",
+    "storyId": "38",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, wide composition, the most tender shading in the series, big sky, black and white, pencil-on-paper texture. A slender woman (Mom, brown hair pinned up, practical clothes) sitting on the porch floor of the Virginia farmhouse, her hand resting gently on the head of a large black Labrador (Gunner, jet-black coat, orange collar, amber-brown eyes looking outward) who lies beside her. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) is pressed tight against the dog's side. Nobody looks at each other; they all look out at a wide, soft southwestern Virginia sunset, the ridgelines holding the last light. Three figures sharing a weight they cannot say out loud. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 180,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048558,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T17:42:00.328Z"
   }
 ]
