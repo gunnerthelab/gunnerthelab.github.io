@@ -358,5 +358,1665 @@
     "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
     "generatedAtNote": "timestamp set at write time by this run",
     "generatedAt": "2026-07-12T06:54:02.433Z"
+  },
+  {
+    "file": "public/images/stories/10/story-10-scene-01-the-extraction-v1.png",
+    "storyId": "10",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, white bee suit, veil pushed up) working wooden honey frames at a hand-crank extractor set up on a table outside the East Texas farmhouse. Three boys help: a sturdy eight-year-old in oversized gloves works carefully, a six-year-old peers into the extractor, a three-year-old in an oversized veil that hangs past his chin watches wide-eyed. A large black Labrador (Gunner, jet-black coat, orange collar) is parked inches away, nose aimed at the golden honey, a string of drool hanging. Low to the ground, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes calculating, NOT orange) creeps toward the frames. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 192,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048618,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:12:42.209Z"
+  },
+  {
+    "file": "public/images/stories/10/story-10-scene-01-the-extraction-v2.png",
+    "storyId": "10",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, white bee suit, veil pushed up) working wooden honey frames at a hand-crank extractor set up on a table outside the East Texas farmhouse. Three boys help: a sturdy eight-year-old in oversized gloves works carefully, a six-year-old peers into the extractor, a three-year-old in an oversized veil that hangs past his chin watches wide-eyed. A large black Labrador (Gunner, jet-black coat, orange collar) is parked inches away, nose aimed at the golden honey, a string of drool hanging. Low to the ground, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes calculating, NOT orange) creeps toward the frames. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 192,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048618,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:14:45.583Z"
+  },
+  {
+    "file": "public/images/stories/10/story-10-scene-06-toast-at-the-table-v1.png",
+    "storyId": "10",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Evening at the farmhouse kitchen table: the family eats warm toast dripping with the day's honey, a jar glowing in the middle. Under the table, a large black Labrador (Gunner, orange collar) waits with total focus for a crumb. On a chair back, a stocky gray-brown tabby cat (Tiger, NOT orange) has already had his fill and pretends indifference. Cozy, warm, the reward after the chaos. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:32:56.005Z"
+  },
+  {
+    "file": "public/images/stories/10/story-10-scene-06-toast-at-the-table-v2.png",
+    "storyId": "10",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Evening at the farmhouse kitchen table: the family eats warm toast dripping with the day's honey, a jar glowing in the middle. Under the table, a large black Labrador (Gunner, orange collar) waits with total focus for a crumb. On a chair back, a stocky gray-brown tabby cat (Tiger, NOT orange) has already had his fill and pretends indifference. Cozy, warm, the reward after the chaos. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:33:30.218Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-01-the-perfect-crime-v1.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, broad chest, blocky head, amber-brown eyes locked with laser focus, orange collar) lying on a kitchen floor, head up and alert, watching a large heavyset bearded man (Dad, dark beard, bib overalls, gray t-shirt) set a plate of fresh cookies on the kitchen island. The man looks satisfied, self-congratulatory. The dog's focus on that plate is a physical force. On top of the refrigerator, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes half-closed, NOT orange) watches from his perch. Warm East Texas evening light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 183,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048573,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:35:30.622Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-01-the-perfect-crime-v2.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, broad chest, blocky head, amber-brown eyes locked with laser focus, orange collar) lying on a kitchen floor, head up and alert, watching a large heavyset bearded man (Dad, dark beard, bib overalls, gray t-shirt) set a plate of fresh cookies on the kitchen island. The man looks satisfied, self-congratulatory. The dog's focus on that plate is a physical force. On top of the refrigerator, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes half-closed, NOT orange) watches from his perch. Warm East Texas evening light. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 183,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048573,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:36:31.789Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-02-the-empty-plate-v1.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, dark beard, bib overalls, gray t-shirt) standing in the East Texas farmhouse kitchen, coffee mug in hand, staring at a completely empty plate on the island in pure bafflement, checking under it. On the floor nearby, a large black Labrador (Gunner, jet-black coat, orange collar) lies with his tail thumping twice against the tile, the picture of innocent morning contentment, looking at nothing in particular. On top of the refrigerator, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches with perfect composure. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 175,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048533,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:37:31.590Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-02-the-empty-plate-v2.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, dark beard, bib overalls, gray t-shirt) standing in the East Texas farmhouse kitchen, coffee mug in hand, staring at a completely empty plate on the island in pure bafflement, checking under it. On the floor nearby, a large black Labrador (Gunner, jet-black coat, orange collar) lies with his tail thumping twice against the tile, the picture of innocent morning contentment, looking at nothing in particular. On top of the refrigerator, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches with perfect composure. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 175,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048533,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:38:31.670Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-03-weeks-of-suspicion-v1.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A gently comic family tableau at the East Texas kitchen table weeks later: a large heavyset bearded man (Dad) scratches his beard, puzzled; three boys (9, 7, 4) exchange wary sidelong looks under mild suspicion; a slender woman (Mom, long brown hair down) listens to the retelling and laughs it off. Under the table, entirely unsuspected, a large black Labrador (Gunner, orange collar) dozes. On the fridge, a stocky gray-brown tabby cat (Tiger, NOT orange) keeps his secret. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 157,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048443,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:39:31.360Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-03-weeks-of-suspicion-v2.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A gently comic family tableau at the East Texas kitchen table weeks later: a large heavyset bearded man (Dad) scratches his beard, puzzled; three boys (9, 7, 4) exchange wary sidelong looks under mild suspicion; a slender woman (Mom, long brown hair down) listens to the retelling and laughs it off. Under the table, entirely unsuspected, a large black Labrador (Gunner, orange collar) dozes. On the fridge, a stocky gray-brown tabby cat (Tiger, NOT orange) keeps his secret. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 157,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048443,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:40:32.219Z"
+  },
+  {
+    "file": "public/images/stories/11/story-11-scene-04-caught-red-handed-v1.png",
+    "storyId": "11",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. The definitive image: a large black Labrador (Gunner, jet-black coat, orange collar) standing fully upright on his hind legs, front paws braced on the kitchen island edge, entire spine stretched to its mechanical limit, an enormous pink tongue extended like a bridge toward a cooling rack of cookies, back legs trembling with effort. A large heavyset bearded man (Dad, dark beard, bib overalls) stands frozen in the doorway behind him, caught between fury and laughter. The dog has not heard him yet. Capture the sheer improbable ambition of a ninety-pound Lab fully upright mid-heist. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 162,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048468,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T07:41:33.733Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-01-fifteen-acres-v1.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Three small boys running across an impossibly large East Texas pasture, seen from the porch of an old farmhouse: a sturdy seven-year-old with short-cropped brown hair leads, a five-year-old with sandy-brown hair runs behind him laughing, a two-year-old brings up the rear carrying a stick as big as he is. They have run past the barn and the pond toward the tree line. On the porch, a slender woman (Mom, long brown hair down) holds coffee; beside her, a large heavyset bearded man (Dad, tan sun hat, blue bib overalls) holds his own mug. Between them lies a stocky brown mutt (not a bulldog) (Bear, muzzle beginning to gray, grumpy scowl), head on his paws, one eye open. The morning after arrival. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 208,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048698,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:33:35.389Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-01-fifteen-acres-v2.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Three small boys running across an impossibly large East Texas pasture, seen from the porch of an old farmhouse: a sturdy seven-year-old with short-cropped brown hair leads, a five-year-old with sandy-brown hair runs behind him laughing, a two-year-old brings up the rear carrying a stick as big as he is. They have run past the barn and the pond toward the tree line. On the porch, a slender woman (Mom, long brown hair down) holds coffee; beside her, a large heavyset bearded man (Dad, tan sun hat, blue bib overalls) holds his own mug. Between them lies a stocky brown mutt (not a bulldog) (Bear, muzzle beginning to gray, grumpy scowl), head on his paws, one eye open. The morning after arrival. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 208,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048698,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:34:19.976Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-02-the-bray-v1.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Two donkeys in an East Texas pasture, a big gray one (Mr. Snickers) and a smaller brown-and-white spotted one (Beep). The gray one has his head thrown back mid-bray, mouth wide, teeth showing. The world reacts: chickens scatter like a feather explosion, four white ducks lift off the pond in formation, a tiny two-year-old is mid-cry, a five-year-old sits folded in half laughing, a sturdy seven-year-old stares with slow-blinking recalculation. On the porch, a stocky brown mutt (not a bulldog) (Bear, graying muzzle) lifts his head exactly one inch, considers the situation, and begins to put it back down. A comedic explosion of sound and motion. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 195,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048632999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:35:22.939Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-03-bear-the-supervisor-v2.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky brown mutt (not a bulldog) (Bear, brown coat with a graying muzzle and eyebrows, low barrel-chested build, permanent grumpy scowl) lying in the shade of a large oak by the pond on a hot East Texas day, one eye open, scanning his kingdom. Chickens patrol the farmhouse porch, white ducks bob in the pond, two donkeys (one gray, one brown-and-white spotted) stand in the middle distance looking suspicious, and three boys (7, 5, 2) wade in the shallow end of the pond. His expression says he did not ask for this supervisory role but will perform it anyway. The reluctant foreman. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 183,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048573,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:39:33.308Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-04-secret-in-the-jacket-v1.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, tan sun hat, a denim jacket zipped up oddly over his bib overalls) standing beside a dark blue pickup truck in a long dirt driveway, late golden light. There is a suspicious bulge near his chest, and poking out of the top of the zipper are a tiny black puppy nose and one floppy black ear. His face is a perfect mix of guilt and joy. Facing him on the porch, a slender woman (Mom, long brown hair down) with her hands on her hips and one eyebrow raised. The last quiet second before the reveal. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 163,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048473,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:40:19.391Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-04-secret-in-the-jacket-v2.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset bearded man (Dad, tan sun hat, a denim jacket zipped up oddly over his bib overalls) standing beside a dark blue pickup truck in a long dirt driveway, late golden light. There is a suspicious bulge near his chest, and poking out of the top of the zipper are a tiny black puppy nose and one floppy black ear. His face is a perfect mix of guilt and joy. Facing him on the porch, a slender woman (Mom, long brown hair down) with her hands on her hips and one eyebrow raised. The last quiet second before the reveal. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 163,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048473,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:41:21.320Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-05-mom-names-him-v1.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. In the dirt driveway, a slender woman (Mom, long brown hair down) crouches, holding a very small black Labrador puppy (Gunner, about 7 weeks old, oversized paws, floppy ears, loose orange collar, tiny nub tail mid-wag) up to eye level, naming him on the spot. Three small boys (7, 5, 2) press in around her, the youngest screaming with joy. A large heavyset bearded man (Dad) stands behind, sheepish and pleased. Warm, funny, the moment the whole series truly begins. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:42:20.115Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-05-mom-names-him-v2.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. In the dirt driveway, a slender woman (Mom, long brown hair down) crouches, holding a very small black Labrador puppy (Gunner, about 7 weeks old, oversized paws, floppy ears, loose orange collar, tiny nub tail mid-wag) up to eye level, naming him on the spot. Three small boys (7, 5, 2) press in around her, the youngest screaming with joy. A large heavyset bearded man (Dad) stands behind, sheepish and pleased. Warm, funny, the moment the whole series truly begins. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:43:17.985Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-06-one-grudging-lick-v1.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. On the farmhouse porch, a stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) leans down and gives a single, deliberate, grudging lick to the top of a very small black Labrador puppy's head (Gunner, tiny, oversized paws, loose orange collar, eyes shut for the moment of contact). It is a formal blessing, not affection. The puppy is frozen in awe. The family watches from a respectful distance. A quiet, funny, tender benediction. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:44:19.078Z"
+  },
+  {
+    "file": "public/images/stories/02/story-02-scene-06-one-grudging-lick-v2.png",
+    "storyId": "02",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. On the farmhouse porch, a stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) leans down and gives a single, deliberate, grudging lick to the top of a very small black Labrador puppy's head (Gunner, tiny, oversized paws, loose orange collar, eyes shut for the moment of contact). It is a formal blessing, not affection. The puppy is frozen in awe. The family watches from a respectful distance. A quiet, funny, tender benediction. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:45:20.582Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-02-the-narration-v1.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint developing tabby stripes, huge golden-amber eyes, small pointed ears, NOT orange) perched on top of a wooden fence post, looking down at the pasture with the composed air of a nature-documentary narrator. Below, a young black Lab puppy (Gunner, fuzzy black coat, oversized paws, loose orange collar) is sniffed by a skeptical cow while two more cows walk away unimpressed. Flat East Texas pasture, big sky, wire fencing. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 145,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048383,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:51:30.681Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-02-the-narration-v2.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint developing tabby stripes, huge golden-amber eyes, small pointed ears, NOT orange) perched on top of a wooden fence post, looking down at the pasture with the composed air of a nature-documentary narrator. Below, a young black Lab puppy (Gunner, fuzzy black coat, oversized paws, loose orange collar) is sniffed by a skeptical cow while two more cows walk away unimpressed. Flat East Texas pasture, big sky, wire fencing. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 145,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048383,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:52:30.794Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-03-big-donna-v2.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A close, low-angle view of the herd matriarch, an enormous red-and-white Hereford cow (Big Donna, twelve hundred pounds of pure indifference) filling the frame, chewing slowly. At the very bottom of the frame, dwarfed, a young black Lab puppy (Gunner, fuzzy black coat, loose orange collar) looks straight up at her, tail hopeful, utterly undeterred by the scale mismatch. Dramatic size contrast, gentle humor. East Texas pasture. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 139,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048353,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T08:55:24.618Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-05-tigers-verdict-v1.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close portrait on a fence post: a tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes half-lidded, NOT orange) delivering a slow blink of pure clinical judgment toward the viewer, the cow field soft behind him. In the far background, a small black puppy shape (Gunner) sits in the dirt, having learned nothing. The narrator's kitten has seen enough. Deadpan comedy. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:00:20.237Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-05-tigers-verdict-v2.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close portrait on a fence post: a tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes half-lidded, NOT orange) delivering a slow blink of pure clinical judgment toward the viewer, the cow field soft behind him. In the far background, a small black puppy shape (Gunner) sits in the dirt, having learned nothing. The narrator's kitten has seen enough. Deadpan comedy. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:01:18.533Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-06-sunset-pasture-v1.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. End of day. A young black Lab puppy (Gunner, fuzzy black coat, orange collar) walks the fence line back toward the barn, tired and happy, a tiny gray-brown tabby kitten (Tiger, NOT orange) trotting a few deliberate steps behind him. The cattle are dark shapes settling in the field, a low East Texas sun rendered in soft graphite, long shadows. The first small friendship taking shape. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:02:19.537Z"
+  },
+  {
+    "file": "public/images/stories/03/story-03-scene-06-sunset-pasture-v2.png",
+    "storyId": "03",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. End of day. A young black Lab puppy (Gunner, fuzzy black coat, orange collar) walks the fence line back toward the barn, tired and happy, a tiny gray-brown tabby kitten (Tiger, NOT orange) trotting a few deliberate steps behind him. The cattle are dark shapes settling in the field, a low East Texas sun rendered in soft graphite, long shadows. The first small friendship taking shape. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:03:16.768Z"
+  },
+  {
+    "file": "public/images/stories/04/story-04-scene-02-tiger-the-sentinel-v1.png",
+    "storyId": "04",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes locked forward, alert pointed ears, long white whiskers, NOT orange) sitting perfectly still by the open door of a wooden chicken coop. A hen steps toward the door, seemingly hypnotized by the cat's stillness. In the far background, a large black Lab (Gunner, jet-black coat, orange collar) splashes joyfully in the pond while white ducks bob nearby looking smug. Perfect stillness against distant chaos. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:08:41.290Z"
+  },
+  {
+    "file": "public/images/stories/04/story-04-scene-02-tiger-the-sentinel-v2.png",
+    "storyId": "04",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes locked forward, alert pointed ears, long white whiskers, NOT orange) sitting perfectly still by the open door of a wooden chicken coop. A hen steps toward the door, seemingly hypnotized by the cat's stillness. In the far background, a large black Lab (Gunner, jet-black coat, orange collar) splashes joyfully in the pond while white ducks bob nearby looking smug. Perfect stillness against distant chaos. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:09:16.705Z"
+  },
+  {
+    "file": "public/images/stories/04/story-04-scene-03-soaked-in-the-pond-v1.png",
+    "storyId": "04",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large young black Labrador (Gunner, jet-black coat slicked wet and dripping, orange collar, a huge sheepish grin) sitting shoulder-deep at the muddy edge of the East Texas pond, exactly where the chicken rescue went wrong. Four white ducks float in a smug little row just out of reach, entirely unbothered. Reeds, ripples, the barn behind. Comic defeat, warm and funny. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:11:18.459Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-02-the-persistent-puppy-v1.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A young black Labrador puppy (Gunner, fuzzy jet-black coat, oversized paws, floppy ears, loose orange collar) in a furious play bow, nub tail a blur, inches from a stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) who lies on the porch with his back deliberately turned, ignoring the puppy with professional-grade disdain. Boundless enthusiasm against absolute refusal. East Texas porch. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 132,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048318,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:18:19.171Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-02-the-persistent-puppy-v2.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A young black Labrador puppy (Gunner, fuzzy jet-black coat, oversized paws, floppy ears, loose orange collar) in a furious play bow, nub tail a blur, inches from a stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) who lies on the porch with his back deliberately turned, ignoring the puppy with professional-grade disdain. Boundless enthusiasm against absolute refusal. East Texas porch. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 132,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048318,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:19:17.988Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-03-the-bear-sigh-v1.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Tight two-shot: a stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) exhaling a long, slow, eloquent sigh, a whole paragraph of opinion delivered without a sound, eyes half-closed. Right beside his face, a young black Lab puppy (Gunner, fuzzy black coat, loose orange collar) mirrors him nose-to-nose, ears up, utterly hopeful, missing the point entirely. Warm character comedy, expressive faces. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 142,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048368,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:20:16.217Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-04-kitten-on-the-giant-v1.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft warm shading, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes closed in sleep, NOT orange) asleep on the broad brown back of a stocky mutt (Bear, graying muzzle, grumpy face) who lies in the East Texas yard, awake, looking off to the side with his usual scowl but not moving a muscle. He is letting it happen. A few feet away, a young black Lab puppy (Gunner, fuzzy black coat, orange collar) watches, head tilted, confused about how the kitten succeeded where he failed. The heart of the story. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 168,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048498,
+    "host": "https://aif-studioai-prod-eus-01.cognitiveservices.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:24:20.732Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-05-grandpa-bear-v1.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. On the porch, a five-year-old boy with sandy-brown hair points at the old dog and says the words that will stick forever: Grandpa Bear. The stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) receives the new title with weary resignation. A seven-year-old and a two-year-old look on. The kitten (Tiger, NOT orange) still dozes on Bear's back through the whole ceremony. The moment a nickname is born. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 143,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048373,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:27:26.637Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-05-grandpa-bear-v2.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. On the porch, a five-year-old boy with sandy-brown hair points at the old dog and says the words that will stick forever: Grandpa Bear. The stocky brown mutt (not a bulldog) (Bear, graying muzzle, grumpy scowl) receives the new title with weary resignation. A seven-year-old and a two-year-old look on. The kitten (Tiger, NOT orange) still dozes on Bear's back through the whole ceremony. The moment a nickname is born. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 143,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048373,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:28:26.445Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-06-yard-at-dusk-v1.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft shading, black and white, pencil-on-paper texture. Dusk over the East Texas homestead. A stocky brown mutt (not a bulldog) (Bear, graying muzzle) holds his chosen porch corner like a throne. Nearby, a young black Lab puppy (Gunner, orange collar) has finally flopped over asleep, worn out from trying, with a tiny gray-brown tabby kitten (Tiger, NOT orange) curled against him. Bear watches over both without admitting he cares. Soft, warm, quiet. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 140,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048358,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:29:28.761Z"
+  },
+  {
+    "file": "public/images/stories/05/story-05-scene-06-yard-at-dusk-v2.png",
+    "storyId": "05",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft shading, black and white, pencil-on-paper texture. Dusk over the East Texas homestead. A stocky brown mutt (not a bulldog) (Bear, graying muzzle) holds his chosen porch corner like a throne. Nearby, a young black Lab puppy (Gunner, orange collar) has finally flopped over asleep, worn out from trying, with a tiny gray-brown tabby kitten (Tiger, NOT orange) curled against him. Bear watches over both without admitting he cares. Soft, warm, quiet. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 140,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048358,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:30:29.220Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-01-the-mission-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, broad chest, blocky head, amber-brown eyes, orange collar) standing at the edge of the East Texas pond, tail rigid with focus, staring at a flotilla of white ducks that has claimed the water. Behind him, a large heavyset bearded man (Dad, tan sun hat, blue bib overalls over a gray t-shirt) points at the ducks, giving a mission-briefing gesture. The ducks float smugly in formation. Wire fencing, barn in the background. Military-briefing humor. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 159,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048452999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:31:27.204Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-01-the-mission-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, broad chest, blocky head, amber-brown eyes, orange collar) standing at the edge of the East Texas pond, tail rigid with focus, staring at a flotilla of white ducks that has claimed the water. Behind him, a large heavyset bearded man (Dad, tan sun hat, blue bib overalls over a gray t-shirt) points at the ducks, giving a mission-briefing gesture. The ducks float smugly in formation. Wire fencing, barn in the background. Military-briefing humor. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 159,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048452999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:32:26.115Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-02-swimming-laps-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat wet and sleek, amber-brown eyes, orange collar) swimming happily in a line with four white ducks on the East Texas pond. He is not chasing them; he has joined their formation. His face is pure bliss, tongue lolling sideways. The ducks look resigned to their enormous new companion. Detailed ripples and reflections. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 119,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048253,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:33:24.383Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-02-swimming-laps-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat wet and sleek, amber-brown eyes, orange collar) swimming happily in a line with four white ducks on the East Texas pond. He is not chasing them; he has joined their formation. His face is pure bliss, tongue lolling sideways. The ducks look resigned to their enormous new companion. Detailed ripples and reflections. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 119,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048253,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:34:25.391Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-03-plan-b-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes narrowed with determination, NOT orange) dragging a green garden hose across the yard toward the pond, gripping the nozzle in his teeth, legs planted wide with effort. In the pond behind him, a large black Lab (Gunner, wet black coat, orange collar) and the ducks continue their peaceful joint swim, oblivious. On the porch, a six-year-old boy with sandy-brown hair watches, mouth open. Comedic determination. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:35:24.233Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-03-plan-b-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes narrowed with determination, NOT orange) dragging a green garden hose across the yard toward the pond, gripping the nozzle in his teeth, legs planted wide with effort. In the pond behind him, a large black Lab (Gunner, wet black coat, orange collar) and the ducks continue their peaceful joint swim, oblivious. On the porch, a six-year-old boy with sandy-brown hair watches, mouth open. Comedic determination. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 150,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048408,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:36:22.909Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-04-the-spigot-trick-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close on the side of the farmhouse: a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes intent, NOT orange) up on his hind legs, one deliberate paw hooked around an outdoor spigot lever, turning the water on with the calm competence of an engineer. The hose behind him twitches to life. Precise, dry comedy, the brains of the operation at work. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:37:22.722Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-04-the-spigot-trick-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close on the side of the farmhouse: a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes intent, NOT orange) up on his hind legs, one deliberate paw hooked around an outdoor spigot lever, turning the water on with the calm competence of an engineer. The hose behind him twitches to life. Precise, dry comedy, the brains of the operation at work. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 127,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048292999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:38:21.719Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-05-everyone-soaked-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. The plan goes sideways: a garden hose whips loose and sprays everything, a large black Lab (Gunner, soaked, orange collar) leaps to bite the water arc in pure delight, the ducks flap indignantly, and three boys (8, 6, 3) get caught in the spray, shrieking with laughter. On dry high ground, a stocky gray-brown tabby cat (Tiger, NOT orange) sits bone-dry and appalled, tail flicking. Chaos he engineered and now disowns. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 149,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048403,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:39:25.122Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-05-everyone-soaked-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. The plan goes sideways: a garden hose whips loose and sprays everything, a large black Lab (Gunner, soaked, orange collar) leaps to bite the water arc in pure delight, the ducks flap indignantly, and three boys (8, 6, 3) get caught in the spray, shrieking with laughter. On dry high ground, a stocky gray-brown tabby cat (Tiger, NOT orange) sits bone-dry and appalled, tail flicking. Chaos he engineered and now disowns. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 149,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048403,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:40:27.400Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-06-ducks-win-again-v1.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Evening. The white ducks reclaim the calm pond in a tidy row, victorious once more. On the bank sit a soggy black Lab (Gunner, orange collar) and a still-dry, disgusted tabby (Tiger, NOT orange) side by side, both defeated by waterfowl. A low graphite sun, long reflections. Warm closing humor. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 114,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048228,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:41:30.367Z"
+  },
+  {
+    "file": "public/images/stories/06/story-06-scene-06-ducks-win-again-v2.png",
+    "storyId": "06",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Evening. The white ducks reclaim the calm pond in a tidy row, victorious once more. On the bank sit a soggy black Lab (Gunner, orange collar) and a still-dry, disgusted tabby (Tiger, NOT orange) side by side, both defeated by waterfowl. A low graphite sun, long reflections. Warm closing humor. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 114,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048228,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:42:29.962Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-01-born-in-the-loft-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, emotional, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes, small pointed ears, NOT orange) nestled among siblings in a warm barn hay loft on the East Texas homestead. A larger gray tabby mother cat with a torn ear curls protectively around the litter. Hay bales, warm light through gaps in the wooden walls, dust motes in the air. Through the cracked barn door, a black Lab puppy (Gunner, fuzzy black coat, orange collar) peeks in with enormous curiosity. Tender and intimate. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:43:26.108Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-01-born-in-the-loft-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, emotional, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes, small pointed ears, NOT orange) nestled among siblings in a warm barn hay loft on the East Texas homestead. A larger gray tabby mother cat with a torn ear curls protectively around the litter. Hay bales, warm light through gaps in the wooden walls, dust motes in the air. Through the cracked barn door, a black Lab puppy (Gunner, fuzzy black coat, orange collar) peeks in with enormous curiosity. Tender and intimate. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:44:25.933Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-02-first-meeting-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, black and white, pencil-on-paper texture. Extreme close-up: a tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes wide with curiosity, NOT orange) nose-to-nose with a young black Lab puppy (Gunner, fuzzy jet-black coat, bright amber-brown eyes, wet black nose). Their noses almost touch. The kitten's back is slightly arched, curious rather than afraid. The puppy is perfectly still for perhaps the first time in his life. The first moment of connection. Exquisite detail on their faces. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 148,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048398,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:45:25.187Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-02-first-meeting-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, black and white, pencil-on-paper texture. Extreme close-up: a tiny gray-brown tabby kitten (Tiger, faint developing stripes, huge golden-amber eyes wide with curiosity, NOT orange) nose-to-nose with a young black Lab puppy (Gunner, fuzzy jet-black coat, bright amber-brown eyes, wet black nose). Their noses almost touch. The kitten's back is slightly arched, curious rather than afraid. The puppy is perfectly still for perhaps the first time in his life. The first moment of connection. Exquisite detail on their faces. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 148,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048398,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:46:28.798Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-03-the-sole-survivor-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft shading, quiet melancholy, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint stripes, huge golden-amber eyes, NOT orange) alone in a wide, empty patch of the barn loft, small against the hay and the dark, the last of a litter of four. A single shaft of pale light. The stillness of a very small creature learning to be quiet and careful. Gentle, not grim. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 124,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048278,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:47:29.796Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-03-the-sole-survivor-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft shading, quiet melancholy, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, faint stripes, huge golden-amber eyes, NOT orange) alone in a wide, empty patch of the barn loft, small against the hay and the dark, the last of a litter of four. A single shaft of pale light. The stillness of a very small creature learning to be quiet and careful. Gentle, not grim. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 124,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048278,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:48:28.362Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-04-first-cold-night-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft warm shading, black and white, pencil-on-paper texture. A cold late-October East Texas night. A tiny gray-brown tabby kitten (Tiger, faint developing stripes, NOT orange) picks his way carefully across the floor toward a sleeping young black Lab puppy (Gunner, fuzzy black coat, orange collar) sprawled belly-out and warm. The kitten is choosing, deliberately, where to sleep. Frost on the window, warmth in the middle of the frame. The decision that anchors the whole series. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 135,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048333,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:49:27.156Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-04-first-cold-night-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft warm shading, black and white, pencil-on-paper texture. A cold late-October East Texas night. A tiny gray-brown tabby kitten (Tiger, faint developing stripes, NOT orange) picks his way carefully across the floor toward a sleeping young black Lab puppy (Gunner, fuzzy black coat, orange collar) sprawled belly-out and warm. The kitten is choosing, deliberately, where to sleep. Frost on the window, warmth in the middle of the frame. The decision that anchors the whole series. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 135,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048333,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:50:26.062Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-05-the-decision-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft warm shading, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, developing stripes, eyes closed, purring, NOT orange) curled tightly against the warm belly of a sleeping young black Lab puppy (Gunner, fuzzy jet-black coat, oversized paws, loose orange collar), tucked into the curve of his body. A cold East Texas night through the window. Warmth and intimacy, soft shadows. The moment Tiger chose Gunner. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 128,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048298,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:51:27.874Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-05-the-decision-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, extra soft warm shading, black and white, pencil-on-paper texture. A tiny gray-brown tabby kitten (Tiger, developing stripes, eyes closed, purring, NOT orange) curled tightly against the warm belly of a sleeping young black Lab puppy (Gunner, fuzzy jet-black coat, oversized paws, loose orange collar), tucked into the curve of his body. A cold East Texas night through the window. Warmth and intimacy, soft shadows. The moment Tiger chose Gunner. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 128,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048298,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:52:29.284Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-06-morning-two-kings-v1.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, warm morning light, black and white, pencil-on-paper texture. Morning. A young black Lab puppy (Gunner, fuzzy black coat, orange collar) and a tiny gray-brown tabby kitten (Tiger, NOT orange) step out of the barn together into the first light over fifteen acres, the whole kingdom laid out before two very small rulers. Wide, hopeful, the start of everything. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 113,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048223,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:53:26.081Z"
+  },
+  {
+    "file": "public/images/stories/07/story-07-scene-06-morning-two-kings-v2.png",
+    "storyId": "07",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded, warm morning light, black and white, pencil-on-paper texture. Morning. A young black Lab puppy (Gunner, fuzzy black coat, orange collar) and a tiny gray-brown tabby kitten (Tiger, NOT orange) step out of the barn together into the first light over fifteen acres, the whole kingdom laid out before two very small rulers. Wide, hopeful, the start of everything. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 113,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048223,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:54:23.768Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-01-the-hives-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset man in a full white bee suit and mesh veil (Dad, dark beard visible through the veil) standing beside two newly built white wooden bee hives at the edge of the East Texas garden. Beside him, a large black Labrador (Gunner, jet-black coat, broad chest, orange collar) sits with his nose inches from a hive entrance, tail wagging, completely unaware of the danger. Bees drift around the entrance. On a distant fence post, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches from safety. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 167,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048493,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:55:20.340Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-01-the-hives-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset man in a full white bee suit and mesh veil (Dad, dark beard visible through the veil) standing beside two newly built white wooden bee hives at the edge of the East Texas garden. Beside him, a large black Labrador (Gunner, jet-black coat, broad chest, orange collar) sits with his nose inches from a hive entrance, tail wagging, completely unaware of the danger. Bees drift around the entrance. On a distant fence post, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches from safety. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 167,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048493,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:56:20.104Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-02-the-buffer-zone-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset man in a white bee suit and veil (Dad) gently but firmly walking a reluctant large black Labrador (Gunner, jet-black coat, orange collar, ears down, glancing back longingly) back a careful ten feet from the hives, one hand on the dog's collar. Bees hang in the air between them and the boxes. Establishing the ten-foot rule Gunner will need eighteen stings to actually learn. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:57:18.297Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-02-the-buffer-zone-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large heavyset man in a white bee suit and veil (Dad) gently but firmly walking a reluctant large black Labrador (Gunner, jet-black coat, orange collar, ears down, glancing back longingly) back a careful ten feet from the hives, one hand on the dog's collar. Bees hang in the air between them and the boxes. Establishing the ten-foot rule Gunner will need eighteen stings to actually learn. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 130,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048308,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:58:18.096Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-03-the-lesson-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, ears pinned back, eyes wide with panic) running full-tilt across the East Texas yard, a small angry cloud of bees behind him. A large heavyset man in a white bee suit and veil (Dad, dark beard through the mesh) chases after, arms waving. On a distant fence post, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches with an unmistakable \"I told you so.\" Dynamic motion, comedic chaos, dust flying. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 164,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048478,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T09:59:18.279Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-03-the-lesson-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, ears pinned back, eyes wide with panic) running full-tilt across the East Texas yard, a small angry cloud of bees behind him. A large heavyset man in a white bee suit and veil (Dad, dark beard through the mesh) chases after, arms waving. On a distant fence post, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) watches with an unmistakable \"I told you so.\" Dynamic motion, comedic chaos, dust flying. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 164,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048478,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:00:19.987Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-04-the-swollen-nose-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close portrait: a large black Labrador (Gunner, jet-black coat, orange collar, one comically swollen nose, droopy pitiful expression, amber-brown eyes looking up for sympathy) on the farmhouse porch. Detailed, gentle, funny. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits just in frame at a smug distance. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 125,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048283,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:01:19.671Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-04-the-swollen-nose-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. Close portrait: a large black Labrador (Gunner, jet-black coat, orange collar, one comically swollen nose, droopy pitiful expression, amber-brown eyes looking up for sympathy) on the farmhouse porch. Detailed, gentle, funny. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits just in frame at a smug distance. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 125,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048283,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:02:17.833Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-05-the-aftermath-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, swollen nose, pathetic droopy face) lying on the farmhouse porch. A large heavyset bearded man (Dad, tan sun hat back on, white bee suit half-removed and hanging from his waist, bib overalls underneath) kneels and dabs ointment on the dog's nose with gentle hands. Nearby, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits at a respectful, definitely smug distance. Tender but funny. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:03:18.212Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-05-the-aftermath-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, swollen nose, pathetic droopy face) lying on the farmhouse porch. A large heavyset bearded man (Dad, tan sun hat back on, white bee suit half-removed and hanging from his waist, bib overalls underneath) kneels and dabs ointment on the dog's nose with gentle hands. Nearby, a stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sits at a respectful, definitely smug distance. Tender but funny. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 158,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048448,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:04:19.254Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-06-bee-suit-bath-v1.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. The three boys (8, 6, 3) help hold a wide washtub in the East Texas yard while a large black Labrador (Gunner, jet-black wet coat, orange collar, still slightly swollen nose) gets rinsed off, tongue out, cheerfully forgetting the entire lesson already. A large heavyset bearded man (Dad, bee veil pushed up) supervises. From a fence rail, a stocky gray-brown tabby cat (Tiger, NOT orange) refuses to come anywhere near the water. Warm family comedy. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 152,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048417999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:05:19.427Z"
+  },
+  {
+    "file": "public/images/stories/08/story-08-scene-06-bee-suit-bath-v2.png",
+    "storyId": "08",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. The three boys (8, 6, 3) help hold a wide washtub in the East Texas yard while a large black Labrador (Gunner, jet-black wet coat, orange collar, still slightly swollen nose) gets rinsed off, tongue out, cheerfully forgetting the entire lesson already. A large heavyset bearded man (Dad, bee veil pushed up) supervises. From a fence rail, a stocky gray-brown tabby cat (Tiger, NOT orange) refuses to come anywhere near the water. Warm family comedy. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 152,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048417999999999996,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:06:18.457Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-01-respectful-distance-v1.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sitting in a perfect loaf a careful distance from the white bee hives, having long since learned the ten-foot rule Gunner never will. Bees work the hive entrances calmly in the warm air. He watches them with the settled respect of an expert. East Texas garden edge. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 121,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048263,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:07:44.105Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-01-respectful-distance-v2.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes, NOT orange) sitting in a perfect loaf a careful distance from the white bee hives, having long since learned the ten-foot rule Gunner never will. Bees work the hive entrances calmly in the warm air. He watches them with the settled respect of an expert. East Texas garden edge. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 121,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048263,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:08:20.185Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-02-the-warning-v1.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes wide, back arched, fur bristled, ears flat, every muscle tense, NOT orange) in full alert, staring hard at a large black Labrador (Gunner, jet-black coat, broad chest, orange collar, happy confused expression, tail wagging) walking cheerfully toward an agitated hive in the background. The cat is doing everything he can to signal danger. The dog reads it all as play. Tension between alarm and obliviousness. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 157,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048443,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:09:18.398Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-02-the-warning-v2.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A stocky gray-brown tabby cat (Tiger, dark classic tabby stripes, golden-amber eyes wide, back arched, fur bristled, ears flat, every muscle tense, NOT orange) in full alert, staring hard at a large black Labrador (Gunner, jet-black coat, broad chest, orange collar, happy confused expression, tail wagging) walking cheerfully toward an agitated hive in the background. The cat is doing everything he can to signal danger. The dog reads it all as play. Tension between alarm and obliviousness. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 157,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048443,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:10:15.461Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-03-misunderstanding-v1.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, big goofy grin, in a play bow) facing a hissing, fully bristled stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes furious, back arched to maximum, tail puffed, NOT orange) whose every signal screams STOP. Behind the dog, bees begin to swarm from an agitated wooden hive. The split-second before disaster. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 136,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048338,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:11:46.179Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-03-misunderstanding-v2.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, big goofy grin, in a play bow) facing a hissing, fully bristled stocky gray-brown tabby cat (Tiger, dark tabby stripes, golden-amber eyes furious, back arched to maximum, tail puffed, NOT orange) whose every signal screams STOP. Behind the dog, bees begin to swarm from an agitated wooden hive. The split-second before disaster. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 136,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048338,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:12:17.203Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-04-the-swarm-v1.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v1",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, eyes wide, finally understanding) bolting away as an angry cloud of bees rises behind him. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, NOT orange) is already three lengths ahead, running (a rare, exceptional thing for him), leading the retreat toward the barn. Dynamic escape, dust and motion. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 125,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048283,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:13:16.698Z"
+  },
+  {
+    "file": "public/images/stories/09/story-09-scene-04-the-swarm-v2.png",
+    "storyId": "09",
+    "kind": "scene",
+    "variant": "v2",
+    "prompt": "Graphite pencil illustration, crosshatched, softly shaded black and white, pencil-on-paper texture. A large black Labrador (Gunner, jet-black coat, orange collar, eyes wide, finally understanding) bolting away as an angry cloud of bees rises behind him. A stocky gray-brown tabby cat (Tiger, dark tabby stripes, NOT orange) is already three lengths ahead, running (a rare, exceptional thing for him), leading the retreat toward the barn. Dynamic escape, dust and motion. Hand-drawn storybook illustration, children's book quality, 3:2 landscape, not a photograph.",
+    "model": "mai-image-25",
+    "size": "1248x832",
+    "width": 1248,
+    "height": 832,
+    "usageTokens": {
+      "num_output_tokens": 1014,
+      "num_input_text_tokens": 125,
+      "num_input_image_tokens": 0
+    },
+    "estCostUsd": 0.048283,
+    "host": "https://aif-studioai-prod-eus-01.services.ai.azure.com",
+    "generatedAtNote": "timestamp set at write time by this run",
+    "generatedAt": "2026-07-12T10:14:44.618Z"
   }
 ]
