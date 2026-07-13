@@ -45,6 +45,104 @@
 //   # regenerate; see MARKETING_OUTPUT_MAP below and the tool's report):
 //   node tools/mai-image.mjs --story 1 --kind marketing --prompts ../gunner-studio/resources/Branding_Illustration_Prompts.md --force --mai-budget-usd 5
 //
+//   # FLUX.2-pro, multi-reference character lock, plan only (Phase 4): feed the
+//   # locked character sheet, a real photo, and a graphite style anchor frame
+//   # as up to 8 reference images, conditioning one new scene render on all of
+//   # them at once. No network call happens with --dry-run.
+//   node tools/mai-image.mjs --story 01 --kind cover --prompts ../gunner-studio/resources/Illustration_Prompts_All_Stories.md \
+//     --model flux2 \
+//     --ref "../gunner-studio/characters/final/gunner/locked-sheet.png,../gunner-studio/characters/reference/photos/gunner-portrait.jpg,../gunner-studio/characters/reference/stories/story-01-scene-01-the-orchard.png" \
+//     --dry-run
+//
+//   # FLUX.1-Kontext-pro, single-reference edit, plan only: anchor one existing
+//   # image and edit it in-context. --ref accepts exactly one file for this
+//   # backend (it routes through the images/edits endpoint); use flux2 above
+//   # for more than one reference image.
+//   node tools/mai-image.mjs --story 01 --kind scene --prompts ../gunner-studio/resources/Illustration_Prompts_All_Stories.md \
+//     --model flux-kontext --ref ../gunner-studio/characters/final/gunner/locked-sheet.png --dry-run
+//
+// FLUX backend (Phase 4, added 2026-07-12):
+//
+//   FLUX is deployed on the same foundry (aif-studioai-prod-eus-01) as a
+//   selectable backend alongside MAI-Image-2.5, via --model. mai stays the
+//   default and every existing story/cover/scene/marketing flow is unchanged
+//   when --model is omitted or passed as "mai".
+//
+//     --model mai            (default) MAI-Image-2.5, unchanged from before.
+//     --model flux2           FLUX.2-pro (deployment flux-2-pro). Primary FLUX
+//                              pick: multi-reference conditioning, up to 8
+//                              reference images, up to 4 MP output. Calls the
+//                              BFL provider-specific API
+//                              (providers/blackforestlabs/v1/flux-2-pro),
+//                              which is the endpoint Microsoft Learn documents
+//                              as supporting FLUX.2's multi-reference
+//                              conditioning (the classic openai/deployments
+//                              images/generations surface does not document
+//                              multi-image reference support for FLUX.2).
+//     --model flux-kontext     FLUX.1-Kontext-pro (deployment
+//                              flux-1-kontext-pro). Single-reference edits via
+//                              the openai/deployments/.../images/edits
+//                              endpoint when --ref supplies one file; plain
+//                              text-to-image via images/generations when no
+//                              --ref is given. Capped at 1 reference image and
+//                              1 MP output (Microsoft Learn).
+//
+//   --ref / --reference <path[,path...]>   repeatable, or comma-separated in
+//                              one flag, or both. Reference image file paths
+//                              (locked character sheets in
+//                              gunner-studio/characters/final/<character>/,
+//                              graphite style anchor frames in
+//                              characters/reference/stories/, or the real
+//                              photos in characters/reference/photos/). Only
+//                              valid with --model flux2 (0-8 files) or
+//                              --model flux-kontext (0-1 file); rejected for
+//                              --model mai (use --edit-image instead, the
+//                              existing MAI pseudo style-reference arm).
+//
+//   Auth per backend:
+//     mai            Entra ID bearer token (unchanged; az account
+//                     get-access-token, resource https://cognitiveservices.azure.com).
+//     flux2          Same Entra ID bearer token, reused as-is. Microsoft
+//                     Learn's FLUX doc explicitly documents Entra ID auth on
+//                     the BFL provider-specific API with the same
+//                     https://cognitiveservices.azure.com/.default scope this
+//                     tool already acquires for MAI, so no new credential is
+//                     needed for the happy path.
+//     flux-kontext   Tries the same Entra ID bearer token first (Azure
+//                     OpenAI-compatible surfaces generally accept it). If
+//                     that is rejected after MAX_TOKEN_REFRESH_RETRIES
+//                     refreshes, falls back once to an api-key header sourced
+//                     at RUNTIME from Key Vault (kv-hcs-vault-01, secret name
+//                     in FLUX_KEY_VAULT_SECRET_NAME below), via
+//                     `az keyvault secret show`. The key is cached in memory
+//                     only for the life of this process; it is never written
+//                     to disk, logged, or committed. That secret does not
+//                     exist in the vault yet (see studio-foundry
+//                     ai/implementation/as-built.md, which records the image
+//                     path as keyless Entra); the fallback exists so this
+//                     tool degrades cleanly instead of crashing if Entra ever
+//                     proves insufficient for this specific surface, not
+//                     because a key is known to be required today.
+//
+//   FLUX pricing note: FLUX.2-pro's per-image cost estimate below is sourced
+//   from the public Azure pricing page for Black Forest Labs models (first
+//   megapixel $0.03, each additional megapixel $0.015, each reference image
+//   $0.015/MP, checked 2026-07-12) and is an approximation (assumes ~1 MP per
+//   reference image). FLUX.1-Kontext-pro has no confirmed published per-image
+//   rate as of this writing; its estimate is an explicitly-labeled UNVERIFIED
+//   placeholder for budget planning only. Both are clearly flagged as
+//   estimates in --dry-run output; verify against the real Azure invoice or
+//   portal cost view before any large batch FLUX run.
+//
+//   Response-shape note: the exact JSON field names FLUX.2-pro's BFL
+//   provider-specific API returns for the generated image (base64 vs URL,
+//   and under which key) are NOT confirmed by this Phase 4 build; Microsoft
+//   Learn's own sample only prints the parsed response without documenting
+//   field names. extractImageBuffer() below tries several plausible shapes
+//   and fails loudly (listing the real top-level keys) if none match. This
+//   is expected to need a one-line fix after the first real flux2 call; see
+//   that function's comment.
+//
 // Flags:
 //   --story <id|all>          required. Zero-padded story id ("01") matching
 //                              the on-disk naming (public/images/covers/story-01.png)
@@ -91,12 +189,26 @@
 //                              stop: before every single image, this tool sums
 //                              estCostUsd across the existing provenance.json
 //                              plus everything generated so far THIS run, adds
-//                              the flat ~0.048 USD/image estimate for the next
-//                              image, and refuses to start that call if the
-//                              total would exceed the budget. The run stops
-//                              cleanly (provenance for completed images is
-//                              still written); it never partially spends past
-//                              the cap.
+//                              the estimated USD cost of the next image (flat
+//                              ~0.048 USD for --model mai; a per-megapixel
+//                              estimate for --model flux2; an UNVERIFIED flat
+//                              placeholder for --model flux-kontext; see the
+//                              "FLUX pricing note" above), and refuses to
+//                              start that call if the total would exceed the
+//                              budget. The run stops cleanly (provenance for
+//                              completed images is still written); it never
+//                              partially spends past the cap. The flag name
+//                              is unchanged (--mai-budget-usd) even for FLUX
+//                              runs, to keep one budget flag across backends.
+//   --model mai|flux2|flux-kontext
+//                              default mai. Selects the image-generation
+//                              backend; see "FLUX backend" above.
+//   --backend                  alias for --model.
+//   --ref <path[,path...]>     repeatable and/or comma-separated. Reference
+//                              image file path(s) for FLUX multi-reference
+//                              (flux2, up to 8) or single-reference (flux-kontext,
+//                              up to 1) conditioning. See "FLUX backend" above.
+//   --reference                alias for --ref.
 //   --help                     print this block and exit 0.
 //
 // Prompt library (--prompts):
@@ -213,6 +325,66 @@ const MODEL = 'mai-image-25';
 const TOKEN_RESOURCE = 'https://cognitiveservices.azure.com';
 const MAX_PIXELS = 1_048_576;
 const MIN_DIM = 768;
+
+// ---- FLUX backend (Phase 4) ----
+//
+// FLUX's BFL provider-specific API (the only documented route for FLUX.2-pro
+// multi-reference conditioning) is served on the classic Cognitive Services
+// hostname, per Microsoft Learn's own FLUX doc examples (distinct from
+// PRIMARY_HOST above, which is the newer services.ai.azure.com host MAI and
+// FLUX's OpenAI-compatible Image API both use). Same underlying account
+// (aif-studioai-prod-eus-01), different documented hostname for this one
+// route.
+const FLUX_BFL_HOST = 'https://aif-studioai-prod-eus-01.api.cognitive.microsoft.com';
+const FLUX_API_VERSION = 'preview';
+
+// Deployment names as recorded in the studio-foundry repo's deployment
+// inventory (D:/git/thisismydemo/studio-foundry/ai/TASKS.md, "2026-07-12 -
+// Foundry deployments" section): mai-image-25 (baseline/fallback), flux-2-pro,
+// flux-1-kontext-pro. flux-1.1-pro is also deployed but has no character-lock
+// use case for this tool (text-only, no reference image) and is intentionally
+// not wired up as a --model choice here.
+const BACKENDS = {
+  mai: { deployment: MODEL, maxRefImages: 0 },
+  flux2: { deployment: 'flux-2-pro', maxRefImages: 8 },
+  'flux-kontext': { deployment: 'flux-1-kontext-pro', maxRefImages: 1 },
+};
+
+// Per-backend hard pixel cap for clampToCap(). FLUX.2-pro's documented max
+// output resolution is 4 MP (Microsoft Learn, "Deploy and use FLUX models in
+// Microsoft Foundry"); FLUX.1-Kontext-pro's is 1 MP, the same cap MAI already
+// uses, so it reuses MAX_PIXELS directly.
+const MAX_PIXELS_BY_BACKEND = {
+  mai: MAX_PIXELS,
+  flux2: 4_194_304,
+  'flux-kontext': MAX_PIXELS,
+};
+
+// Key Vault fallback for flux-kontext only, if the reused Entra bearer token
+// is ever rejected on that specific surface (see the "Auth per backend"
+// file-header note above). Fetched at RUNTIME only, never written to disk.
+// This secret does not exist in the vault as of this Phase 4 build (the
+// image path has been keyless Entra to date, per studio-foundry
+// ai/implementation/as-built.md); a real flux-kontext run that needs this
+// fallback will fail with a clear message telling the operator the secret is
+// missing, not a silent or destructive failure.
+const KEY_VAULT_NAME = 'kv-hcs-vault-01';
+const FLUX_KEY_VAULT_SECRET_NAME = 'studio-foundry-flux-image-key';
+
+// FLUX.2-pro pricing: Azure pricing page for Black Forest Labs models
+// (azure.microsoft.com/pricing/details/ai-foundry-models/black-forest-labs),
+// checked 2026-07-12: first generated megapixel $0.03, each additional
+// megapixel $0.015, each reference image $0.015/MP. The per-reference charge
+// assumes ~1 MP per reference image (an approximation; the real charge
+// depends on each reference file's actual pixel count, which this tool does
+// not currently inspect). FLUX.1-Kontext-pro has no confirmed published
+// per-image rate as of this writing; FLUX_KONTEXT_FLAT_EST_COST_USD is an
+// explicitly-UNVERIFIED placeholder, deliberately set a little above MAI's
+// measured rate so the budget gate errs toward stopping early rather than
+// overspending. Verify both against the real Azure cost view before any
+// large batch FLUX run.
+const FLUX2_RATE_USD_PER_MP = { first: 0.03, extra: 0.015, ref: 0.015 };
+const FLUX_KONTEXT_FLAT_EST_COST_USD = 0.06; // UNVERIFIED placeholder, see comment above
 
 // Standardized defaults (ADR-0002 decision 3). Covers historically wanted
 // 1264x848 (the existing on-disk covers); that exceeds the cap, so the
@@ -336,12 +508,24 @@ Required:
 
 Options:
   --variants <n>          candidates per prompt (default 1)
-  --size <WxH>            override size for this run, always clamped to 1,048,576 px
+  --size <WxH>            override size for this run, always clamped to the
+                          per-backend pixel cap (1,048,576 px for mai and
+                          flux-kontext; 4,194,304 px for flux2)
   --out <dir>             override the output directory
   --edit-image <path>     force the edits endpoint with this input image
+                          (--model mai only; use --ref for FLUX)
+  --model mai|flux2|flux-kontext
+                          default mai. Selects the image backend; see the
+                          "FLUX backend" block in the file header.
+  --backend               alias for --model
+  --ref <path[,path...]>  reference image path(s) for FLUX conditioning,
+                          repeatable and/or comma-separated (flux2: 0-8,
+                          flux-kontext: 0-1; rejected for --model mai)
+  --reference              alias for --ref
   --dry-run               print the plan, no network call, no file written
   --force                 overwrite existing files
   --mai-budget-usd <n>    required for a real run; hard cumulative spend cap
+                          (flag name is shared across all backends)
   --help                  this text
 
 See the top-of-file comment in tools/mai-image.mjs for the full prompt
@@ -372,6 +556,27 @@ async function main() {
   const outOverride = args.out ? resolveMaybeAbsolute(args.out) : null;
   const editImageOverride = args['edit-image'] ? resolveMaybeAbsolute(args['edit-image']) : null;
 
+  // --model / --backend (default "mai", unchanged behavior) and --ref /
+  // --reference (FLUX only). See "FLUX backend" in the file header comment.
+  const model = resolveModelArg(args);
+  if (!(model in BACKENDS)) {
+    fail(`--model must be one of ${Object.keys(BACKENDS).join(', ')}, got "${model}"`);
+  }
+  const refPaths = collectRefPaths(args);
+  if (refPaths.length > 0 && model === 'mai') {
+    fail('--ref/--reference is only supported with --model flux2 or --model flux-kontext (mai-image-25 has no reference-image conditioning path in this tool). Use --edit-image for the existing MAI pseudo style-reference arm instead.');
+  }
+  const maxRefImages = BACKENDS[model].maxRefImages;
+  if (refPaths.length > maxRefImages) {
+    fail(`--model ${model} accepts at most ${maxRefImages} reference image(s) (got ${refPaths.length}).${model === 'flux-kontext' ? ' Use --model flux2 for multi-reference conditioning (up to 8 images).' : ''}`);
+  }
+  for (const p of refPaths) {
+    if (!existsSync(p)) fail(`Reference image not found: ${relToRoot(p)}`);
+  }
+  if (editImageOverride && model !== 'mai') {
+    fail('--edit-image is a --model mai flag (the MAI pseudo style-reference arm). Use --ref/--reference for FLUX reference-image conditioning instead.');
+  }
+
   let budgetUsd = null;
   if (!dryRun) {
     const raw = requireArg(args, 'mai-budget-usd');
@@ -384,7 +589,7 @@ async function main() {
   }
 
   const library = await loadPromptLibrary(resolveMaybeAbsolute(promptsPath), kind);
-  const plan = buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride });
+  const plan = buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride, backend: model, refPaths });
 
   if (plan.length === 0) {
     fail(`No prompt-library entries matched --story ${storyArg} --kind ${kind}. Check the prompt library and the story id.`);
@@ -401,7 +606,7 @@ async function main() {
 
   if (dryRun) {
     for (const job of plan) {
-      const projected = cumulativeSpentUsd + FLAT_EST_COST_USD;
+      const projected = cumulativeSpentUsd + estimateCostEstimateForJob(job);
       const overBudget = budgetUsd !== null && projected > budgetUsd;
       cumulativeSpentUsd = projected;
       printDryRunJob(job, projected, overBudget);
@@ -425,7 +630,7 @@ async function main() {
       continue;
     }
 
-    const projected = cumulativeSpentUsd + FLAT_EST_COST_USD;
+    const projected = cumulativeSpentUsd + estimateCostEstimateForJob(job);
     if (projected > budgetUsd) {
       console.error('');
       console.error(`[budget] Stopping before ${relToRoot(job.outFile)}: projected spend $${projected.toFixed(4)} would exceed --mai-budget-usd ${budgetUsd.toFixed(2)}.`);
@@ -436,39 +641,48 @@ async function main() {
     if (!firstCall) await sleep(RATE_LIMIT_SPACING_MS);
     firstCall = false;
 
-    console.log(`[gen] ${relToRoot(job.outFile)}  size=${job.width}x${job.height}${job.editImagePath ? '  (edits endpoint, pseudo style-reference)' : ''}`);
+    const backendNote = job.backend !== 'mai' ? `  (backend=${job.backend}${job.refPaths.length ? `, ${job.refPaths.length} reference image${job.refPaths.length === 1 ? '' : 's'}` : ''})` : '';
+    console.log(`[gen] ${relToRoot(job.outFile)}  size=${job.width}x${job.height}${job.editImagePath ? '  (edits endpoint, pseudo style-reference)' : ''}${backendNote}`);
 
     let result;
     try {
-      result = await generateWithRetry({
-        hosts: [PRIMARY_HOST, FALLBACK_HOST],
-        model: MODEL,
-        prompt: job.prompt,
-        width: job.width,
-        height: job.height,
-        tokenState,
-        editImagePath: job.editImagePath,
-      });
+      result = await generateImage(job, tokenState);
     } catch (err) {
       console.error(`[error] ${relToRoot(job.outFile)}: ${err.message}`);
       continue;
     }
 
-    const b64 = result.json?.data?.[0]?.b64_json;
-    if (!b64) {
-      console.error(`[error] ${relToRoot(job.outFile)}: response had no data[0].b64_json. Raw keys: ${Object.keys(result.json ?? {}).join(', ')}`);
-      continue;
+    let imageBuf;
+    if (job.backend === 'mai') {
+      const b64 = result.json?.data?.[0]?.b64_json;
+      if (!b64) {
+        console.error(`[error] ${relToRoot(job.outFile)}: response had no data[0].b64_json. Raw keys: ${Object.keys(result.json ?? {}).join(', ')}`);
+        continue;
+      }
+      imageBuf = Buffer.from(b64, 'base64');
+    } else {
+      try {
+        imageBuf = await extractImageBuffer(job.backend, result.json);
+      } catch (err) {
+        console.error(`[error] ${relToRoot(job.outFile)}: ${err.message}`);
+        continue;
+      }
     }
 
     await mkdir(dirname(job.outFile), { recursive: true });
-    await writeFile(job.outFile, Buffer.from(b64, 'base64'));
+    await writeFile(job.outFile, imageBuf);
 
     const usage = result.json.usage ?? null;
-    const measuredCost = estimateCostFromUsage(usage);
-    const estCostUsd = measuredCost ?? FLAT_EST_COST_USD;
+    // Usage-based cost accounting (RATE_USD_PER_MILLION) is confirmed only
+    // for MAI's response shape; FLUX's usage/cost fields are unconfirmed as
+    // of this Phase 4 build, so FLUX always falls back to the pre-flight
+    // per-image estimate (estimateCostEstimateForJob) rather than a possibly
+    // wrong measured figure.
+    const measuredCost = job.backend === 'mai' ? estimateCostFromUsage(usage) : null;
+    const estCostUsd = measuredCost ?? estimateCostEstimateForJob(job);
     cumulativeSpentUsd += estCostUsd;
 
-    console.log(`  -> wrote ${(Buffer.from(b64, 'base64').length / 1024).toFixed(0)} KB, host=${result.host}, cost~$${estCostUsd.toFixed(4)}, running total $${cumulativeSpentUsd.toFixed(4)}`);
+    console.log(`  -> wrote ${(imageBuf.length / 1024).toFixed(0)} KB, host=${result.host}, cost~$${estCostUsd.toFixed(4)}, running total $${cumulativeSpentUsd.toFixed(4)}`);
 
     newProvenanceEntries.push({
       file: relToRoot(job.outFile).replace(/\\/g, '/'),
@@ -476,7 +690,8 @@ async function main() {
       kind: job.kind,
       variant: job.variantLabel,
       prompt: job.prompt,
-      model: MODEL,
+      model: job.backend === 'mai' ? MODEL : job.deploymentName,
+      ...(job.backend !== 'mai' ? { backend: job.backend, referenceImages: job.refPaths.map((p) => relToRoot(p).replace(/\\/g, '/')) } : {}),
       size: `${job.width}x${job.height}`,
       width: job.width,
       height: job.height,
@@ -504,8 +719,8 @@ async function main() {
 
 // ---- Planning ----
 
-function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride }) {
-  if (kind === 'marketing') return buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride });
+function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverride, editImageOverride, backend, refPaths }) {
+  if (kind === 'marketing') return buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride, backend, refPaths });
 
   const bucket = kind === 'cover' ? library.covers : library.scenes;
   if (!bucket || Object.keys(bucket).length === 0) {
@@ -521,7 +736,7 @@ function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverrid
   for (const storyId of storyIds) {
     if (kind === 'cover') {
       const entry = normalizeCoverEntry(bucket[storyId]);
-      plan.push(...expandVariants({ storyId, kind, entry, filenameBase: `story-${storyId}`, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir: join(ROOT, 'public', 'images', 'covers') }));
+      plan.push(...expandVariants({ storyId, kind, entry, filenameBase: `story-${storyId}`, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir: join(ROOT, 'public', 'images', 'covers'), backend, refPaths }));
     } else {
       const entries = bucket[storyId];
       if (!Array.isArray(entries) || entries.length === 0) {
@@ -530,7 +745,7 @@ function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverrid
       const defaultOutDir = join(ROOT, 'public', 'images', 'stories', storyId);
       for (const raw of entries) {
         const entry = normalizeSceneEntry(raw, storyId);
-        plan.push(...expandVariants({ storyId, kind, entry, filenameBase: entry.filename, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir }));
+        plan.push(...expandVariants({ storyId, kind, entry, filenameBase: entry.filename, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir, backend, refPaths }));
       }
     }
   }
@@ -549,7 +764,7 @@ function buildPlan({ library, storyArg, kind, variants, sizeOverride, outOverrid
  * size at all) are silently excluded from "all" rather than erroring; an
  * explicit single id that is missing from either still fails loudly.
  */
-function buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride }) {
+function buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOverride, editImageOverride, backend, refPaths }) {
   const bucket = library.marketing;
   if (!bucket || Object.keys(bucket).length === 0) {
     fail('The prompt library has no "marketing" entries. See tools/mai-image.mjs header for the expected shape (parseBrandingMarkdown).');
@@ -592,6 +807,8 @@ function buildMarketingPlan({ library, storyArg, variants, sizeOverride, outOver
           outOverride,
           editImageOverride,
           defaultOutDir: dirname(outFile),
+          backend,
+          refPaths,
         })
       );
     } catch (err) {
@@ -621,9 +838,15 @@ function normalizeSceneEntry(raw, storyId) {
   return { filename: raw.filename, prompt: raw.prompt, size: raw.size ?? null, editImage: raw.editImage ?? null };
 }
 
-function expandVariants({ storyId, kind, entry, filenameBase, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir }) {
+function expandVariants({ storyId, kind, entry, filenameBase, variants, sizeOverride, outOverride, editImageOverride, defaultOutDir, backend, refPaths }) {
   const requested = sizeOverride ?? entry.size ?? REQUESTED_SIZE_BY_KIND[kind];
-  const { width, height, clamped } = clampToCap(requested.width, requested.height);
+  const maxPixels = MAX_PIXELS_BY_BACKEND[backend] ?? MAX_PIXELS;
+  // capLabel keeps the infeasible-aspect-ratio error message's wording
+  // ("16:9") identical to before Phase 4 for every backend whose cap still
+  // equals the original MAX_PIXELS (mai, flux-kontext); only flux2's larger
+  // 4 MP cap gets a computed label.
+  const capLabel = maxPixels === MAX_PIXELS ? '16:9' : `${(maxPixels / (MIN_DIM * MIN_DIM)).toFixed(2)}:1`;
+  const { width, height, clamped } = clampToCap(requested.width, requested.height, maxPixels, capLabel);
   const outDir = outOverride ?? defaultOutDir;
   const editImagePath = editImageOverride ?? (entry.editImage ? resolveMaybeAbsolute(entry.editImage) : null);
 
@@ -644,6 +867,9 @@ function expandVariants({ storyId, kind, entry, filenameBase, variants, sizeOver
       clamped,
       outFile,
       editImagePath,
+      backend,
+      deploymentName: BACKENDS[backend].deployment,
+      refPaths,
     });
   }
   return jobs;
@@ -671,17 +897,17 @@ function parseSize(str) {
  * constraints at once and always throws here; see MARKETING_OUTPUT_MAP's
  * callers for how that is surfaced as a per-asset skip instead of a crash.
  */
-function clampToCap(width, height) {
-  if (width * height <= MAX_PIXELS && width >= MIN_DIM && height >= MIN_DIM) {
+function clampToCap(width, height, maxPixels = MAX_PIXELS, capLabel = '16:9') {
+  if (width * height <= maxPixels && width >= MIN_DIM && height >= MIN_DIM) {
     return { width, height, clamped: false };
   }
-  const scale = Math.sqrt(MAX_PIXELS / (width * height));
+  const scale = Math.sqrt(maxPixels / (width * height));
   let w = Math.floor((width * scale) / 2) * 2;
   let h = Math.floor((height * scale) / 2) * 2;
-  while (w * h > MAX_PIXELS && w > MIN_DIM) w -= 2;
-  while (w * h > MAX_PIXELS && h > MIN_DIM) h -= 2;
-  if (w < MIN_DIM || h < MIN_DIM || w * h > MAX_PIXELS) {
-    throw new Error(`Cannot clamp ${width}x${height} to fit under ${MAX_PIXELS} px while keeping both dimensions >= ${MIN_DIM} (max feasible aspect ratio is 16:9).`);
+  while (w * h > maxPixels && w > MIN_DIM) w -= 2;
+  while (w * h > maxPixels && h > MIN_DIM) h -= 2;
+  if (w < MIN_DIM || h < MIN_DIM || w * h > maxPixels) {
+    throw new Error(`Cannot clamp ${width}x${height} to fit under ${maxPixels} px while keeping both dimensions >= ${MIN_DIM} (max feasible aspect ratio is ${capLabel}).`);
   }
   return { width: w, height: h, clamped: true };
 }
@@ -996,6 +1222,265 @@ async function generateWithRetry({ hosts, model, prompt, width, height, tokenSta
   throw new Error(`MAI image API failed after retries and host fallback: ${lastErr?.message ?? 'unknown error'}`);
 }
 
+// ---- FLUX backend (Phase 4) ----
+
+/**
+ * Dispatches a single job to the right backend's real-call path. mai is
+ * unchanged (calls generateWithRetry exactly as before this Phase 4 change).
+ */
+async function generateImage(job, tokenState) {
+  if (job.backend === 'mai') {
+    return generateWithRetry({
+      hosts: [PRIMARY_HOST, FALLBACK_HOST],
+      model: MODEL,
+      prompt: job.prompt,
+      width: job.width,
+      height: job.height,
+      tokenState,
+      editImagePath: job.editImagePath,
+    });
+  }
+  if (job.backend === 'flux2') return generateFlux2WithRetry({ job, tokenState });
+  return generateFluxKontextWithRetry({ job, tokenState });
+}
+
+/**
+ * FLUX.2-pro via the BFL provider-specific API (the documented route for
+ * multi-reference conditioning; see the file header's "FLUX backend" note).
+ * Reuses the same Entra bearer token already fetched for MAI (Microsoft
+ * Learn documents Entra auth on this route with the same
+ * https://cognitiveservices.azure.com/.default scope), so no key fallback is
+ * wired up here; if that assumption ever proves wrong in a real run, this is
+ * the first place to add one (mirroring generateFluxKontextWithRetry's
+ * api-key fallback below).
+ */
+async function callFlux2Generations({ host, deploymentName, prompt, width, height, token, refPaths }) {
+  const body = {
+    model: 'FLUX.2-pro',
+    prompt,
+    width,
+    height,
+    output_format: 'png',
+  };
+  for (let i = 0; i < refPaths.length; i++) {
+    const buf = await readFile(refPaths[i]);
+    const field = i === 0 ? 'input_image' : `input_image_${i + 1}`;
+    body[field] = buf.toString('base64');
+  }
+  return fetch(`${host}/providers/blackforestlabs/v1/${deploymentName}?api-version=${FLUX_API_VERSION}`, {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+}
+
+async function generateFlux2WithRetry({ job, tokenState }) {
+  const host = FLUX_BFL_HOST;
+  let lastErr = null;
+  let tokenRefreshRetries = 0;
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    const token = await ensureFreshToken(tokenState);
+    let res;
+    try {
+      res = await callFlux2Generations({
+        host,
+        deploymentName: job.deploymentName,
+        prompt: job.prompt,
+        width: job.width,
+        height: job.height,
+        token,
+        refPaths: job.refPaths,
+      });
+    } catch (networkErr) {
+      lastErr = networkErr;
+      if (attempt === MAX_RETRIES) break;
+      await sleep(backoffMs(attempt));
+      continue;
+    }
+
+    if (res.ok) return { json: await res.json(), host };
+
+    const bodyText = await res.text().catch(() => '');
+
+    if (res.status === 401 && tokenRefreshRetries < MAX_TOKEN_REFRESH_RETRIES) {
+      tokenRefreshRetries++;
+      console.warn(`  [warn] 401 on ${host} (flux2, likely an expired token), forcing a token refresh and retrying (token retry ${tokenRefreshRetries}/${MAX_TOKEN_REFRESH_RETRIES})`);
+      tokenState.token = null;
+      lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+      attempt--;
+      continue;
+    }
+
+    if (res.status === 429 || res.status >= 500) {
+      lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+      if (attempt === MAX_RETRIES) break;
+      const retryAfterMs = parseRetryAfter(res.headers.get('retry-after'));
+      console.warn(`  [warn] ${res.status} on ${host}, retrying in ${retryAfterMs ?? backoffMs(attempt)}ms (attempt ${attempt + 1}/${MAX_RETRIES})`);
+      await sleep(retryAfterMs ?? backoffMs(attempt));
+      continue;
+    }
+
+    throw new Error(`FLUX.2-pro API error ${res.status} on ${host}: ${bodyText}`);
+  }
+  throw new Error(`FLUX.2-pro API failed after retries: ${lastErr?.message ?? 'unknown error'}`);
+}
+
+/**
+ * FLUX.1-Kontext-pro via the OpenAI-compatible Image API
+ * (openai/deployments/<name>/images/generations or .../images/edits). Uses
+ * OpenAI's own `n` + `size` (string "WxH") request fields, not MAI's
+ * width/height integers. Tries the same reused Entra bearer token first;
+ * falls back once to an api-key header sourced from Key Vault at runtime if
+ * Entra is rejected after MAX_TOKEN_REFRESH_RETRIES refreshes (see the file
+ * header's "Auth per backend" note and getFluxApiKey() below).
+ */
+async function callFluxKontextGenerations({ host, deploymentName, prompt, width, height, authHeader }) {
+  const size = `${width}x${height}`;
+  return fetch(`${host}/openai/deployments/${deploymentName}/images/generations?api-version=${FLUX_API_VERSION}`, {
+    method: 'POST',
+    headers: { [authHeader.name]: authHeader.value, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ model: deploymentName, prompt, n: 1, size }),
+  });
+}
+
+async function callFluxKontextEdits({ host, deploymentName, prompt, width, height, authHeader, imagePath }) {
+  const size = `${width}x${height}`;
+  const imageBuf = await readFile(imagePath);
+  const form = new FormData();
+  form.append('model', deploymentName);
+  form.append('prompt', prompt);
+  form.append('n', '1');
+  form.append('size', size);
+  form.append('image', new Blob([imageBuf]), basename(imagePath));
+  return fetch(`${host}/openai/deployments/${deploymentName}/images/edits?api-version=${FLUX_API_VERSION}`, {
+    method: 'POST',
+    headers: { [authHeader.name]: authHeader.value },
+    body: form,
+  });
+}
+
+async function generateFluxKontextWithRetry({ job, tokenState }) {
+  const hosts = [PRIMARY_HOST, FALLBACK_HOST];
+  const useEdits = job.refPaths.length > 0;
+  let lastErr = null;
+  let usedKeyFallback = false;
+
+  for (let hostIdx = 0; hostIdx < hosts.length; hostIdx++) {
+    const host = hosts[hostIdx];
+    let tokenRefreshRetries = 0;
+    for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+      const authHeader = usedKeyFallback
+        ? { name: 'api-key', value: await getFluxApiKey() }
+        : { name: 'Authorization', value: `Bearer ${await ensureFreshToken(tokenState)}` };
+
+      let res;
+      try {
+        res = useEdits
+          ? await callFluxKontextEdits({ host, deploymentName: job.deploymentName, prompt: job.prompt, width: job.width, height: job.height, authHeader, imagePath: job.refPaths[0] })
+          : await callFluxKontextGenerations({ host, deploymentName: job.deploymentName, prompt: job.prompt, width: job.width, height: job.height, authHeader });
+      } catch (networkErr) {
+        lastErr = networkErr;
+        if (attempt === MAX_RETRIES) break;
+        await sleep(backoffMs(attempt));
+        continue;
+      }
+
+      if (res.ok) return { json: await res.json(), host };
+
+      const bodyText = await res.text().catch(() => '');
+
+      if (res.status === 401 && !usedKeyFallback) {
+        if (tokenRefreshRetries < MAX_TOKEN_REFRESH_RETRIES) {
+          tokenRefreshRetries++;
+          console.warn(`  [warn] 401 on ${host} (flux-kontext, Entra bearer), forcing a token refresh and retrying (token retry ${tokenRefreshRetries}/${MAX_TOKEN_REFRESH_RETRIES})`);
+          tokenState.token = null;
+          lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+          attempt--;
+          continue;
+        }
+        console.warn(`  [warn] Entra bearer auth did not work on the FLUX.1-Kontext-pro images endpoint after ${MAX_TOKEN_REFRESH_RETRIES} refreshes; falling back to api-key auth (Key Vault ${KEY_VAULT_NAME}/${FLUX_KEY_VAULT_SECRET_NAME}).`);
+        usedKeyFallback = true;
+        lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+        attempt--;
+        continue;
+      }
+
+      if ((res.status === 401 || res.status === 403) && hostIdx < hosts.length - 1) {
+        console.warn(`  [warn] ${res.status} on ${host}, falling back to ${hosts[hostIdx + 1]}`);
+        lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+        break;
+      }
+
+      if (res.status === 429 || res.status >= 500) {
+        lastErr = new Error(`${res.status} on ${host}: ${bodyText}`);
+        if (attempt === MAX_RETRIES) break;
+        const retryAfterMs = parseRetryAfter(res.headers.get('retry-after'));
+        console.warn(`  [warn] ${res.status} on ${host}, retrying in ${retryAfterMs ?? backoffMs(attempt)}ms (attempt ${attempt + 1}/${MAX_RETRIES})`);
+        await sleep(retryAfterMs ?? backoffMs(attempt));
+        continue;
+      }
+
+      throw new Error(`FLUX.1-Kontext-pro API error ${res.status} on ${host}: ${bodyText}`);
+    }
+  }
+  throw new Error(`FLUX.1-Kontext-pro API failed after retries and host fallback: ${lastErr?.message ?? 'unknown error'}`);
+}
+
+// In-memory-only cache for the flux-kontext api-key fallback; never written
+// to disk, never logged. See the file header's "Auth per backend" note.
+let cachedFluxApiKey = null;
+
+async function getFluxApiKey() {
+  if (cachedFluxApiKey) return cachedFluxApiKey;
+  try {
+    const { stdout } = await execFileAsync(
+      'az',
+      ['keyvault', 'secret', 'show', '--vault-name', KEY_VAULT_NAME, '--name', FLUX_KEY_VAULT_SECRET_NAME, '--query', 'value', '-o', 'tsv'],
+      { shell: true, windowsHide: true }
+    );
+    const key = stdout.trim();
+    if (!key) throw new Error('az keyvault secret show returned an empty value');
+    cachedFluxApiKey = key;
+    return key;
+  } catch (err) {
+    throw new Error(
+      `Could not fetch the FLUX api-key fallback from Key Vault (${KEY_VAULT_NAME}/${FLUX_KEY_VAULT_SECRET_NAME}). ` +
+        'The Entra bearer path was tried first and failed; this secret does not exist in the vault as of the Phase 4 ' +
+        'build (the image path has been keyless Entra to date). Provision it (az keyvault secret set --vault-name ' +
+        `${KEY_VAULT_NAME} --name ${FLUX_KEY_VAULT_SECRET_NAME} --value <key>) if FLUX.1-Kontext-pro genuinely needs ` +
+        `key auth, or investigate why the Entra bearer token was rejected. Underlying error: ${err.message}`
+    );
+  }
+}
+
+/**
+ * Extracts an image Buffer from a FLUX response for either flux2 (BFL
+ * provider-specific API) or flux-kontext (OpenAI-compatible Image API).
+ * flux-kontext's shape (OpenAI images: data[0].b64_json or data[0].url) is
+ * confirmed by Microsoft Learn's own sample code. flux2's exact BFL-native
+ * response shape is NOT confirmed as of this Phase 4 build (Microsoft
+ * Learn's FLUX doc sample only prints the parsed JSON without documenting
+ * field names); this function tries every plausible shape and fails loudly,
+ * listing the real top-level keys, so the first real flux2 call surfaces
+ * exactly what needs a one-line fix here instead of silently mis-parsing.
+ */
+async function extractImageBuffer(backend, json) {
+  const first = json?.data?.[0];
+  if (first?.b64_json) return Buffer.from(first.b64_json, 'base64');
+  if (first?.url) return Buffer.from(await (await fetch(first.url)).arrayBuffer());
+
+  const candidates = [json?.result?.sample, json?.sample, json?.image, json?.b64_json, json?.result?.url, json?.url];
+  for (const c of candidates) {
+    if (typeof c === 'string' && c.length > 0) {
+      if (c.startsWith('http://') || c.startsWith('https://')) {
+        return Buffer.from(await (await fetch(c)).arrayBuffer());
+      }
+      return Buffer.from(c, 'base64');
+    }
+  }
+  throw new Error(`Could not find image data in the ${backend} response (tried data[0].b64_json/url, result.sample, sample, image, b64_json, result.url, url). Raw top-level keys: ${Object.keys(json ?? {}).join(', ')}`);
+}
+
 function backoffMs(attempt) {
   return Math.min(2000 * 2 ** attempt, 30000);
 }
@@ -1021,25 +1506,111 @@ function resolveMaybeAbsolute(p) {
   return isAbsolute(p) ? p : resolve(ROOT, p);
 }
 
-function printDryRunJob(job, projectedTotal, overBudget) {
-  const sizeNote = job.clamped ? ` (clamped from requested ${job.requestedWidth}x${job.requestedHeight})` : '';
-  console.log(`[plan] ${relToRoot(job.outFile)}`);
-  console.log(`       kind=${job.kind} storyId=${job.storyId} variant=${job.variantLabel}`);
-  console.log(`       endpoint=${job.editImagePath ? '/mai/v1/images/edits' : '/mai/v1/images/generations'} host=${PRIMARY_HOST}${job.editImagePath ? ` editImage=${relToRoot(job.editImagePath)}` : ''}`);
-  console.log(`       size=${job.width}x${job.height}${sizeNote}  promptChars=${job.prompt.length}`);
-  console.log(`       est. cost this image: $${FLAT_EST_COST_USD.toFixed(4)}  projected cumulative: $${projectedTotal.toFixed(4)}${overBudget ? '  [OVER --mai-budget-usd]' : ''}`);
+/**
+ * Resolves the endpoint (path + host) a job would call, shared by
+ * printDryRunJob (report-only) and the real-call dispatch. For --model mai
+ * this returns exactly the same path/host the tool used before Phase 4.
+ */
+function resolveEndpoint(job) {
+  if (job.backend === 'mai') {
+    return { host: PRIMARY_HOST, path: job.editImagePath ? '/mai/v1/images/edits' : '/mai/v1/images/generations' };
+  }
+  if (job.backend === 'flux2') {
+    return { host: FLUX_BFL_HOST, path: `/providers/blackforestlabs/v1/${job.deploymentName}?api-version=${FLUX_API_VERSION}` };
+  }
+  // flux-kontext
+  const action = job.refPaths.length > 0 ? 'edits' : 'generations';
+  return { host: PRIMARY_HOST, path: `/openai/deployments/${job.deploymentName}/images/${action}?api-version=${FLUX_API_VERSION}` };
 }
 
+/**
+ * Per-image cost estimate used by both the --dry-run report and the
+ * pre-flight budget gate in main(). Returns FLAT_EST_COST_USD for --model
+ * mai (identical to the tool's pre-Phase-4 behavior). See the FLUX2_RATE_USD_PER_MP
+ * and FLUX_KONTEXT_FLAT_EST_COST_USD constants' comments for sourcing and
+ * accuracy caveats on the FLUX estimates.
+ */
+function estimateCostEstimateForJob(job) {
+  if (job.backend === 'mai') return FLAT_EST_COST_USD;
+  if (job.backend === 'flux2') {
+    const mp = (job.width * job.height) / 1_000_000;
+    const genCost = FLUX2_RATE_USD_PER_MP.first + Math.max(0, mp - 1) * FLUX2_RATE_USD_PER_MP.extra;
+    const refCost = job.refPaths.length * FLUX2_RATE_USD_PER_MP.ref;
+    return genCost + refCost;
+  }
+  return FLUX_KONTEXT_FLAT_EST_COST_USD;
+}
+
+function printDryRunJob(job, projectedTotal, overBudget) {
+  const sizeNote = job.clamped ? ` (clamped from requested ${job.requestedWidth}x${job.requestedHeight})` : '';
+  const ep = resolveEndpoint(job);
+  console.log(`[plan] ${relToRoot(job.outFile)}`);
+  console.log(`       kind=${job.kind} storyId=${job.storyId} variant=${job.variantLabel}`);
+  if (job.backend !== 'mai') {
+    const refNote = job.refPaths.length ? ` [${job.refPaths.map(relToRoot).join(', ')}]` : '';
+    console.log(`       backend=${job.backend} deployment=${job.deploymentName} referenceImages=${job.refPaths.length}${refNote}`);
+  }
+  console.log(`       endpoint=${ep.path} host=${ep.host}${job.editImagePath ? ` editImage=${relToRoot(job.editImagePath)}` : ''}`);
+  console.log(`       size=${job.width}x${job.height}${sizeNote}  promptChars=${job.prompt.length}`);
+  const est = estimateCostEstimateForJob(job);
+  const pricingNote =
+    job.backend === 'flux2'
+      ? '  [FLUX.2-pro estimate: Azure pricing page per-MP rate + reference-image surcharge, approximate]'
+      : job.backend === 'flux-kontext'
+        ? '  [FLUX.1-Kontext-pro estimate: UNVERIFIED placeholder, no confirmed published rate]'
+        : '';
+  console.log(`       est. cost this image: $${est.toFixed(4)}  projected cumulative: $${projectedTotal.toFixed(4)}${overBudget ? '  [OVER --mai-budget-usd]' : ''}${pricingNote}`);
+}
+
+/**
+ * Accumulates repeated flags into an array (out[name] becomes an array only
+ * once a flag is passed more than once); a flag passed once still resolves
+ * to a plain string/true exactly as before Phase 4, so every existing
+ * single-value caller (--story, --kind, --prompts, --size, --out, ...) is
+ * unaffected. Added so --ref/--reference can be repeated on the command line
+ * (node tools/mai-image.mjs ... --ref a.png --ref b.png) as an alternative
+ * to comma-separating a single --ref value.
+ */
 function parseArgs(argv) {
   const out = {};
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (!a.startsWith('--')) continue;
     const name = a.slice(2);
-    if (i + 1 < argv.length && !argv[i + 1].startsWith('--')) out[name] = argv[++i];
-    else out[name] = true;
+    const value = i + 1 < argv.length && !argv[i + 1].startsWith('--') ? argv[++i] : true;
+    if (out[name] === undefined) out[name] = value;
+    else if (Array.isArray(out[name])) out[name].push(value);
+    else out[name] = [out[name], value];
   }
   return out;
+}
+
+/** --model, falling back to --backend, defaulting to "mai". */
+function resolveModelArg(args) {
+  let raw = args.model ?? args.backend ?? 'mai';
+  if (Array.isArray(raw)) raw = raw[raw.length - 1];
+  if (raw === true) fail('--model requires a value: mai, flux2, or flux-kontext.');
+  return raw;
+}
+
+/**
+ * Collects --ref/--reference into a flat array of resolved absolute paths.
+ * Accepts the flag repeated (--ref a --ref b), comma-separated in one value
+ * (--ref "a,b"), or both at once. Returns [] when neither flag is passed.
+ */
+function collectRefPaths(args) {
+  const raw = args.ref ?? args.reference;
+  if (raw === undefined) return [];
+  const rawList = Array.isArray(raw) ? raw : [raw];
+  const paths = [];
+  for (const entry of rawList) {
+    if (entry === true) continue;
+    for (const piece of String(entry).split(',')) {
+      const trimmed = piece.trim();
+      if (trimmed) paths.push(resolveMaybeAbsolute(trimmed));
+    }
+  }
+  return paths;
 }
 
 function requireArg(args, name) {
