@@ -28,3 +28,14 @@ pnpm-debug.log*
 # Internal production materials live in the private gunner-studio repo
 resources/
 backups/
+
+# Story content now lives in the private gunner-content repo (source of truth).
+# Synced here by .github/workflows/deploy.yml in CI, or `npm run sync-content`
+# locally. See gunner-content/README.md.
+/src/content/stories/*.md
+/src/content/stories/*.mdx
+!/src/content/stories/.gitkeep
+/public/images/covers/*
+!/public/images/covers/.gitkeep
+/public/images/stories/*
+!/public/images/stories/.gitkeep

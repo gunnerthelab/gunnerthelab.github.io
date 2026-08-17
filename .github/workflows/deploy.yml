@@ -21,6 +21,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Checkout gunner-content (private, source of truth for stories)
+        uses: actions/checkout@v4
+        with:
+          repository: gunnerthelab/gunner-content
+          token: ${{ secrets.GUNNER_CONTENT_PAT }}
+          path: gunner-content
+
+      - name: Sync stories + images from gunner-content
+        run: |
+          set -euo pipefail
+          rm -rf src/content/stories
+          mkdir -p src/content/stories
+          cp gunner-content/stories/*.md src/content/stories/
+
+          mkdir -p public/images/covers public/images/stories
+          rm -rf public/images/covers/* public/images/stories/*
+          cp -r gunner-content/images/covers/. public/images/covers/
+          cp -r gunner-content/images/stories/. public/images/stories/
+
+          echo "Synced $(ls src/content/stories | wc -l) stories from gunner-content."
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
