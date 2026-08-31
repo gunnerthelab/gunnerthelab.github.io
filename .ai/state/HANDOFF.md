@@ -5,6 +5,27 @@
   This is the single most important cross-tool file — the next session
   (possibly a different tool) starts by reading it.
 -->
+## 2026-08-30 - state refresh only (no code change)
+
+- **What changed and why:** No code touched. This file had drifted: its newest entry was
+  2026-07-11 and it made no mention of the August content migration or the StoryLark
+  cutover, so a cold start would have been misled. Refreshing state only.
+- **Current shape of this repo:** story markdown and images are NO LONGER mastered here.
+  `deploy.yml` checks out the private `gunner-content` repo and copies `stories/` and
+  `images/` in before every build. The local `src/content/stories/` copy is build input
+  fetched at CI time, not source of truth. The Zod schema in `src/content.config.ts` still
+  gates frontmatter and still fails the build loudly on a bad field - deliberate, keep it.
+- **Related decision:** an Astro-to-VitePress migration was considered on 2026-08-30 and
+  declined. Stay on Astro. Reasons recorded in `.ai/state/CURRENT_TASK.md`.
+- **Open, unchanged from 2026-07-11:** the push-alerts CORS patch. The worker moved to
+  `storylark-gunner` since that entry was written, so the file path in it is stale.
+- **Open, unrelated:** GitHub issues #1 "Create iPhone App" (probably already satisfied by
+  the live PWA at `app.gunnerthelab.com`) and #3 "Copyright Research", both open since
+  2026-04-11. Per the 2026-08-30 tracking decision these should flow to ADO via the
+  existing `ado-sync.yml`, not be retyped by hand.
+- **Branch:** main - committed: no - pushed: no.
+- **Blockers:** none in this repo.
+
 
 ## 2026-07-11 - S1-push: new-story push alerts for the installed site PWA
 
