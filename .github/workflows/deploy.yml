@@ -21,11 +21,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Mint a short-lived GitHub App installation token instead of a PAT. Classic and
+      # fine-grained PATs silently expire and then fail with a misleading "API rate limit
+      # exceeded" error - exactly what broke this workflow between 2026-08-17 and
+      # 2026-09-01 (AB#7974). App tokens are minted per run and cannot lapse.
+      - name: Mint a GitHub App token for gunner-content
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: gunnerthelab
+          repositories: gunner-content
+
       - name: Checkout gunner-content (private, source of truth for stories)
         uses: actions/checkout@v4
         with:
           repository: gunnerthelab/gunner-content
-          token: ${{ secrets.GUNNER_CONTENT_PAT }}
+          token: ${{ steps.app-token.outputs.token }}
           path: gunner-content
 
       - name: Sync stories + images from gunner-content
