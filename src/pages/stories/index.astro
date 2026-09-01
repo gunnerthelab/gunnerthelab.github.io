@@ -1,6 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import PushAlerts from '../../components/PushAlerts.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { groupStoriesByEra } from '../../utils/data-utils';
@@ -20,7 +19,6 @@ const publishedCount = allStories.filter((s) => !s.data.draft).length;
                     Or read them in order &rarr;
                 </a>
             </p>
-            <PushAlerts class="mt-6" />
         </header>
 
         {

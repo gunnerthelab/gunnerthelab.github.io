@@ -37,47 +37,11 @@ self.addEventListener('activate', (event) => {
     );
 });
 
-// Push: a new story (or other content) has published. The pipeline behind
-// this (storyreader-gunner's worker/src/lib/vapid.ts) sends a payload-less
-// push - event.data is null - so this always falls back to a generic
-// message today. The parsing below is defensive so a future payload (e.g.
-// a story title) is picked up automatically without a service worker
-// change, without ever breaking on the empty case that's actually sent.
-self.addEventListener('push', (event) => {
-    let payload = {};
-    if (event.data) {
-        try {
-            payload = event.data.json();
-        } catch {
-            payload = {};
-        }
-    }
-    const title = payload.title || 'New story from Gunner the Lab';
-    const body = payload.body || 'A new adventure just went up. Come take a look.';
-    const url = payload.url || '/stories/';
-    event.waitUntil(
-        self.registration.showNotification(title, {
-            body,
-            icon: '/icons/icon-192.png',
-            badge: '/icons/icon-80.png',
-            tag: 'new-content',
-            data: { url }
-        })
-    );
-});
-
-// Notification click: open the stories page
-self.addEventListener('notificationclick', (event) => {
-    event.notification.close();
-    const url = event.notification.data?.url || '/';
-    event.waitUntil(
-        self.clients.matchAll({ type: 'window' }).then((clients) => {
-            const existing = clients.find((c) => c.url.includes(url));
-            if (existing) return existing.focus();
-            return self.clients.openWindow(url);
-        })
-    );
-});
+// NOTE: the push and notificationclick handlers were removed on 2026-09-01 (AB#7970).
+// New-story alerts are owned by the StoryLark app at app.gunnerthelab.com, which has its
+// own push pipeline. This site had a second, hand-rolled subscribe button that hardcoded
+// the retired StoryReader VAPID key, so it could never succeed. If site-based alerts are
+// ever wanted again, read the live public key rather than hardcoding one.
 
 // Fetch: different strategies for different content types
 self.addEventListener('fetch', (event) => {
